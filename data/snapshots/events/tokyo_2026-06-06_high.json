@@ -1,0 +1,348 @@
+{
+  "storage_key": "tokyo_2026-06-06_high",
+  "event_id": "560840",
+  "event_slug": "highest-temperature-in-tokyo-on-june-6-2026",
+  "event_title": "Highest temperature in Tokyo on June 6?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-06-06",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Tokyo",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-06T12:00:00Z",
+  "event_end_date": "2026-06-06T12:00:00Z",
+  "liquidity": 28763.32992,
+  "volume": 2765.220684,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2440910",
+      "question": "Will the highest temperature in Tokyo be 17°C or below on June 6?",
+      "bucket_low": -999.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 4.994,
+      "liquidity": 4539.48301,
+      "token_id": "38987255079271202394150843861106320902408814436397757030682483615168334255855",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-17corbelow",
+        "condition_id": "0x44620d76d662142cb50bb374e12690cc89b3e41bef2f68a1c8d10a47aebcbcba"
+      }
+    },
+    {
+      "market_id": "2440911",
+      "question": "Will the highest temperature in Tokyo be 18°C on June 6?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "volume": 4.994,
+      "liquidity": 4204.61157,
+      "token_id": "34276812889764657013184920058569191129342026307906123618174163779601551299492",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0055,
+        0.9945
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-18c",
+        "condition_id": "0xe4a4db38c79c6b79b2058e8fc10c7591fe0c46e8dd90ed551ccfc2e9ace9b917"
+      }
+    },
+    {
+      "market_id": "2440912",
+      "question": "Will the highest temperature in Tokyo be 19°C on June 6?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0145,
+      "no_price": 0.9855,
+      "volume": 170.556266,
+      "liquidity": 2952.44971,
+      "token_id": "49049034195651351825479053070866881461924763701580163409343759239366786982407",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0145,
+        0.9855
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-19c",
+        "condition_id": "0x14a5917ca972350189e2f1969f6cf81d710dfbe74d2264f96ca3211f95b3ebbd"
+      }
+    },
+    {
+      "market_id": "2440913",
+      "question": "Will the highest temperature in Tokyo be 20°C on June 6?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.016,
+      "no_price": 0.984,
+      "volume": 257.69626400000004,
+      "liquidity": 1959.65457,
+      "token_id": "61034789394660124215568048173006752609876138463545211160627180268268710873832",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.016,
+        0.984
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-20c",
+        "condition_id": "0xa9db56613aaa35fe4ecae3672936d0868aaffa7a7810462695dd56a11292d3df"
+      }
+    },
+    {
+      "market_id": "2440914",
+      "question": "Will the highest temperature in Tokyo be 21°C on June 6?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.075,
+      "no_price": 0.925,
+      "volume": 465.117065,
+      "liquidity": 1626.5747,
+      "token_id": "68746564737755393722233361927782276327253978153230314418902937431732560441040",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.075,
+        0.925
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-21c",
+        "condition_id": "0x1d3a52c01f8cab9580820bcadd1add4edc250cc06529d3c4219befeb668d3cd2"
+      }
+    },
+    {
+      "market_id": "2440915",
+      "question": "Will the highest temperature in Tokyo be 22°C on June 6?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.265,
+      "no_price": 0.735,
+      "volume": 210.678963,
+      "liquidity": 1463.6417,
+      "token_id": "17587673164160304314115480246711830336267358624696690285377112591728493498661",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.265,
+        0.735
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-22c",
+        "condition_id": "0xd4ef76e8cc53dfd79732d0b2a7b414ce0318b72397c705eec147534629b19011"
+      }
+    },
+    {
+      "market_id": "2440916",
+      "question": "Will the highest temperature in Tokyo be 23°C on June 6?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.31,
+      "no_price": 0.69,
+      "volume": 1120.3488280000001,
+      "liquidity": 4099.5196,
+      "token_id": "103680499859258243228864570066647307383335505169944914050341552159755293486702",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.31,
+        0.69
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-23c",
+        "condition_id": "0x5e8e34970266302ae2276c66a81259045e2a94e677bbcad767dcac1758f47caf"
+      }
+    },
+    {
+      "market_id": "2440917",
+      "question": "Will the highest temperature in Tokyo be 24°C on June 6?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.235,
+      "no_price": 0.765,
+      "volume": 129.63536299999998,
+      "liquidity": 1516.31,
+      "token_id": "25562063504491252952500526322682993127623439810041143563681699585013803468807",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.235,
+        0.765
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-24c",
+        "condition_id": "0x945f32035d1a5b7362c6c341afdb712f260892e06deefa732ff5a13e1a8b04ee"
+      }
+    },
+    {
+      "market_id": "2440918",
+      "question": "Will the highest temperature in Tokyo be 25°C on June 6?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0455,
+      "no_price": 0.9545,
+      "volume": 289.005089,
+      "liquidity": 1612.97156,
+      "token_id": "95133717670895209903883169306709032145967560899208786783224950939241932679435",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0455,
+        0.9545
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-25c",
+        "condition_id": "0x9f2f00b4b61a245dd4ad8a951a79faf8d1defc86186ac604d8115177a8918eef"
+      }
+    },
+    {
+      "market_id": "2440919",
+      "question": "Will the highest temperature in Tokyo be 26°C on June 6?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.015,
+      "no_price": 0.985,
+      "volume": 59.995900000000006,
+      "liquidity": 1987.50958,
+      "token_id": "37847566321720034034229780299405033356641191581056665748498980753656825334595",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.015,
+        0.985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-26c",
+        "condition_id": "0x71459cd8d5eecfa53b777dafe5cc8c33fcd152dd4286ae3ad9f59ed1efd392b7"
+      }
+    },
+    {
+      "market_id": "2440920",
+      "question": "Will the highest temperature in Tokyo be 27°C or higher on June 6?",
+      "bucket_low": 27.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "volume": 158.0,
+      "liquidity": 2990.04148,
+      "token_id": "91725104968798044787772743779271975583167789205273305234617918182956521107611",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0055,
+        0.9945
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-june-6-2026-27corhigher",
+        "condition_id": "0x3df4c3acf7bc78a3be1bbe663682f5bedeb4559bcb23762dab18bc6c9d886895"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.126296+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-06T12:00:00Z",
+      "liquidity": 28763.32992,
+      "volume": 2765.220684,
+      "outcomes_count": 11,
+      "top_bucket": "23.0-23.0C",
+      "top_price": 0.31,
+      "event_title": "Highest temperature in Tokyo on June 6?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-tokyo-on-june-6-2026",
+    "event_id": "560840",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 29.4,
+  "first_seen_at": "2026-06-05T06:08:46.473058+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.126296+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.126296+00:00",
+  "created_at": "2026-06-05T06:08:46.473058+00:00",
+  "updated_at": "2026-06-05T06:36:19.126296+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

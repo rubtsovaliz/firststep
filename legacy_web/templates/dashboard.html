@@ -1,0 +1,136 @@
+{% extends "base.html" %}
+{% block title %}Dashboard - WeatherBot{% endblock %}
+{% block content %}
+<!-- Top metrics row -->
+<div class="metrics">
+    <div class="metric-card">
+        <div class="metric-label">Total Exposure</div>
+        <div class="metric-value" id="val-exposure">${{ "%.2f"|format(exposure) }}</div>
+        <div class="metric-sub">of ${{ "%.0f"|format(max_exposure) }} limit</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Realized P&L</div>
+        <div class="metric-value {{ 'positive' if realized >= 0 else 'negative' }}">${{ "%.2f"|format(realized) }}</div>
+        <div class="metric-sub">settled markets</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Unrealized P&L</div>
+        <div class="metric-value {{ 'positive' if unrealized >= 0 else 'negative' }}" id="val-pnl">${{ "%.2f"|format(unrealized) }}</div>
+        <div class="metric-sub">mark-to-market</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Active Markets</div>
+        <div class="metric-value" id="val-events">{{ active_events }}</div>
+        <div class="metric-sub">{{ trends|length }} cities</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Open / Signals</div>
+        <div class="metric-value">{{ positions|length }}<span style="font-size:16px;color:var(--text-dim);"> / </span><span id="val-signals" style="font-size:16px;color:var(--text-muted);">{{ signals|length }}</span></div>
+        <div class="metric-sub">positions / last cycle</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Loss Budget</div>
+        <div class="metric-value">${{ "%.2f"|format(daily_loss_remaining) }}</div>
+        <div class="metric-sub">of ${{ "%.0f"|format(daily_loss_limit) }} daily limit</div>
+    </div>
+</div>
+
+<!-- Data sources bar -->
+<div class="panel" style="margin-bottom:16px;">
+    <div class="panel-body" style="display:flex;gap:24px;flex-wrap:wrap;padding:10px 20px;font-size:12px;">
+        <span style="color:var(--text-dim);">Prices: <span class="tag {% if price_source == 'clob' %}tag-settling{% else %}tag-stable{% endif %}" style="font-size:10px;">{{ price_source|upper }}</span></span>
+        <span style="color:var(--text-dim);">Forecast: NWS &rarr; Ensemble &rarr; Cache</span>
+        <span style="color:var(--text-dim);">Schedule: 60min + 15min settle</span>
+    </div>
+</div>
+
+<!-- Strategy comparison + Forecasts side by side -->
+<div class="grid-2">
+    {% if strategy_summary %}
+    <div class="panel">
+        <div class="panel-header"><h3>Strategy variants</h3></div>
+        <table>
+            <thead><tr><th>Strat</th><th>Style</th><th>Open</th><th>Settled</th><th>Exposure</th><th>Realized</th></tr></thead>
+            <tbody>
+            {# Iterates whatever the route handed us — strategy_summary is
+               already filtered to active variants by app.py.  Tag class /
+               label come from strat_meta so a new variant in
+               get_strategy_variants() shows up here automatically. #}
+            {% for s in strategy_summary %}
+            {% set _meta = strat_meta.get(s.strategy, {'label': s.strategy, 'tag_class': 'tag-stable'}) %}
+            <tr>
+                <td><span class="tag {{ _meta.tag_class }}">{{ s.strategy }}</span></td>
+                <td style="font-size:11px;color:var(--text-muted);">{{ _meta.label }}</td>
+                <td class="td-mono">{{ s.open_positions }}</td>
+                <td class="td-mono">{{ s.settled_positions }}</td>
+                <td class="td-mono">${{ "%.1f"|format(s.exposure) }}</td>
+                <td class="td-mono {{ 'positive' if strat_realized.get(s.strategy, 0) >= 0 else 'negative' }}" style="font-weight:600;">
+                    {{ '+' if strat_realized.get(s.strategy, 0) > 0 else '' }}${{ "%.2f"|format(strat_realized.get(s.strategy, 0)) }}
+                </td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+    <div class="panel">
+        <div class="panel-header"><h3>Forecasts & Observations</h3></div>
+        {% if forecasts %}
+        <table>
+            <thead><tr>
+                <th>City</th>
+                <th>Observed Max</th>
+                <th>Today</th>
+                <th>+1d</th>
+                <th>+2d</th>
+                <th>Source</th>
+                <th>Trend</th>
+            </tr></thead>
+            <tbody>
+            {% for city, f in forecasts.items() %}
+            <tr>
+                <td style="font-weight:500;font-size:12px;">{{ city }}</td>
+                <td class="td-mono">{% if daily_maxes.get(city) is not none %}{{ "%.0f"|format(daily_maxes[city]) }}°F{% else %}<span style="color:var(--text-dim);">--</span>{% endif %}</td>
+                <td class="td-mono" style="font-weight:600;">{{ "%.0f"|format(f.high) }}°F</td>
+                <td class="td-mono">{% if f.high_d1 is defined and f.high_d1 is not none %}{{ "%.0f"|format(f.high_d1) }}°F{% else %}<span style="color:var(--text-dim);">--</span>{% endif %}</td>
+                <td class="td-mono">{% if f.high_d2 is defined and f.high_d2 is not none %}{{ "%.0f"|format(f.high_d2) }}°F{% else %}<span style="color:var(--text-dim);">--</span>{% endif %}</td>
+                <td>{% if 'nws' in (f.source or '') %}<span class="tag tag-settling" style="font-size:9px;">NWS</span>{% else %}<span style="font-size:10px;color:var(--text-dim);">{{ f.source[:15] }}</span>{% endif %}</td>
+                <td><span class="tag tag-{{ (trends.get(city, 'STABLE'))|lower|replace('_','-') }}" style="font-size:9px;">{{ trends.get(city, 'STABLE') }}</span></td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <div class="panel-body" style="color:var(--text-dim);font-size:13px;">Waiting for data...</div>
+        {% endif %}
+    </div>
+</div>
+
+<!-- Quick trade activity -->
+<div class="panel">
+    <div class="panel-header">
+        <h3>Recent Activity</h3>
+        <a href="/trades" style="font-size:12px;color:var(--accent-light);">Full timeline &rarr;</a>
+    </div>
+    {% if signals %}
+    <table>
+        <thead><tr><th>City</th><th>Side</th><th>Slot</th><th>EV</th><th>Win%</th><th>Size</th></tr></thead>
+        <tbody>
+        {% for s in signals[:8] %}
+        <tr>
+            <td style="font-weight:500;font-size:12px;">{{ s.city }}</td>
+            <td><span class="tag tag-{{ 'buy' if s.side == 'BUY' else 'sell' }}" style="font-size:10px;">{{ s.side }} {{ s.token_type }}</span></td>
+            <td style="font-size:11px;">{{ s.slot_label[:30] }}</td>
+            <td class="td-mono {{ 'positive' if s.ev > 0 else '' }}">{{ "%.3f"|format(s.ev) }}</td>
+            <td class="td-mono">{{ "%.0f%%"|format(s.win_prob * 100) }}</td>
+            <td class="td-mono">${{ "%.2f"|format(s.size_usd) }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <div style="padding:20px;text-align:center;color:var(--text-dim);font-size:13px;">No signals last cycle. <a href="/trades" style="color:var(--accent-light);">View trade history &rarr;</a></div>
+    {% endif %}
+</div>
+{% endblock %}

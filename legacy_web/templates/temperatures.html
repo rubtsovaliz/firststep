@@ -1,0 +1,552 @@
+{% extends "base.html" %}
+{% block title %}Temperature Monitor - WeatherBot{% endblock %}
+{% block content %}
+<style>
+    .temp-controls { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+    .temp-select { background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 8px 12px; border-radius: var(--radius-sm); font-size: 13px; font-family: inherit; min-width: 180px; }
+    .temp-select:focus { outline: none; border-color: var(--accent); }
+    .temp-toggle { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-muted); cursor: pointer; }
+    .temp-toggle input { accent-color: var(--accent); }
+    .forecast-badges { display: flex; gap: 12px; margin-left: auto; flex-wrap: wrap; }
+    .forecast-badge { padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: 600; }
+    .forecast-badge.today { background: var(--green-dim); color: var(--green-text); }
+    .forecast-badge.d1 { background: var(--blue-dim); color: var(--blue); }
+    .forecast-badge.d2 { background: rgba(107,114,128,0.15); color: #9ca3af; }
+    .chart-lg { position: relative; height: 360px; }
+    .refresh-note { font-size: 11px; color: var(--text-dim); text-align: right; margin-top: 8px; }
+    .local-time { font-size: 11px; color: var(--accent); font-variant-numeric: tabular-nums; letter-spacing: 0.02em; }
+    .local-time-label { font-size: 10px; color: var(--text-dim); display: block; }
+    .rel-badge { display: inline-block; padding: 2px 7px; border-radius: 4px; font-size: 10px; font-weight: 700; letter-spacing: 0.04em; white-space: nowrap; }
+    .rel-a { background: rgba(34,197,94,0.15);  color: #22c55e; }
+    .rel-b { background: rgba(59,130,246,0.15);  color: #3b82f6; }
+    .rel-c { background: rgba(249,115,22,0.15);  color: #f97316; }
+    .rel-d { background: rgba(239,68,68,0.15);   color: #ef4444; }
+</style>
+
+<!-- Top metrics -->
+<div class="metrics">
+    <div class="metric-card">
+        <div class="metric-label">Cities Reporting</div>
+        <div class="metric-value" id="m-reporting">{{ observation_series|length }}</div>
+        <div class="metric-sub">active on Polymarket</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Observations Today</div>
+        <div class="metric-value" id="m-obs-count">{{ observation_series.values()|map('length')|sum }}</div>
+        <div class="metric-sub">METAR readings</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Cities Above Forecast</div>
+        <div class="metric-value" id="m-above">
+            {% set ns = namespace(count=0) %}
+            {% for city in daily_maxes %}
+                {% if daily_maxes[city] is not none and forecasts.get(city) and daily_maxes[city] > forecasts[city].high %}
+                    {% set ns.count = ns.count + 1 %}
+                {% endif %}
+            {% endfor %}
+            {{ ns.count }}
+        </div>
+        <div class="metric-sub">observed max > forecast</div>
+    </div>
+</div>
+
+<!-- Chart panel -->
+<div class="panel">
+    <div class="panel-header">
+        <h3>Intraday Temperature Curve</h3>
+        <div class="temp-controls">
+            <select class="temp-select" id="city-select" onchange="updateChart()">
+                <option value="__all__">-- All Cities --</option>
+                {% for city in cities|sort %}
+                <option value="{{ city }}" {% if observation_series.get(city) %}style="font-weight:600;"{% endif %}>{{ city }}{% if daily_maxes.get(city) is not none %} ({{ "%.0f"|format(daily_maxes[city]) }}°F){% endif %}</option>
+                {% endfor %}
+            </select>
+            <label class="temp-toggle"><input type="checkbox" id="show-forecast" checked onchange="updateChart()"> Forecast line</label>
+            <label class="temp-toggle"><input type="checkbox" id="show-runmax" checked onchange="updateChart()"> Max curve</label>
+        </div>
+    </div>
+    <div class="panel-body">
+        <div id="forecast-info" class="forecast-badges" style="margin-bottom:8px;"></div>
+        <div id="chart-date-label" style="font-size:11px;color:var(--text-dim);margin-bottom:8px;min-height:16px;"></div>
+        <div class="chart-lg"><canvas id="tempChart"></canvas></div>
+        <div class="refresh-note">Auto-refreshes every 60s &middot; METAR updates at :57 and :03 past each hour</div>
+    </div>
+</div>
+
+<!-- Forecast & local time summary table -->
+<div class="panel">
+    <div class="panel-header"><h3>Forecast & Observation Summary</h3></div>
+    <table>
+        <thead><tr>
+            <th>City</th>
+            <th>Local Time</th>
+            <th>Obs Max</th>
+            <th>Readings</th>
+            <th>Today</th>
+            <th>+1d</th>
+            <th>+2d</th>
+            <th>Trend</th>
+            <th title="Historical forecast bias: mean(forecast − actual). Positive = forecasts run hot; negative = forecasts run cold. Based on 2y of data.">Avg Bias</th>
+            <th title="Forecast reliability grade (2y historical data). A=Excellent (|bias|&lt;1°F, σ&lt;2.5), B=Good (|bias|&lt;1.5, σ&lt;2.8), C=Fair (|bias|&lt;2.5, σ&lt;3.5), D=Poor">Reliability</th>
+        </tr></thead>
+        <tbody id="summary-tbody">
+        {% for city in cities|sort %}
+        {% set f = forecasts.get(city) %}
+        {% set dm = daily_maxes.get(city) %}
+        {% set obs_count = (observation_series.get(city) or [])|length %}
+        {% set ed = error_dists.get(city) %}
+        {% if f or dm is not none or obs_count > 0 %}
+        <tr>
+            <td style="font-weight:500;font-size:12px;">{{ city }}</td>
+            <td>
+                <span class="local-time-label">local</span>
+                <span class="local-time" id="ltime-{{ city|replace(' ','-') }}">--:--:--</span>
+            </td>
+            <td class="td-mono {% if dm is not none and f and dm > f.high %}positive{% endif %}">
+                {% if dm is not none %}{{ "%.1f"|format(dm) }}°F{% else %}<span style="color:var(--text-dim);">--</span>{% endif %}
+            </td>
+            <td class="td-mono" style="color:var(--text-muted);">{{ obs_count }}</td>
+            <td class="td-mono" style="font-weight:600;">{% if f %}{{ "%.0f"|format(f.high) }}°F{% else %}--{% endif %}</td>
+            <td class="td-mono">{% if f and f.high_d1 is defined and f.high_d1 is not none %}{{ "%.0f"|format(f.high_d1) }}°F{% else %}<span style="color:var(--text-dim);">--</span>{% endif %}</td>
+            <td class="td-mono">{% if f and f.high_d2 is defined and f.high_d2 is not none %}{{ "%.0f"|format(f.high_d2) }}°F{% else %}<span style="color:var(--text-dim);">--</span>{% endif %}</td>
+            <td><span class="tag tag-{{ (trends.get(city, 'STABLE'))|lower|replace('_','-') }}" style="font-size:9px;">{{ trends.get(city, 'STABLE') }}</span></td>
+            <td class="td-mono bias-cell" id="bias-{{ city|replace(' ','-') }}"
+                data-city="{{ city }}"
+                {% if ed %}title="{{ ed.samples }}d sample · σ={{ "%.1f"|format(ed.std_error) }}°F"{% endif %}>
+                {% if ed %}
+                    <span style="color:{% if ed.mean_error > 1.0 %}#ef4444{% elif ed.mean_error < -1.0 %}#3b82f6{% else %}var(--text-muted){% endif %};">
+                        {% if ed.mean_error > 0 %}+{% endif %}{{ "%.1f"|format(ed.mean_error) }}°F
+                    </span>
+                {% else %}<span style="color:var(--text-dim);">--</span>{% endif %}
+            </td>
+            {% if ed %}
+                {% set abs_mean = ed.mean_error | abs %}
+                {% set rel = namespace(grade='D', label='Poor') %}
+                {% if abs_mean < 1.0 and ed.std_error < 2.5 %}
+                    {% set rel.grade = 'A' %}{% set rel.label = 'Excellent' %}
+                {% elif abs_mean < 1.5 and ed.std_error < 2.8 %}
+                    {% set rel.grade = 'B' %}{% set rel.label = 'Good' %}
+                {% elif abs_mean < 2.5 and ed.std_error < 3.5 %}
+                    {% set rel.grade = 'C' %}{% set rel.label = 'Fair' %}
+                {% endif %}
+            <td class="reliability-cell" id="rel-{{ city|replace(' ','-') }}"
+                data-city="{{ city }}"
+                title="bias={{ '+' if ed.mean_error > 0 else '' }}{{ '%.2f'|format(ed.mean_error) }}°F  σ={{ '%.2f'|format(ed.std_error) }}°F  ({{ ed.samples }}d)">
+                <span class="rel-badge rel-{{ rel.grade|lower }}">{{ rel.grade }} · {{ rel.label }}</span>
+            </td>
+            {% else %}
+            <td class="reliability-cell" id="rel-{{ city|replace(' ','-') }}" data-city="{{ city }}">
+                <span style="color:var(--text-dim);">--</span>
+            </td>
+            {% endif %}
+        </tr>
+        {% endif %}
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<script>
+// ── Static config (never changes at runtime) ─────────────────────────────────
+const COLORS = [
+    '#6366f1','#22c55e','#ef4444','#f59e0b','#3b82f6','#a855f7','#ec4899','#14b8a6',
+    '#f97316','#06b6d4','#84cc16','#e11d48','#8b5cf6','#10b981','#f43f5e','#0ea5e9',
+    '#d946ef','#facc15','#64748b','#fb923c','#2dd4bf','#c084fc','#fbbf24','#38bdf8',
+    '#a3e635','#f472b6','#34d399','#818cf8','#fca5a1','#67e8f9'
+];
+
+// City → IANA timezone (e.g. "America/New_York")
+const cityTimezones = {{ city_timezones|tojson }};
+
+// ── Runtime data (refreshed via API every 60s) ────────────────────────────────
+let observationData = {{ observation_series|tojson }};
+let forecastData    = {{ forecasts|tojson }};
+let dailyMaxData    = {{ daily_maxes|tojson }};
+let errorDistData   = {{ error_dists|tojson }};
+let tempChart       = null;
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+
+/**
+ * Convert UTC ISO string → HH:MM in the given IANA timezone.
+ * Falls back to UTC if tz is null/undefined.
+ */
+function toLocalHM(isoStr, tz) {
+    try {
+        const d = new Date(isoStr);
+        return d.toLocaleTimeString('en-GB', {
+            timeZone: tz || 'UTC',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false,
+        });
+    } catch(e) {
+        // Fallback: manual UTC HH:MM
+        const d = new Date(isoStr);
+        return d.getUTCHours().toString().padStart(2,'0') + ':' + d.getUTCMinutes().toString().padStart(2,'0');
+    }
+}
+
+/**
+ * Return local date string (YYYY-MM-DD) for a city in its own timezone.
+ * Used to show which day's data is being displayed.
+ */
+function cityLocalDate(tz) {
+    try {
+        return new Date().toLocaleDateString('en-CA', { timeZone: tz || 'UTC' }); // en-CA → YYYY-MM-DD
+    } catch(e) { return null; }
+}
+
+/**
+ * Return a short timezone abbreviation label for the x-axis title,
+ * e.g. "MDT", "EDT", "PDT".
+ */
+function cityTzAbbr(tz) {
+    if (!tz) return 'UTC';
+    try {
+        // Extract abbreviated timezone name from a formatted date string
+        const parts = new Intl.DateTimeFormat('en-US', { timeZone: tz, timeZoneName: 'short' }).formatToParts(new Date());
+        const tzPart = parts.find(p => p.type === 'timeZoneName');
+        return tzPart ? tzPart.value : 'local';
+    } catch(e) { return 'local'; }
+}
+
+/**
+ * Compute running maximum time series from raw observations.
+ * Returns array of [timestamp, runningMax] pairs — same length as input.
+ */
+function computeRunningMax(obs) {
+    let runMax = -Infinity;
+    return obs.map(([ts, temp]) => {
+        if (temp !== null && temp !== undefined) runMax = Math.max(runMax, temp);
+        return [ts, runMax === -Infinity ? null : runMax];
+    });
+}
+
+// ── Chart building ────────────────────────────────────────────────────────────
+
+/**
+ * Build chart datasets and x-axis labels.
+ * Returns { datasets, labels, rawLabels, xAxisTitle, dateLabel }
+ *
+ * Single city:  labels = city local time (HH:MM), x-axis title = "Time (TZ)"
+ * All cities:   labels = UTC HH:MM (common axis), x-axis title = "Time (UTC)"
+ */
+function buildDatasets(selectedCity, showForecast, showRunMax) {
+    const datasets = [];
+    const allLabels = new Set();
+    let xAxisTitle = 'Time (UTC)';
+    let dateLabel = '';
+
+    if (selectedCity === '__all__') {
+        // All cities: use UTC for the shared x-axis so all cities align correctly
+        let colorIdx = 0;
+        const sortedCities = Object.keys(observationData).sort();
+        for (const city of sortedCities) {
+            const obs = observationData[city] || [];
+            if (obs.length === 0) continue;
+            obs.forEach(o => allLabels.add(o[0]));
+            const color = COLORS[colorIdx % COLORS.length];
+            datasets.push({
+                label: city,
+                data: obs.map(o => ({ x: o[0], y: o[1] })),
+                borderColor: color,
+                backgroundColor: color + '33',
+                borderWidth: 1.5,
+                pointRadius: 2,
+                pointHoverRadius: 4,
+                tension: 0.3,
+                fill: false,
+                spanGaps: true,
+            });
+            if (showRunMax) {
+                const runMaxSeries = computeRunningMax(obs);
+                datasets.push({
+                    label: city + ' Max',
+                    data: runMaxSeries.map(([ts, v]) => ({ x: ts, y: v })),
+                    borderColor: color,
+                    borderWidth: 1,
+                    borderDash: [3, 3],
+                    pointRadius: 0,
+                    fill: false,
+                    stepped: 'before',
+                    spanGaps: true,
+                    showInLegend: false,
+                    tooltip: { enabled: false },
+                });
+            }
+            colorIdx++;
+        }
+        xAxisTitle = 'Time (UTC)';
+        dateLabel = 'All cities — UTC date: ' + new Date().toISOString().slice(0, 10);
+    } else {
+        // Single city: convert all timestamps to the city's local timezone
+        const cityTz = cityTimezones[selectedCity] || null;
+        const tzAbbr = cityTzAbbr(cityTz);
+        const localDate = cityLocalDate(cityTz);
+
+        const obs = observationData[selectedCity] || [];
+        obs.forEach(o => allLabels.add(o[0]));
+
+        // 1. Raw observed temperature (filled area)
+        datasets.push({
+            label: selectedCity + ' Observed',
+            data: obs.map(o => ({ x: o[0], y: o[1] })),
+            borderColor: '#6366f1',
+            backgroundColor: 'rgba(99,102,241,0.12)',
+            borderWidth: 2.5,
+            pointRadius: 3,
+            pointHoverRadius: 6,
+            tension: 0.3,
+            fill: true,
+            spanGaps: true,
+        });
+
+        // 2. Running daily-max curve (step function)
+        if (showRunMax && obs.length > 0) {
+            const runMaxSeries = computeRunningMax(obs);
+            runMaxSeries.forEach(([ts]) => allLabels.add(ts));
+            const curMax = runMaxSeries[runMaxSeries.length - 1]?.[1];
+            datasets.push({
+                label: 'Daily Max Curve' + (curMax != null ? ' (' + curMax.toFixed(1) + '°F)' : ''),
+                data: runMaxSeries.map(([ts, v]) => ({ x: ts, y: v })),
+                borderColor: '#f59e0b',
+                backgroundColor: 'rgba(245,158,11,0.06)',
+                borderWidth: 2,
+                pointRadius: 0,
+                pointHoverRadius: 4,
+                stepped: 'before',
+                fill: false,
+                spanGaps: true,
+            });
+        }
+
+        // 3. Forecast high (dashed green horizontal)
+        const fc = forecastData[selectedCity];
+        if (fc && showForecast && obs.length >= 2) {
+            datasets.push({
+                label: 'Forecast High (' + Math.round(fc.high) + '°F)',
+                data: [{ x: obs[0][0], y: fc.high }, { x: obs[obs.length-1][0], y: fc.high }],
+                borderColor: '#22c55e',
+                borderWidth: 2,
+                borderDash: [8, 4],
+                pointRadius: 0,
+                fill: false,
+            });
+        }
+
+        xAxisTitle = 'Time (' + tzAbbr + ')';
+        dateLabel = selectedCity + ' local date: ' + (localDate || '—') +
+                    (cityTz ? ' (' + cityTz + ')' : '');
+    }
+
+    // Build sorted label arrays.
+    // For single city: convert UTC timestamps → city local HH:MM.
+    // For all cities: convert UTC timestamps → UTC HH:MM.
+    const sortedRaw = Array.from(allLabels).sort();
+    const cityTz = (selectedCity !== '__all__') ? (cityTimezones[selectedCity] || null) : null;
+    const displayLabels = sortedRaw.map(ts => toLocalHM(ts, cityTz));  // null tz → UTC
+
+    return { datasets, labels: displayLabels, rawLabels: sortedRaw, xAxisTitle, dateLabel };
+}
+
+function updateForecastInfo(selectedCity) {
+    const el = document.getElementById('forecast-info');
+    if (selectedCity === '__all__') { el.innerHTML = ''; return; }
+    const fc = forecastData[selectedCity];
+    if (!fc) { el.innerHTML = '<span style="color:var(--text-dim);font-size:12px;">No forecast data</span>'; return; }
+    let html = '<span class="forecast-badge today">Today: ' + Math.round(fc.high) + '°F</span>';
+    if (fc.high_d1 != null) html += '<span class="forecast-badge d1">+1d: ' + Math.round(fc.high_d1) + '°F</span>';
+    if (fc.high_d2 != null) html += '<span class="forecast-badge d2">+2d: ' + Math.round(fc.high_d2) + '°F</span>';
+    el.innerHTML = html;
+}
+
+/** Map dataset points onto the fixed rawLabels index array (Chart.js requires aligned arrays). */
+function alignDatasets(datasets, rawLabels) {
+    for (const ds of datasets) {
+        const mapped = new Array(rawLabels.length).fill(null);
+        for (const pt of ds.data) {
+            const idx = rawLabels.indexOf(pt.x);
+            if (idx >= 0) mapped[idx] = pt.y;
+        }
+        ds.data = mapped;
+    }
+}
+
+function updateChart() {
+    const selectedCity  = document.getElementById('city-select').value;
+    const showForecast  = document.getElementById('show-forecast').checked;
+    const showRunMax    = document.getElementById('show-runmax').checked;
+    const { datasets, labels, rawLabels, xAxisTitle, dateLabel } = buildDatasets(selectedCity, showForecast, showRunMax);
+
+    updateForecastInfo(selectedCity);
+
+    // Update date subtitle
+    const dateLabelEl = document.getElementById('chart-date-label');
+    if (dateLabelEl) dateLabelEl.textContent = dateLabel;
+
+    if (tempChart) {
+        alignDatasets(datasets, rawLabels);
+        tempChart.data.labels   = labels;
+        tempChart.data.datasets = datasets;
+        tempChart.options.plugins.legend.display = true;
+        tempChart.options.scales.x.title.text = xAxisTitle;
+        tempChart.update();
+    }
+}
+
+function initChart() {
+    const ctx           = document.getElementById('tempChart').getContext('2d');
+    const selectedCity  = document.getElementById('city-select').value;
+    const showForecast  = document.getElementById('show-forecast').checked;
+    const showRunMax    = document.getElementById('show-runmax').checked;
+    const { datasets, labels, rawLabels, xAxisTitle, dateLabel } = buildDatasets(selectedCity, showForecast, showRunMax);
+
+    alignDatasets(datasets, rawLabels);
+
+    // Set initial date subtitle
+    const dateLabelEl = document.getElementById('chart-date-label');
+    if (dateLabelEl) dateLabelEl.textContent = dateLabel;
+
+    tempChart = new Chart(ctx, {
+        type: 'line',
+        data: { labels, datasets },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: { mode: 'index', intersect: false },
+            plugins: {
+                legend: {
+                    display: true,
+                    labels: { color: '#8b8fa3', font: { size: 11 }, boxWidth: 12, padding: 8,
+                              filter: item => !item.text.endsWith(' Max') || selectedCity !== '__all__' },
+                },
+                tooltip: {
+                    backgroundColor: '#1a1d27',
+                    borderColor: '#2a2d3a',
+                    borderWidth: 1,
+                    titleColor: '#e4e6ef',
+                    bodyColor: '#8b8fa3',
+                    callbacks: {
+                        label: function(ctx) {
+                            if (ctx.parsed.y === null) return null;
+                            if (ctx.dataset.label && ctx.dataset.label.endsWith(' Max') && selectedCity === '__all__') return null;
+                            return ctx.dataset.label + ': ' + ctx.parsed.y.toFixed(1) + '°F';
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    title: { display: true, text: xAxisTitle, color: '#5e6278', font: { size: 11 } },
+                    ticks: { color: '#5e6278', font: { size: 10 }, maxRotation: 45 },
+                    grid: { color: 'rgba(42,45,58,0.5)' },
+                },
+                y: {
+                    title: { display: true, text: 'Temperature (°F)', color: '#5e6278', font: { size: 11 } },
+                    ticks: { color: '#5e6278', font: { size: 10 } },
+                    grid: { color: 'rgba(42,45,58,0.5)' },
+                }
+            }
+        }
+    });
+    updateForecastInfo(selectedCity);
+}
+
+// ── Local time clock ──────────────────────────────────────────────────────────
+
+function updateLocalTimes() {
+    const now = new Date();
+    for (const [city, tz] of Object.entries(cityTimezones)) {
+        const elId = 'ltime-' + city.replace(/ /g, '-');
+        const el = document.getElementById(elId);
+        if (!el) continue;
+        try {
+            el.textContent = now.toLocaleTimeString('en-GB', {
+                timeZone: tz,
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false,
+            });
+        } catch(e) { el.textContent = '--:--:--'; }
+    }
+}
+
+// ── Data refresh ──────────────────────────────────────────────────────────────
+
+// ── Reliability grade helpers ─────────────────────────────────────────────────
+// Thresholds mirror Python calibrator.py constants (_MEAN_BIAS_LIMIT_F, _STD_LIMIT_F)
+// and the four-tier classification added to the dashboard.
+// A: |mean|<1.0 AND std<2.5 — Excellent
+// B: |mean|<1.5 AND std<2.8 — Good
+// C: |mean|<2.5 AND std<3.5 — Fair
+// D: else                    — Poor
+const GRADE_LABELS = { A: 'Excellent', B: 'Good', C: 'Fair', D: 'Poor' };
+const GRADE_CLASSES = { A: 'rel-a', B: 'rel-b', C: 'rel-c', D: 'rel-d' };
+
+function getReliabilityGrade(meanError, stdError) {
+    const am = Math.abs(meanError);
+    if (am < 1.0 && stdError < 2.5) return 'A';
+    if (am < 1.5 && stdError < 2.8) return 'B';
+    if (am < 2.5 && stdError < 3.5) return 'C';
+    return 'D';
+}
+
+function updateReliabilityCells() {
+    document.querySelectorAll('.reliability-cell[data-city]').forEach(cell => {
+        const city = cell.dataset.city;
+        const ed = errorDistData[city];
+        if (!ed) return;
+        const grade = getReliabilityGrade(ed.mean_error, ed.std_error);
+        const sign = ed.mean_error > 0 ? '+' : '';
+        cell.title = 'bias=' + sign + ed.mean_error.toFixed(2) + '°F  σ=' + ed.std_error.toFixed(2) + '°F  (' + ed.samples + 'd)';
+        cell.innerHTML = '<span class="rel-badge ' + GRADE_CLASSES[grade] + '">' + grade + ' · ' + GRADE_LABELS[grade] + '</span>';
+    });
+}
+
+function updateBiasCells() {
+    document.querySelectorAll('.bias-cell[data-city]').forEach(cell => {
+        const city = cell.dataset.city;
+        const ed = errorDistData[city];
+        if (!ed) return;
+        const v = ed.mean_error;
+        const sign = v > 0 ? '+' : '';
+        const color = v > 1.0 ? '#ef4444' : v < -1.0 ? '#3b82f6' : 'var(--text-muted)';
+        cell.title = ed.samples + 'd sample · σ=' + ed.std_error.toFixed(1) + '°F';
+        cell.innerHTML = '<span style="color:' + color + ';">' + sign + v.toFixed(1) + '°F</span>';
+    });
+}
+
+async function refreshTemperatures() {
+    try {
+        const r = await fetch('/api/temperatures');
+        const d = await r.json();
+        observationData = d.observation_series || {};
+        forecastData    = d.forecasts || {};
+        dailyMaxData    = d.daily_maxes || {};
+        if (d.error_dists) { errorDistData = d.error_dists; updateBiasCells(); updateReliabilityCells(); }
+        updateChart();
+
+        // Update metric cards
+        const reporting = Object.keys(observationData).length;
+        const obsCount  = Object.values(observationData).reduce((s, a) => s + a.length, 0);
+        let above = 0;
+        for (const city of Object.keys(dailyMaxData)) {
+            if (dailyMaxData[city] != null && forecastData[city] && dailyMaxData[city] > forecastData[city].high) above++;
+        }
+        const el1 = document.getElementById('m-reporting'); if (el1) el1.textContent = reporting;
+        const el2 = document.getElementById('m-obs-count'); if (el2) el2.textContent = obsCount;
+        const el3 = document.getElementById('m-above');     if (el3) el3.textContent = above;
+    } catch(e) { console.error('Temperature refresh failed:', e); }
+}
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+    initChart();
+    updateLocalTimes();                          // initial render
+    setInterval(updateLocalTimes, 1000);         // live clock every 1s
+    setInterval(refreshTemperatures, 60000);     // data refresh every 60s
+});
+</script>
+{% endblock %}

@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+{% block title %}Trades - WeatherBot{% endblock %}
+{% block content %}
+<div class="page-title">Trade Timeline</div>
+
+<!-- Strategy P&L Summary — one card per active variant.  Adding a variant
+     in src/config.py::get_strategy_variants() automatically gets a card. -->
+<div class="metrics">
+    {% for sk in strat_pnl.keys()|sort %}
+    {% set _meta = strat_meta.get(sk, {'label': sk}) %}
+    <div class="metric-card">
+        <div class="metric-label">Strategy {{ sk }} <span style="font-size:10px;color:var(--text-dim);">({{ _meta.label }})</span></div>
+        <div class="metric-value {{ 'positive' if strat_pnl.get(sk, 0) >= 0 else 'negative' }}">${{ "%.2f"|format(strat_pnl.get(sk, 0)) }}</div>
+        <div class="metric-sub">{{ strat_counts.get(sk, {}).get('open', 0) }} open / {{ strat_counts.get(sk, {}).get('settled', 0) }} closed / ${{ "%.1f"|format(strat_exposure.get(sk, 0)) }}</div>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- Full Trade Timeline -->
+<div class="panel">
+    <div class="panel-header">
+        <h3>Complete Trade Record</h3>
+        <div style="display:flex;gap:8px;align-items:center;">
+            <button id="toggle-entries-btn" type="button"
+                    onclick="toggleClosedEntries()"
+                    aria-expanded="false"
+                    aria-controls="timeline-body"
+                    style="font-size:11px;padding:4px 10px;border:1px solid var(--border);background:transparent;color:var(--text-muted);cursor:pointer;border-radius:4px;">
+                Show closed-position BUY rows ({{ closed_entry_count }})
+            </button>
+            <span class="tag tag-buy">BUY</span>
+            <span class="tag tag-sell">SELL</span>
+            <span class="tag tag-skip">SKIP</span>
+        </div>
+    </div>
+    <style>
+        /* Closed-position BUY rows hidden until toggled on */
+        tbody:not(.show-closed-entries) tr.closed-entry-row { display: none; }
+        tr.closed-entry-row { opacity: 0.7; background: rgba(80, 140, 255, 0.04); }
+    </style>
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>City</th>
+                <th>Slot</th>
+                <th>Date</th>
+                <th>Strat</th>
+                <th>Action</th>
+                <th>Size</th>
+                <th>Buy</th>
+                <th>Exit</th>
+                <th>Current</th>
+                <th>P&L</th>
+                <th>Reason</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody id="timeline-body">
+        {% for t in timeline %}
+        <tr class="{% if t.type == 'closed_entry' %}closed-entry-row{% endif %}"
+            style="{% if t.type == 'settled' %}background:rgba(34,197,94,0.05);{% elif t.type == 'closed' %}background:rgba(100,100,100,0.03);{% elif t.type == 'decision' and t.action == 'SKIP' %}opacity:0.5;{% endif %}">
+            <td style="font-size:11px;color:var(--text-muted);white-space:nowrap;">{{ t.time|beijing }}</td>
+            <td style="font-weight:500;font-size:12px;">{{ t.city }}</td>
+            <td class="td-mono" style="font-size:12px;">{{ t.slot }}</td>
+            <td style="font-size:11px;color:var(--accent-light);white-space:nowrap;">{{ t.market_date if t.market_date else '-' }}</td>
+            <td>
+                {% if t.strategy %}
+                <span class="tag {{ strat_meta.get(t.strategy, {'tag_class':'tag-stable'}).tag_class }}" style="font-size:10px;">{{ t.strategy }}</span>
+                {% else %}-{% endif %}
+            </td>
+            <td>
+                <span class="tag tag-{{ t.action|lower if t.action in ['BUY','SELL','SKIP'] else 'settling' }}">{{ t.action }}</span>
+            </td>
+            <td class="td-mono" style="font-size:11px;">{{ t.size if t.size else '-' }}</td>
+            <td class="td-mono">{{ t.entry if t.entry else '-' }}</td>
+            <td class="td-mono" style="{% if t.exit and t.exit != '-' and t.entry and t.entry != '-' %}color:{{ 'var(--green-text)' if t.exit|float > t.entry|float else 'var(--red-text)' if t.exit|float < t.entry|float else 'var(--text)' }}{% endif %}">{{ t.exit if t.exit else '-' }}</td>
+            <td class="td-mono" style="{% if t.current and t.current != '-' and t.entry and t.entry != '-' %}color:{{ 'var(--green-text)' if t.current|float > t.entry|float else 'var(--red-text)' if t.current|float < t.entry|float else 'var(--text)' }}{% endif %}">{{ t.current if t.current else '-' }}</td>
+            <td class="td-mono" style="font-weight:600;{% if t.pnl and t.pnl != '-' %}{% set pnl_f = t.pnl|replace('$','')|replace('+','')|float %}color:{{ 'var(--green-text)' if pnl_f >= 0 else 'var(--red-text)' }}{% endif %}">{{ t.pnl if t.pnl else '-' }}</td>
+            <td style="font-size:10px;color:var(--text-muted);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="{{ t.reason if t.reason else '' }}">{{ t.reason[:50] if t.reason else '-' }}</td>
+            <td>
+                {% if t.type == 'open' %}<span style="color:var(--accent-light);font-size:11px;">OPEN</span>
+                {% elif t.type == 'settled' %}<span style="color:var(--green-text);font-size:11px;">SETTLED</span>
+                {% elif t.type == 'closed' %}<span style="color:var(--text-dim);font-size:11px;">CLOSED</span>
+                {% elif t.type == 'decision' %}<span style="color:var(--text-dim);font-size:11px;">—</span>
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+        {% if not timeline %}
+        <tr><td colspan="13" style="text-align:center;color:var(--text-dim);padding:30px;">No trade activity yet. Data will appear after the first rebalance cycle.</td></tr>
+        {% endif %}
+        </tbody>
+    </table>
+</div>
+<script>
+    // Toggle hidden BUY rows for closed positions.  The CSS rule
+    //   tbody:not(.show-closed-entries) tr.closed-entry-row { display: none; }
+    // hides them by default; adding .show-closed-entries reveals them.
+    function toggleClosedEntries() {
+        const tbody = document.getElementById('timeline-body');
+        const btn = document.getElementById('toggle-entries-btn');
+        if (!tbody || !btn) return;
+        const count = document.querySelectorAll('tr.closed-entry-row').length;
+        const shown = tbody.classList.toggle('show-closed-entries');
+        btn.textContent = shown
+            ? `Hide closed-position BUY rows (${count})`
+            : `Show closed-position BUY rows (${count})`;
+        btn.setAttribute('aria-expanded', shown ? 'true' : 'false');
+    }
+</script>
+{% endblock %}

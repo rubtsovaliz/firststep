@@ -1,0 +1,348 @@
+{% extends "base.html" %}
+{% block title %}Positions - WeatherBot{% endblock %}
+{% block content %}
+<div class="page-title">Positions</div>
+
+<!-- Top metrics -->
+<div class="metrics">
+    <div class="metric-card">
+        <div class="metric-label">Open Positions</div>
+        <div class="metric-value">{{ positions|length }}</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Total Exposure</div>
+        <div class="metric-value">${{ "%.2f"|format(total_exposure) }}</div>
+        <div class="metric-sub">of ${{ "%.0f"|format(global_limit) }} ({{ "%.0f%%"|format(total_exposure / global_limit * 100) if global_limit > 0 else '0%' }})</div>
+    </div>
+    {% for s in strategies.keys()|sort %}
+    {% set total = strat_realized.get(s, 0) + strat_pnl.get(s, 0) %}
+    {% if strategies[s]|length > 0 or strat_realized.get(s, 0) != 0 %}
+    <div class="metric-card">
+        <div class="metric-label">{{ s }} P&L</div>
+        <div class="metric-value {{ 'positive' if total >= 0 else 'negative' }}">{{ '+' if total > 0 else '' }}${{ "%.2f"|format(total) }}</div>
+        <div class="metric-sub" style="display:flex;flex-direction:column;gap:2px;">
+            <span>{{ strategies[s]|length }} pos / ${{ "%.1f"|format(strat_exposure.get(s, 0)) }}</span>
+            <span style="font-size:10px;">
+                R:<span class="{{ 'positive' if strat_realized.get(s, 0) >= 0 else 'negative' }}">{{ '+' if strat_realized.get(s, 0) > 0 else '' }}${{ "%.2f"|format(strat_realized.get(s, 0)) }}</span>
+                &nbsp;|&nbsp;
+                U:<span class="{{ 'positive' if strat_pnl.get(s, 0) >= 0 else 'negative' }}">{{ '+' if strat_pnl.get(s, 0) > 0 else '' }}${{ "%.2f"|format(strat_pnl.get(s, 0)) }}</span>
+            </span>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<!-- ──────────────────────────────────────────────────────────────────
+     P2 (2026-05-04): wallet snapshot — chain-as-source-of-truth view.
+     Three sections: snapshot freshness banner, pending redemptions,
+     drift alerts.  All driven by ``wallet_snapshot`` rows refreshed
+     every 5 min (see src/recovery/snapshot.py).
+     ────────────────────────────────────────────────────────────────── -->
+{% if snapshot_meta %}
+{% set _snap_at = snapshot_meta.last_refresh_at %}
+{% set _snap_status = snapshot_meta.last_refresh_status %}
+<div style="margin-bottom:12px;padding:8px 12px;border-radius:6px;font-size:12px;
+            {% if _snap_status == 'ok' %}background:rgba(34,197,94,0.10);color:var(--green-text);border:1px solid rgba(34,197,94,0.30);
+            {% else %}background:rgba(239,68,68,0.10);color:var(--red-text);border:1px solid rgba(239,68,68,0.30);{% endif %}">
+    📊 Wallet snapshot:
+    <strong>{{ _snap_status }}</strong>
+    @ {{ _snap_at|beijing if _snap_at else 'never' }}
+    · {{ snapshot_meta.tokens_seen }} tokens
+    · {{ snapshot_meta.duration_ms }}ms
+    {% if snapshot_meta.last_refresh_error %}
+    <span style="margin-left:8px;">— {{ snapshot_meta.last_refresh_error }}</span>
+    {% endif %}
+</div>
+{% else %}
+<div style="margin-bottom:12px;padding:8px 12px;border-radius:6px;font-size:12px;
+            background:rgba(234,179,8,0.10);color:var(--text-muted);
+            border:1px solid rgba(234,179,8,0.30);">
+    📊 Wallet snapshot has not run yet — restart bot or wait for first refresh (≤ 30s after boot).
+</div>
+{% endif %}
+
+{% if pending_redemptions %}
+<div class="panel" style="margin-bottom:16px;border:2px solid rgba(34,197,94,0.50);">
+    <div class="panel-header" style="background:rgba(34,197,94,0.08);">
+        <h3 style="color:var(--green-text);">💰 待兑换 (Pending Redemptions)</h3>
+        <span style="font-size:11px;color:var(--text-dim);">
+            {{ pending_redemptions|length }} winning position(s) on chain — manually click 「兑换」 on Polymarket if redeemer hasn't picked them up
+        </span>
+    </div>
+    <table>
+        <thead><tr><th>Token</th><th>Title</th><th>End Date</th><th>Shares</th><th>Avg Price</th><th>Value (USD)</th><th>P&L</th></tr></thead>
+        <tbody>
+        {% for r in pending_redemptions %}
+        <tr>
+            <td class="td-mono" style="font-size:11px;color:var(--text-muted);">{{ r.token_id[:14] }}…</td>
+            <td style="font-size:12px;">{{ r.title or '?' }}</td>
+            <td style="font-size:11px;color:var(--accent-light);">{{ r.market_end_date or '?' }}</td>
+            <td class="td-mono">{{ "%.4f"|format(r.shares) }}</td>
+            <td class="td-mono">{% if r.avg_price is not none %}${{ "%.4f"|format(r.avg_price) }}{% else %}-{% endif %}</td>
+            <td class="td-mono" style="font-weight:600;color:var(--green-text);">{% if r.current_value_usd is not none %}${{ "%.2f"|format(r.current_value_usd) }}{% else %}-{% endif %}</td>
+            <td class="td-mono" style="font-weight:600;color:{{ 'var(--green-text)' if (r.cash_pnl or 0) >= 0 else 'var(--red-text)' }};">
+                {% if r.cash_pnl is not none %}{{ '+' if r.cash_pnl > 0 else '' }}${{ "%.2f"|format(r.cash_pnl) }}{% else %}-{% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}
+
+{% if drift_rows %}
+<div class="panel" style="margin-bottom:16px;border:2px solid rgba(234,179,8,0.50);">
+    <div class="panel-header" style="background:rgba(234,179,8,0.08);">
+        <h3 style="color:var(--text);">⚠️ 漂移告警 (Intent ≠ Chain)</h3>
+        <span style="font-size:11px;color:var(--text-dim);">
+            {{ drift_rows|length }} token(s) where DB intent doesn't match on-chain reality.
+            Drift > 0: chain has more shares than DB knows (lost-track positions).
+            Drift < 0: DB shows open but chain is empty (phantom open).
+        </span>
+    </div>
+    <table>
+        <thead><tr><th>Token</th><th>Title</th><th>Chain Shares</th><th>Intent (DB)</th><th>Drift</th><th>Cur Price</th><th>Value</th><th>End Date</th></tr></thead>
+        <tbody>
+        {% for r in drift_rows %}
+        <tr>
+            <td class="td-mono" style="font-size:11px;color:var(--text-muted);">{{ r.token_id[:14] }}…</td>
+            <td style="font-size:12px;">{{ r.title or '?' }}</td>
+            <td class="td-mono">{{ "%.4f"|format(r.shares) }}</td>
+            <td class="td-mono">{{ "%.4f"|format(r.intent_open_shares) }}</td>
+            <td class="td-mono" style="font-weight:600;color:{{ 'var(--red-text)' if r.drift_shares < 0 else 'var(--accent-light)' }};">
+                {{ '+' if r.drift_shares > 0 else '' }}{{ "%.4f"|format(r.drift_shares) }}
+            </td>
+            <td class="td-mono">{% if r.current_price is not none %}${{ "%.3f"|format(r.current_price) }}{% else %}-{% endif %}</td>
+            <td class="td-mono">{% if r.current_value_usd is not none %}${{ "%.2f"|format(r.current_value_usd) }}{% else %}-{% endif %}</td>
+            <td style="font-size:11px;color:var(--accent-light);">{{ r.market_end_date or '?' }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}
+
+<!-- Positions by Strategy.  Iterates ``strategies`` keyed by every active
+     variant + any legacy variant with surviving rows.  Tag class / label /
+     description come from ``strat_meta[name]`` so adding a new variant
+     in src/config.py automatically renders here. -->
+{% for strat_name in strategies.keys()|sort %}
+{% set _meta = strat_meta.get(strat_name, {'label': strat_name, 'tag_class': 'tag-stable', 'description': ''}) %}
+{% set strat_positions = strategies[strat_name] %}
+<div class="panel" style="margin-bottom:16px;">
+    <div class="panel-header">
+        <h3>
+            <span class="tag {{ _meta.tag_class }}" style="font-size:13px;margin-right:6px;">{{ strat_name }}</span>
+            {{ _meta.label }}
+        </h3>
+        <div style="display:flex;gap:16px;font-size:12px;">
+            <span style="color:var(--text-muted);">{{ strat_positions|length }} positions</span>
+            <span style="color:var(--text-muted);">${{ "%.2f"|format(strat_exposure.get(strat_name, 0)) }}</span>
+            {% set strat_total = strat_realized.get(strat_name, 0) + strat_pnl.get(strat_name, 0) %}
+            <span class="{{ 'positive' if strat_total >= 0 else 'negative' }}" style="font-weight:600;">
+                {{ '+' if strat_total > 0 else '' }}${{ "%.2f"|format(strat_total) }}
+            </span>
+            <span style="color:var(--text-dim);font-size:11px;">(R:{{ '+' if strat_realized.get(strat_name, 0) > 0 else '' }}${{ "%.1f"|format(strat_realized.get(strat_name, 0)) }} / U:{{ '+' if strat_pnl.get(strat_name, 0) > 0 else '' }}${{ "%.1f"|format(strat_pnl.get(strat_name, 0)) }})</span>
+        </div>
+    </div>
+    {% if strat_positions %}
+    <table>
+        <thead><tr><th>City</th><th>Trim @</th><th>Slot</th><th>Date</th><th>Type</th><th>Entry</th><th>Fee</th><th>Current</th><th>P&L</th><th>Size</th><th title="On-chain shares from wallet_snapshot (intent − drift); yellow if mismatch">Chain</th><th>Reason</th><th>Opened</th></tr></thead>
+        <tbody>
+        {# 2026-04-28: prefer ``match_price`` (effective per-share fill, including
+           tick-level slippage relative to the bot's submitted limit) when
+           recorded, falling back to ``entry_price`` for legacy / paper rows.
+           ``effective_entry`` flows into both the cell text AND the data-entry
+           attribute so the JS price-refresh loop's P&L colour comparison stays
+           consistent with what the user sees.
+
+           2026-05-04 (Q-feedback): added "Trim @" column showing the
+           effective ratio + absolute stop price the bot will TRIM at.
+           Per-city overrides render in default text colour; the global
+           fallback dims to flag that the city has no specific seed. #}
+        {% for p in strat_positions %}
+        {% set effective_entry = p.match_price if p.match_price is not none else p.entry_price %}
+        <tr data-token="{{ p.token_id }}" data-entry="{{ effective_entry }}" data-shares="{{ p.shares }}">
+            <td style="font-weight:500;">{{ p.city }}</td>
+            <td class="td-mono"
+                title="ratio={{ '%.2f'|format(p.trim_ratio) }} ({{ p.trim_ratio_source }}) — TRIM[price_stop] fires when current ≤ entry × (1 − ratio)"
+                {% if p.trim_ratio_source == 'global' %}style="opacity:0.55;"{% endif %}>
+                {{ "%.0f"|format(p.trim_ratio * 100) }}%
+                {% if p.trim_stop_price is not none %}
+                <span style="color:var(--text-dim);font-size:11px;">→${{ "%.3f"|format(p.trim_stop_price) }}</span>
+                {% endif %}
+            </td>
+            <td class="td-mono" style="font-size:12px;">{{ p.slot_short }}</td>
+            <td style="font-size:11px;color:var(--accent-light);white-space:nowrap;">{{ p.market_date }}</td>
+            <td><span class="tag tag-{{ 'buy' if p.token_type == 'NO' else 'sell' }}">{{ p.token_type }}</span></td>
+            <td class="td-mono" title="{% if p.match_price is not none %}match {{ '%.4f'|format(p.match_price) }} (limit {{ '%.4f'|format(p.entry_price) }}){% else %}limit {{ '%.4f'|format(p.entry_price) }} (no match data){% endif %}">
+                {{ "%.3f"|format(effective_entry) }}{% if p.match_price is none %}<span style="color:var(--text-dim);font-size:10px;">*</span>{% endif %}
+            </td>
+            <td class="td-mono" style="font-size:11px;color:var(--text-muted);">
+                {% if p.fee_paid_usd is not none %}${{ "%.4f"|format(p.fee_paid_usd) }}{% else %}-{% endif %}
+            </td>
+            <td class="td-mono price-cell" data-token="{{ p.token_id }}" style="{% if p.current_price is not none %}color:{{ 'var(--green-text)' if p.current_price > effective_entry else 'var(--red-text)' if p.current_price < effective_entry else 'var(--text)' }}{% endif %}">
+                {{ "%.3f"|format(p.current_price) if p.current_price is not none else '-' }}
+            </td>
+            <td class="td-mono pnl-cell" data-token="{{ p.token_id }}" style="font-weight:600;{% if p.unrealized_pnl is not none %}color:{{ 'var(--green-text)' if p.unrealized_pnl >= 0 else 'var(--red-text)' }}{% endif %}">
+                {% if p.unrealized_pnl is not none %}
+                {{ '+' if p.unrealized_pnl > 0 else '' }}${{ "%.3f"|format(p.unrealized_pnl) }}
+                {% else %}-{% endif %}
+            </td>
+            <td class="td-mono">${{ "%.2f"|format(p.size_usd) }}</td>
+            {# P2 (2026-05-04): inline per-row drift cell.  Reads from
+               wallet_snapshot via the route's snapshot_by_token map.
+               Renders dim/grey when in sync, yellow when drift is small,
+               red when |drift| > 0.5 share — gives operator a one-glance
+               sanity check vs the dedicated drift section below. #}
+            <td class="td-mono"
+                title="Chain: {{ '%.4f'|format(p.snap_shares) if p.snap_shares is not none else '?' }} · Intent (this row): {{ '%.4f'|format(p.shares) }} · Drift (token-level): {{ '%+.4f'|format(p.snap_drift) if p.snap_drift is not none else '?' }}"
+                style="font-size:11px;
+                {% if p.snap_drift is none %}color:var(--text-dim);
+                {% elif (p.snap_drift|abs) < 0.05 %}color:var(--text-muted);
+                {% elif (p.snap_drift|abs) < 0.5 %}color:var(--accent-light);
+                {% else %}color:var(--red-text);font-weight:600;{% endif %}">
+                {% if p.snap_shares is not none %}
+                    {{ '%.2f'|format(p.snap_shares) }}
+                    {% if (p.snap_drift|abs) > 0.005 %}
+                    <span style="font-size:10px;">({{ '%+.2f'|format(p.snap_drift) }})</span>
+                    {% endif %}
+                {% else %}-{% endif %}
+            </td>
+            <td style="font-size:11px;max-width:220px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="{{ p.buy_reason or '' }}">
+                {{ p.buy_reason[:50] if p.buy_reason else '-' }}
+            </td>
+            <td style="font-size:11px;color:var(--text-muted);">{{ p.created_at|beijing }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <div style="padding:20px;text-align:center;color:var(--text-dim);font-size:13px;">No positions for this strategy</div>
+    {% endif %}
+</div>
+{% endfor %}
+
+<!-- City exposure -->
+{% if cities %}
+<div class="panel">
+    <div class="panel-header"><h3>Exposure by City</h3></div>
+    <table>
+        <thead><tr><th>City</th><th>Positions</th><th>Exposure</th><th>Limit</th><th>Usage</th></tr></thead>
+        <tbody>
+        {% for city, data in cities.items() %}
+        <tr>
+            <td style="font-weight:500;">{{ city }}</td>
+            <td>{{ data.count }}</td>
+            <td class="td-mono">${{ "%.2f"|format(data.exposure) }}</td>
+            <td class="td-mono" style="color:var(--text-dim);">${{ "%.0f"|format(city_limit) }}</td>
+            <td>
+                <div style="display:flex;align-items:center;gap:8px;">
+                    <div style="flex:1;height:6px;background:var(--border);border-radius:3px;max-width:120px;">
+                        <div style="height:100%;width:{{ (data.exposure / city_limit * 100) if city_limit > 0 else 0 }}%;background:var(--accent);border-radius:3px;max-width:100%;"></div>
+                    </div>
+                    <span class="td-mono" style="font-size:11px;">{{ "%.0f%%"|format(data.exposure / city_limit * 100) if city_limit > 0 else '0%' }}</span>
+                </div>
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}
+
+<!-- Recently closed -->
+{% if closed_positions %}
+<div class="panel">
+    <div class="panel-header">
+        <h3>Recently Closed</h3>
+        <span style="font-size:11px;color:var(--text-dim);">{{ closed_positions|length }} positions</span>
+    </div>
+    <table>
+        <thead><tr><th>City</th><th>Slot</th><th>Date</th><th>Strat</th><th>Entry</th><th>Exit</th><th>P&L</th><th>Size</th><th>Exit Reason</th><th>Closed</th></tr></thead>
+        <tbody>
+        {# B1 (2026-04-28): closed-row Entry shows effective fill price; the
+           exit-vs-entry colour comparison uses the same effective value so
+           a 0.685 fill that exited at 0.69 reads green (profit) instead of
+           neutral against the 0.69 limit. #}
+        {% for p in closed_positions[:15] %}
+        {% set closed_effective_entry = p.match_price if p.match_price is not none else p.entry_price %}
+        <tr>
+            <td style="font-weight:500;">{{ p.city }}</td>
+            <td class="td-mono" style="font-size:12px;">{{ p.slot_short }}</td>
+            <td style="font-size:11px;color:var(--accent-light);white-space:nowrap;">{{ p.market_date }}</td>
+            <td><span class="tag {{ strat_meta.get(p.strategy, {'tag_class':'tag-stable'}).tag_class }}">{{ p.strategy if p.strategy else '?' }}</span></td>
+            <td class="td-mono" title="{% if p.match_price is not none %}match {{ '%.4f'|format(p.match_price) }} (limit {{ '%.4f'|format(p.entry_price) }}){% else %}limit {{ '%.4f'|format(p.entry_price) }} (no match data){% endif %}">{{ "%.3f"|format(closed_effective_entry) }}{% if p.match_price is none %}<span style="color:var(--text-dim);font-size:10px;">*</span>{% endif %}</td>
+            <td class="td-mono" style="{% if p.exit_price is not none %}color:{{ 'var(--green-text)' if p.exit_price > closed_effective_entry else 'var(--red-text)' if p.exit_price < closed_effective_entry else 'var(--text)' }}{% endif %}">
+                {{ "%.3f"|format(p.exit_price) if p.exit_price is not none else '-' }}
+            </td>
+            <td class="td-mono" style="font-weight:600;{% if p.realized_pnl is not none %}color:{{ 'var(--green-text)' if p.realized_pnl >= 0 else 'var(--red-text)' }}{% endif %}">
+                {% if p.realized_pnl is not none %}{{ '+' if p.realized_pnl > 0 else '' }}${{ "%.3f"|format(p.realized_pnl) }}{% else %}-{% endif %}
+            </td>
+            <td class="td-mono">${{ "%.2f"|format(p.size_usd) }}</td>
+            <td style="font-size:11px;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="{{ p.exit_reason or '' }}">
+                {{ p.exit_reason[:40] if p.exit_reason else '-' }}
+            </td>
+            <td style="font-size:11px;color:var(--text-muted);">{{ p.closed_at|beijing if p.closed_at else '-' }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}
+
+<div style="margin-top:8px;font-size:11px;color:var(--text-dim);text-align:right;" id="price-updated-at">Prices loading...</div>
+
+<script>
+// ── Live price polling ────────────────────────────────────────────────────────
+// Fetches fresh prices from /api/prices every 30 seconds and updates cells
+// without a full page reload. Server caches Gamma API responses for 30s.
+
+function _priceColor(current, entry) {
+    if (current > entry) return 'var(--green-text)';
+    if (current < entry) return 'var(--red-text)';
+    return 'var(--text)';
+}
+
+async function refreshPrices() {
+    try {
+        const r = await fetch('/api/prices');
+        if (!r.ok) return;
+        const prices = await r.json();
+
+        document.querySelectorAll('tr[data-token]').forEach(row => {
+            const tokenId = row.dataset.token;
+            const entry   = parseFloat(row.dataset.entry);
+            const shares  = parseFloat(row.dataset.shares);
+            const current = prices[tokenId];
+            if (current === undefined) return;
+
+            const priceCell = row.querySelector('.price-cell');
+            const pnlCell   = row.querySelector('.pnl-cell');
+
+            if (priceCell) {
+                priceCell.textContent = current.toFixed(3);
+                priceCell.style.color = _priceColor(current, entry);
+            }
+
+            if (pnlCell && !isNaN(shares)) {
+                const pnl = (current - entry) * shares;
+                pnlCell.textContent = (pnl >= 0 ? '+' : '') + '$' + pnl.toFixed(3);
+                pnlCell.style.color = pnl >= 0 ? 'var(--green-text)' : 'var(--red-text)';
+            }
+        });
+
+        const el = document.getElementById('price-updated-at');
+        if (el) el.textContent = 'Prices updated: ' + new Date().toLocaleTimeString();
+    } catch(e) {
+        console.warn('Price refresh failed:', e);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    refreshPrices();
+    setInterval(refreshPrices, 30000);
+});
+</script>
+{% endblock %}

@@ -1,0 +1,348 @@
+{
+  "storage_key": "hong-kong_2026-06-06_high",
+  "event_id": "560841",
+  "event_slug": "highest-temperature-in-hong-kong-on-june-6-2026",
+  "event_title": "Highest temperature in Hong Kong on June 6?",
+  "city_slug": "hong-kong",
+  "city_name": "Hong Kong",
+  "date": "2026-06-06",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Hong Kong",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-06T12:00:00Z",
+  "event_end_date": "2026-06-06T12:00:00Z",
+  "liquidity": 40518.73849,
+  "volume": 4784.280465999999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2440921",
+      "question": "Will the highest temperature in Hong Kong be 28°C or below on June 6?",
+      "bucket_low": -999.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 54.0,
+      "liquidity": 3757.46059,
+      "token_id": "66411761105489083850284949835207316165747228144676591956132194329686424487911",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-28corbelow",
+        "condition_id": "0xb6b2df2a6b670b91a3b95f6bd6bf630262c28a37af24397b5ea99bccadfbdb66"
+      }
+    },
+    {
+      "market_id": "2440922",
+      "question": "Will the highest temperature in Hong Kong be 29°C on June 6?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0085,
+      "no_price": 0.9915,
+      "volume": 815.822264,
+      "liquidity": 6969.14083,
+      "token_id": "104715256319013960466822163578114020547966859740639661082284642461692003206468",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0085,
+        0.9915
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-29c",
+        "condition_id": "0xb1ebade7f48fd063974f1394fbefe8c17272f71015655dee75cdb6c4b684b236"
+      }
+    },
+    {
+      "market_id": "2440923",
+      "question": "Will the highest temperature in Hong Kong be 30°C on June 6?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.095,
+      "no_price": 0.905,
+      "volume": 1342.7336379999997,
+      "liquidity": 5146.9899,
+      "token_id": "102394047929754063122834993419847356881125646394544490466077064814984823422696",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.095,
+        0.905
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-30c",
+        "condition_id": "0x1914c701f6a96578e597f0d2a51e2ab8e7b08f5c57159b186c56051e9fa692af"
+      }
+    },
+    {
+      "market_id": "2440924",
+      "question": "Will the highest temperature in Hong Kong be 31°C on June 6?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.225,
+      "no_price": 0.775,
+      "volume": 352.67574600000006,
+      "liquidity": 1628.2377,
+      "token_id": "5972431926294886618906569651057372176238425351608128883216145471796466636505",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.225,
+        0.775
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-31c",
+        "condition_id": "0x58adf81fef058ba319cd64edf9e111c0a0bef029a888f1b5cfb13767a33358fc"
+      }
+    },
+    {
+      "market_id": "2440925",
+      "question": "Will the highest temperature in Hong Kong be 32°C on June 6?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.365,
+      "no_price": 0.635,
+      "volume": 224.467379,
+      "liquidity": 1541.3466,
+      "token_id": "53070912678898383789345794277115351305063933087228407374526063730979887484761",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.365,
+        0.635
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-32c",
+        "condition_id": "0xd1ab87b97a94a5dda0c14c3be2a98139811a7e6447ec71e3e257d0967a0959ab"
+      }
+    },
+    {
+      "market_id": "2440926",
+      "question": "Will the highest temperature in Hong Kong be 33°C on June 6?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.255,
+      "no_price": 0.745,
+      "volume": 377.60100099999994,
+      "liquidity": 1478.7632,
+      "token_id": "9273424420439087624761519577393471260336826873071866331940553797498915167687",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.255,
+        0.745
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-33c",
+        "condition_id": "0xbeb5b6d23bb5412d75a9ca32d3553d446c92c114f0c8a0a9fd324c568cc2e1b5"
+      }
+    },
+    {
+      "market_id": "2440927",
+      "question": "Will the highest temperature in Hong Kong be 34°C on June 6?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.065,
+      "no_price": 0.935,
+      "volume": 417.00494100000003,
+      "liquidity": 3420.1036,
+      "token_id": "1470920211363179437297699476034483283535214308226974963085153129418715545350",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.065,
+        0.935
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-34c",
+        "condition_id": "0x9c8c655a5eeab2794cb779f66b9095918017040ac7097f61e91821993a432895"
+      }
+    },
+    {
+      "market_id": "2440928",
+      "question": "Will the highest temperature in Hong Kong be 35°C on June 6?",
+      "bucket_low": 35.0,
+      "bucket_high": 35.0,
+      "unit": "C",
+      "yes_price": 0.0075,
+      "no_price": 0.9925,
+      "volume": 842.138823,
+      "liquidity": 5433.26508,
+      "token_id": "83570475763713590607375171691703466974698761052138084084808145782166518589513",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0075,
+        0.9925
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-35c",
+        "condition_id": "0xa9f874560a0c6eb4254d7d8812a50e0ae33abc20639b1e49d9849139f4581a2e"
+      }
+    },
+    {
+      "market_id": "2440929",
+      "question": "Will the highest temperature in Hong Kong be 36°C on June 6?",
+      "bucket_low": 36.0,
+      "bucket_high": 36.0,
+      "unit": "C",
+      "yes_price": 0.005,
+      "no_price": 0.995,
+      "volume": 345.1651109999999,
+      "liquidity": 4556.67972,
+      "token_id": "14558458553826268232559798185452473264994335523789615862200037658877521272379",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.005,
+        0.995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-36c",
+        "condition_id": "0x163685666d8ef49c3308c67d32180728ea9e848a4a25cf8ac00570bf08f3478b"
+      }
+    },
+    {
+      "market_id": "2440930",
+      "question": "Will the highest temperature in Hong Kong be 37°C on June 6?",
+      "bucket_low": 37.0,
+      "bucket_high": 37.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 155.006006,
+      "liquidity": 6274.2866,
+      "token_id": "99947082129877520028391369465319679605730820920897243029207921710820004816493",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-37c",
+        "condition_id": "0x27e5f0da1c80fe3a8b998e891df45952715d2b53ef832893de8c18ae1e40a128"
+      }
+    },
+    {
+      "market_id": "2440931",
+      "question": "Will the highest temperature in Hong Kong be 38°C or higher on June 6?",
+      "bucket_low": 38.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": null,
+      "liquidity": 5634.93734,
+      "token_id": "101343340295475857688992933436848292540455927071968895145913459559874890662371",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-hong-kong-on-june-6-2026-38corhigher",
+        "condition_id": "0x8f7020a433257b42d5efb84ded9fca5cda17b77420c6ba3949b3fa4f2ffb6b6e"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.124211+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-06T12:00:00Z",
+      "liquidity": 40518.73849,
+      "volume": 4784.280465999999,
+      "outcomes_count": 11,
+      "top_bucket": "32.0-32.0C",
+      "top_price": 0.365,
+      "event_title": "Highest temperature in Hong Kong on June 6?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-hong-kong-on-june-6-2026",
+    "event_id": "560841",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 29.4,
+  "first_seen_at": "2026-06-05T06:08:46.471758+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.124211+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.124211+00:00",
+  "created_at": "2026-06-05T06:08:46.471758+00:00",
+  "updated_at": "2026-06-05T06:36:19.124211+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

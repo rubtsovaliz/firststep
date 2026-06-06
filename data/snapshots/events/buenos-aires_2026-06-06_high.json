@@ -1,0 +1,348 @@
+{
+  "storage_key": "buenos-aires_2026-06-06_high",
+  "event_id": "560826",
+  "event_slug": "highest-temperature-in-buenos-aires-on-june-6-2026",
+  "event_title": "Highest temperature in Buenos Aires on June 6?",
+  "city_slug": "buenos-aires",
+  "city_name": "Buenos Aires",
+  "date": "2026-06-06",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Buenos Aires",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-06T12:00:00Z",
+  "event_end_date": "2026-06-06T12:00:00Z",
+  "liquidity": 18798.72943,
+  "volume": 1039.965684,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2440756",
+      "question": "Will the highest temperature in Buenos Aires be 14°C or below on June 6?",
+      "bucket_low": -999.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.006,
+      "no_price": 0.994,
+      "volume": 26.0,
+      "liquidity": 2835.5408,
+      "token_id": "23139574007165315011943943905116861418982895534230471287469762868203101537627",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.006,
+        0.994
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-14corbelow",
+        "condition_id": "0x61978f125690f1485d634ec56d9917146ae3b67ad4e4f988c562ad2a7502bf09"
+      }
+    },
+    {
+      "market_id": "2440757",
+      "question": "Will the highest temperature in Buenos Aires be 15°C on June 6?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0255,
+      "no_price": 0.9745,
+      "volume": 5.0,
+      "liquidity": 1312.71907,
+      "token_id": "76266010585769365826190926154542806669403395532723112314711630904630419185928",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0255,
+        0.9745
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-15c",
+        "condition_id": "0x49a02ce84016bd37daee408b4275f4ce1e7b1cd10df8769ea2cd5cc0f8248bbb"
+      }
+    },
+    {
+      "market_id": "2440758",
+      "question": "Will the highest temperature in Buenos Aires be 16°C on June 6?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.065,
+      "no_price": 0.935,
+      "volume": 286.75705800000003,
+      "liquidity": 511.04559,
+      "token_id": "65580381313680373274099526271937908003547041915024776600988264453800960397498",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.065,
+        0.935
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-16c",
+        "condition_id": "0x3ef192b9e8bf9fc62578cccccf1e02dcda499122fc87fe0ed6ce84d423a239c2"
+      }
+    },
+    {
+      "market_id": "2440759",
+      "question": "Will the highest temperature in Buenos Aires be 17°C on June 6?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.245,
+      "no_price": 0.755,
+      "volume": 262.315369,
+      "liquidity": 1156.9725,
+      "token_id": "108613128301031568968765839594475488201777340746406202135900018207500694646115",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.245,
+        0.755
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-17c",
+        "condition_id": "0x25e6adb77f73066b23a066f5488e254ac10a150755d224c61492139d4091c427"
+      }
+    },
+    {
+      "market_id": "2440760",
+      "question": "Will the highest temperature in Buenos Aires be 18°C on June 6?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.33,
+      "no_price": 0.67,
+      "volume": 113.041236,
+      "liquidity": 1157.532,
+      "token_id": "77709899916854533606060831559357233111459083346207334274327624832706614779911",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.33,
+        0.67
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-18c",
+        "condition_id": "0x345eac64fba6020db67c06d8e2d7330682567a5a2c445bc190a924bf1b9409c8"
+      }
+    },
+    {
+      "market_id": "2440761",
+      "question": "Will the highest temperature in Buenos Aires be 19°C on June 6?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.23,
+      "no_price": 0.77,
+      "volume": 72.055474,
+      "liquidity": 1187.8578,
+      "token_id": "42209312961679189373992996313846540199334652691361204672179178866320588676259",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.23,
+        0.77
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-19c",
+        "condition_id": "0x8137654b5321adaa39b4c3181dcb9eabeaa4dd24341168e5f6ae8b94739025dc"
+      }
+    },
+    {
+      "market_id": "2440762",
+      "question": "Will the highest temperature in Buenos Aires be 20°C on June 6?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.095,
+      "no_price": 0.905,
+      "volume": 157.94969,
+      "liquidity": 1261.3627,
+      "token_id": "17865061685662746844920702577556592715363024769294079597503043806167765152412",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.095,
+        0.905
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-20c",
+        "condition_id": "0xea5fbfca566dffe5a7a664418e85f813125d05b0a83e23150e0a63b51c994c0b"
+      }
+    },
+    {
+      "market_id": "2440763",
+      "question": "Will the highest temperature in Buenos Aires be 21°C on June 6?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.016,
+      "no_price": 0.984,
+      "volume": 79.360618,
+      "liquidity": 1386.70207,
+      "token_id": "1602689652872991698350905125763405001269283780197231751281292570350326213166",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.016,
+        0.984
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-21c",
+        "condition_id": "0xd725c32f5692b355b0fd8763b2bf86ae3b611219082ad910889828ce9ca08ded"
+      }
+    },
+    {
+      "market_id": "2440764",
+      "question": "Will the highest temperature in Buenos Aires be 22°C on June 6?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.01,
+      "no_price": 0.99,
+      "volume": 175.033933,
+      "liquidity": 983.51195,
+      "token_id": "3786392078563763202836388062798095828902896468132191657163720976267104623908",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.01,
+        0.99
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-22c",
+        "condition_id": "0x5813888e737639c2a5ed33122c3a318425d81f9abf59f3ab3d6739e87e413c13"
+      }
+    },
+    {
+      "market_id": "2440765",
+      "question": "Will the highest temperature in Buenos Aires be 23°C on June 6?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "volume": 438.03175,
+      "liquidity": 3295.839,
+      "token_id": "96165289549502353251330504106494542516373284772538478006756059696707332115658",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0055,
+        0.9945
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-23c",
+        "condition_id": "0xd235b7ad5098cb347e05f78527368a5c3b3a3231728d5ce8bc4fc9ddd373584e"
+      }
+    },
+    {
+      "market_id": "2440766",
+      "question": "Will the highest temperature in Buenos Aires be 24°C or higher on June 6?",
+      "bucket_low": 24.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 4.994,
+      "liquidity": 3891.27282,
+      "token_id": "1685381048544076256405529745233472582968390007890066875595739444675461789667",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-june-6-2026-24corhigher",
+        "condition_id": "0xdc93fb51bef1a26749dcb657ccf4db1c93943425e12154a54f8fd5190c00b454"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.175960+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-06T12:00:00Z",
+      "liquidity": 18798.72943,
+      "volume": 1039.965684,
+      "outcomes_count": 11,
+      "top_bucket": "18.0-18.0C",
+      "top_price": 0.33,
+      "event_title": "Highest temperature in Buenos Aires on June 6?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-buenos-aires-on-june-6-2026",
+    "event_id": "560826",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 29.4,
+  "first_seen_at": "2026-06-05T06:08:46.491377+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.175960+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.175960+00:00",
+  "created_at": "2026-06-05T06:08:46.491377+00:00",
+  "updated_at": "2026-06-05T06:36:19.175960+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

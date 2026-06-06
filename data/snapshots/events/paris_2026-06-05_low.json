@@ -1,0 +1,349 @@
+{
+  "storage_key": "paris_2026-06-05_low",
+  "event_id": "554002",
+  "event_slug": "lowest-temperature-in-paris-on-june-5-2026",
+  "event_title": "Lowest temperature in Paris on June 5?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-06-05",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "France",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-05T12:00:00Z",
+  "event_end_date": "2026-06-05T12:00:00Z",
+  "liquidity": 22228.676,
+  "volume": 12626.154103000003,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2425046",
+      "question": "Will the lowest temperature in Paris be 7°C or below on June 5?",
+      "bucket_low": -999.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 857.0,
+      "liquidity": 4350.85484,
+      "token_id": "6742969579810425066355662666312111192063717173046434984982282159788603223874",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-7corbelow",
+        "condition_id": "0x22413e24bed0cfc907c324a1d48dcb882e6252f970e411691d80f253c2e324e0"
+      }
+    },
+    {
+      "market_id": "2425047",
+      "question": "Will the lowest temperature in Paris be 8°C on June 5?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 1265.3925,
+      "liquidity": 1532.97035,
+      "token_id": "45549307740808071641696185089886035873175427552760007307105301541256960587372",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-8c",
+        "condition_id": "0x00808cf539a62b15ff0cab5c456370914611c5cb93e803b077c8d70a035170d6"
+      }
+    },
+    {
+      "market_id": "2425048",
+      "question": "Will the lowest temperature in Paris be 9°C on June 5?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.004,
+      "no_price": 0.996,
+      "volume": 463.23,
+      "liquidity": 1309.20397,
+      "token_id": "1702201799818368369647217278259355733656161106894996557528086638403183386209",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.004,
+        0.996
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-9c",
+        "condition_id": "0x728734ccacf9bfa2b88078678246d381dad67c0e71f1596f9ff1317cef6398cc"
+      }
+    },
+    {
+      "market_id": "2425049",
+      "question": "Will the lowest temperature in Paris be 10°C on June 5?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.005,
+      "no_price": 0.995,
+      "volume": 617.9240179999999,
+      "liquidity": 723.33467,
+      "token_id": "81467071086033646078193995255554087043459763808587064715724262558765126258052",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.005,
+        0.995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-10c",
+        "condition_id": "0xda6249636aa7c34be7b774c338fa5ab98c8c83872a015a7900c649fbaa4c7572"
+      }
+    },
+    {
+      "market_id": "2425050",
+      "question": "Will the lowest temperature in Paris be 11°C on June 5?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.007,
+      "no_price": 0.993,
+      "volume": 521.8344870000001,
+      "liquidity": 791.45737,
+      "token_id": "7559351047298749691115746863000345753596481203337310853035720693608983698907",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.007,
+        0.993
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-11c",
+        "condition_id": "0x3bd63fb80adb70673a92997152fa56c422b710e85eecdd87ed1dc9a8b6b595d5"
+      }
+    },
+    {
+      "market_id": "2425051",
+      "question": "Will the lowest temperature in Paris be 12°C on June 5?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.9815,
+      "no_price": 0.0185,
+      "volume": 1208.408341,
+      "liquidity": 576.87129,
+      "token_id": "66080620127151808261942030759895948530750491197214300622387970475892286265328",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.9815,
+        0.0185
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-12c",
+        "condition_id": "0x93f4cb98516594ddfc6adc85c42a36e01802a55709326c8dcab2b8ee20f14fb1"
+      }
+    },
+    {
+      "market_id": "2425052",
+      "question": "Will the lowest temperature in Paris be 13°C on June 5?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 1021.468402,
+      "liquidity": 742.43274,
+      "token_id": "55298312322950248380311885423013307472651055900203962636020139937859315001322",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-13c",
+        "condition_id": "0x253b6bc1439b9120adbe51d24e0eb3a076d458609d537cdd36245bda3edfbd90"
+      }
+    },
+    {
+      "market_id": "2425053",
+      "question": "Will the lowest temperature in Paris be 14°C on June 5?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1481.151291,
+      "liquidity": 1210.26255,
+      "token_id": "4583227606515834472324559383226024802261887135785459172394494239045703172028",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-14c",
+        "condition_id": "0xb9222d480bde159dc90b5c0d1907d8b4c7cc8d84480afdaf73806704674d7016"
+      }
+    },
+    {
+      "market_id": "2425054",
+      "question": "Will the lowest temperature in Paris be 15°C on June 5?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 538.0709999999999,
+      "liquidity": 2021.79514,
+      "token_id": "26502426264928509988647290683584590885679004145846230960813992263960642469261",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-15c",
+        "condition_id": "0x0ddfc36072f76b89973f8db010be6e0a04179f77b3641bde6eac56b2d3f6f4e4"
+      }
+    },
+    {
+      "market_id": "2425055",
+      "question": "Will the lowest temperature in Paris be 16°C on June 5?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 319.046142,
+      "liquidity": 3369.24607,
+      "token_id": "76820058112495664799178616249620067874318834446516195993964246418265869154754",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-16c",
+        "condition_id": "0x61138e09b3a0f4fa390cbd8300fe3ead795a858e2eca3971e2b1ba06036a6b81"
+      }
+    },
+    {
+      "market_id": "2425056",
+      "question": "Will the lowest temperature in Paris be 17°C or higher on June 5?",
+      "bucket_low": 17.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4336.427922000003,
+      "liquidity": 4345.35153,
+      "token_id": "63377779008447624409589194395387871458151919116691145062733200189177240527341",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-june-5-2026-17corhigher",
+        "condition_id": "0xf8ec2c98929349c7abf643adc18143365652d74e84482871ea3b2f793f5d5662"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.456833+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-05T12:00:00Z",
+      "liquidity": 22228.676,
+      "volume": 12626.154103000003,
+      "outcomes_count": 11,
+      "top_bucket": "12.0-12.0C",
+      "top_price": 0.9815,
+      "event_title": "Lowest temperature in Paris on June 5?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-paris-on-june-5-2026",
+    "event_id": "554002",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 5.4,
+  "first_seen_at": "2026-06-04T16:52:28.855385+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.456833+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.456833+00:00",
+  "created_at": "2026-06-04T16:52:28.855385+00:00",
+  "updated_at": "2026-06-05T06:36:19.456833+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

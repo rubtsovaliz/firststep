@@ -1,0 +1,348 @@
+{
+  "storage_key": "los-angeles_2026-06-06_high",
+  "event_id": "560856",
+  "event_slug": "highest-temperature-in-los-angeles-on-june-6-2026",
+  "event_title": "Highest temperature in Los Angeles on June 6?",
+  "city_slug": "los-angeles",
+  "city_name": "Los Angeles",
+  "date": "2026-06-06",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Los Angeles",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-06T12:00:00Z",
+  "event_end_date": "2026-06-06T12:00:00Z",
+  "liquidity": 20461.56137,
+  "volume": 757.242536,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2441086",
+      "question": "Will the highest temperature in Los Angeles be 61°F or below on June 6?",
+      "bucket_low": -999.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.006,
+      "no_price": 0.994,
+      "volume": 120.0,
+      "liquidity": 3578.4048,
+      "token_id": "104176546831296082404564794065765593376282609742361306139463189261737753876435",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.006,
+        0.994
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-61forbelow",
+        "condition_id": "0x3990b9956eb6d28bd7796fbe91c39e238ed89cc2fa589d1da31b9ad5f104d4ed"
+      }
+    },
+    {
+      "market_id": "2441087",
+      "question": "Will the highest temperature in Los Angeles be between 62-63°F on June 6?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.025,
+      "no_price": 0.975,
+      "volume": 25.0,
+      "liquidity": 1541.64055,
+      "token_id": "65533242198882563692964803897368281450661560801584005692525533932279317744448",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.025,
+        0.975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-62-63f",
+        "condition_id": "0xa9dabd697e96093f14025727130a5ac9287d6d5ff958982400e8dd5d1855a9d7"
+      }
+    },
+    {
+      "market_id": "2441088",
+      "question": "Will the highest temperature in Los Angeles be between 64-65°F on June 6?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0475,
+      "no_price": 0.9525,
+      "volume": 101.940888,
+      "liquidity": 1314.72708,
+      "token_id": "78412521723277785446870951624673961067081118540963229674563606136149023698356",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0475,
+        0.9525
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-64-65f",
+        "condition_id": "0x677f669e40fd3d7e1f5ee34c2c96355d1cfa068ad309d1e115dfd14c1c01f168"
+      }
+    },
+    {
+      "market_id": "2441089",
+      "question": "Will the highest temperature in Los Angeles be between 66-67°F on June 6?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.145,
+      "no_price": 0.855,
+      "volume": 188.206367,
+      "liquidity": 1392.6711,
+      "token_id": "68190818431717779113565971077800542909256150297848320311448901854628248352453",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.145,
+        0.855
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-66-67f",
+        "condition_id": "0x3335467d1818d11f0d304ca5d22e85a1903211de8ba21728b972961cfcce7a2d"
+      }
+    },
+    {
+      "market_id": "2441090",
+      "question": "Will the highest temperature in Los Angeles be between 68-69°F on June 6?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.355,
+      "no_price": 0.645,
+      "volume": 46.370000000000005,
+      "liquidity": 1243.6671,
+      "token_id": "13010627402593473025523926228564026929639196164767627581474501385990571319914",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.355,
+        0.645
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-68-69f",
+        "condition_id": "0x4afa7b851556272dba55863811b369ed3c23bc53059cc9a0f93d4494a4784e0d"
+      }
+    },
+    {
+      "market_id": "2441091",
+      "question": "Will the highest temperature in Los Angeles be between 70-71°F on June 6?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.31,
+      "no_price": 0.69,
+      "volume": 8.191777,
+      "liquidity": 1166.009,
+      "token_id": "104821307045495982155985331861754715877611461393787596512860570048762334278463",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.31,
+        0.69
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-70-71f",
+        "condition_id": "0x9f4338cde7129d6ce66e905b3493d37bc2a78a456ae22fe60a3372ba3f488ad1"
+      }
+    },
+    {
+      "market_id": "2441092",
+      "question": "Will the highest temperature in Los Angeles be between 72-73°F on June 6?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.115,
+      "no_price": 0.885,
+      "volume": 18.512354000000002,
+      "liquidity": 1414.5188,
+      "token_id": "52822616818602260953370779330060600727764680089098486566625217519989542019338",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.115,
+        0.885
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-72-73f",
+        "condition_id": "0x3ddadda00893b7e74054be6a3737b2cf88a33884fdffd773ccafd0128936cea6"
+      }
+    },
+    {
+      "market_id": "2441093",
+      "question": "Will the highest temperature in Los Angeles be between 74-75°F on June 6?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.04,
+      "no_price": 0.96,
+      "volume": 424.38874999999996,
+      "liquidity": 1479.2484,
+      "token_id": "21216932989790133695200890107109644359987343448882662939758095566552304024672",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.04,
+        0.96
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-74-75f",
+        "condition_id": "0x4677ecc33c2373ae4e747c65a5f687872a0b5f43e66215d590074cfc75b3e752"
+      }
+    },
+    {
+      "market_id": "2441094",
+      "question": "Will the highest temperature in Los Angeles be between 76-77°F on June 6?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0105,
+      "no_price": 0.9895,
+      "volume": 387.24340000000007,
+      "liquidity": 2655.82262,
+      "token_id": "35855769986135681454300669025751922939759462372088493123245162478562313226491",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0105,
+        0.9895
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-76-77f",
+        "condition_id": "0x8e0eb60c2b0576719195c70e6fb8e65aafd3f02b98774e61039e9ad7206ea554"
+      }
+    },
+    {
+      "market_id": "2441095",
+      "question": "Will the highest temperature in Los Angeles be between 78-79°F on June 6?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "volume": 92.78639999999999,
+      "liquidity": 4864.25431,
+      "token_id": "28811092066519714639819297433565346608617062655223754217502505654295559471310",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0055,
+        0.9945
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-78-79f",
+        "condition_id": "0xff717dbd8e5b91de3474a0b0161891120756556b5dc66e68858208dc13cb3cab"
+      }
+    },
+    {
+      "market_id": "2441096",
+      "question": "Will the highest temperature in Los Angeles be 80°F or higher on June 6?",
+      "bucket_low": 80.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0045,
+      "no_price": 0.9955,
+      "volume": 15.0,
+      "liquidity": 4122.67269,
+      "token_id": "24837740363015671735523398403701066578275734614626640493490320871549286105136",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0045,
+        0.9955
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-june-6-2026-80forhigher",
+        "condition_id": "0xfabfa53a0a8fad55343cf1d7f49623d519ea3099fd4d14642624a120f950b55d"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.006504+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-06T12:00:00Z",
+      "liquidity": 20461.56137,
+      "volume": 757.242536,
+      "outcomes_count": 11,
+      "top_bucket": "68.0-69.0F",
+      "top_price": 0.355,
+      "event_title": "Highest temperature in Los Angeles on June 6?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-los-angeles-on-june-6-2026",
+    "event_id": "560856",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 29.4,
+  "first_seen_at": "2026-06-05T06:08:46.440965+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.006504+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.006504+00:00",
+  "created_at": "2026-06-05T06:08:46.440965+00:00",
+  "updated_at": "2026-06-05T06:36:19.006504+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

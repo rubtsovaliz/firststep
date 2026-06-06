@@ -1,0 +1,348 @@
+{
+  "storage_key": "ankara_2026-06-06_high",
+  "event_id": "560835",
+  "event_slug": "highest-temperature-in-ankara-on-june-6-2026",
+  "event_title": "Highest temperature in Ankara on June 6?",
+  "city_slug": "ankara",
+  "city_name": "Ankara",
+  "date": "2026-06-06",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Ankara",
+    "Daily Temperature",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-06T12:00:00Z",
+  "event_end_date": "2026-06-06T12:00:00Z",
+  "liquidity": 22282.13022,
+  "volume": 2236.721039,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2440855",
+      "question": "Will the highest temperature in Ankara be 21°C or below on June 6?",
+      "bucket_low": -999.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": null,
+      "liquidity": 2707.179,
+      "token_id": "48993190025882372603021627890156443435317322949867462970255481508481900835039",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-21corbelow",
+        "condition_id": "0x48ec97c14b98e18035ba66b7825dc9c2a1d7f39cb3246eca1d5d309d7380106a"
+      }
+    },
+    {
+      "market_id": "2440856",
+      "question": "Will the highest temperature in Ankara be 22°C on June 6?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0045,
+      "no_price": 0.9955,
+      "volume": 5.0,
+      "liquidity": 3752.60592,
+      "token_id": "24491168956227125723289240744459210102718878798118462978537659182175443562069",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0045,
+        0.9955
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-22c",
+        "condition_id": "0xc793601b547ea280ec398dcd530f0ba8a944a6f477f80aaf06cd5fc37e3a53ae"
+      }
+    },
+    {
+      "market_id": "2440857",
+      "question": "Will the highest temperature in Ankara be 23°C on June 6?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.015,
+      "no_price": 0.985,
+      "volume": 247.28047099999998,
+      "liquidity": 1769.38459,
+      "token_id": "22262547831070123005637915756230061795101360500820934499034077919133523357560",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.015,
+        0.985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-23c",
+        "condition_id": "0xd58958edbbdb30ec19f2208f37449abece2446ec283a527d53ec939b34c09b9d"
+      }
+    },
+    {
+      "market_id": "2440858",
+      "question": "Will the highest temperature in Ankara be 24°C on June 6?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.025,
+      "no_price": 0.975,
+      "volume": 451.164553,
+      "liquidity": 1524.96363,
+      "token_id": "6104867680091976725745857024001717508133797345588941564791292924880136510082",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.025,
+        0.975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-24c",
+        "condition_id": "0x30985506648c299851f3eee500c06f101357391a9313f71153489280f9c9139c"
+      }
+    },
+    {
+      "market_id": "2440859",
+      "question": "Will the highest temperature in Ankara be 25°C on June 6?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.135,
+      "no_price": 0.865,
+      "volume": 469.46985400000005,
+      "liquidity": 1244.8971,
+      "token_id": "50640969181015590711765013625078954023062125334942335257752258682170383437346",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.135,
+        0.865
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-25c",
+        "condition_id": "0x87570dd24965eb3c5288e02c19e9d1c2534cbe1c62dc689b80348271cdc51350"
+      }
+    },
+    {
+      "market_id": "2440860",
+      "question": "Will the highest temperature in Ankara be 26°C on June 6?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.28,
+      "no_price": 0.72,
+      "volume": 105.64393999999999,
+      "liquidity": 1519.0668,
+      "token_id": "49702070577931282078466201234935988793069147502332349007011586004064763044425",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.28,
+        0.72
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-26c",
+        "condition_id": "0x51a9ddb0b030933898b5800c4b128edea0bdb2d649560e767e99f45fce7d3c0b"
+      }
+    },
+    {
+      "market_id": "2440861",
+      "question": "Will the highest temperature in Ankara be 27°C on June 6?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.365,
+      "no_price": 0.635,
+      "volume": 129.441127,
+      "liquidity": 1354.5696,
+      "token_id": "91398215991696561050905968714207777989548527359532608328582982706131351644971",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.365,
+        0.635
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-27c",
+        "condition_id": "0xb1f2253eb2e372ce21eebc62129488100668e1f092ee4bf79628be62c112591b"
+      }
+    },
+    {
+      "market_id": "2440862",
+      "question": "Will the highest temperature in Ankara be 28°C on June 6?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.175,
+      "no_price": 0.825,
+      "volume": 420.47624299999995,
+      "liquidity": 930.5352,
+      "token_id": "102371822304143557628395698827869410791481872029220294844502742990605615896659",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.175,
+        0.825
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-28c",
+        "condition_id": "0xc8a671b15cbdb4804fdf6c8eb99bca3da171b0f6cd874bd1f9d3bf55e42b3c2a"
+      }
+    },
+    {
+      "market_id": "2440863",
+      "question": "Will the highest temperature in Ankara be 29°C on June 6?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.045,
+      "no_price": 0.955,
+      "volume": 135.3475,
+      "liquidity": 1343.1894,
+      "token_id": "44337585488634741789179597357649395423984948183171641663385952368274460330268",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.045,
+        0.955
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-29c",
+        "condition_id": "0x9a43b0ea6d5aeb48144f9839bb31027af173a64a16f7fdcba3627b746fe12163"
+      }
+    },
+    {
+      "market_id": "2440864",
+      "question": "Will the highest temperature in Ankara be 30°C on June 6?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.02,
+      "no_price": 0.98,
+      "volume": 190.7231,
+      "liquidity": 3022.02774,
+      "token_id": "75025759517556424794245792057910719783233838368972811168278697685436430473421",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.02,
+        0.98
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-30c",
+        "condition_id": "0x4cc733f02057e4e4c21b9fa5468af6a5d6aa0ccd4baccb30826b2eddf65c5e00"
+      }
+    },
+    {
+      "market_id": "2440865",
+      "question": "Will the highest temperature in Ankara be 31°C or higher on June 6?",
+      "bucket_low": 31.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "volume": 214.604671,
+      "liquidity": 3535.32034,
+      "token_id": "51927916083180780317443008059669381354556606922906381658816434095418742040583",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0035,
+        0.9965
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-june-6-2026-31corhigher",
+        "condition_id": "0xd0a1b069adb6f46ffc42af88180c8248ba9570b85997ab40b14663fac4c3fc8e"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.137503+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-06T12:00:00Z",
+      "liquidity": 22282.13022,
+      "volume": 2236.721039,
+      "outcomes_count": 11,
+      "top_bucket": "27.0-27.0C",
+      "top_price": 0.365,
+      "event_title": "Highest temperature in Ankara on June 6?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-ankara-on-june-6-2026",
+    "event_id": "560835",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 29.4,
+  "first_seen_at": "2026-06-05T06:08:46.479067+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.137503+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.137503+00:00",
+  "created_at": "2026-06-05T06:08:46.479067+00:00",
+  "updated_at": "2026-06-05T06:36:19.137503+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

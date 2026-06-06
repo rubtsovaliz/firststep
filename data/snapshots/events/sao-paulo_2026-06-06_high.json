@@ -1,0 +1,348 @@
+{
+  "storage_key": "sao-paulo_2026-06-06_high",
+  "event_id": "560825",
+  "event_slug": "highest-temperature-in-sao-paulo-on-june-6-2026",
+  "event_title": "Highest temperature in Sao Paulo on June 6?",
+  "city_slug": "sao-paulo",
+  "city_name": "Sao Paulo",
+  "date": "2026-06-06",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Sao Paulo",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-06T12:00:00Z",
+  "event_end_date": "2026-06-06T12:00:00Z",
+  "liquidity": 31568.86029,
+  "volume": 1642.548708,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2440745",
+      "question": "Will the highest temperature in Sao Paulo be 15°C or below on June 6?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 5.0,
+      "liquidity": 5802.08287,
+      "token_id": "33183678756750354925628660838616094020375070189236189592980174571581751661095",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-15corbelow",
+        "condition_id": "0x06bf3963ac102191f1c6632a400c95089cef16fbee65ef523ef8367bd233a13d"
+      }
+    },
+    {
+      "market_id": "2440746",
+      "question": "Will the highest temperature in Sao Paulo be 16°C on June 6?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "volume": 314.0,
+      "liquidity": 6950.13868,
+      "token_id": "75741555872172487550730005736434556716081640441883808244890227698223395890363",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0035,
+        0.9965
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-16c",
+        "condition_id": "0xab6fee79f4a769740e672d8c18334286b62d98a2d5d9bb05b2bb4f64dafcc08c"
+      }
+    },
+    {
+      "market_id": "2440747",
+      "question": "Will the highest temperature in Sao Paulo be 17°C on June 6?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.004,
+      "no_price": 0.996,
+      "volume": 303.996,
+      "liquidity": 5559.81911,
+      "token_id": "60391504864430431421901736198258070340207506148601681035861433443443041058273",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.004,
+        0.996
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-17c",
+        "condition_id": "0x2df693068c6a757c67743b7489a5dc50b8de1232ebd176371ff05553c8d44079"
+      }
+    },
+    {
+      "market_id": "2440748",
+      "question": "Will the highest temperature in Sao Paulo be 18°C on June 6?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.007,
+      "no_price": 0.993,
+      "volume": 174.71905,
+      "liquidity": 4653.20879,
+      "token_id": "59757811050806430871641645403109388274148778419721429668174474705554345139730",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.007,
+        0.993
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-18c",
+        "condition_id": "0x00306125a5d4a933205f32bd1720d5823bba56d7d52cd89db5b0d1efabd995dd"
+      }
+    },
+    {
+      "market_id": "2440749",
+      "question": "Will the highest temperature in Sao Paulo be 19°C on June 6?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.016,
+      "no_price": 0.984,
+      "volume": 96.70831199999998,
+      "liquidity": 2607.04255,
+      "token_id": "18375299303358830645443272509751862013266820879218449605835750152673253021205",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.016,
+        0.984
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-19c",
+        "condition_id": "0x5618f18f9ea9550fbba81d8a0a2edfa5eb7934c6b0b36ab5c775becf5ebdd6ca"
+      }
+    },
+    {
+      "market_id": "2440750",
+      "question": "Will the highest temperature in Sao Paulo be 20°C on June 6?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.05,
+      "no_price": 0.95,
+      "volume": 182.76624800000002,
+      "liquidity": 1514.5003,
+      "token_id": "87665282616620202123776336187008264559047993859803426158537260573818526706384",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.05,
+        0.95
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-20c",
+        "condition_id": "0x4777bee0dd3d38d746e198681f181a51ae3cc5ea88f70d1ea5dc7419a1ecf712"
+      }
+    },
+    {
+      "market_id": "2440751",
+      "question": "Will the highest temperature in Sao Paulo be 21°C on June 6?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.145,
+      "no_price": 0.855,
+      "volume": 198.568205,
+      "liquidity": 1269.8261,
+      "token_id": "20914064931492508318514036064150543384450547947741365825183652245052881187487",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.145,
+        0.855
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-21c",
+        "condition_id": "0x84e5aaa1f03daf89a0dc9ec39291d63e9bd91e540a647dd147a319cb5d2a6a28"
+      }
+    },
+    {
+      "market_id": "2440752",
+      "question": "Will the highest temperature in Sao Paulo be 22°C on June 6?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.315,
+      "no_price": 0.685,
+      "volume": 36.266144,
+      "liquidity": 1090.9815,
+      "token_id": "54611401487555030254500519890540578456080174894731062671351501139526444059411",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.315,
+        0.685
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-22c",
+        "condition_id": "0x6d203f5d1d861aede263e1ec4d71cfd82695b778df88f1dc3e91bc1b1dd6f4d7"
+      }
+    },
+    {
+      "market_id": "2440753",
+      "question": "Will the highest temperature in Sao Paulo be 23°C on June 6?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.315,
+      "no_price": 0.685,
+      "volume": 249.94941099999997,
+      "liquidity": 1121.0027,
+      "token_id": "24628216588171431177678194407500395804682088654688896077715790779805631867766",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.315,
+        0.685
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-23c",
+        "condition_id": "0x87eabf09942e5b6497b87e21132d032fc8affe4fa8c6815495f716c74afad3db"
+      }
+    },
+    {
+      "market_id": "2440754",
+      "question": "Will the highest temperature in Sao Paulo be 24°C on June 6?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.135,
+      "no_price": 0.865,
+      "volume": 192.70471300000003,
+      "liquidity": 1297.4031,
+      "token_id": "93512253472723600815383514274021293877002624219971852138827606192748520280249",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.135,
+        0.865
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-24c",
+        "condition_id": "0x31f8aa320f93d0bff8d4641177e44b21e266cd90c41b547836a9d7b117d0674c"
+      }
+    },
+    {
+      "market_id": "2440755",
+      "question": "Will the highest temperature in Sao Paulo be 25°C or higher on June 6?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0215,
+      "no_price": 0.9785,
+      "volume": 122.038013,
+      "liquidity": 289.57415,
+      "token_id": "89531475292838601340422502736883445878680817409844824465592922294287258548853",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0215,
+        0.9785
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-june-6-2026-25corhigher",
+        "condition_id": "0xd0055a88c36feff191ac23a4ab36e78d8b2483ec09b0ad46c2d2535291dd57f5"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.180201+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-06T12:00:00Z",
+      "liquidity": 31568.86029,
+      "volume": 1642.548708,
+      "outcomes_count": 11,
+      "top_bucket": "22.0-22.0C",
+      "top_price": 0.315,
+      "event_title": "Highest temperature in Sao Paulo on June 6?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-sao-paulo-on-june-6-2026",
+    "event_id": "560825",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 29.4,
+  "first_seen_at": "2026-06-05T06:08:46.492627+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.180201+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.180201+00:00",
+  "created_at": "2026-06-05T06:08:46.492627+00:00",
+  "updated_at": "2026-06-05T06:36:19.180201+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

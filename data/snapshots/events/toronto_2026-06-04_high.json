@@ -1,0 +1,348 @@
+{
+  "storage_key": "toronto_2026-06-04_high",
+  "event_id": "550232",
+  "event_slug": "highest-temperature-in-toronto-on-june-4-2026",
+  "event_title": "Highest temperature in Toronto on June 4?",
+  "city_slug": "toronto",
+  "city_name": "Toronto",
+  "date": "2026-06-04",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Toronto",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-04T12:00:00Z",
+  "event_end_date": "2026-06-04T12:00:00Z",
+  "liquidity": 100497.07827,
+  "volume": 28401.750109000004,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2415991",
+      "question": "Will the highest temperature in Toronto be 20°C or below on June 4?",
+      "bucket_low": -999.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 699.028,
+      "liquidity": 11157.5054,
+      "token_id": "24614705055502371714523984281232161859813579235939282711024494217369337941707",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-20corbelow",
+        "condition_id": "0x3de317ac88fdccba69785dcfaf37a7f071013a49008db3ad74bfd928c96dc7e1"
+      }
+    },
+    {
+      "market_id": "2415992",
+      "question": "Will the highest temperature in Toronto be 21°C on June 4?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 284.924,
+      "liquidity": 11115.78674,
+      "token_id": "84860020708560169976558229595310431118571504400194131381866486615411154611300",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-21c",
+        "condition_id": "0x507bdaa1ea15c3f8694a3e4edc2191415f011d7c3d50bddf959d2fbce7484eff"
+      }
+    },
+    {
+      "market_id": "2415993",
+      "question": "Will the highest temperature in Toronto be 22°C on June 4?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 324.88633300000004,
+      "liquidity": 11833.50395,
+      "token_id": "99958757279193126350752000382990348809283177717189588482231885968227048021788",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-22c",
+        "condition_id": "0x71b813bcaaeb8cf6030f5c17045bb7f306c9cebafb901721510d290a8aca9b3a"
+      }
+    },
+    {
+      "market_id": "2415994",
+      "question": "Will the highest temperature in Toronto be 23°C on June 4?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 418.843487,
+      "liquidity": 9888.96232,
+      "token_id": "73776653017164731062726889822192197349950310312897981816374787193870608729991",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-23c",
+        "condition_id": "0x7ab079f5a38f9956d6ea7331ec6bf8b737e717238287e46059d45f384ab09413"
+      }
+    },
+    {
+      "market_id": "2415995",
+      "question": "Will the highest temperature in Toronto be 24°C on June 4?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2450.289977,
+      "liquidity": 9857.29293,
+      "token_id": "36901592114407435507474348298583906081157125838178875939553322385862094986359",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-24c",
+        "condition_id": "0x513c2cde4aca7357d67146ab6b79a420c729b4f3fbd55adb5059d0d1d4d20e50"
+      }
+    },
+    {
+      "market_id": "2415996",
+      "question": "Will the highest temperature in Toronto be 25°C on June 4?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1782.7716239999997,
+      "liquidity": 10784.90711,
+      "token_id": "47695986362165782712632272856246361118790937708345485780101303031980047260431",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-25c",
+        "condition_id": "0xb57e1cd2a985f0f80949b56e13934e2a5844e085a8836fce9a948a7eee48f6f1"
+      }
+    },
+    {
+      "market_id": "2415997",
+      "question": "Will the highest temperature in Toronto be 26°C on June 4?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2330.53839,
+      "liquidity": 9888.39469,
+      "token_id": "66134934551195417914971215209248170980183594667391154502189718303578903447103",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-26c",
+        "condition_id": "0x7002990d86df1c4c1a891b6765a15cd61ef88601ed04fcfeebf7d76a8901917e"
+      }
+    },
+    {
+      "market_id": "2415998",
+      "question": "Will the highest temperature in Toronto be 27°C on June 4?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3071.8022649999994,
+      "liquidity": 13297.1201,
+      "token_id": "96768968675852818523394940180459821790851355231510120258009777087561120292354",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-27c",
+        "condition_id": "0x0f0a4e04c10faf2b93222831fc035ee3d24e997c4e9dd9174e218e84bcc510ee"
+      }
+    },
+    {
+      "market_id": "2415999",
+      "question": "Will the highest temperature in Toronto be 28°C on June 4?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 6018.1798460000045,
+      "liquidity": 8381.98607,
+      "token_id": "24396042835193474424051454393505164079395144057737029131557437541215624301308",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-28c",
+        "condition_id": "0x32663483da806a1a766a8215919799d6980f47ad61c03c15dbba0e4483ef7c4c"
+      }
+    },
+    {
+      "market_id": "2416000",
+      "question": "Will the highest temperature in Toronto be 29°C on June 4?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.31,
+      "no_price": 0.69,
+      "volume": 4406.646724000003,
+      "liquidity": 504.0026,
+      "token_id": "64400263263273214115702565372963745702199492313354815471027370414619281990397",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.31,
+        0.69
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-29c",
+        "condition_id": "0xa9c914a31f284aff3fdf493fe669a1b6a9350fdf2b5a67fa7ecfd48f811cb756"
+      }
+    },
+    {
+      "market_id": "2416001",
+      "question": "Will the highest temperature in Toronto be 30°C or higher on June 4?",
+      "bucket_low": 30.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.685,
+      "no_price": 0.315,
+      "volume": 7457.102200999999,
+      "liquidity": 330.1859,
+      "token_id": "84113906280849840144102870293885838861219961003351638604622791256844211605521",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.685,
+        0.315
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-june-4-2026-30corhigher",
+        "condition_id": "0x98a7b667b4f40b1584bb63a599bf49c145960e41417afb33a5423dc5665995b1"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-04T18:29:59.276427+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-04T12:00:00Z",
+      "liquidity": 100497.07827,
+      "volume": 28401.750109000004,
+      "outcomes_count": 11,
+      "top_bucket": ">=30.0C",
+      "top_price": 0.685,
+      "event_title": "Highest temperature in Toronto on June 4?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-toronto-on-june-4-2026",
+    "event_id": "550232",
+    "markets_count": 11
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-04T16:52:28.948106+00:00",
+  "last_seen_at": "2026-06-04T18:29:59.276427+00:00",
+  "last_refreshed_at": "2026-06-04T18:29:59.276427+00:00",
+  "created_at": "2026-06-04T16:52:28.948106+00:00",
+  "updated_at": "2026-06-05T06:36:19.995796+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

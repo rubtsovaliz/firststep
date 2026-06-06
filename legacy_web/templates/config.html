@@ -1,0 +1,176 @@
+{% extends "base.html" %}
+{% block title %}Settings - WeatherBot{% endblock %}
+{% block content %}
+<div class="page-title">Settings</div>
+
+<div class="grid-2">
+    <div class="panel">
+        <div class="panel-header"><h3>Strategy Parameters</h3></div>
+        <table>
+            <thead><tr><th>Parameter</th><th>Value</th></tr></thead>
+            <tbody>
+            <tr><td>NO Distance Threshold</td><td class="td-mono">{{ strategy.no_distance_threshold_f }}°F{% if strategy.auto_calibrate_distance %} <span style="color:var(--text-dim);font-size:11px;">(auto)</span>{% endif %}</td></tr>
+            <tr><td>Auto-Calibrate Distance</td><td class="td-mono">{{ "ON" if strategy.auto_calibrate_distance else "OFF" }} ({{ "%.0f"|format(strategy.calibration_confidence * 100) }}%)</td></tr>
+            <tr><td>Min NO EV</td><td class="td-mono">{{ strategy.min_no_ev }}</td></tr>
+            <tr><td>Kelly Fraction</td><td class="td-mono">{{ strategy.kelly_fraction }}x</td></tr>
+            <tr><td>Trim EV Threshold</td><td class="td-mono">{{ strategy.min_trim_ev }}</td></tr>
+            <tr><td>Min Market Volume</td><td class="td-mono">${{ "%.0f"|format(strategy.min_market_volume) }}</td></tr>
+            <tr><td>Max Slot Spread</td><td class="td-mono">{{ strategy.max_slot_spread }}</td></tr>
+            <tr><td>Locked Wins</td><td class="td-mono">{{ "ON" if strategy.enable_locked_wins else "OFF" }}</td></tr>
+            <tr><td>Locked Win Kelly</td><td class="td-mono">{{ strategy.locked_win_kelly_fraction }}x</td></tr>
+            <tr><td>Max Locked Win/Slot</td><td class="td-mono">${{ "%.2f"|format(strategy.max_locked_win_per_slot_usd) }}</td></tr>
+            <tr><td>Force Exit Hours</td><td class="td-mono">{{ strategy.force_exit_hours }}h before settle</td></tr>
+            <tr><td>Exit Cooldown</td><td class="td-mono">{{ strategy.exit_cooldown_hours }}h</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="panel">
+        <div class="panel-header"><h3>Risk Limits</h3></div>
+        <table>
+            <thead><tr><th>Limit</th><th>Value</th></tr></thead>
+            <tbody>
+            <tr><td>Max per Slot</td><td class="td-mono">${{ "%.2f"|format(strategy.max_position_per_slot_usd) }}</td></tr>
+            <tr><td>Max per City</td><td class="td-mono">${{ "%.2f"|format(strategy.max_exposure_per_city_usd) }}</td></tr>
+            <tr><td>Max Total Exposure</td><td class="td-mono">${{ "%.2f"|format(strategy.max_total_exposure_usd) }}</td></tr>
+            <tr><td>Daily Loss Limit</td><td class="td-mono" style="color:var(--red-text);">${{ "%.2f"|format(strategy.daily_loss_limit_usd) }}</td></tr>
+            </tbody>
+        </table>
+
+        <div style="padding:16px 16px 0;">
+            <div class="panel-header" style="padding:0 0 12px;border:none;"><h3>Scheduling</h3></div>
+        </div>
+        <table>
+            <tbody>
+            <tr><td>Rebalance Interval</td><td class="td-mono">{{ scheduling.rebalance_interval_minutes }} min</td></tr>
+            <tr><td>Settlement Acceleration</td><td class="td-mono">15 min</td></tr>
+            <tr><td>Discovery Interval</td><td class="td-mono">{{ scheduling.discovery_interval_minutes }} min</td></tr>
+            <tr><td>P&L Snapshot</td><td class="td-mono">{{ scheduling.pnl_snapshot_interval_hours }} hr</td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="panel">
+    <div class="panel-header">
+        <h3>Strategy variants</h3>
+        <span style="font-size:11px;color:var(--text-dim);">{{ variants|length }} active</span>
+    </div>
+    <table>
+        <thead><tr><th>Strat</th><th>Name</th><th>Max NO Price</th><th>Kelly</th><th>Min EV</th><th>Per-City Cap</th><th>Description</th></tr></thead>
+        <tbody>
+        {# Iterates the live get_strategy_variants() dict, falling back to
+           StrategyConfig defaults for fields a variant doesn't override. #}
+        {% for name, params in variants.items() %}
+        {% set _meta = params.get('_meta', {'label': name, 'tag_class': 'tag-stable', 'description': ''}) %}
+        <tr>
+            <td><span class="tag {{ _meta.tag_class }}">{{ name }}</span></td>
+            <td>{{ _meta.label }}</td>
+            <td class="td-mono">{{ "%.2f"|format(params.get('max_no_price', strategy.max_no_price)) }}</td>
+            <td class="td-mono">{{ params.get('kelly_fraction', strategy.kelly_fraction) }}x / {{ params.get('locked_win_kelly_fraction', strategy.locked_win_kelly_fraction) }}x locked</td>
+            <td class="td-mono">{{ params.get('min_no_ev', strategy.min_no_ev) }}</td>
+            <td class="td-mono">${{ "%.0f"|format(params.get('max_exposure_per_city_usd', strategy.max_exposure_per_city_usd)) }}</td>
+            <td style="font-size:11px;color:var(--text-muted);">{{ _meta.description }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="panel">
+    <div class="panel-header">
+        <h3>Per-city forecast calibrator (live + cached)</h3>
+        <span style="font-size:11px;color:var(--text-dim);">
+            Hybrid auto-switches by n_live: &lt;5 cached, 5-29 Bayesian-shrunk hybrid, ≥30 pure live.
+            Drives bias correction in win_prob / EV math (not the trim ratios below).
+        </span>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>City</th>
+                <th>Source</th>
+                <th>n_live</th>
+                <th>n_cached</th>
+                <th>Mean (bias)</th>
+                <th>Std</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for row in calibrator_rows %}
+        <tr>
+            <td style="font-weight:500;">{{ row.city }}</td>
+            <td class="td-mono">
+                <span class="tag {% if row.source == 'live' %}tag-stable{% endif %}"
+                      {% if row.source == 'cached' %}style="opacity:0.5;"{% endif %}>
+                    {{ row.source }}
+                </span>
+            </td>
+            <td class="td-mono">{{ row.n_live }}</td>
+            <td class="td-mono">{{ row.n_cached }}</td>
+            <td class="td-mono">{{ "%+.2f"|format(row.mean) }}°F</td>
+            <td class="td-mono">{{ "%.2f"|format(row.std) }}°F</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="panel">
+    <div class="panel-header">
+        <h3>Per-city trim_price_stop_ratio</h3>
+        <span style="font-size:11px;color:var(--text-dim);">
+            P2-5 + P2-followup. Larger ratio = wider drawdown tolerance before TRIM[price_stop] fires.
+            Global fallback shown for cities not in the per-city dict.
+        </span>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>City</th>
+                <th>Source</th>
+                <th>Ratio</th>
+                <th>Calibrator (latest)</th>
+                <th>n_episodes</th>
+                <th>Boundary X</th>
+                <th>Method</th>
+                <th>Computed at</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for row in trim_ratios %}
+        <tr>
+            <td style="font-weight:500;">{{ row.city }}</td>
+            <td class="td-mono"><span class="tag {% if row.source == 'per_city' %}tag-stable{% endif %}" {% if row.source != 'per_city' %}style="opacity:0.5;"{% endif %}>{{ row.source }}</span></td>
+            <td class="td-mono">{{ "%.2f"|format(row.ratio) }}</td>
+            <td class="td-mono">{% if row.calib_ratio is not none %}{{ "%.2f"|format(row.calib_ratio) }}{% else %}—{% endif %}</td>
+            <td class="td-mono">{% if row.n_episodes is not none %}{{ row.n_episodes }}{% else %}—{% endif %}</td>
+            <td class="td-mono">{% if row.boundary_x is not none %}{{ "%.2f"|format(row.boundary_x) }}{% else %}—{% endif %}</td>
+            <td class="td-mono" style="font-size:11px;">{{ row.method or '—' }}</td>
+            <td class="td-mono" style="font-size:11px;color:var(--text-dim);">{{ row.computed_at or '—' }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="panel">
+    <div class="panel-header">
+        <h3>Monitored Cities</h3>
+        <span style="font-size:11px;color:var(--text-dim);">{{ cities|length }} configured</span>
+    </div>
+    <table>
+        <thead><tr><th>City</th><th>ICAO</th><th>Latitude</th><th>Longitude</th></tr></thead>
+        <tbody>
+        {% for c in cities %}
+        <tr>
+            <td style="font-weight:500;">{{ c.name }}</td>
+            <td class="td-mono">{{ c.icao }}</td>
+            <td class="td-mono">{{ c.lat }}</td>
+            <td class="td-mono">{{ c.lon }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

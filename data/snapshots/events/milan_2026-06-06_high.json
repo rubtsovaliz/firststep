@@ -1,0 +1,348 @@
+{
+  "storage_key": "milan_2026-06-06_high",
+  "event_id": "560844",
+  "event_slug": "highest-temperature-in-milan-on-june-6-2026",
+  "event_title": "Highest temperature in Milan on June 6?",
+  "city_slug": "milan",
+  "city_name": "Milan",
+  "date": "2026-06-06",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Milan",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-06T12:00:00Z",
+  "event_end_date": "2026-06-06T12:00:00Z",
+  "liquidity": 21618.89579,
+  "volume": 1583.706278,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2440954",
+      "question": "Will the highest temperature in Milan be 20°C or below on June 6?",
+      "bucket_low": -999.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "volume": null,
+      "liquidity": 2264.87899,
+      "token_id": "44759699575626383918236412647725395488912517593752954254474500937566202589858",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0055,
+        0.9945
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-20corbelow",
+        "condition_id": "0x3c50fa645b59f41c2df22e3d366a2168bb7fd39f6ee18373ab19f83052c08b69"
+      }
+    },
+    {
+      "market_id": "2440955",
+      "question": "Will the highest temperature in Milan be 21°C on June 6?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0125,
+      "no_price": 0.9875,
+      "volume": 28.064500000000002,
+      "liquidity": 1744.43238,
+      "token_id": "27980501408479928684136963769621861180829119604699252688845202410860355858879",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0125,
+        0.9875
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-21c",
+        "condition_id": "0x1e8184de7501c1404828f98264bc2479edac6eff47d3902872678736b771de76"
+      }
+    },
+    {
+      "market_id": "2440956",
+      "question": "Will the highest temperature in Milan be 22°C on June 6?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.025,
+      "no_price": 0.975,
+      "volume": 604.5716560000001,
+      "liquidity": 3081.78668,
+      "token_id": "101921838524240773128241653089617449123587104740240766125949262739403509307011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.025,
+        0.975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-22c",
+        "condition_id": "0x104d2b80494b0cbbac8639ac97485d2e130770aa417c0387a325c7eba5eddc52"
+      }
+    },
+    {
+      "market_id": "2440957",
+      "question": "Will the highest temperature in Milan be 23°C on June 6?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.205,
+      "no_price": 0.795,
+      "volume": 311.982497,
+      "liquidity": 1225.7274,
+      "token_id": "97486243931813065023276811359184066060775725310564596799422123351601256761455",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.205,
+        0.795
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-23c",
+        "condition_id": "0x1cfa04557dbd4602b8cceaae90f02a168f7b5a5c3f87434fedc5836bc805b401"
+      }
+    },
+    {
+      "market_id": "2440958",
+      "question": "Will the highest temperature in Milan be 24°C on June 6?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.345,
+      "no_price": 0.655,
+      "volume": 198.15436699999995,
+      "liquidity": 1234.4871,
+      "token_id": "26613149682344786637181141030056909506830374634194189578370917403416410992956",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.345,
+        0.655
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-24c",
+        "condition_id": "0x4393c848857978e85dcf4251fb0243df4fc04e9468b2a650965478eeb66883cd"
+      }
+    },
+    {
+      "market_id": "2440959",
+      "question": "Will the highest temperature in Milan be 25°C on June 6?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.365,
+      "no_price": 0.635,
+      "volume": 38.779022999999995,
+      "liquidity": 1186.3589,
+      "token_id": "63625704028216310430663799714739482822733923594747385103576522539536894382965",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.365,
+        0.635
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-25c",
+        "condition_id": "0x07794fc89b0aafec27a04d989eb4f02aff574dccf8831cd21794230c9b1f1351"
+      }
+    },
+    {
+      "market_id": "2440960",
+      "question": "Will the highest temperature in Milan be 26°C on June 6?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.06,
+      "no_price": 0.94,
+      "volume": 199.91139,
+      "liquidity": 1193.6044,
+      "token_id": "70920237085701119459845572997686005696315590939423081826871856412057645027984",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.06,
+        0.94
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-26c",
+        "condition_id": "0x664086b34ff59e73aa5f924bf9eb13e585759bacb3e5efde1396024bf9953a96"
+      }
+    },
+    {
+      "market_id": "2440961",
+      "question": "Will the highest temperature in Milan be 27°C on June 6?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.021,
+      "no_price": 0.979,
+      "volume": 52.597466000000004,
+      "liquidity": 1574.87097,
+      "token_id": "73138317818781276858430583705934946742019049763824698426339091010806917445364",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.021,
+        0.979
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-27c",
+        "condition_id": "0x2cf16f4a66a452e7e15e47d72b8585c5ed5e74d6a04e882bfc457a79282818d0"
+      }
+    },
+    {
+      "market_id": "2440962",
+      "question": "Will the highest temperature in Milan be 28°C on June 6?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0075,
+      "no_price": 0.9925,
+      "volume": 152.24649499999998,
+      "liquidity": 1970.07167,
+      "token_id": "30002810674918280681950138618249875859402462029162931137254897540526556739196",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0075,
+        0.9925
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-28c",
+        "condition_id": "0x5137f8a20bf211f14261c28ba6336adf1ae7f0a6a0ad5764da4e4aba5a19af53"
+      }
+    },
+    {
+      "market_id": "2440963",
+      "question": "Will the highest temperature in Milan be 29°C on June 6?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.006,
+      "no_price": 0.994,
+      "volume": 25.03,
+      "liquidity": 3435.04618,
+      "token_id": "107242529482699906633807039222530697519057274897728366933591486800345529267493",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.006,
+        0.994
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-29c",
+        "condition_id": "0xa26ffe675c04138826018896a47768e2312ef4a9798b5b628c26556b71952f74"
+      }
+    },
+    {
+      "market_id": "2440964",
+      "question": "Will the highest temperature in Milan be 30°C or higher on June 6?",
+      "bucket_low": 30.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.005,
+      "no_price": 0.995,
+      "volume": 10.0,
+      "liquidity": 3482.61894,
+      "token_id": "37540136871449339373827540855921919191315081048495123743529353274321950740987",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.005,
+        0.995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-milan-on-june-6-2026-30corhigher",
+        "condition_id": "0x6256c3f629b981974739bafab0f1cafc4388f34c913a2456470305605e1bf834"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-05T06:36:19.116734+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-06T12:00:00Z",
+      "liquidity": 21618.89579,
+      "volume": 1583.706278,
+      "outcomes_count": 11,
+      "top_bucket": "25.0-25.0C",
+      "top_price": 0.365,
+      "event_title": "Highest temperature in Milan on June 6?"
+    }
+  ],
+  "raw_source": {
+    "event_slug": "highest-temperature-in-milan-on-june-6-2026",
+    "event_id": "560844",
+    "markets_count": 11
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 29.4,
+  "first_seen_at": "2026-06-05T06:08:46.467997+00:00",
+  "last_seen_at": "2026-06-05T06:36:19.116734+00:00",
+  "last_refreshed_at": "2026-06-05T06:36:19.116734+00:00",
+  "created_at": "2026-06-05T06:08:46.467997+00:00",
+  "updated_at": "2026-06-05T06:36:19.116734+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

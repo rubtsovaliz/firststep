@@ -1,0 +1,204 @@
+{% extends "base.html" %}
+{% block title %}Markets - WeatherBot{% endblock %}
+{% block content %}
+<div class="page-title">
+    Active Weather Markets
+    <span id="markets-count" style="font-size:14px;color:var(--text-muted);font-weight:400;">(loading…)</span>
+</div>
+
+<div id="markets-root">
+    <div class="panel">
+        <div class="empty-state">
+            <div class="icon">~</div>
+            <p>Loading markets from Gamma discovery…</p>
+        </div>
+    </div>
+</div>
+
+<div id="markets-error" class="panel" style="display:none;border-color:var(--red);">
+    <div class="panel-body" style="color:var(--red-text);"></div>
+</div>
+
+<script>
+(function () {
+    const root = document.getElementById("markets-root");
+    const countEl = document.getElementById("markets-count");
+    const errPanel = document.getElementById("markets-error");
+
+    function esc(s) {
+        return String(s ?? "")
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;");
+    }
+
+    function formatBucket(o) {
+        const unit = o.unit || "C";
+        const low = o.bucket_low;
+        const high = o.bucket_high;
+        if (low === -999) return "\u2264" + high + "\u00b0" + unit;
+        if (high === 999) return "\u2265" + low + "\u00b0" + unit;
+        if (low === high) return low + "\u00b0" + unit;
+        return low + "-" + high + "\u00b0" + unit;
+    }
+
+    function formatMarketDate(iso) {
+        if (!iso) return "";
+        const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso);
+        if (!m) return iso;
+        const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+        return months[parseInt(m[2], 10) - 1] + " " + parseInt(m[3], 10);
+    }
+
+    function fmtPrice(v) {
+        if (v == null || Number.isNaN(v)) return "-";
+        return Number(v).toFixed(3);
+    }
+
+    function fmtPct(v) {
+        if (v == null || Number.isNaN(v)) return "-";
+        return (Number(v) * 100).toFixed(1) + "%";
+    }
+
+    function metricLabel(ev) {
+        if (ev.temperature_metric === "high") return "High";
+        if (ev.temperature_metric === "low") return "Low";
+        if (ev.market_type === "max_temperature") return "High";
+        if (ev.market_type === "min_temperature") return "Low";
+        return "";
+    }
+
+    function hoursToSettle(ev) {
+        if (ev.hours_to_settle != null && !Number.isNaN(Number(ev.hours_to_settle))) {
+            return Number(ev.hours_to_settle);
+        }
+        if (ev.settle_at) {
+            const t = Date.parse(ev.settle_at);
+            if (!Number.isNaN(t)) {
+                return (t - Date.now()) / 3600000;
+            }
+        }
+        return null;
+    }
+
+    function formatHoursLeft(hrs) {
+        if (hrs == null || Number.isNaN(hrs)) return null;
+        if (hrs <= 0) return null;
+        return Math.round(hrs) + "h left";
+    }
+
+    function topYesIndex(outcomes) {
+        let best = -1;
+        let idx = -1;
+        outcomes.forEach(function (o, i) {
+            const p = o.yes_price;
+            if (p != null && p > best) {
+                best = p;
+                idx = i;
+            }
+        });
+        return idx;
+    }
+
+    function renderEvent(ev, index) {
+        const outcomes = ev.all_outcomes || [];
+        const topIdx = topYesIndex(outcomes);
+        const metric = metricLabel(ev);
+        const hrs = hoursToSettle(ev);
+        const hrsLabel = formatHoursLeft(hrs);
+        const openAttr = index < 2 ? " open" : "";
+
+        let meta = "";
+        if (metric) {
+            meta += '<span class="tag tag-info" style="margin-right:8px;">' + esc(metric) + "</span>";
+        }
+        if (hrsLabel) {
+            meta += '<span class="tag tag-breakout-up" style="margin-right:8px;">' + hrsLabel + "</span>";
+        }
+
+        let rows = "";
+        outcomes.forEach(function (slot, si) {
+            const yes = slot.yes_price;
+            const no = slot.no_price;
+            const spread = yes != null && no != null ? yes + no - 1 : null;
+            const hl = si === topIdx ? ' class="row-highlight"' : "";
+            rows +=
+                "<tr" + hl + ">" +
+                '<td style="font-weight:500;font-size:13px;">' + esc(formatBucket(slot)) + "</td>" +
+                '<td class="td-mono">' + fmtPrice(yes) + "</td>" +
+                '<td class="td-mono">' + fmtPrice(no) + "</td>" +
+                '<td class="td-mono" style="color:var(--text-dim);">' +
+                    (spread != null ? spread.toFixed(3) : "-") +
+                "</td>" +
+                '<td class="td-mono">-</td>' +
+                '<td class="td-mono">-</td>' +
+                '<td class="td-mono">-</td>' +
+                "</tr>";
+        });
+
+        const title = ev.city_name || (ev.city_slug || "").replace(/-/g, " ").replace(/\b\w/g, function (c) { return c.toUpperCase(); });
+        const vol = ev.volume != null ? "$" + Math.round(ev.volume) : "?";
+
+        return (
+            "<details" + openAttr + ">" +
+            "<summary>" +
+            '<span style="flex:1;">' +
+            "<strong>" + esc(title) + "</strong>" +
+            '<span style="color:var(--text-muted);font-size:12px;margin-left:8px;">' +
+            esc(formatMarketDate(ev.date)) + "</span>" +
+            '<span style="color:var(--text-dim);font-size:11px;margin-left:8px;">' + esc(ev.storage_key || "") + "</span>" +
+            "</span>" +
+            meta +
+            '<span style="font-size:12px;color:var(--text-dim);">' + outcomes.length + " slots</span>" +
+            "</summary>" +
+            '<div class="detail-body">' +
+            '<div style="display:flex;gap:16px;padding:10px 16px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-muted);">' +
+            "<span>Source: <strong style=\"color:var(--text);\">Gamma API</strong></span>" +
+            "<span>Event: <strong style=\"color:var(--text);\">" + esc(ev.event_title || "") + "</strong></span>" +
+            "<span>Volume: <strong style=\"color:var(--text);\">" + vol + "</strong></span>" +
+            (hrs != null && hrs > 0
+                ? '<span>Settlement: <strong style="color:var(--text);">' + hrs.toFixed(1) + "h</strong></span>"
+                : "") +
+            "</div>" +
+            "<table>" +
+            "<thead><tr><th>Temperature Slot</th><th>YES</th><th>NO</th><th>Spread</th><th>Distance</th><th>NO Win%</th><th>EV</th></tr></thead>" +
+            "<tbody>" + rows + "</tbody>" +
+            "</table>" +
+            "</div>" +
+            "</details>"
+        );
+    }
+
+    async function loadMarkets() {
+        try {
+            const url = "/api/markets?limit=5000&_=" + Date.now();
+            const resp = await fetch(url, { cache: "no-store" });
+            if (!resp.ok) {
+                throw new Error(await resp.text() || "HTTP " + resp.status);
+            }
+            const data = await resp.json();
+            const events = data.events || data.markets || [];
+            countEl.textContent = "(" + events.length + " events)";
+            if (!events.length) {
+                root.innerHTML =
+                    '<div class="panel"><div class="empty-state">' +
+                    '<div class="icon">~</div>' +
+                    "<p>No active weather markets. Run discovery refresh from the API dashboard.</p>" +
+                    "</div></div>";
+                return;
+            }
+            root.innerHTML = events.map(renderEvent).join("");
+        } catch (e) {
+            countEl.textContent = "(error)";
+            root.innerHTML = "";
+            errPanel.style.display = "block";
+            errPanel.querySelector(".panel-body").textContent =
+                "Failed to load /api/markets: " + (e && e.message ? e.message : String(e));
+        }
+    }
+
+    loadMarkets();
+})();
+</script>
+{% endblock %}
