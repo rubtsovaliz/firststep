@@ -1,0 +1,360 @@
+{
+  "storage_key": "toronto_2026-04-20_high",
+  "event_id": "390812",
+  "event_slug": "highest-temperature-in-toronto-on-april-20-2026",
+  "event_title": "Highest temperature in Toronto on April 20?",
+  "city_slug": "toronto",
+  "city_name": "Toronto",
+  "date": "2026-04-20",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Toronto",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-20T12:00:00Z",
+  "event_end_date": "2026-04-20T12:00:00Z",
+  "liquidity": null,
+  "volume": 116320.52686900001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2011101",
+      "question": "Will the highest temperature in Toronto be 1°C or below on April 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7949.706914,
+      "liquidity": null,
+      "token_id": "18224207160045863094781445605695468779033233174037371834204263033802045599652",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-1corbelow",
+        "condition_id": "0x1367c22e40150f399a2419f0104ff253e12ac61d1f3dd2d231c8de3253c47b71"
+      }
+    },
+    {
+      "market_id": "2011102",
+      "question": "Will the highest temperature in Toronto be 2°C on April 20?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10984.237571000001,
+      "liquidity": null,
+      "token_id": "31712376245230627370355601413523407638675685112763621779812667713677724567254",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-2c",
+        "condition_id": "0x779d7f46e17b13fcc1d1f5a75a107057332f872065ea93f539a350ddc62c0865"
+      }
+    },
+    {
+      "market_id": "2011103",
+      "question": "Will the highest temperature in Toronto be 3°C on April 20?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9888.437902999998,
+      "liquidity": null,
+      "token_id": "5799738280254039446550082360490329082155459492989740515053951202826444994002",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-3c",
+        "condition_id": "0x4997d0fc4cc56ad141d21e5a0a1fd04342472c090725c2ce38a529daf667dae6"
+      }
+    },
+    {
+      "market_id": "2011104",
+      "question": "Will the highest temperature in Toronto be 4°C on April 20?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17691.352260000003,
+      "liquidity": null,
+      "token_id": "75788365616763594374591159023712152970885667773697890752970437889511259835067",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-4c",
+        "condition_id": "0x7e27632e048b65fb6279dd8dc2f1736d9a44da0a08ef0f29c9390f88e3b4a065"
+      }
+    },
+    {
+      "market_id": "2011105",
+      "question": "Will the highest temperature in Toronto be 5°C on April 20?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 16091.681957999976,
+      "liquidity": null,
+      "token_id": "18907573121631976458319623048521246084114167409001895050037471118834327912601",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-5c",
+        "condition_id": "0xf950630df721af9f2ccff5153aa04da940308febb4cce6c77c1cbdec04ceff47"
+      }
+    },
+    {
+      "market_id": "2011106",
+      "question": "Will the highest temperature in Toronto be 6°C on April 20?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13172.117931000008,
+      "liquidity": null,
+      "token_id": "84701781540691485649872577979872027167993329954727535074417320628729211448740",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-6c",
+        "condition_id": "0x8987ab5c9860cff052d34f1f824440d299fb7ef474a63d3f1b09de23f641b8d8"
+      }
+    },
+    {
+      "market_id": "2011107",
+      "question": "Will the highest temperature in Toronto be 7°C on April 20?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11093.700177,
+      "liquidity": null,
+      "token_id": "95418446392524508087807933065091153439399884899391039575740919429358764678979",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-7c",
+        "condition_id": "0x26a5e6993662fd29aa488238ecfa4a8468bbfcb5bc27164d339bc4b2233b544f"
+      }
+    },
+    {
+      "market_id": "2011108",
+      "question": "Will the highest temperature in Toronto be 8°C on April 20?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5618.572739000002,
+      "liquidity": null,
+      "token_id": "86909593814290835354095616386559800085703172565776887922154926063751796202000",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-8c",
+        "condition_id": "0xe863d7f74b2d8b7c6c1e9505aa56453c9036fb986eca714bb2b863a630f1076d"
+      }
+    },
+    {
+      "market_id": "2011109",
+      "question": "Will the highest temperature in Toronto be 9°C on April 20?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3941.0464210000036,
+      "liquidity": null,
+      "token_id": "4773043668735552446513259374076159539564596416171981420492617304285968142354",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-9c",
+        "condition_id": "0xf5c2ed5b9f621462fd1b8561ea00434ac4bbc3c3d789cb971bf6239d107efded"
+      }
+    },
+    {
+      "market_id": "2011110",
+      "question": "Will the highest temperature in Toronto be 10°C on April 20?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2908.168412000002,
+      "liquidity": null,
+      "token_id": "7934085370675359386704144873199431946218410380829984003708126411276186553984",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-10c",
+        "condition_id": "0x4d35cd104fb512e2eba6af32943a7382972696e0962c858d4919ac3c6923bb7e"
+      }
+    },
+    {
+      "market_id": "2011111",
+      "question": "Will the highest temperature in Toronto be 11°C or higher on April 20?",
+      "bucket_low": 11.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16981.50458300001,
+      "liquidity": null,
+      "token_id": "50644209704367921783174806926797239000805679256972088304862083744198557044759",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-april-20-2026-11corhigher",
+        "condition_id": "0xbd10a5f7c9922d821808200cd20d16305658cba0663b9c39d36967e72ffcc96f"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:05.144397+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-20T12:00:00Z",
+      "liquidity": null,
+      "volume": 116320.52686900001,
+      "outcomes_count": 11,
+      "top_bucket": "5.0-5.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Toronto on April 20?"
+    }
+  ],
+  "settle_at": "2026-04-21T04:00:00+00:00",
+  "hours_to_settle": -1140.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-toronto-on-april-20-2026",
+    "event_id": "390812",
+    "markets_count": 11,
+    "game_start_time": "2026-04-20 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:05.144397+00:00",
+  "last_seen_at": "2026-06-07T16:06:05.144397+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:05.144397+00:00",
+  "created_at": "2026-06-07T16:06:05.144397+00:00",
+  "updated_at": "2026-06-10T17:17:31.200226+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "5C",
+      "resolved_value": "5C",
+      "resolution_source": null,
+      "winning_market_id": "2011105",
+      "winning_question": "Will the highest temperature in Toronto be 5°C on April 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:05.145399+00:00"
+  },
+  "legacy": null
+}

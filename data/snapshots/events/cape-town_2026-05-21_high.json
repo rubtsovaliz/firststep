@@ -1,0 +1,360 @@
+{
+  "storage_key": "cape-town_2026-05-21_high",
+  "event_id": "500711",
+  "event_slug": "highest-temperature-in-cape-town-on-may-21-2026",
+  "event_title": "Highest temperature in Cape Town on May 21?",
+  "city_slug": "cape-town",
+  "city_name": "Cape Town",
+  "date": "2026-05-21",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Cape Town",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-21T12:00:00Z",
+  "event_end_date": "2026-05-21T12:00:00Z",
+  "liquidity": null,
+  "volume": 15082.270623,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2299803",
+      "question": "Will the highest temperature in Cape Town be 15°C or below on May 21?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5214.298352,
+      "liquidity": null,
+      "token_id": "41784924334889541399736110647374748741244207066566096125583582800945187688133",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-15corbelow",
+        "condition_id": "0x9776156240569e679c5e163fd13d10c90271f7797365ad6df1118439d53ffc80"
+      }
+    },
+    {
+      "market_id": "2299804",
+      "question": "Will the highest temperature in Cape Town be 16°C on May 21?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 1161.7109930000001,
+      "liquidity": null,
+      "token_id": "11494017714986298406189903216987519418859452996372879932117032260602935559165",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-16c",
+        "condition_id": "0xab93d42d1aff45880c347836042003afad45b10326db194863015b24c796a284"
+      }
+    },
+    {
+      "market_id": "2299805",
+      "question": "Will the highest temperature in Cape Town be 17°C on May 21?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 681.629535,
+      "liquidity": null,
+      "token_id": "21193217802491109540557696114009379807168053471543532897182622356490221303793",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-17c",
+        "condition_id": "0x72e788f7184d66513032f65bdb4e45b87066363200def83822de79c27071f4c2"
+      }
+    },
+    {
+      "market_id": "2299806",
+      "question": "Will the highest temperature in Cape Town be 18°C on May 21?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1085.494541,
+      "liquidity": null,
+      "token_id": "14890477137903043556593728209115353758853918341930312114986438780426448732623",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-18c",
+        "condition_id": "0xaddcde3c02fbe43139eb42c2b20d70921923eddd85c2ae0a352e57c5b04bf39f"
+      }
+    },
+    {
+      "market_id": "2299807",
+      "question": "Will the highest temperature in Cape Town be 19°C on May 21?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 884.064541,
+      "liquidity": null,
+      "token_id": "69828459785346331927490829851127338991062138070612645342255305059804496873831",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-19c",
+        "condition_id": "0x0fd9872f5b3edddde46c38236fa6b871f77815b2fed34212728f54d053083290"
+      }
+    },
+    {
+      "market_id": "2299808",
+      "question": "Will the highest temperature in Cape Town be 20°C on May 21?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 708.5668829999998,
+      "liquidity": null,
+      "token_id": "26088441811301191404214561717833300494342950757551138442428071591751544860132",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-20c",
+        "condition_id": "0x8dccc8057095e22c4446d35eab5d95277b3aec6f7bbc4fdfba977b99d30e6317"
+      }
+    },
+    {
+      "market_id": "2299809",
+      "question": "Will the highest temperature in Cape Town be 21°C on May 21?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1159.514333,
+      "liquidity": null,
+      "token_id": "88067400590003704183750394497351033807419124002287885544604388877005481115950",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-21c",
+        "condition_id": "0x9519d5fe0a21bea0365d7b3c3bbcb50a9d2d7b6445ba469b5fd8c2c69bd0b561"
+      }
+    },
+    {
+      "market_id": "2299810",
+      "question": "Will the highest temperature in Cape Town be 22°C on May 21?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1650.500029,
+      "liquidity": null,
+      "token_id": "108385086934909300986674011304797291198261192974405073759584613180752801737894",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-22c",
+        "condition_id": "0x691bd3d0b5be7d0b0b65bb0ca8cff29d8bcaebbba2280c783ed58d5eb506eafc"
+      }
+    },
+    {
+      "market_id": "2299811",
+      "question": "Will the highest temperature in Cape Town be 23°C on May 21?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1061.272826,
+      "liquidity": null,
+      "token_id": "53422948526463845868763745542323804925450400643990814564213396722881091676617",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-23c",
+        "condition_id": "0xfc1371078b1de6a1eed4f5c7556c2b119ac83f71d4c32d9bccc3171e58661392"
+      }
+    },
+    {
+      "market_id": "2299812",
+      "question": "Will the highest temperature in Cape Town be 24°C on May 21?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1036.86859,
+      "liquidity": null,
+      "token_id": "113522245579673887490574125681048689897358687540355386359169529519759116468299",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-24c",
+        "condition_id": "0x5b2e5feaf689f4769e243b397a23945d3539939e5e2d6de0bc2845eb745fd1af"
+      }
+    },
+    {
+      "market_id": "2299813",
+      "question": "Will the highest temperature in Cape Town be 25°C or higher on May 21?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 438.34999999999997,
+      "liquidity": null,
+      "token_id": "79492017467462910395420791865006322834350411611417197623954408484552340119420",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-may-21-2026-25corhigher",
+        "condition_id": "0xf2becff324eadb8e472c14e06c3c039b2e1698130e445d8950c556a52158ee7c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:52.283380+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-21T12:00:00Z",
+      "liquidity": null,
+      "volume": 15082.270623,
+      "outcomes_count": 11,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Cape Town on May 21?"
+    }
+  ],
+  "settle_at": "2026-05-21T22:00:00+00:00",
+  "hours_to_settle": -402.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-cape-town-on-may-21-2026",
+    "event_id": "500711",
+    "markets_count": 11,
+    "game_start_time": "2026-05-20 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:52.283380+00:00",
+  "last_seen_at": "2026-06-07T16:05:52.283380+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:52.283380+00:00",
+  "created_at": "2026-06-07T16:05:52.283380+00:00",
+  "updated_at": "2026-06-10T17:17:28.669414+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "16C",
+      "resolved_value": "16C",
+      "resolution_source": null,
+      "winning_market_id": "2299804",
+      "winning_question": "Will the highest temperature in Cape Town be 16°C on May 21?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:52.284383+00:00"
+  },
+  "legacy": null
+}

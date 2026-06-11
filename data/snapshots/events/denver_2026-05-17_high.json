@@ -1,0 +1,360 @@
+{
+  "storage_key": "denver_2026-05-17_high",
+  "event_id": "486851",
+  "event_slug": "arch-highest-temperature-in-denver-on-may-17-2026",
+  "event_title": "Highest temperature in Denver on May 17?",
+  "city_slug": "denver",
+  "city_name": "Denver",
+  "date": "2026-05-17",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Denver",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-17T12:00:00Z",
+  "event_end_date": "2026-05-17T12:00:00Z",
+  "liquidity": null,
+  "volume": 48375.227517,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2265993",
+      "question": "Will the highest temperature in Denver be 71°F or below on May 17?",
+      "bucket_low": -999.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6574.707245000004,
+      "liquidity": null,
+      "token_id": "78895725661165114893612388131190848023120280984270946036627528333674449468467",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-71forbelow",
+        "condition_id": "0x6e59ddbdd97aed2fb56d874ada64a0f8f8488dbe2875990fbff59f9e22862421"
+      }
+    },
+    {
+      "market_id": "2265994",
+      "question": "Will the highest temperature in Denver be between 72-73°F on May 17?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 4168.693761999999,
+      "liquidity": null,
+      "token_id": "73643675421559587955957712916967991723763308799201428138490396112694313503572",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-72-73f",
+        "condition_id": "0x04ad2306fa4bb8b621e0c293cedce9d96c39843a49dc4f54e2ada19f1e254379"
+      }
+    },
+    {
+      "market_id": "2265995",
+      "question": "Will the highest temperature in Denver be between 74-75°F on May 17?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5069.047985999999,
+      "liquidity": 0.0,
+      "token_id": "14669619414262785112347707025523603084526839385797180395274262708766110392379",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-74-75f",
+        "condition_id": "0x61d5967b648ed347514b3cf425888628aa7d7c7d68368545ae3239dbd89adeea"
+      }
+    },
+    {
+      "market_id": "2265996",
+      "question": "Will the highest temperature in Denver be between 76-77°F on May 17?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5125.9131929999985,
+      "liquidity": 0.0,
+      "token_id": "56542692033499800784925771193103223681305822813402326551398217588233769607326",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-76-77f",
+        "condition_id": "0xe074e2b4c5621a7bbe41e6ff99c2704af2a4803afd076a5cfd96e18d98d37730"
+      }
+    },
+    {
+      "market_id": "2265997",
+      "question": "Will the highest temperature in Denver be between 78-79°F on May 17?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8724.464727999997,
+      "liquidity": 0.0,
+      "token_id": "24154836362658094809133239264283623096185056633051756104780787252506345159598",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-78-79f",
+        "condition_id": "0xdb12ee0e5f70d741cce3dbbcc12b786155133d146ddd1ccb463fcf1b4a766e08"
+      }
+    },
+    {
+      "market_id": "2265998",
+      "question": "Will the highest temperature in Denver be between 80-81°F on May 17?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6312.717663,
+      "liquidity": 0.0,
+      "token_id": "7828793618391730559168241397629259421734348584085135836242158484149045482063",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-80-81f",
+        "condition_id": "0x39c10093cb5c7d20cf8b6ef8a6c544c2cd26924b27f1367b42132be069a3f282"
+      }
+    },
+    {
+      "market_id": "2265999",
+      "question": "Will the highest temperature in Denver be between 82-83°F on May 17?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7564.827927000001,
+      "liquidity": 0.0,
+      "token_id": "882238705108968799423983643404596784626047812047667809748663114523759141868",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-82-83f",
+        "condition_id": "0xb0a348970b3b50daaa76981d72c6b143a555a0ab61e8c15399ad51c2d014b90a"
+      }
+    },
+    {
+      "market_id": "2266000",
+      "question": "Will the highest temperature in Denver be between 84-85°F on May 17?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1058.056665,
+      "liquidity": 0.0,
+      "token_id": "50531798555479714722976088203221823298978200061922387981963435565199762210300",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-84-85f",
+        "condition_id": "0xdb5650433d5ddda45aad3debc409d147f1f00e5d087b2047f2581a014229e29d"
+      }
+    },
+    {
+      "market_id": "2266001",
+      "question": "Will the highest temperature in Denver be between 86-87°F on May 17?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 456.0,
+      "liquidity": 0.0,
+      "token_id": "1292180315429346693738435830058690092042766378036824126252332121878741883495",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-86-87f",
+        "condition_id": "0x7c8d0ca11d6bbd219c9be39b18840caf676fd84af1c7ee228c9dbe6baf74c7c7"
+      }
+    },
+    {
+      "market_id": "2266002",
+      "question": "Will the highest temperature in Denver be between 88-89°F on May 17?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 770.331976,
+      "liquidity": 0.0,
+      "token_id": "35028463887312726781130822146136476047312175798756635997933934167266699595915",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-88-89f",
+        "condition_id": "0xdf48728a38b494e3533f41764a0b0dee55c115dbafed3fc7b84f14253a8d8960"
+      }
+    },
+    {
+      "market_id": "2266003",
+      "question": "Will the highest temperature in Denver be 90°F or higher on May 17?",
+      "bucket_low": 90.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2550.466372,
+      "liquidity": 0.0,
+      "token_id": "11980192297080316303702575654288560358222791773032939861922365181714174241941",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-denver-on-may-17-2026-90forhigher",
+        "condition_id": "0xda8ab164999ba3da8a2777331ca27c48a45a4b6dcee849fa0cb929b987655fb2"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:59.163434+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-17T12:00:00Z",
+      "liquidity": null,
+      "volume": 48375.227517,
+      "outcomes_count": 11,
+      "top_bucket": "72.0-73.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Denver on May 17?"
+    }
+  ],
+  "settle_at": "2026-05-18T06:00:00+00:00",
+  "hours_to_settle": -490.1,
+  "raw_source": {
+    "event_slug": "arch-highest-temperature-in-denver-on-may-17-2026",
+    "event_id": "486851",
+    "markets_count": 11,
+    "game_start_time": "2026-05-17 06:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:59.163434+00:00",
+  "last_seen_at": "2026-06-07T16:05:59.163434+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:59.163434+00:00",
+  "created_at": "2026-06-07T16:05:59.163434+00:00",
+  "updated_at": "2026-06-10T17:17:28.989149+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "72-73F",
+      "resolved_value": "72-73F",
+      "resolution_source": null,
+      "winning_market_id": "2265994",
+      "winning_question": "Will the highest temperature in Denver be between 72-73°F on May 17?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:59.165439+00:00"
+  },
+  "legacy": null
+}

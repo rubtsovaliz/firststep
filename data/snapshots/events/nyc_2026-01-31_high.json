@@ -1,0 +1,253 @@
+{
+  "storage_key": "nyc_2026-01-31_high",
+  "event_id": "192377",
+  "event_slug": "highest-temperature-in-nyc-on-january-31",
+  "event_title": "Highest temperature in NYC on January 31?",
+  "city_slug": "nyc",
+  "city_name": "Nyc",
+  "date": "2026-01-31",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "New York City"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-01-31T12:00:00Z",
+  "event_end_date": "2026-01-31T12:00:00Z",
+  "liquidity": null,
+  "volume": 254572.97421,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1291793",
+      "question": "Will the highest temperature in New York City be 17°F or below on January 31?",
+      "bucket_low": -999.0,
+      "bucket_high": 17.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24904.178983,
+      "liquidity": null,
+      "token_id": "38086117354871288938438501291239503799950042438871362919574139964995772861499",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-january-31-17forbelow",
+        "condition_id": "0x1dc2620dc9a31428040277ebbc10336d8527f46badcbc0a25cb4e66d5708a53f"
+      }
+    },
+    {
+      "market_id": "1291794",
+      "question": "Will the highest temperature in New York City be between 18-19°F on January 31?",
+      "bucket_low": 18.0,
+      "bucket_high": 19.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20292.623736,
+      "liquidity": null,
+      "token_id": "2309256034247465769012837449352693426495153687904515913210955511086325411635",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-january-31-18-19f",
+        "condition_id": "0x833bb802b239bfc7174a544fc4a09eb1a75ce62a5b2de486a50fc10472bbf110"
+      }
+    },
+    {
+      "market_id": "1291795",
+      "question": "Will the highest temperature in New York City be between 20-21°F on January 31?",
+      "bucket_low": 20.0,
+      "bucket_high": 21.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 32211.5661,
+      "liquidity": null,
+      "token_id": "23812743760898832842329506288779776506899175578969351493512089222337390823889",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-january-31-20-21f",
+        "condition_id": "0x83e71b0eaf478decb906b0d8eae40b32e2fc4ab3c2e24f7cee2b952ad1af5588"
+      }
+    },
+    {
+      "market_id": "1291796",
+      "question": "Will the highest temperature in New York City be between 22-23°F on January 31?",
+      "bucket_low": 22.0,
+      "bucket_high": 23.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 40979.837914,
+      "liquidity": null,
+      "token_id": "114618036471324140887067155567796403701609298215632293061025619141653214694830",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-january-31-22-23f",
+        "condition_id": "0xa364fcaf51812b8f54e8f73aef75e2dc19a6ee0b2cfea0f973363822a0afa020"
+      }
+    },
+    {
+      "market_id": "1291797",
+      "question": "Will the highest temperature in New York City be between 24-25°F on January 31?",
+      "bucket_low": 24.0,
+      "bucket_high": 25.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 35575.755758,
+      "liquidity": null,
+      "token_id": "43761256413687579656855278536934804238979746226290197428645051684293856813236",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-january-31-24-25f",
+        "condition_id": "0xbccc1d1ca26e44fe29960eaa85acc54a522b79cf28b385a62b7c4ced653ca015"
+      }
+    },
+    {
+      "market_id": "1291798",
+      "question": "Will the highest temperature in New York City be between 26-27°F on January 31?",
+      "bucket_low": 26.0,
+      "bucket_high": 27.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 67355.916436,
+      "liquidity": null,
+      "token_id": "48614403025951856128845545739103630354840432882623713002276059907009281818834",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-january-31-26-27f",
+        "condition_id": "0x5c6e919d47314b2cb50713de8fbce0e3d734de747cf23df01cf033546b7c49e8"
+      }
+    },
+    {
+      "market_id": "1291799",
+      "question": "Will the highest temperature in New York City be 28°F or higher on January 31?",
+      "bucket_low": 28.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 33253.095283,
+      "liquidity": null,
+      "token_id": "49267307144628090448974873258591169618479236456627604076951214267148389827252",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-january-31-28forhigher",
+        "condition_id": "0xd0306b14f666f09565faea59ec4a1c2898eff809992a0607e62dc9b6d4cfeb5c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:12.245092+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-01-31T12:00:00Z",
+      "liquidity": null,
+      "volume": 254572.97421,
+      "outcomes_count": 7,
+      "top_bucket": "24.0-25.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in NYC on January 31?"
+    }
+  ],
+  "settle_at": "2026-02-01T05:00:00+00:00",
+  "hours_to_settle": -3035.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-nyc-on-january-31",
+    "event_id": "192377",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:12.245092+00:00",
+  "last_seen_at": "2026-06-07T16:06:12.245092+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:12.245092+00:00",
+  "created_at": "2026-06-07T16:06:12.245092+00:00",
+  "updated_at": "2026-06-10T17:17:30.145850+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "24-25F",
+      "resolved_value": "24-25F",
+      "resolution_source": null,
+      "winning_market_id": "1291797",
+      "winning_question": "Will the highest temperature in New York City be between 24-25°F on January 31?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:12.246095+00:00"
+  },
+  "legacy": null
+}

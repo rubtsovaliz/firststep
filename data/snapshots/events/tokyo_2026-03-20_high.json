@@ -1,0 +1,359 @@
+{
+  "storage_key": "tokyo_2026-03-20_high",
+  "event_id": "275659",
+  "event_slug": "highest-temperature-in-tokyo-on-march-20-2026",
+  "event_title": "Highest temperature in Tokyo on March 20?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-03-20",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Tokyo",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-20T12:00:00Z",
+  "event_end_date": "2026-03-20T12:00:00Z",
+  "liquidity": null,
+  "volume": null,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1605792",
+      "question": "Will the highest temperature in Tokyo be 10°C or below on March 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "52439251825799171917381626089281358053325151890443205382971039893349184868356",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-10corbelow",
+        "condition_id": "0x32fae9585d3ab36cdfbe0cf0ecbf407fbfbfd2e549d4731e78cd128d6f62087e"
+      }
+    },
+    {
+      "market_id": "1605793",
+      "question": "Will the highest temperature in Tokyo be 11°C on March 20?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "40429006233168341596879670235725107761436672076644899601665782092962442306598",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-11c",
+        "condition_id": "0x61e29988cf52b819e3c8ab8acf745a018a896d02a35d16a480e7ed7e9ba03846"
+      }
+    },
+    {
+      "market_id": "1605794",
+      "question": "Will the highest temperature in Tokyo be 12°C on March 20?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "108170005330461810394464162252538540409668034039106948776895075987094112275667",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-12c",
+        "condition_id": "0xa6062f3149d57ebeea17d6ab22d4848f521d1ece30004c0fd3a855d5df076127"
+      }
+    },
+    {
+      "market_id": "1605795",
+      "question": "Will the highest temperature in Tokyo be 13°C on March 20?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "12084687331108946540388977450900280293800260907027809276393550977354840160994",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-13c",
+        "condition_id": "0x51ba53228efafb65fd1c774f75a06b7c0f53261cf6441ad9eecedacf93e1e249"
+      }
+    },
+    {
+      "market_id": "1605796",
+      "question": "Will the highest temperature in Tokyo be 14°C on March 20?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "115746226916211809618827201574434015472918154415056170208998741634316388084888",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-14c",
+        "condition_id": "0xff581db50486790bb1c7e63a97bf6a204950e359bffbd9ce628b3abfc2b4885f"
+      }
+    },
+    {
+      "market_id": "1605797",
+      "question": "Will the highest temperature in Tokyo be 15°C on March 20?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "57466716859661608302324877042903800680669397773396609851821217896391347953426",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-15c",
+        "condition_id": "0xe9a03af25894b3a222a778920847c379a033337db7f654dafc59418263f16eb9"
+      }
+    },
+    {
+      "market_id": "1605798",
+      "question": "Will the highest temperature in Tokyo be 16°C on March 20?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "85756725967640493948580743972946770889401982602240991781611544841783882463968",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-16c",
+        "condition_id": "0x4b72befbb49f7759882547f9f3ed7eb8b53b34ae84fcb0cf4b988cc2507b86ed"
+      }
+    },
+    {
+      "market_id": "1605799",
+      "question": "Will the highest temperature in Tokyo be 17°C on March 20?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "53914054408962779649536240338918400377925781339575875048370693114227787171768",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-17c",
+        "condition_id": "0xbb562b76885d94a56958df7b4acc568626fa687eeeba4ba87574734c00e6c239"
+      }
+    },
+    {
+      "market_id": "1605800",
+      "question": "Will the highest temperature in Tokyo be 18°C on March 20?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "90642025337811279545092448024986024177162245811529962174808076067500484285154",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-18c",
+        "condition_id": "0xdc0fa1c89bdedac62e44ec60747be948383f209820a3829789fc7645346c01f8"
+      }
+    },
+    {
+      "market_id": "1605801",
+      "question": "Will the highest temperature in Tokyo be 19°C on March 20?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "47538109495172060078826920869783867225972722527408063807968096680330791742291",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-19c",
+        "condition_id": "0x28c5d55337b9736dc6e164f3a4ef370cb3aa4a80fdd00115404781fa52664eef"
+      }
+    },
+    {
+      "market_id": "1605802",
+      "question": "Will the highest temperature in Tokyo be 20°C or higher on March 20?",
+      "bucket_low": 20.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "1566494761493064192467209107947998383869781679378381194580108273791668188689",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-20-2026-20corhigher",
+        "condition_id": "0x9baad9f0347a933b0a5bcd247d5b513c57a9308a89e25d944a9e3159e90f4ae9"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:09.841561+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-20T12:00:00Z",
+      "liquidity": null,
+      "volume": null,
+      "outcomes_count": 11,
+      "top_bucket": "13.0-13.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Tokyo on March 20?"
+    }
+  ],
+  "settle_at": "2026-03-20T15:00:00+00:00",
+  "hours_to_settle": -1897.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-tokyo-on-march-20-2026",
+    "event_id": "275659",
+    "markets_count": 11,
+    "game_start_time": "2026-03-19 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:09.841561+00:00",
+  "last_seen_at": "2026-06-07T16:06:09.841561+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:09.841561+00:00",
+  "created_at": "2026-06-07T16:06:09.841561+00:00",
+  "updated_at": "2026-06-10T17:17:31.072792+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "13C",
+      "resolved_value": "13C",
+      "resolution_source": null,
+      "winning_market_id": "1605795",
+      "winning_question": "Will the highest temperature in Tokyo be 13°C on March 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:09.842565+00:00"
+  },
+  "legacy": null
+}

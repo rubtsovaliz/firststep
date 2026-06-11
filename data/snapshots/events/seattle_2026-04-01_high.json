@@ -1,0 +1,360 @@
+{
+  "storage_key": "seattle_2026-04-01_high",
+  "event_id": "322433",
+  "event_slug": "highest-temperature-in-seattle-on-april-1-2026",
+  "event_title": "Highest temperature in Seattle on April 1?",
+  "city_slug": "seattle",
+  "city_name": "Seattle",
+  "date": "2026-04-01",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Rewards Automation 50 4.5 50",
+    "Weather",
+    "Hide From New",
+    "Recurring",
+    "Seattle",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-01T12:00:00Z",
+  "event_end_date": "2026-04-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 128966.18925300003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1779887",
+      "question": "Will the highest temperature in Seattle be 43°F or below on April 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 43.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7873.079499999965,
+      "liquidity": null,
+      "token_id": "60980721663680807091094878148486507526075373718324018167716468712100620953787",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-43forbelow",
+        "condition_id": "0x8c13ca41249e0e5325d4588a926745756f28f259b608c264860b47750bb83cc6"
+      }
+    },
+    {
+      "market_id": "1779888",
+      "question": "Will the highest temperature in Seattle be between 44-45°F on April 1?",
+      "bucket_low": 44.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11430.112084999986,
+      "liquidity": null,
+      "token_id": "92985301943017682155663986701833505831194027421307802865799001049928321356828",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-44-45f",
+        "condition_id": "0x760f305343a67b74c3ecb0ae6a14a549962774ff324dc812588c9ff980fc2ff1"
+      }
+    },
+    {
+      "market_id": "1779889",
+      "question": "Will the highest temperature in Seattle be between 46-47°F on April 1?",
+      "bucket_low": 46.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 27492.341250000016,
+      "liquidity": null,
+      "token_id": "23850632140004828428976758603630922197929839585998479455600453635183559422135",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-46-47f",
+        "condition_id": "0x372f32490412ddf00aab1f87db66b9afdef50ad1399192b3619dae541619a69e"
+      }
+    },
+    {
+      "market_id": "1779890",
+      "question": "Will the highest temperature in Seattle be between 48-49°F on April 1?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 19561.23975100002,
+      "liquidity": null,
+      "token_id": "43303840643163694964891042955025601435662643838107632777912076845571383578172",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-48-49f",
+        "condition_id": "0xb79a3984534d2ff5d7d686444482f16ba430d738bc245525d31bc9e15d1c73cd"
+      }
+    },
+    {
+      "market_id": "1779891",
+      "question": "Will the highest temperature in Seattle be between 50-51°F on April 1?",
+      "bucket_low": 50.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18132.243609000012,
+      "liquidity": null,
+      "token_id": "979577043721707482986479983258028466741727537128608557706805227056992424869",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-50-51f",
+        "condition_id": "0x7cb999c5249ccb57c0aacb69525b6020afb0f1d8fe2fdd7afadf72e0641652f9"
+      }
+    },
+    {
+      "market_id": "1779892",
+      "question": "Will the highest temperature in Seattle be between 52-53°F on April 1?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12324.845293000008,
+      "liquidity": null,
+      "token_id": "81633853649567755354864844715286299431241705154563903744311152623457556236347",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-52-53f",
+        "condition_id": "0xf2cee578d37291620b98ecfec52223e174ed87fed2d4c3140cc00a1914f749c0"
+      }
+    },
+    {
+      "market_id": "1779893",
+      "question": "Will the highest temperature in Seattle be between 54-55°F on April 1?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9367.960849000008,
+      "liquidity": null,
+      "token_id": "33409545116141285109059459481128916967440533684773792202012354301415846635926",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-54-55f",
+        "condition_id": "0xb1773ad1cbd6004a538772806dbab3da530aa99d837c80b5c66b487b900a0c3c"
+      }
+    },
+    {
+      "market_id": "1779894",
+      "question": "Will the highest temperature in Seattle be between 56-57°F on April 1?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10542.373947000002,
+      "liquidity": null,
+      "token_id": "39516661269574581901018312481289266945463668450397230273481960664015184993336",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-56-57f",
+        "condition_id": "0xa63b64ea6d4832aec294de246287fa387d44698bb633b9b5ad9c1ba61d9f6917"
+      }
+    },
+    {
+      "market_id": "1779895",
+      "question": "Will the highest temperature in Seattle be between 58-59°F on April 1?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4708.414395000006,
+      "liquidity": null,
+      "token_id": "93491121099244311549628463778827156929006160450081026487790883517325977344568",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-58-59f",
+        "condition_id": "0xf2918f3958a205316ecc94dc0e7a8749a6e028f59eeab3778cd07e003668fab4"
+      }
+    },
+    {
+      "market_id": "1779896",
+      "question": "Will the highest temperature in Seattle be between 60-61°F on April 1?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5907.416533000007,
+      "liquidity": null,
+      "token_id": "34435887373857913685264621021671090056441884969787758256336536991916941290077",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-60-61f",
+        "condition_id": "0xc20836907b73325f466fc60f91d01cf29f9554208546b167723e102421a18fb8"
+      }
+    },
+    {
+      "market_id": "1779897",
+      "question": "Will the highest temperature in Seattle be 62°F or higher on April 1?",
+      "bucket_low": 62.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1626.1620409999996,
+      "liquidity": null,
+      "token_id": "91186771036144969789532864507171330992613055289212272510489501262022965825860",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-april-1-2026-62forhigher",
+        "condition_id": "0x9fc175e52a55576ead31986bb9999b6025ab42b4ffba72c1b220522424496ac8"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.391520+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 128966.18925300003,
+      "outcomes_count": 11,
+      "top_bucket": "48.0-49.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seattle on April 1?"
+    }
+  ],
+  "settle_at": "2026-04-02T07:00:00+00:00",
+  "hours_to_settle": -1593.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seattle-on-april-1-2026",
+    "event_id": "322433",
+    "markets_count": 11,
+    "game_start_time": "2026-04-01 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.391520+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.391520+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.391520+00:00",
+  "created_at": "2026-06-07T16:06:08.391520+00:00",
+  "updated_at": "2026-06-10T17:17:30.597355+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "48-49F",
+      "resolved_value": "48-49F",
+      "resolution_source": null,
+      "winning_market_id": "1779890",
+      "winning_question": "Will the highest temperature in Seattle be between 48-49°F on April 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.392523+00:00"
+  },
+  "legacy": null
+}

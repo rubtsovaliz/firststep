@@ -1,0 +1,253 @@
+{
+  "storage_key": "dallas_2026-01-31_high",
+  "event_id": "192378",
+  "event_slug": "highest-temperature-in-dallas-on-january-31",
+  "event_title": "Highest temperature in Dallas on January 31?",
+  "city_slug": "dallas",
+  "city_name": "Dallas",
+  "date": "2026-01-31",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "dallas"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-01-31T12:00:00Z",
+  "event_end_date": "2026-01-31T12:00:00Z",
+  "liquidity": null,
+  "volume": 72339.695875,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1291804",
+      "question": "Will the highest temperature in Dallas be 29°F or below on January 31?",
+      "bucket_low": -999.0,
+      "bucket_high": 29.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14564.559618,
+      "liquidity": null,
+      "token_id": "34179615529408448318538776841098426612207121381259446562175109762204957555903",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-january-31-29forbelow",
+        "condition_id": "0x23775c7de698501ca239d30889f62f296439886858c2902fa6d432d2437a3b2c"
+      }
+    },
+    {
+      "market_id": "1291805",
+      "question": "Will the highest temperature in Dallas be between 30-31°F on January 31?",
+      "bucket_low": 30.0,
+      "bucket_high": 31.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7126.121803,
+      "liquidity": null,
+      "token_id": "111275749928088518538247492428021333009769975147523057991971441532011949124694",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-january-31-30-31f",
+        "condition_id": "0xf6d1f4b76002637945606c87f4bd02007d79416a03b1640779a2a48dec0fd7f1"
+      }
+    },
+    {
+      "market_id": "1291806",
+      "question": "Will the highest temperature in Dallas be between 32-33°F on January 31?",
+      "bucket_low": 32.0,
+      "bucket_high": 33.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 19682.549494,
+      "liquidity": null,
+      "token_id": "58477747007491728518379152626097477904600939878851614476883173328825761465041",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-january-31-32-33f",
+        "condition_id": "0x30e9ee3e92b7572e8356b6a4290000d3fe7de7a1c4d430ae3397e27bc85c12fa"
+      }
+    },
+    {
+      "market_id": "1291807",
+      "question": "Will the highest temperature in Dallas be between 34-35°F on January 31?",
+      "bucket_low": 34.0,
+      "bucket_high": 35.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6673.706021,
+      "liquidity": null,
+      "token_id": "55458470000817288982291212390698791958374432152794167547058555754853733786145",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-january-31-34-35f",
+        "condition_id": "0xa4759fe80d3e3d0ebac090e7b8f4ad4d8a5a4d9d41daddeb9c4227a0d1075cdd"
+      }
+    },
+    {
+      "market_id": "1291808",
+      "question": "Will the highest temperature in Dallas be between 36-37°F on January 31?",
+      "bucket_low": 36.0,
+      "bucket_high": 37.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6435.1695,
+      "liquidity": null,
+      "token_id": "97921833303316900483168628863925997333282508646927599364400000142599267469846",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-january-31-36-37f",
+        "condition_id": "0x03f34fdd23f79a815e1bd16ef58180d00596607cbecc5204280b538245fc4214"
+      }
+    },
+    {
+      "market_id": "1291809",
+      "question": "Will the highest temperature in Dallas be between 38-39°F on January 31?",
+      "bucket_low": 38.0,
+      "bucket_high": 39.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5377.236003,
+      "liquidity": null,
+      "token_id": "53378642949654150047001154331662300748831121272530418991769826103433824560098",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-january-31-38-39f",
+        "condition_id": "0xdcc1b8c1ab06261133e5a197febeb1646b276d0c4d7ce90e3f40928bae4d00fd"
+      }
+    },
+    {
+      "market_id": "1291810",
+      "question": "Will the highest temperature in Dallas be 40°F or higher on January 31?",
+      "bucket_low": 40.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12480.353436,
+      "liquidity": null,
+      "token_id": "1989837308391591965380727150839833630758710860621096327242753673262109084889",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-january-31-40forhigher",
+        "condition_id": "0x582e4e1c4f6b26444b8533bee3b810b32a2de6c802998da3e61cc3e335adf0d0"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:12.243088+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-01-31T12:00:00Z",
+      "liquidity": null,
+      "volume": 72339.695875,
+      "outcomes_count": 7,
+      "top_bucket": "32.0-33.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Dallas on January 31?"
+    }
+  ],
+  "settle_at": "2026-02-01T06:00:00+00:00",
+  "hours_to_settle": -3034.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-dallas-on-january-31",
+    "event_id": "192378",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:12.243088+00:00",
+  "last_seen_at": "2026-06-07T16:06:12.243088+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:12.243088+00:00",
+  "created_at": "2026-06-07T16:06:12.243088+00:00",
+  "updated_at": "2026-06-10T17:17:28.877993+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "32-33F",
+      "resolved_value": "32-33F",
+      "resolution_source": null,
+      "winning_market_id": "1291806",
+      "winning_question": "Will the highest temperature in Dallas be between 32-33°F on January 31?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:12.244090+00:00"
+  },
+  "legacy": null
+}

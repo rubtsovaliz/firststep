@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 56663.20916,
-  "volume": 13448.282459,
+  "liquidity": null,
+  "volume": 37339.422318000004,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 318.63399999999996,
-      "liquidity": 12199.65209,
+      "liquidity": 0.0,
       "token_id": "23843075981592052111447241475636524689056905195732181788048627326471691027197",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-20corbelow",
         "condition_id": "0xf8986481f7d05d38dc12e7e32cccb926f964fe6f5195eb35650bc4dcbf5cf2da"
@@ -59,21 +59,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 382.619,
-      "liquidity": 12330.78198,
+      "liquidity": 0.0,
       "token_id": "83127152737372421996461140249544528209315274323971227072285961943712947591597",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-21c",
         "condition_id": "0x45166c0023e4c2357698d8cd29943208ddbca67909be8cfd52d6c33841760432"
@@ -85,21 +85,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 1933.219478,
-      "liquidity": 11927.03799,
+      "liquidity": 0.0,
       "token_id": "77027107228365929307980049685536458363073515099071417368654041529970665150536",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-22c",
         "condition_id": "0x6a226307d7665297189119e022084e2c657072de44d4ab94e1a7984ca2db43f1"
@@ -111,21 +111,21 @@
       "bucket_low": 23.0,
       "bucket_high": 23.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 304.65799999999996,
-      "liquidity": 7920.42098,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 349.98900000000003,
+      "liquidity": null,
       "token_id": "1813365183237312805277928484565119726735273754818616184757365611919956327416",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-23c",
         "condition_id": "0xfe2cb63334ec7506f63e53abfa68ca93d703b9df18305c5337330a28df3acb2f"
@@ -137,21 +137,21 @@
       "bucket_low": 24.0,
       "bucket_high": 24.0,
       "unit": "C",
-      "yes_price": 0.002,
-      "no_price": 0.998,
-      "volume": 1936.2155160000002,
-      "liquidity": 6359.05135,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1967.615516,
+      "liquidity": null,
       "token_id": "47638457557225849153878395596300339842019777295497895647506815130280487378513",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.002,
-        0.998
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-24c",
         "condition_id": "0x571b1462b0aa504ad86f4e1f9d2e0f30af4346cc74fc2604e0bc69d56ab0efa8"
@@ -163,21 +163,21 @@
       "bucket_low": 25.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 295.801012,
-      "liquidity": 1694.86542,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 459.65201200000007,
+      "liquidity": null,
       "token_id": "108818866426692235059797045333050321075060443290764156850824285895690758747845",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-25c",
         "condition_id": "0x9e84785d9a5bc1f25979c3dfabc4515541790cd865b0a90dade992ad6ef0a14d"
@@ -189,21 +189,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 1523.4207,
-      "liquidity": 1640.21169,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2514.5639020000003,
+      "liquidity": null,
       "token_id": "8382492589312225622115978717460977528400412693553103726452292751453272472246",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-26c",
         "condition_id": "0xce19a910e675e96ffff6c60b9a2ed3e20c07c554f5d30c07d26eb52ef2278172"
@@ -215,21 +215,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.0145,
-      "no_price": 0.9855,
-      "volume": 1343.569846,
-      "liquidity": 1001.76864,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5373.479776,
+      "liquidity": null,
       "token_id": "32441850241993325248964483636924053669528355604080073756909178988308575372553",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0145,
-        0.9855
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-27c",
         "condition_id": "0x397ca5ce74485d8a8cf57b4de1c3cbf39d0b5c11b6275d80e6000832f5961754"
@@ -241,21 +241,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.0405,
-      "no_price": 0.9595,
-      "volume": 1229.44623,
-      "liquidity": 626.09099,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4588.222709000001,
+      "liquidity": null,
       "token_id": "88643499983035734571860271615115834863975840440924853585134574043710752809553",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0405,
-        0.9595
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-28c",
         "condition_id": "0x9673ff6ca32c10db714ea56a2d4a45ef7b99280f8282e3734041857584e044f1"
@@ -267,21 +267,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.13,
-      "no_price": 0.87,
-      "volume": 1716.332783000001,
-      "liquidity": 848.1977,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4770.827792,
+      "liquidity": null,
       "token_id": "101392203869154955154848372421527389850776366719224586510460241944832347259793",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.13,
-        0.87
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-29c",
         "condition_id": "0xfcb31ac80dc8f9c35e7265cf1ca2263ca600eeab3e98514f87133af42a6032f1"
@@ -293,21 +293,21 @@
       "bucket_low": 30.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.785,
-      "no_price": 0.215,
-      "volume": 2489.5843940000004,
-      "liquidity": 416.4599,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 14680.599133000002,
+      "liquidity": null,
       "token_id": "98016138168414610612408528003294634543959407899039513440518619191499484536340",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.785,
-        0.215
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-toronto-on-june-5-2026-30corhigher",
         "condition_id": "0xe70d9847abc702049406a8a3c63a931908dfbb7d24a321eca931ea8bb53db2b8"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.571056+00:00",
+      "ts": "2026-06-07T16:05:37.873269+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 56663.20916,
-      "volume": 13448.282459,
+      "liquidity": null,
+      "volume": 37339.422318000004,
       "outcomes_count": 11,
       "top_bucket": ">=30.0C",
-      "top_price": 0.785,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Toronto on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-toronto-on-june-5-2026",
     "event_id": "553897",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 04:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.900298+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.571056+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.571056+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.873269+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.873269+00:00",
   "created_at": "2026-06-04T16:52:28.900298+00:00",
-  "updated_at": "2026-06-05T06:36:19.571056+00:00",
+  "updated_at": "2026-06-08T11:27:01.915029+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=30C",
+      "resolved_value": ">=30C",
+      "resolution_source": null,
+      "winning_market_id": "2424458",
+      "winning_question": "Will the highest temperature in Toronto be 30°C or higher on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.874272+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T04:00:00+00:00",
+  "hours_to_settle": -36.1
 }

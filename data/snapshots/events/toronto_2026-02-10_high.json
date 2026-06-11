@@ -1,0 +1,253 @@
+{
+  "storage_key": "toronto_2026-02-10_high",
+  "event_id": "202124",
+  "event_slug": "highest-temperature-in-toronto-on-february-10-2026",
+  "event_title": "Highest temperature in Toronto on February 10?",
+  "city_slug": "toronto",
+  "city_name": "Toronto",
+  "date": "2026-02-10",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Toronto"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-10T12:00:00Z",
+  "event_end_date": "2026-02-10T12:00:00Z",
+  "liquidity": null,
+  "volume": 51152.464721,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1355255",
+      "question": "Will the highest temperature in Toronto be -2°C or below on February 10?",
+      "bucket_low": -999.0,
+      "bucket_high": -2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13441.360466,
+      "liquidity": null,
+      "token_id": "111535089199009866142834608573082781817092083905089520387132558674094735843639",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-10-2026-neg-2corbelow",
+        "condition_id": "0x3c6442e915f5c09a692762f426886f038bd2e9d3493b5076812e6fd63c7b6c8e"
+      }
+    },
+    {
+      "market_id": "1355256",
+      "question": "Will the highest temperature in Toronto be -1°C on February 10?",
+      "bucket_low": -1.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5702.75872,
+      "liquidity": null,
+      "token_id": "62251139434367731586531888227911426346248174318847013659465146864509980011055",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-10-2026-neg-1c",
+        "condition_id": "0xc620bf5e1104f6fcac31b1722c3adfe1a84a024b436e20c9509f166d833ffe54"
+      }
+    },
+    {
+      "market_id": "1355257",
+      "question": "Will the highest temperature in Toronto be 0°C on February 10?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2459.846308,
+      "liquidity": null,
+      "token_id": "56143073349356826138311362645759626350296463731593151702006804102089311739038",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-10-2026-0c",
+        "condition_id": "0x35022e728a83583ab6a3a4f798996c59dda035d4fa4a3abf63bf4cd345946d4e"
+      }
+    },
+    {
+      "market_id": "1355258",
+      "question": "Will the highest temperature in Toronto be 1°C on February 10?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2854.937928,
+      "liquidity": null,
+      "token_id": "10065861677725507880839425478508202538418679659103020418309055998405400484898",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-10-2026-1c",
+        "condition_id": "0x8cba0a5b6d840cf5d35acb97a2b9c8b3550f920fd40408386f7850332c0ace16"
+      }
+    },
+    {
+      "market_id": "1355259",
+      "question": "Will the highest temperature in Toronto be 2°C on February 10?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7046.919979,
+      "liquidity": null,
+      "token_id": "4888905430518479605703986899886840419843420207046763865310647167326274731152",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-10-2026-2c",
+        "condition_id": "0x8992b34e7b5bb8cf16a74b82042811324d571a0ea7d1eee3a0e874d440aacfa3"
+      }
+    },
+    {
+      "market_id": "1355260",
+      "question": "Will the highest temperature in Toronto be 3°C on February 10?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9471.70848,
+      "liquidity": null,
+      "token_id": "2982093255742501046664663506705665183834954311855849868892259852014973057419",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-10-2026-3c",
+        "condition_id": "0x33e706650606c9fcac38b1e12c4b426701fe412daee697672d74adc77be8a894"
+      }
+    },
+    {
+      "market_id": "1355261",
+      "question": "Will the highest temperature in Toronto be 4°C or higher on February 10?",
+      "bucket_low": 4.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10174.93284,
+      "liquidity": null,
+      "token_id": "107753534515491726187080837235959779946072368748892234084741396522906559095708",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-10-2026-4corhigher",
+        "condition_id": "0x14140dcb543552e11a865e01ff1a0886efbc43c7108fd9f3efc215129135dacb"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.944332+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-10T12:00:00Z",
+      "liquidity": null,
+      "volume": 51152.464721,
+      "outcomes_count": 7,
+      "top_bucket": "2.0-2.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Toronto on February 10?"
+    }
+  ],
+  "settle_at": "2026-02-11T05:00:00+00:00",
+  "hours_to_settle": -2795.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-toronto-on-february-10-2026",
+    "event_id": "202124",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.944332+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.944332+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.944332+00:00",
+  "created_at": "2026-06-07T16:06:11.944332+00:00",
+  "updated_at": "2026-06-10T17:17:31.159119+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "2C",
+      "resolved_value": "2C",
+      "resolution_source": null,
+      "winning_market_id": "1355259",
+      "winning_question": "Will the highest temperature in Toronto be 2°C on February 10?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.945335+00:00"
+  },
+  "legacy": null
+}

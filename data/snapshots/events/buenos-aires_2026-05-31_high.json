@@ -1,0 +1,397 @@
+{
+  "storage_key": "buenos-aires_2026-05-31_high",
+  "event_id": "536684",
+  "event_slug": "highest-temperature-in-buenos-aires-on-may-31-2026",
+  "event_title": "Highest temperature in Buenos Aires on May 31?",
+  "city_slug": "buenos-aires",
+  "city_name": "Buenos Aires",
+  "date": "2026-05-31",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Buenos Aires",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-31T12:00:00Z",
+  "event_end_date": "2026-05-31T12:00:00Z",
+  "liquidity": null,
+  "volume": 56402.01642600001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2383639",
+      "question": "Will the highest temperature in Buenos Aires be 14°C or below on May 31?",
+      "bucket_low": -999.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9774.347276999999,
+      "liquidity": null,
+      "token_id": "35446715643521719197357615253260047286795402010390790303576245761843352307072",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-14corbelow",
+        "condition_id": "0x0c4a7c5b66d15460a52d6e984214ef2cfe4ec150bab04b8763ab5f1f717e053a"
+      }
+    },
+    {
+      "market_id": "2383640",
+      "question": "Will the highest temperature in Buenos Aires be 15°C on May 31?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6169.273301,
+      "liquidity": null,
+      "token_id": "69726156938138138789801503626358299497779550208152955009716994980844366824879",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-15c",
+        "condition_id": "0x7717b16984b4f0a065f3785023811b6f1d0efa49b988ce6e52175430e4ab05f5"
+      }
+    },
+    {
+      "market_id": "2383641",
+      "question": "Will the highest temperature in Buenos Aires be 16°C on May 31?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5042.832127999998,
+      "liquidity": null,
+      "token_id": "74097279576957454834946943189617826668200164651362821327106477558655748133054",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-16c",
+        "condition_id": "0xe7da7d2e2a14859764aec500b64a51f978b17945e31c8b8507fbe0315ba6db8b"
+      }
+    },
+    {
+      "market_id": "2383642",
+      "question": "Will the highest temperature in Buenos Aires be 17°C on May 31?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8273.527315000003,
+      "liquidity": null,
+      "token_id": "13186580675847409676033655416039890150879371178375862773285304287423528724570",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-17c",
+        "condition_id": "0x8abe4ebd019a98833f304db2449895f5426bad4c391c11861b84c2d59cde19bc"
+      }
+    },
+    {
+      "market_id": "2383643",
+      "question": "Will the highest temperature in Buenos Aires be 18°C on May 31?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8430.677821000003,
+      "liquidity": null,
+      "token_id": "85720324559366278823211255580820515309340289900016024149593774564343306856672",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-18c",
+        "condition_id": "0xfc7e59f33ae110940ea61b83caaecdd9b80daaa81a858dbc0cdde590a206a532"
+      }
+    },
+    {
+      "market_id": "2383644",
+      "question": "Will the highest temperature in Buenos Aires be 19°C on May 31?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8416.947114000004,
+      "liquidity": null,
+      "token_id": "59581911820779076877132859920164799552002800555620298471183456976567991904804",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-19c",
+        "condition_id": "0x438bca24d999aef6b74e9ccf5ebcd2d52a9c90b5ddd7924209d15d122a27550f"
+      }
+    },
+    {
+      "market_id": "2383645",
+      "question": "Will the highest temperature in Buenos Aires be 20°C on May 31?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4885.854293999999,
+      "liquidity": null,
+      "token_id": "38217754087172735695517493685511502858834275651875540052356486462629409763365",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-20c",
+        "condition_id": "0x9f276d8f7d31fe59b073e4d7e986e220438371628a27d844c2b0d4131e9f2020"
+      }
+    },
+    {
+      "market_id": "2383646",
+      "question": "Will the highest temperature in Buenos Aires be 21°C on May 31?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2561.904947,
+      "liquidity": null,
+      "token_id": "76416245548137005495151028716453599756107694158367259441992384861313787391223",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-21c",
+        "condition_id": "0xcc6f0a543daad18282d7a8fe17306cd0ee1fa8032156c91eac8c3d29f50c43c6"
+      }
+    },
+    {
+      "market_id": "2383647",
+      "question": "Will the highest temperature in Buenos Aires be 22°C on May 31?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1127.1679689999999,
+      "liquidity": null,
+      "token_id": "4599171290423042815926194947099842023433910552733152089774327692524460749152",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-22c",
+        "condition_id": "0xd2ceb8b3158e50cc4e6299d92d0deb1b2d3c4db40ba96f66d3f90be8f395e256"
+      }
+    },
+    {
+      "market_id": "2383648",
+      "question": "Will the highest temperature in Buenos Aires be 23°C on May 31?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 877.2622600000002,
+      "liquidity": null,
+      "token_id": "8767147190682431114892874364281411301714272870917209394133649308685590164346",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-23c",
+        "condition_id": "0x9a6bfa66199a754c9ef7ef30e22d341398b548c136ece98cd5673d51dd31b9d1"
+      }
+    },
+    {
+      "market_id": "2383649",
+      "question": "Will the highest temperature in Buenos Aires be 24°C or higher on May 31?",
+      "bucket_low": 24.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 842.222,
+      "liquidity": null,
+      "token_id": "70679128287966454156036217496616013621817461485927577894906736602368668461036",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-may-31-2026-24corhigher",
+        "condition_id": "0xae4321da97d90fd5f1ee20f8e811b4cbd468ba9014c4fa7d4db078a12ebb73e1"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:39.105755+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-31T12:00:00Z",
+      "liquidity": null,
+      "volume": 56402.01642600001,
+      "outcomes_count": 11,
+      "top_bucket": "18.0-18.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Buenos Aires on May 31?"
+    }
+  ],
+  "settle_at": "2026-06-01T03:00:00+00:00",
+  "hours_to_settle": -157.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-buenos-aires-on-may-31-2026",
+    "event_id": "536684",
+    "markets_count": 11,
+    "game_start_time": "2026-05-31 03:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:39.105755+00:00",
+  "last_seen_at": "2026-06-07T16:05:39.105755+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:39.105755+00:00",
+  "created_at": "2026-06-07T16:05:39.105755+00:00",
+  "updated_at": "2026-06-10T17:57:33.589734+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "18C",
+      "resolved_value": "18C",
+      "resolution_source": null,
+      "winning_market_id": "2383643",
+      "winning_question": "Will the highest temperature in Buenos Aires be 18°C on May 31?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:39.107760+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T17:57:33.589734+00:00",
+      "single": {
+        "city_slug": "buenos-aires",
+        "date": "2026-05-31",
+        "metric": "high",
+        "model": "ecmwf_ifs",
+        "requested_model": "ecmwf_ifs",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 18.0,
+        "error": null
+      },
+      "ensemble": {
+        "city_slug": "buenos-aires",
+        "date": "2026-05-31",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "unit": null,
+        "temp": null,
+        "error": "outside_ensemble_window",
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": null,
+            "error": "outside_ensemble_window"
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": null,
+            "error": "outside_ensemble_window"
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null
+}

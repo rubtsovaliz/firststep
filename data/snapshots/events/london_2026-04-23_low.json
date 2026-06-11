@@ -1,0 +1,360 @@
+{
+  "storage_key": "london_2026-04-23_low",
+  "event_id": "401637",
+  "event_slug": "lowest-temperature-in-london-on-april-23-2026",
+  "event_title": "Lowest temperature in London on April 23?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-04-23",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-23T12:00:00Z",
+  "event_end_date": "2026-04-23T12:00:00Z",
+  "liquidity": null,
+  "volume": 37347.630544,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2039965",
+      "question": "Will the lowest temperature in London be 0°C or below on April 23?",
+      "bucket_low": -999.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 763.3522,
+      "liquidity": null,
+      "token_id": "103540252537390128538687978393506133958508609772737302854311474181464999037326",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-0corbelow",
+        "condition_id": "0x322fe0422c2bc29eb890ba3afab0eae87a1089fe4064c78c66e8d89f1814f370"
+      }
+    },
+    {
+      "market_id": "2039978",
+      "question": "Will the lowest temperature in London be 1°C on April 23?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 781.3351,
+      "liquidity": null,
+      "token_id": "28435903086851446213480701598536971290825515546601523210065640171289188875502",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-1c",
+        "condition_id": "0x27cd0c6e557b1d614dd308d962fed2de7c720652ff7397bafe54775f8f03b08f"
+      }
+    },
+    {
+      "market_id": "2039989",
+      "question": "Will the lowest temperature in London be 2°C on April 23?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 803.3409999999999,
+      "liquidity": null,
+      "token_id": "86200510434276775531963275139547222879155679979493217627896226523807964700636",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-2c",
+        "condition_id": "0x07130a93baeb12b4bbaf9f9b67e8847b2bbd62d980ac9332f568fd0dd27aafad"
+      }
+    },
+    {
+      "market_id": "2039998",
+      "question": "Will the lowest temperature in London be 3°C on April 23?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 823.177999,
+      "liquidity": null,
+      "token_id": "36458055112012565704866800247817979693538537262517329343617773331775662542237",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-3c",
+        "condition_id": "0x1af24c2314491a814bdcb82e5a3feafa65e01b4c7bdb454cf65f1bc1b9e5051f"
+      }
+    },
+    {
+      "market_id": "2040010",
+      "question": "Will the lowest temperature in London be 4°C on April 23?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1592.4830599999998,
+      "liquidity": null,
+      "token_id": "84138724691128945018279471556550253896089694358037191567763245167414736113482",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-4c",
+        "condition_id": "0x9bc100a07c7d08c3b3bcc737c3bacbb08333ed67881a395dc37b70359255a25a"
+      }
+    },
+    {
+      "market_id": "2040022",
+      "question": "Will the lowest temperature in London be 5°C on April 23?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6607.517560999996,
+      "liquidity": null,
+      "token_id": "1450484450689362807881558802807304571071565941902637765119986210418448071126",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-5c",
+        "condition_id": "0x9a933d6f22e93ce2161779a5b77d2b392ce2b919cdfaf4974b78c6e75cca5d15"
+      }
+    },
+    {
+      "market_id": "2040031",
+      "question": "Will the lowest temperature in London be 6°C on April 23?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4576.556397000001,
+      "liquidity": null,
+      "token_id": "51207909948647332180383349415754651423070748924335251662354862847963831789101",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-6c",
+        "condition_id": "0x3c3449a46bbc53890054d1dfcdf845d7d382ae853301b331d588d4389b29e900"
+      }
+    },
+    {
+      "market_id": "2040038",
+      "question": "Will the lowest temperature in London be 7°C on April 23?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 13116.399475000002,
+      "liquidity": null,
+      "token_id": "11082499830847706560281066204023842278758043499703444890606105367555776191234",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-7c",
+        "condition_id": "0x7d025ed61fc7966a9a558d265862575d9e6508fe4e1f23f131dc8ecad8be299e"
+      }
+    },
+    {
+      "market_id": "2040042",
+      "question": "Will the lowest temperature in London be 8°C on April 23?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2776.3560139999995,
+      "liquidity": null,
+      "token_id": "79435817675226979833050308510398821488608213475651546935114227367062499082538",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-8c",
+        "condition_id": "0x934994fc9fcbc6468de35f3f478e5f9315e360d4223612cc801e4b2ecbe4e945"
+      }
+    },
+    {
+      "market_id": "2040045",
+      "question": "Will the lowest temperature in London be 9°C on April 23?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1423.1107560000003,
+      "liquidity": null,
+      "token_id": "85668318651375269687764504098946307537293672131744586814565983064246585853785",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-9c",
+        "condition_id": "0x0cbbb927866423f8d27286d2ae02038f4dc96429e0e99788377b4af3204f242e"
+      }
+    },
+    {
+      "market_id": "2040048",
+      "question": "Will the lowest temperature in London be 10°C or higher on April 23?",
+      "bucket_low": 10.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4084.0009820000005,
+      "liquidity": null,
+      "token_id": "115421750102043196887847597994610037413793958819820331917483155366844057952469",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-april-23-2026-10corhigher",
+        "condition_id": "0xf89fb054bbdd79e607b0db7b5ae0c83088d97540526bf791cff63c5fe4117be2"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:04.509637+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-23T12:00:00Z",
+      "liquidity": null,
+      "volume": 37347.630544,
+      "outcomes_count": 11,
+      "top_bucket": "7.0-7.0C",
+      "top_price": 1.0,
+      "event_title": "Lowest temperature in London on April 23?"
+    }
+  ],
+  "settle_at": "2026-04-23T23:00:00+00:00",
+  "hours_to_settle": -1073.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-london-on-april-23-2026",
+    "event_id": "401637",
+    "markets_count": 11,
+    "game_start_time": "2026-04-22 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:04.509637+00:00",
+  "last_seen_at": "2026-06-07T16:06:04.509637+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:04.509637+00:00",
+  "created_at": "2026-06-07T16:06:04.509637+00:00",
+  "updated_at": "2026-06-10T17:17:29.489656+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "7C",
+      "resolved_value": "7C",
+      "resolution_source": null,
+      "winning_market_id": "2040038",
+      "winning_question": "Will the lowest temperature in London be 7°C on April 23?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:04.510640+00:00"
+  },
+  "legacy": null
+}

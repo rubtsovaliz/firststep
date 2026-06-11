@@ -19,11 +19,11 @@
     "Lowest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 4379.57259,
-  "volume": 329.59175500000003,
+  "liquidity": null,
+  "volume": 18935.403798999996,
   "market_type": "min_temperature",
   "temperature_metric": "low",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 13.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 15.0,
-      "liquidity": 1333.32108,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 666.86475,
+      "liquidity": null,
       "token_id": "115661161035855112560945282069632988892673615878890714395567972601115398074146",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-13corbelow",
         "condition_id": "0x14009226309d10bf5926bdfded05b540f22bd54ead831e5c13a90eef3a552a72"
@@ -59,21 +59,21 @@
       "bucket_low": 14.0,
       "bucket_high": 14.0,
       "unit": "C",
-      "yes_price": 0.115,
-      "no_price": 0.885,
-      "volume": 8.0,
-      "liquidity": 69.5619,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1239.6438089999997,
+      "liquidity": null,
       "token_id": "52286736514225266706628125569005811295576879641939745268856661565101106819910",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.115,
-        0.885
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-14c",
         "condition_id": "0xa2243dd49c131376c715240b508ff267971f9b45eeac6c8febbaed022f5c8b3c"
@@ -85,21 +85,21 @@
       "bucket_low": 15.0,
       "bucket_high": 15.0,
       "unit": "C",
-      "yes_price": 0.24,
-      "no_price": 0.76,
-      "volume": 176.091714,
-      "liquidity": 84.0731,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4061.0627780000004,
+      "liquidity": null,
       "token_id": "2138943541439448358179187919293854119132062928636543894615103557894395097040",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.24,
-        0.76
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-15c",
         "condition_id": "0x392fc9e8c120022024a0f4c1ab4437a45193ec8d3effc656809bc91f2f6da9b1"
@@ -111,21 +111,21 @@
       "bucket_low": 16.0,
       "bucket_high": 16.0,
       "unit": "C",
-      "yes_price": 0.41,
-      "no_price": 0.59,
-      "volume": 58.266796,
-      "liquidity": 67.59,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8178.508321999996,
+      "liquidity": null,
       "token_id": "90432872585791040431272353403879260710388772732678394450631542232516127163725",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.41,
-        0.59
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-16c",
         "condition_id": "0xb2bdb25d6ef946ce8428857e0bff4ca3c08e9af904b7c6d4b44866ec72a43b6f"
@@ -137,21 +137,21 @@
       "bucket_low": 17.0,
       "bucket_high": 17.0,
       "unit": "C",
-      "yes_price": 0.07,
-      "no_price": 0.93,
-      "volume": null,
-      "liquidity": 137.7628,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 725.6786969999999,
+      "liquidity": null,
       "token_id": "52450159628351009359645317533261547539969259353644577549613386773618004894162",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.07,
-        0.93
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-17c",
         "condition_id": "0x9ae748f05fe1882a51904b09299032759ba9353d599e5fdfebfa489674fd8861"
@@ -163,21 +163,21 @@
       "bucket_low": 18.0,
       "bucket_high": 18.0,
       "unit": "C",
-      "yes_price": 0.02,
-      "no_price": 0.98,
-      "volume": 33.33,
-      "liquidity": 82.364,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 605.076,
+      "liquidity": null,
       "token_id": "20784637431317136513569727336771030699241483940013621413427261334812698459562",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.02,
-        0.98
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-18c",
         "condition_id": "0x0a1359f0ea473cc41bb2516a310cd31e891e47a533251be5582cbbf9f7873744"
@@ -189,21 +189,21 @@
       "bucket_low": 19.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.015,
-      "no_price": 0.985,
-      "volume": 24.04,
-      "liquidity": 147.87352,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 440.2249999999999,
+      "liquidity": 0.0,
       "token_id": "9182268944107223122001113626930595273972400654247334419512423591675740135262",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.015,
-        0.985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-19c",
         "condition_id": "0x1e3e9dfec4ae646c22483384472c49cbe0516246afd18b1cec445872f60a3a6c"
@@ -215,21 +215,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.0155,
-      "no_price": 0.9845,
-      "volume": 10.0,
-      "liquidity": 351.93547,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 594.924443,
+      "liquidity": null,
       "token_id": "24293963227584845325564347970870183084380357728527737368571127609831948121304",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0155,
-        0.9845
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-20c",
         "condition_id": "0x6add466689df6129918528a8db73fcd39178643e8123d6c2aa5b6219c16963e6"
@@ -241,21 +241,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.0355,
-      "no_price": 0.9645,
-      "volume": 133.18,
-      "liquidity": 483.60312,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 532.38,
+      "liquidity": 0.0,
       "token_id": "60270433959400013141695387893432624882111852613624966785739826602025171684156",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0355,
-        0.9645
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-21c",
         "condition_id": "0x7804bc798c7166f5a05e3d064e43ae116ea3793c8b2207bea700a41c6c5669cd"
@@ -267,21 +267,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 10.0,
-      "liquidity": 2546.62047,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 355.87,
+      "liquidity": 0.0,
       "token_id": "90349265947521345478578992966628646498757300167654780191852463624819613436786",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-22c",
         "condition_id": "0xc5033aef434009cc43a41c90dc3b68925daf30ac577ee3a0d71e5adf4d145114"
@@ -293,21 +293,21 @@
       "bucket_low": 23.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0055,
-      "no_price": 0.9945,
-      "volume": 10.0,
-      "liquidity": 1853.78348,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1535.1699999999998,
+      "liquidity": null,
       "token_id": "72775276285493312724353772350223766689689267098568724328097906915227408383993",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0055,
-        0.9945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-seoul-on-june-6-2026-23corhigher",
         "condition_id": "0xeb5616d8f5c2dd1337ee74ac328fe888fc499da3fc7927303e4a898d10ceceb9"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:18.900533+00:00",
+      "ts": "2026-06-07T16:05:37.494277+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 4379.57259,
-      "volume": 329.59175500000003,
+      "liquidity": null,
+      "volume": 18935.403798999996,
       "outcomes_count": 11,
       "top_bucket": "16.0-16.0C",
-      "top_price": 0.41,
+      "top_price": 1.0,
       "event_title": "Lowest temperature in Seoul on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "lowest-temperature-in-seoul-on-june-6-2026",
     "event_id": "560932",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 15:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.412190+00:00",
-  "last_seen_at": "2026-06-05T06:36:18.900533+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:18.900533+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.494277+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.494277+00:00",
   "created_at": "2026-06-05T06:08:46.412190+00:00",
-  "updated_at": "2026-06-05T06:36:18.900533+00:00",
+  "updated_at": "2026-06-08T11:18:40.494700+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "16C",
+      "resolved_value": "16C",
+      "resolution_source": null,
+      "winning_market_id": "2441369",
+      "winning_question": "Will the lowest temperature in Seoul be 16°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.496283+00:00",
+    "history_temps": {
+      "metric": "low",
+      "single": {
+        "temp": 15.1,
+        "unit": "C",
+        "model": "ecmwf_ifs",
+        "requested_model": "kma_seamless",
+        "model_fallback": true,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 15.1,
+        "unit": "C",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless+archive",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 15.1,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 15.1,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:16:48.183934+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T15:00:00+00:00",
+  "hours_to_settle": -25.1
 }

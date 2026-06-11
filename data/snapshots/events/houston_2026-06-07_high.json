@@ -1,0 +1,351 @@
+{
+  "storage_key": "houston_2026-06-07_high",
+  "event_id": "564420",
+  "event_slug": "highest-temperature-in-houston-on-june-7-2026",
+  "event_title": "Highest temperature in Houston on June 7?",
+  "city_slug": "houston",
+  "city_name": "Houston",
+  "date": "2026-06-07",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Houston",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-07T12:00:00Z",
+  "event_end_date": "2026-06-07T12:00:00Z",
+  "liquidity": 43954.67839,
+  "volume": 18416.461224000002,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2450355",
+      "question": "Will the highest temperature in Houston be 79°F or below on June 7?",
+      "bucket_low": -999.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2054.0868790000004,
+      "liquidity": 10395.5547,
+      "token_id": "14084854987534334454565958712784447499615492543783977280745603665319828256547",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-79forbelow",
+        "condition_id": "0xefca88c32748f5cfb3d20b2be3664528db75b78b917040982ad2451e98dab622"
+      }
+    },
+    {
+      "market_id": "2450356",
+      "question": "Will the highest temperature in Houston be between 80-81°F on June 7?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 940.5232,
+      "liquidity": 9208.63182,
+      "token_id": "107076795021456202235547181832908023914092991311571770052920686437924109867158",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-80-81f",
+        "condition_id": "0xc3c38470c4ab8cf52158c2e06e2fda3c7c1e985aa0237784fe9e78c82b80124c"
+      }
+    },
+    {
+      "market_id": "2450357",
+      "question": "Will the highest temperature in Houston be between 82-83°F on June 7?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3377.331377,
+      "liquidity": 10567.56474,
+      "token_id": "9886899794735899303450137400575656630969634974151242950736849813622531017961",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-82-83f",
+        "condition_id": "0xdf8a2447673747c9aefc597d863ff6565b78b1f92654c8392d2c6cddbdbb4200"
+      }
+    },
+    {
+      "market_id": "2450358",
+      "question": "Will the highest temperature in Houston be between 84-85°F on June 7?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.31,
+      "no_price": 0.69,
+      "volume": 2359.0581360000006,
+      "liquidity": 228.6381,
+      "token_id": "98143278415373947544721326280575427405621271486713446995898648271790694518533",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.31,
+        0.69
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-84-85f",
+        "condition_id": "0xc991cdac3bceb116f7baf89f5e87e168743993a15bf17e8082a1038157ed9b0e"
+      }
+    },
+    {
+      "market_id": "2450359",
+      "question": "Will the highest temperature in Houston be between 86-87°F on June 7?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.465,
+      "no_price": 0.535,
+      "volume": 1674.6687990000007,
+      "liquidity": 227.0132,
+      "token_id": "13858992803498936019628364147458339009598511578871826068110331995256047586562",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.465,
+        0.535
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-86-87f",
+        "condition_id": "0x893e03c2fea61f3dff52df19b19ea0f286b71ba2b8940152372fa1ef32a6ef4b"
+      }
+    },
+    {
+      "market_id": "2450360",
+      "question": "Will the highest temperature in Houston be between 88-89°F on June 7?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.255,
+      "no_price": 0.745,
+      "volume": 2526.0768789999993,
+      "liquidity": 189.8045,
+      "token_id": "86036298006921502936778599219125483696296741697824456541955434527826385700230",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.255,
+        0.745
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-88-89f",
+        "condition_id": "0xb23d6ac667ec7ae0b4b24ff471393ce3f00b0fe63473f266fe3e18ec840b0dbe"
+      }
+    },
+    {
+      "market_id": "2450361",
+      "question": "Will the highest temperature in Houston be between 90-91°F on June 7?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.008,
+      "no_price": 0.992,
+      "volume": 2415.085214,
+      "liquidity": 2855.64683,
+      "token_id": "111482491597930862635370401305135890435649046275780966903983846006316091199572",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.008,
+        0.992
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-90-91f",
+        "condition_id": "0x57e8dd6e75875c7d9667ed77cb5ce2044549ac805e8ef2da8d0615496dabe2a5"
+      }
+    },
+    {
+      "market_id": "2450362",
+      "question": "Will the highest temperature in Houston be between 92-93°F on June 7?",
+      "bucket_low": 92.0,
+      "bucket_high": 93.0,
+      "unit": "F",
+      "yes_price": 0.006,
+      "no_price": 0.994,
+      "volume": 1959.6284340000002,
+      "liquidity": 1691.15807,
+      "token_id": "52349057095936201368015684341953681708644780662760694643796280406144817626718",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.006,
+        0.994
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-92-93f",
+        "condition_id": "0xffad551bfe7d07667143704d0fb8867a1be12ee2e726ce366d05a38777b7d4e5"
+      }
+    },
+    {
+      "market_id": "2450363",
+      "question": "Will the highest temperature in Houston be between 94-95°F on June 7?",
+      "bucket_low": 94.0,
+      "bucket_high": 95.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 742.5906339999998,
+      "liquidity": 2234.98658,
+      "token_id": "11139267919621570981599014880264783804783694920853465510839539916896120667007",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-94-95f",
+        "condition_id": "0x4c8474cc21c0c2fa6b614e069aa0ee63d73f9fca45606e1d65fae6ce038c74e6"
+      }
+    },
+    {
+      "market_id": "2450364",
+      "question": "Will the highest temperature in Houston be between 96-97°F on June 7?",
+      "bucket_low": 96.0,
+      "bucket_high": 97.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 312.28759999999994,
+      "liquidity": 2212.79621,
+      "token_id": "107275215733895363038523766399684580352084139303521326605500448049230098598674",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-96-97f",
+        "condition_id": "0x36e2398a3a5eb7475e169425853de4f44a98d8c707b2331cc0ed326cdb1ed9b1"
+      }
+    },
+    {
+      "market_id": "2450365",
+      "question": "Will the highest temperature in Houston be 98°F or higher on June 7?",
+      "bucket_low": 98.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 666.9307500000001,
+      "liquidity": 2582.68519,
+      "token_id": "79529676085305081780622671756717826115293233413196109709365939826841624018062",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-june-7-2026-98forhigher",
+        "condition_id": "0x11f5315a17d0a041aba672f4fb5c0f2e1605079ccb911194288002a8843a8984"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T19:18:22.279904+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-07T12:00:00Z",
+      "liquidity": 43954.67839,
+      "volume": 18416.461224000002,
+      "outcomes_count": 11,
+      "top_bucket": "86.0-87.0F",
+      "top_price": 0.465,
+      "event_title": "Highest temperature in Houston on June 7?"
+    }
+  ],
+  "settle_at": "2026-06-08T05:00:00+00:00",
+  "hours_to_settle": 9.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-houston-on-june-7-2026",
+    "event_id": "564420",
+    "markets_count": 11,
+    "game_start_time": "2026-06-07 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-06T16:12:35.483245+00:00",
+  "last_seen_at": "2026-06-07T19:18:22.279904+00:00",
+  "last_refreshed_at": "2026-06-07T19:18:22.279904+00:00",
+  "created_at": "2026-06-06T16:12:35.483245+00:00",
+  "updated_at": "2026-06-10T17:17:29.208641+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

@@ -1,0 +1,351 @@
+{
+  "storage_key": "manila_2026-06-12_high",
+  "event_id": "578719",
+  "event_slug": "highest-temperature-in-manila-on-june-12-2026",
+  "event_title": "Highest temperature in Manila on June 12?",
+  "city_slug": "manila",
+  "city_name": "Manila",
+  "date": "2026-06-12",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Manila",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-12T12:00:00Z",
+  "event_end_date": "2026-06-12T12:00:00Z",
+  "liquidity": 30641.32491,
+  "volume": 2399.9726490000003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2488229",
+      "question": "Will the highest temperature in Manila be 27°C or below on June 12?",
+      "bucket_low": -999.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 539.0,
+      "liquidity": 7588.7835,
+      "token_id": "33057270070876459564699531341225208002983501353313808467786577211603445491635",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-27corbelow",
+        "condition_id": "0xe17cac5079381918afee56fda24f0825d4c924a76808d232a28d4fab8388c499"
+      }
+    },
+    {
+      "market_id": "2488230",
+      "question": "Will the highest temperature in Manila be 28°C on June 12?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 319.998006,
+      "liquidity": 4948.55198,
+      "token_id": "84123486385318165283545847034322243276821548025754507775404159896037592355113",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-28c",
+        "condition_id": "0x86f3880d55edc21614e724d8f9252a1f8c6994929a310d10cc7deb89714cc91a"
+      }
+    },
+    {
+      "market_id": "2488231",
+      "question": "Will the highest temperature in Manila be 29°C on June 12?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.005,
+      "no_price": 0.995,
+      "volume": 272.29499999999996,
+      "liquidity": 3085.68062,
+      "token_id": "54426408729428453125432448904962333785904035114397533634767005930953105635799",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.005,
+        0.995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-29c",
+        "condition_id": "0x174f5a3a7cc4a7fd54acbccf93209f29789e93e8d1e07f9b5d63d6e7870aa10d"
+      }
+    },
+    {
+      "market_id": "2488232",
+      "question": "Will the highest temperature in Manila be 30°C on June 12?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.006,
+      "no_price": 0.994,
+      "volume": 58.039,
+      "liquidity": 2056.03128,
+      "token_id": "100282062873360362706206899714694367294351673688331505585637831006360296823109",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.006,
+        0.994
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-30c",
+        "condition_id": "0x8ca614bbc3d05eb47813bdf83c5da6099fab0676635853b4520a39635d194f60"
+      }
+    },
+    {
+      "market_id": "2488233",
+      "question": "Will the highest temperature in Manila be 31°C on June 12?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0255,
+      "no_price": 0.9745,
+      "volume": 574.4545720000001,
+      "liquidity": 2314.7785,
+      "token_id": "5907322375310766566401543928162765712395450827528427800170805884252004521786",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0255,
+        0.9745
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-31c",
+        "condition_id": "0xa7a3636ae9c324fe9c680e1da275add343393532e591040380dfdfb143fa1678"
+      }
+    },
+    {
+      "market_id": "2488234",
+      "question": "Will the highest temperature in Manila be 32°C on June 12?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.085,
+      "no_price": 0.915,
+      "volume": 384.517904,
+      "liquidity": 1256.552,
+      "token_id": "34332596283676077478202286155636537719011230076984066988048306362493890626771",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.085,
+        0.915
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-32c",
+        "condition_id": "0xf8cc16e8abef1966fc472db9d4e3e3f891eefa8b5f4f80ece835c0232c300f85"
+      }
+    },
+    {
+      "market_id": "2488235",
+      "question": "Will the highest temperature in Manila be 33°C on June 12?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.32,
+      "no_price": 0.68,
+      "volume": 65.316884,
+      "liquidity": 986.8537,
+      "token_id": "53573235430155055576671301819925204200642868609414783378351741476496014538508",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.32,
+        0.68
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-33c",
+        "condition_id": "0xb35d3cfaabb5efd1e5b6da0bc76f4a1df7d0cffdd01fbcf803e6266fcb803929"
+      }
+    },
+    {
+      "market_id": "2488236",
+      "question": "Will the highest temperature in Manila be 34°C on June 12?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.39,
+      "no_price": 0.61,
+      "volume": 50.788944,
+      "liquidity": 1084.0118,
+      "token_id": "88001102616358669013077311661690165817380238914550526499872258251678319260960",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.39,
+        0.61
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-34c",
+        "condition_id": "0xb63959ef8870a36d8fc603525c2453f0fdaaf49e0a06e02fec49de6191ca52d5"
+      }
+    },
+    {
+      "market_id": "2488237",
+      "question": "Will the highest temperature in Manila be 35°C on June 12?",
+      "bucket_low": 35.0,
+      "bucket_high": 35.0,
+      "unit": "C",
+      "yes_price": 0.15,
+      "no_price": 0.85,
+      "volume": null,
+      "liquidity": 1172.3648,
+      "token_id": "13023255788470184819283789966406642032592985465148875615641742370074672242883",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.15,
+        0.85
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-35c",
+        "condition_id": "0x6fcc348accf9a43bb48e9fbb25150257e2e6fd55a943c895179a6badfa16fb6a"
+      }
+    },
+    {
+      "market_id": "2488238",
+      "question": "Will the highest temperature in Manila be 36°C on June 12?",
+      "bucket_low": 36.0,
+      "bucket_high": 36.0,
+      "unit": "C",
+      "yes_price": 0.06,
+      "no_price": 0.94,
+      "volume": 26.225257,
+      "liquidity": 1457.9925,
+      "token_id": "31645227329087497902998557752030007769434139589072278992158288512196027923923",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.06,
+        0.94
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-36c",
+        "condition_id": "0xcf944e33ce7670b62339d5d609cc159d6e52dba5eb8c5733f8f54c24dab96c6c"
+      }
+    },
+    {
+      "market_id": "2488239",
+      "question": "Will the highest temperature in Manila be 37°C or higher on June 12?",
+      "bucket_low": 37.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 109.337082,
+      "liquidity": 2857.148,
+      "token_id": "115250031319384761888328319849304044032980886305792547116274089728935669090663",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-manila-on-june-12-2026-37corhigher",
+        "condition_id": "0x72296b5d4b50117c0010fefedd676d8b91b448e2ab01943d907540216d529f3c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.547345+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-12T12:00:00Z",
+      "liquidity": 30641.32491,
+      "volume": 2399.9726490000003,
+      "outcomes_count": 11,
+      "top_bucket": "34.0-34.0C",
+      "top_price": 0.39,
+      "event_title": "Highest temperature in Manila on June 12?"
+    }
+  ],
+  "settle_at": "2026-06-12T16:00:00+00:00",
+  "hours_to_settle": 46.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-manila-on-june-12-2026",
+    "event_id": "578719",
+    "markets_count": 11,
+    "game_start_time": "2026-06-11 16:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 42.7,
+  "first_seen_at": "2026-06-10T16:07:43.811236+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.547345+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.547345+00:00",
+  "created_at": "2026-06-10T16:07:43.811236+00:00",
+  "updated_at": "2026-06-10T17:17:26.547345+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

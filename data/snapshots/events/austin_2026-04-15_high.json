@@ -1,0 +1,361 @@
+{
+  "storage_key": "austin_2026-04-15_high",
+  "event_id": "373610",
+  "event_slug": "highest-temperature-in-austin-on-april-15-2026",
+  "event_title": "Highest temperature in Austin on April 15?",
+  "city_slug": "austin",
+  "city_name": "Austin",
+  "date": "2026-04-15",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Austin",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature",
+    "temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-15T12:00:00Z",
+  "event_end_date": "2026-04-15T12:00:00Z",
+  "liquidity": null,
+  "volume": 50562.83321600002,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1965581",
+      "question": "Will the highest temperature in Austin be 61°F or below on April 15?",
+      "bucket_low": -999.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4248.878458,
+      "liquidity": null,
+      "token_id": "68204259355535979850009846245074554972043890983088869928370364154260433438712",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-61forbelow",
+        "condition_id": "0xfde00720aa34cfb4ef5b5175bb964e44bcc010e7f4ee25260f148322775b90c4"
+      }
+    },
+    {
+      "market_id": "1965582",
+      "question": "Will the highest temperature in Austin be between 62-63°F on April 15?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 329.754285,
+      "liquidity": 0.0,
+      "token_id": "5200238693094022599531590927055813765331692871123670910696937385780940936284",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-62-63f",
+        "condition_id": "0x484f8bfbdf006e54f6ff228b2d4ea18d1b704249773ead34856917a593d54b57"
+      }
+    },
+    {
+      "market_id": "1965583",
+      "question": "Will the highest temperature in Austin be between 64-65°F on April 15?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3006.9548000000004,
+      "liquidity": null,
+      "token_id": "82767324410273656886884022124012999453603818046782345801185137087297844946773",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-64-65f",
+        "condition_id": "0x5153f69b50c50af829ca1889d55abe02b5a8d9ad23b7a8e4edce774a0c5ca399"
+      }
+    },
+    {
+      "market_id": "1965584",
+      "question": "Will the highest temperature in Austin be between 66-67°F on April 15?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1192.3825500000003,
+      "liquidity": 0.0,
+      "token_id": "62433033192626456505428494674571436745663298930545841333894874412682243092140",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-66-67f",
+        "condition_id": "0x9e39099faca2dcaf347292022c414f34dec1b0fe95055bd300e0edad3ebc4edc"
+      }
+    },
+    {
+      "market_id": "1965585",
+      "question": "Will the highest temperature in Austin be between 68-69°F on April 15?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7614.676876000002,
+      "liquidity": null,
+      "token_id": "99981322415680012257649916319400804651001451937309960699423015821356624969011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-68-69f",
+        "condition_id": "0x6df69e2afc8dda255193188822f7f75c198c4425446378d1edd142a6c8547855"
+      }
+    },
+    {
+      "market_id": "1965586",
+      "question": "Will the highest temperature in Austin be between 70-71°F on April 15?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1013.7374590000001,
+      "liquidity": 0.0,
+      "token_id": "76806858026100587069660952825360461231643971588887807894204496923338344916666",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-70-71f",
+        "condition_id": "0xa626b934c8e81bac55f8029bdea737b3c1f375486d9868e9001eabc765a772d8"
+      }
+    },
+    {
+      "market_id": "1965587",
+      "question": "Will the highest temperature in Austin be between 72-73°F on April 15?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4216.336083,
+      "liquidity": null,
+      "token_id": "42130300910604648163223921711970771004924410736442697590703747651847103269193",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-72-73f",
+        "condition_id": "0x34a9a8b2ae58b7c9bb27aa9b9652360a6a6c02c0011391fe1890b2a4bc97655e"
+      }
+    },
+    {
+      "market_id": "1965588",
+      "question": "Will the highest temperature in Austin be between 74-75°F on April 15?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9424.919456000003,
+      "liquidity": null,
+      "token_id": "57596932393924962714632529702162755968754268806312993464517626585952882485560",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-74-75f",
+        "condition_id": "0x3f550a6b4549b02d85d1d816da9ea2f115508a35057e76641f930da80806a238"
+      }
+    },
+    {
+      "market_id": "1965589",
+      "question": "Will the highest temperature in Austin be between 76-77°F on April 15?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8326.013497000016,
+      "liquidity": null,
+      "token_id": "115571549970059723031121619364003180955561747266727869236215593994054521192616",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-76-77f",
+        "condition_id": "0x3b5545a2d5c04c2b54bc45cffd3b561f7be6026188036bdf56f63e6847d0de0f"
+      }
+    },
+    {
+      "market_id": "1965590",
+      "question": "Will the highest temperature in Austin be between 78-79°F on April 15?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5410.284040999999,
+      "liquidity": null,
+      "token_id": "81245127972732367611544165761654366965074602535404511607520824947031571301393",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-78-79f",
+        "condition_id": "0x3efe57d85cc1556c82fc331640f433cc8456efa2ba76ad2390abf80b39362399"
+      }
+    },
+    {
+      "market_id": "1965591",
+      "question": "Will the highest temperature in Austin be 80°F or higher on April 15?",
+      "bucket_low": 80.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5778.895711000001,
+      "liquidity": null,
+      "token_id": "32200491770766963902430638018524417300090968935163953644163306650719744450573",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-april-15-2026-80forhigher",
+        "condition_id": "0xb57b6d2367726374df00362c269e3efdd0f2f55be95d9eb4867d120284755143"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:05.990609+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-15T12:00:00Z",
+      "liquidity": null,
+      "volume": 50562.83321600002,
+      "outcomes_count": 11,
+      "top_bucket": ">=80.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Austin on April 15?"
+    }
+  ],
+  "settle_at": "2026-04-16T05:00:00+00:00",
+  "hours_to_settle": -1259.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-austin-on-april-15-2026",
+    "event_id": "373610",
+    "markets_count": 11,
+    "game_start_time": "2026-04-15 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:05.990609+00:00",
+  "last_seen_at": "2026-06-07T16:06:05.990609+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:05.990609+00:00",
+  "created_at": "2026-06-07T16:06:05.990609+00:00",
+  "updated_at": "2026-06-10T17:17:28.433759+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=80F",
+      "resolved_value": ">=80F",
+      "resolution_source": null,
+      "winning_market_id": "1965591",
+      "winning_question": "Will the highest temperature in Austin be 80°F or higher on April 15?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:05.992614+00:00"
+  },
+  "legacy": null
+}

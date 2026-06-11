@@ -1,0 +1,351 @@
+{
+  "storage_key": "wuhan_2026-06-11_high",
+  "event_id": "575055",
+  "event_slug": "highest-temperature-in-wuhan-on-june-11-2026",
+  "event_title": "Highest temperature in Wuhan on June 11?",
+  "city_slug": "wuhan",
+  "city_name": "Wuhan",
+  "date": "2026-06-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Wuhan",
+    "Highest temperature",
+    "Rewards Automation 100 4.5 50 (2)"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-11T12:00:00Z",
+  "event_end_date": "2026-06-11T12:00:00Z",
+  "liquidity": 18301.78847,
+  "volume": 5126.985074,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2476304",
+      "question": "Will the highest temperature in Wuhan be 25°C or below on June 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 373.03,
+      "liquidity": 7423.71936,
+      "token_id": "71053727821633940817481846224783853768269900239327055148149915025061750464697",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-25corbelow",
+        "condition_id": "0xa768d8508fb91b6a49ffb2fda4b2c76bbf6c3a48fe05e79af96d33f40f3b52cf"
+      }
+    },
+    {
+      "market_id": "2476305",
+      "question": "Will the highest temperature in Wuhan be 26°C on June 11?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 363.262,
+      "liquidity": 5128.52674,
+      "token_id": "41151486888112085530663228302981987423978511082794013068730145924728659914831",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-26c",
+        "condition_id": "0x4564d594b9b36d3f1a6b905fdffd3c3ff0a5318be8214ec4592d4cf0aefce12a"
+      }
+    },
+    {
+      "market_id": "2476306",
+      "question": "Will the highest temperature in Wuhan be 27°C on June 11?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 190.196,
+      "liquidity": 1675.78934,
+      "token_id": "95728893696103489900659570732863048963983029242360434284538841418138412166585",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-27c",
+        "condition_id": "0x99eeca4a5a86c56fa0f6c4ecca1a35eac5dc3e1a9a4b029ae1a051e16eb85dd6"
+      }
+    },
+    {
+      "market_id": "2476307",
+      "question": "Will the highest temperature in Wuhan be 28°C on June 11?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "volume": 401.7562840000001,
+      "liquidity": 1062.16599,
+      "token_id": "3586637950704025325409501117904644098002282715077300528894781382242586339012",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0035,
+        0.9965
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-28c",
+        "condition_id": "0xe78e21d607a8157990879cef704c9e87dc93496f557502833dd2b01c3261d0b5"
+      }
+    },
+    {
+      "market_id": "2476308",
+      "question": "Will the highest temperature in Wuhan be 29°C on June 11?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0205,
+      "no_price": 0.9795,
+      "volume": 922.9716900000001,
+      "liquidity": 339.84868,
+      "token_id": "100102660531086180698679775614732255698258224882294627692717150859827997292909",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0205,
+        0.9795
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-29c",
+        "condition_id": "0xc89babd99b4aca83669769328e0265f1f78f426b1477a647cd3eb40a8a24785b"
+      }
+    },
+    {
+      "market_id": "2476309",
+      "question": "Will the highest temperature in Wuhan be 30°C on June 11?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.06,
+      "no_price": 0.94,
+      "volume": 597.5652799999999,
+      "liquidity": 344.8956,
+      "token_id": "62787449134350589776100341442642418547253633548582549537038451441863914194449",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.06,
+        0.94
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-30c",
+        "condition_id": "0xec3a37632e964f94e9b4249a3e53de11de1f0494465a8db0e582a85954489075"
+      }
+    },
+    {
+      "market_id": "2476310",
+      "question": "Will the highest temperature in Wuhan be 31°C on June 11?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.305,
+      "no_price": 0.695,
+      "volume": 306.39369300000027,
+      "liquidity": 313.5463,
+      "token_id": "12698323925260591904161228091527479302800485739654735303891506559908931133900",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.305,
+        0.695
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-31c",
+        "condition_id": "0xe51025f189decd47702be409212e5c8d3387e66d831b9c88306c2b26dfc45b5b"
+      }
+    },
+    {
+      "market_id": "2476311",
+      "question": "Will the highest temperature in Wuhan be 32°C on June 11?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.385,
+      "no_price": 0.615,
+      "volume": 635.211472,
+      "liquidity": 395.0192,
+      "token_id": "95534481451311982513806374012707940007802894026185752719049515468272431036347",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.385,
+        0.615
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-32c",
+        "condition_id": "0xc48378820745a8b312f2b8b9dc7169c2c618c84577f752c7b41f8c8532b72385"
+      }
+    },
+    {
+      "market_id": "2476312",
+      "question": "Will the highest temperature in Wuhan be 33°C on June 11?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.175,
+      "no_price": 0.825,
+      "volume": 715.1406760000001,
+      "liquidity": 261.014,
+      "token_id": "98366229170848862272444287170182455668930198961600689894593105688793436468651",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.175,
+        0.825
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-33c",
+        "condition_id": "0x3bdbc7d9f11ccf5e14d0ad1895c0282f28e57f29e00301095db92eb9a0324d52"
+      }
+    },
+    {
+      "market_id": "2476313",
+      "question": "Will the highest temperature in Wuhan be 34°C on June 11?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.026,
+      "no_price": 0.974,
+      "volume": 222.560808,
+      "liquidity": 384.72344,
+      "token_id": "58697885721912883183629694046570307672867674617042582885367670709661307959511",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.026,
+        0.974
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-34c",
+        "condition_id": "0xd03c7351522ee37c8a6f83c64a98705e0c666e6b8d9e4094fdfbb3c6def0bcb0"
+      }
+    },
+    {
+      "market_id": "2476314",
+      "question": "Will the highest temperature in Wuhan be 35°C or higher on June 11?",
+      "bucket_low": 35.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.011,
+      "no_price": 0.989,
+      "volume": 472.41640700000005,
+      "liquidity": 449.62988,
+      "token_id": "63357436337548986906860404113346217990439419274834081534187421641469542608594",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.011,
+        0.989
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-june-11-2026-35corhigher",
+        "condition_id": "0x996addc1ec2d2c8eeb1066f285a168a664e624f06d79170abec4c72347d2104c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.703056+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-11T12:00:00Z",
+      "liquidity": 18301.78847,
+      "volume": 5126.985074,
+      "outcomes_count": 11,
+      "top_bucket": "32.0-32.0C",
+      "top_price": 0.385,
+      "event_title": "Highest temperature in Wuhan on June 11?"
+    }
+  ],
+  "settle_at": "2026-06-11T16:00:00+00:00",
+  "hours_to_settle": 22.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-wuhan-on-june-11-2026",
+    "event_id": "575055",
+    "markets_count": 11,
+    "game_start_time": "2026-06-10 16:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 18.7,
+  "first_seen_at": "2026-06-09T07:53:26.402436+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.703056+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.703056+00:00",
+  "created_at": "2026-06-09T07:53:26.402436+00:00",
+  "updated_at": "2026-06-10T17:17:26.703056+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

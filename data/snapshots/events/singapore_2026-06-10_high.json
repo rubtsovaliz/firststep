@@ -1,0 +1,351 @@
+{
+  "storage_key": "singapore_2026-06-10_high",
+  "event_id": "571436",
+  "event_slug": "highest-temperature-in-singapore-on-june-10-2026",
+  "event_title": "Highest temperature in Singapore on June 10?",
+  "city_slug": "singapore",
+  "city_name": "Singapore",
+  "date": "2026-06-10",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "singapore",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-10T12:00:00Z",
+  "event_end_date": "2026-06-10T12:00:00Z",
+  "liquidity": 617455.24923,
+  "volume": 64135.917753999995,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2467901",
+      "question": "Will the highest temperature in Singapore be 25°C or below on June 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 634.9891660000001,
+      "liquidity": 0.0,
+      "token_id": "20058766952186735740615647082487605283288093177313671535822382835815826254374",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-25corbelow",
+        "condition_id": "0xe33300ad01e859eb2c57ae4cd570fd2004b2c4774c5683e763aeec1a6a9b2c89"
+      }
+    },
+    {
+      "market_id": "2467902",
+      "question": "Will the highest temperature in Singapore be 26°C on June 10?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 766.083092,
+      "liquidity": 55535.27006,
+      "token_id": "110517810862302336547787359272593895073365665231897829651254564388567091394603",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-26c",
+        "condition_id": "0x5acd3dc2785ef97efb937ff58e5fdf2da657176be45462136b7ab9f4e3733bd6"
+      }
+    },
+    {
+      "market_id": "2467903",
+      "question": "Will the highest temperature in Singapore be 27°C on June 10?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 924.425064,
+      "liquidity": 0.0,
+      "token_id": "114793209138666255403596585535798009011382633118551439759165927890797702669463",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-27c",
+        "condition_id": "0xbdf9cf602a6d507c57564fc3e7967dd5e4f129975061ad18cc7834612057d847"
+      }
+    },
+    {
+      "market_id": "2467904",
+      "question": "Will the highest temperature in Singapore be 28°C on June 10?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3613.112956000001,
+      "liquidity": 0.0,
+      "token_id": "41732798024342914685598053360013705586412477804127518504639977646585530633143",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-28c",
+        "condition_id": "0x57c14a5851f1e7b70e3aad4aa2960d00fc42f9ea9f9205818b9340a1a7953a43"
+      }
+    },
+    {
+      "market_id": "2467905",
+      "question": "Will the highest temperature in Singapore be 29°C on June 10?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7337.889312999998,
+      "liquidity": 0.0,
+      "token_id": "49194043827647997346772904580054902178451656353100842717219486689287980899277",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-29c",
+        "condition_id": "0x465994983a2c7b74805e59c2a4835dbf86458e2b5deaa3d9cb74d9475a576bb3"
+      }
+    },
+    {
+      "market_id": "2467906",
+      "question": "Will the highest temperature in Singapore be 30°C on June 10?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9675.879704999996,
+      "liquidity": 0.0,
+      "token_id": "104142358480136800950187830238723926209799523334203856378225517091780733475811",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-30c",
+        "condition_id": "0x122e54aa89463a4b447c6884c8bb5fe2bfd60d974871db257800f0321b1a1bfb"
+      }
+    },
+    {
+      "market_id": "2467907",
+      "question": "Will the highest temperature in Singapore be 31°C on June 10?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 10504.786655999998,
+      "liquidity": 0.0,
+      "token_id": "12719584770283650318179874721838723798869144742386198014819191427279036552943",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-31c",
+        "condition_id": "0x51d48a103e63e70f1dcb620c9b65cdf9ca5da651427ab2dfad22894f066136c8"
+      }
+    },
+    {
+      "market_id": "2467908",
+      "question": "Will the highest temperature in Singapore be 32°C on June 10?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9657.748290000001,
+      "liquidity": 0.0,
+      "token_id": "26616607184980045174152548788072781109896735254331945048431030687174298898750",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-32c",
+        "condition_id": "0x90f5989cd365021ff7d8b14c41532ded9d8b0ab0eec06c5fd36ca22048e9e4fe"
+      }
+    },
+    {
+      "market_id": "2467909",
+      "question": "Will the highest temperature in Singapore be 33°C on June 10?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14937.232270000004,
+      "liquidity": 0.0,
+      "token_id": "43288708660992389670316962065120424963088463657358247215212332710296429078627",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-33c",
+        "condition_id": "0x12178ec0f539bf640df30d2b0d6a3f799d3b572fe1c7c526430c3b355946ebb7"
+      }
+    },
+    {
+      "market_id": "2467910",
+      "question": "Will the highest temperature in Singapore be 34°C on June 10?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4735.594778,
+      "liquidity": 0.0,
+      "token_id": "55956196284080497152065025389411254739027201195828633170909564729317177514838",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-34c",
+        "condition_id": "0x732a6674392c953f48af4001badcf9ff7016f4edc53723e81104b47ad7b26957"
+      }
+    },
+    {
+      "market_id": "2467911",
+      "question": "Will the highest temperature in Singapore be 35°C or higher on June 10?",
+      "bucket_low": 35.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1348.1764639999997,
+      "liquidity": 0.0,
+      "token_id": "37950045699453323635379815601593349279910731835555962066961081964776941546877",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-singapore-on-june-10-2026-35corhigher",
+        "condition_id": "0x1bb7f72659136794f6ab4c6f2c6d30e56496df66e559385a1cd65c8df1fe8993"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T16:38:38.150483+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-10T12:00:00Z",
+      "liquidity": 617455.24923,
+      "volume": 64135.917753999995,
+      "outcomes_count": 11,
+      "top_bucket": "31.0-31.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Singapore on June 10?"
+    }
+  ],
+  "settle_at": "2026-06-10T16:00:00+00:00",
+  "hours_to_settle": -0.6,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-singapore-on-june-10-2026",
+    "event_id": "571436",
+    "markets_count": 11,
+    "game_start_time": "2026-06-09 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "full_scan",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-08T09:41:19.320262+00:00",
+  "last_seen_at": "2026-06-10T16:38:38.150483+00:00",
+  "last_refreshed_at": "2026-06-10T16:38:38.150483+00:00",
+  "created_at": "2026-06-08T09:41:19.320262+00:00",
+  "updated_at": "2026-06-10T17:17:30.954401+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

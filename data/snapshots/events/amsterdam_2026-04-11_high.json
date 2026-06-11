@@ -1,0 +1,397 @@
+{
+  "storage_key": "amsterdam_2026-04-11_high",
+  "event_id": "352665",
+  "event_slug": "highest-temperature-in-amsterdam-on-april-11-2026",
+  "event_title": "Highest temperature in Amsterdam on April 11?",
+  "city_slug": "amsterdam",
+  "city_name": "Amsterdam",
+  "date": "2026-04-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Amsterdam",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-11T12:00:00Z",
+  "event_end_date": "2026-04-11T12:00:00Z",
+  "liquidity": null,
+  "volume": 69142.32815200002,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1902102",
+      "question": "Will the highest temperature in Amsterdam be 13°C or below on April 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2520.919552,
+      "liquidity": null,
+      "token_id": "20041246273862008485332237906375803182811990572815805475284430053844090723368",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-13corbelow",
+        "condition_id": "0x541a2348cc90dd44941c83483ca3a9718b81631996f20b21d3c2f8d266604dcb"
+      }
+    },
+    {
+      "market_id": "1902103",
+      "question": "Will the highest temperature in Amsterdam be 14°C on April 11?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5679.687248000001,
+      "liquidity": null,
+      "token_id": "10642012028011811509534136177123655968632405873756946716365125908309430145372",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-14c",
+        "condition_id": "0x64e59892dcb904dfe0a35f709de9e2a379cb63d9e19ed8f1a9882289d65f6ba5"
+      }
+    },
+    {
+      "market_id": "1902104",
+      "question": "Will the highest temperature in Amsterdam be 15°C on April 11?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9741.627752999999,
+      "liquidity": null,
+      "token_id": "80577673499324339397378125878935128896875186789882524339062704922340161634781",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-15c",
+        "condition_id": "0x620546673dc34f996f12dc91edda7f5ac3f178399738718e278d65297f0192de"
+      }
+    },
+    {
+      "market_id": "1902105",
+      "question": "Will the highest temperature in Amsterdam be 16°C on April 11?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4851.612675,
+      "liquidity": null,
+      "token_id": "60848907446042176265087377725641391174501698613838744153365397404463206078452",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-16c",
+        "condition_id": "0xa25f76d0f3664fc69e910b8c0049378d0ea1243ab379319d17659b5e3b74ecc2"
+      }
+    },
+    {
+      "market_id": "1902106",
+      "question": "Will the highest temperature in Amsterdam be 17°C on April 11?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 10151.818781000002,
+      "liquidity": null,
+      "token_id": "53888890906653509217431713277932377278712895504550276103215686457326066331306",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-17c",
+        "condition_id": "0x2fc45eac517dcd9e9a3fc95377d0e00737979f524ef0a827940f0964127b94b4"
+      }
+    },
+    {
+      "market_id": "1902107",
+      "question": "Will the highest temperature in Amsterdam be 18°C on April 11?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10115.266994000014,
+      "liquidity": null,
+      "token_id": "51294175406708307748996777345627076990063233208558380785309776440335627095164",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-18c",
+        "condition_id": "0x1b3480ddf787fd8126a965ccd1d94f3474b7d8b31259927808197ddeab6d3577"
+      }
+    },
+    {
+      "market_id": "1902108",
+      "question": "Will the highest temperature in Amsterdam be 19°C on April 11?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7867.495325,
+      "liquidity": null,
+      "token_id": "83419712921615033672155458295507029582000446789734988942080268952407545337431",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-19c",
+        "condition_id": "0x0b2f93042be121d8d0f696b2012747e60fd15fbe855af95c7ec839f6987e5fbd"
+      }
+    },
+    {
+      "market_id": "1902109",
+      "question": "Will the highest temperature in Amsterdam be 20°C on April 11?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6133.228968000002,
+      "liquidity": null,
+      "token_id": "2568955170512885219935627286400238580492236838208959467780114708506611572398",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-20c",
+        "condition_id": "0x98fb699e21389a06b748e06312b352b6a33e691b8ea4093d613b9a548869ab0f"
+      }
+    },
+    {
+      "market_id": "1902110",
+      "question": "Will the highest temperature in Amsterdam be 21°C on April 11?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4338.087575,
+      "liquidity": null,
+      "token_id": "11595152352042980173990963631506583515690217083122056873111853787076255719392",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-21c",
+        "condition_id": "0xc8db3276bd33313b96ff8367fbc5b4746edc2ef955d367a390b2b2cab29c42b7"
+      }
+    },
+    {
+      "market_id": "1902111",
+      "question": "Will the highest temperature in Amsterdam be 22°C on April 11?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4291.915967,
+      "liquidity": null,
+      "token_id": "97007913975676135708608092760068181103352802042689683666357066165373231001962",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-22c",
+        "condition_id": "0xe3f51de2a3475c454a5a5c662c9174f179629f0cb0adf2716e4841d9db1f5e72"
+      }
+    },
+    {
+      "market_id": "1902112",
+      "question": "Will the highest temperature in Amsterdam be 23°C or higher on April 11?",
+      "bucket_low": 23.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3450.667314,
+      "liquidity": null,
+      "token_id": "109254003467354683100312485481354989013536565794545154400412122250157627505703",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-april-11-2026-23corhigher",
+        "condition_id": "0xafaa83be02e108610c0437297af1842cc0becc9d17c33e3d44b56abbc94cab75"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:06.736793+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-11T12:00:00Z",
+      "liquidity": null,
+      "volume": 69142.32815200002,
+      "outcomes_count": 11,
+      "top_bucket": "17.0-17.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Amsterdam on April 11?"
+    }
+  ],
+  "settle_at": "2026-04-11T22:00:00+00:00",
+  "hours_to_settle": -1362.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-amsterdam-on-april-11-2026",
+    "event_id": "352665",
+    "markets_count": 11,
+    "game_start_time": "2026-04-10 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:06.736793+00:00",
+  "last_seen_at": "2026-06-07T16:06:06.736793+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:06.736793+00:00",
+  "created_at": "2026-06-07T16:06:06.736793+00:00",
+  "updated_at": "2026-06-10T18:51:44.154591+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "17C",
+      "resolved_value": "17C",
+      "resolution_source": null,
+      "winning_market_id": "1902106",
+      "winning_question": "Will the highest temperature in Amsterdam be 17°C on April 11?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:06.737796+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T18:51:44.154591+00:00",
+      "single": {
+        "city_slug": "amsterdam",
+        "date": "2026-04-11",
+        "metric": "high",
+        "model": "knmi_seamless",
+        "requested_model": null,
+        "model_fallback": false,
+        "unit": null,
+        "temp": null,
+        "error": "forecast_unavailable"
+      },
+      "ensemble": {
+        "city_slug": "amsterdam",
+        "date": "2026-04-11",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble",
+        "requested_model": "ecmwf_ifs025_ensemble+icon_global_eps",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 16.5,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 16.5,
+            "error": null
+          },
+          {
+            "model": "icon_global_eps",
+            "temp": null,
+            "error": "forecast_unavailable"
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null
+}

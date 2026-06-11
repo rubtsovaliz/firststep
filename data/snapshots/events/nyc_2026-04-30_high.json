@@ -1,0 +1,360 @@
+{
+  "storage_key": "nyc_2026-04-30_high",
+  "event_id": "426233",
+  "event_slug": "highest-temperature-in-nyc-on-april-30-2026",
+  "event_title": "Highest temperature in NYC on April 30?",
+  "city_slug": "nyc",
+  "city_name": "Nyc",
+  "date": "2026-04-30",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "New York City",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-30T12:00:00Z",
+  "event_end_date": "2026-04-30T12:00:00Z",
+  "liquidity": null,
+  "volume": 244084.27603700003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2102159",
+      "question": "Will the highest temperature in New York City be 55°F or below on April 30?",
+      "bucket_low": -999.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 46749.14663900004,
+      "liquidity": null,
+      "token_id": "38139966956434306614287364047646631458886490752918308949448768842841153446117",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-55forbelow",
+        "condition_id": "0xcded1d69cb4b481966def4eab8a1d87b45f431cc096fa0af4635c91481fbec52"
+      }
+    },
+    {
+      "market_id": "2102160",
+      "question": "Will the highest temperature in New York City be between 56-57°F on April 30?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 83766.416446,
+      "liquidity": null,
+      "token_id": "112350886388406808008777581541746018664217564852365455288714937927393254988668",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-56-57f",
+        "condition_id": "0x6292b33a9d2036b66f306d5312a4033cc2f98b5d721aaa84b7213464bdf1938d"
+      }
+    },
+    {
+      "market_id": "2102161",
+      "question": "Will the highest temperature in New York City be between 58-59°F on April 30?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 42085.980682999994,
+      "liquidity": null,
+      "token_id": "33747811083765248477014524285146216918068043893692371298597102800077156702989",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-58-59f",
+        "condition_id": "0x9453ab60ffea0f2e1c3ccdb7b1e660e329561df99de8d31ab269c57551170661"
+      }
+    },
+    {
+      "market_id": "2102162",
+      "question": "Will the highest temperature in New York City be between 60-61°F on April 30?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 21176.635559000002,
+      "liquidity": null,
+      "token_id": "43693339126065575197634097167969944380784353263159947018335904994641765015233",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-60-61f",
+        "condition_id": "0xf4c1174fb179e8e20cd981b9d5f84d08cc78665965283b87b64224ef2316d502"
+      }
+    },
+    {
+      "market_id": "2102163",
+      "question": "Will the highest temperature in New York City be between 62-63°F on April 30?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17579.240960999996,
+      "liquidity": null,
+      "token_id": "20935571474473969789059045379556220369740657133736680115097761838964217321675",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-62-63f",
+        "condition_id": "0xbf081d326b9af46175aad26b9e20b4c61e0622c637a4a629fb1a420aaee1e24a"
+      }
+    },
+    {
+      "market_id": "2102164",
+      "question": "Will the highest temperature in New York City be between 64-65°F on April 30?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12105.827429000003,
+      "liquidity": null,
+      "token_id": "72609837164544121431470045387949134022810370094855839547988398415526142457780",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-64-65f",
+        "condition_id": "0xd071e07280d1cbe7cc4a00dad656ef74ef57b2c7b41e114481cc0b1751767955"
+      }
+    },
+    {
+      "market_id": "2102165",
+      "question": "Will the highest temperature in New York City be between 66-67°F on April 30?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8424.694394,
+      "liquidity": null,
+      "token_id": "68609607482927166433008430512658812471464158406750651257415505072603607383697",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-66-67f",
+        "condition_id": "0x372a1b03b117e618e3810b454973b7c6dbeb0e5534e7cca2d41285116302d8bb"
+      }
+    },
+    {
+      "market_id": "2102166",
+      "question": "Will the highest temperature in New York City be between 68-69°F on April 30?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4522.723813,
+      "liquidity": null,
+      "token_id": "655738284228288965665532589743553056385328484904535347933521668593471462851",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-68-69f",
+        "condition_id": "0xf55ddf59e66a33fd3c1209ffe7592397758dbf50148d88ffe13e1c4cc1f31230"
+      }
+    },
+    {
+      "market_id": "2102167",
+      "question": "Will the highest temperature in New York City be between 70-71°F on April 30?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2886.5867,
+      "liquidity": null,
+      "token_id": "24547969902447937032476675642629721260380573996673360039826982480306937224558",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-70-71f",
+        "condition_id": "0xa6efb8bcfe6b2108f14110e81e6982df98aebfc114d763f4e683a9162c0fbabd"
+      }
+    },
+    {
+      "market_id": "2102168",
+      "question": "Will the highest temperature in New York City be between 72-73°F on April 30?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1837.6375000000005,
+      "liquidity": null,
+      "token_id": "62016788579757432978840848077855986202803068497857525999431270236698880063397",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-72-73f",
+        "condition_id": "0xb01aa3a7c3568eec1c02ddfac633f51e60eeddac94b215b01ff1ba05024b43f6"
+      }
+    },
+    {
+      "market_id": "2102169",
+      "question": "Will the highest temperature in New York City be 74°F or higher on April 30?",
+      "bucket_low": 74.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2949.3859129999996,
+      "liquidity": null,
+      "token_id": "95128186859780024455691388471531388764871998882940589542207231319801896681731",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-april-30-2026-74forhigher",
+        "condition_id": "0x8d1174a43423829a459df534f22f316f96e092509c3791f9272db522b5b502ad"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.921808+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-30T12:00:00Z",
+      "liquidity": null,
+      "volume": 244084.27603700003,
+      "outcomes_count": 11,
+      "top_bucket": "60.0-61.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in NYC on April 30?"
+    }
+  ],
+  "settle_at": "2026-05-01T04:00:00+00:00",
+  "hours_to_settle": -900.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-nyc-on-april-30-2026",
+    "event_id": "426233",
+    "markets_count": 11,
+    "game_start_time": "2026-04-30 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.921808+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.921808+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.921808+00:00",
+  "created_at": "2026-06-07T16:06:02.921808+00:00",
+  "updated_at": "2026-06-10T17:17:30.215104+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "60-61F",
+      "resolved_value": "60-61F",
+      "resolution_source": null,
+      "winning_market_id": "2102162",
+      "winning_question": "Will the highest temperature in New York City be between 60-61°F on April 30?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.923813+00:00"
+  },
+  "legacy": null
+}

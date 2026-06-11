@@ -1,0 +1,351 @@
+{
+  "storage_key": "san-francisco_2026-06-08_high",
+  "event_id": "567592",
+  "event_slug": "highest-temperature-in-san-francisco-on-june-8-2026",
+  "event_title": "Highest temperature in San Francisco on June 8?",
+  "city_slug": "san-francisco",
+  "city_name": "San Francisco",
+  "date": "2026-06-08",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "San Fransisco",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-08T12:00:00Z",
+  "event_end_date": "2026-06-08T12:00:00Z",
+  "liquidity": 145951.87081,
+  "volume": 29617.231397,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2459003",
+      "question": "Will the highest temperature in San Francisco be 55°F or below on June 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 236.723,
+      "liquidity": 27723.22842,
+      "token_id": "19168512270833856240373148739362751210077761576588996576078100522510801555823",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-55forbelow",
+        "condition_id": "0x5fddb059e1fb2d2321a1642b6910370b8c50994093f1c96f05f9cc4ed568c486"
+      }
+    },
+    {
+      "market_id": "2459004",
+      "question": "Will the highest temperature in San Francisco be between 56-57°F on June 8?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2021.107366,
+      "liquidity": 22129.76506,
+      "token_id": "110018099581316964082631405108182261625609069203928430692030873080634926682508",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-56-57f",
+        "condition_id": "0xee6f257150c3dfb2c6c170c5d367cd515b6bae9fee1aa52372c53d0c35f40461"
+      }
+    },
+    {
+      "market_id": "2459005",
+      "question": "Will the highest temperature in San Francisco be between 58-59°F on June 8?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1248.5617030000005,
+      "liquidity": 21953.96131,
+      "token_id": "47996707785510237388283444666738241689034701334879245916630457667070957791905",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-58-59f",
+        "condition_id": "0x16ca335598769c45e28a727b60b0894a46eaa930d182699708387308178f36dd"
+      }
+    },
+    {
+      "market_id": "2459006",
+      "question": "Will the highest temperature in San Francisco be between 60-61°F on June 8?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2267.034409,
+      "liquidity": 12961.54774,
+      "token_id": "112717969036167945449975239534088450821488357758536997507903578137590733307124",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-60-61f",
+        "condition_id": "0x4a2e680cabeef17264de7db0c32de792f950b5ebb73a8e2b9d35eb30213c68c7"
+      }
+    },
+    {
+      "market_id": "2459007",
+      "question": "Will the highest temperature in San Francisco be between 62-63°F on June 8?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5339.524062000001,
+      "liquidity": 15658.27034,
+      "token_id": "71908515091202761072692292757582814082602425975008746751404442284681731985709",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-62-63f",
+        "condition_id": "0x0d859de53fa9c4d69ec18946a975373fb0fb1b1a96344f9a211465b5cce99a9a"
+      }
+    },
+    {
+      "market_id": "2459008",
+      "question": "Will the highest temperature in San Francisco be between 64-65°F on June 8?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.9995,
+      "no_price": 0.0005,
+      "volume": 4097.7166689999995,
+      "liquidity": 7358.48925,
+      "token_id": "49466687355828652358734999657985916412436750928733700246103576862089900464865",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.9995,
+        0.0005
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-64-65f",
+        "condition_id": "0x0f8378d3d379c8579703d7ba5aaf682c205f327144d9638872034a1012de0fbd"
+      }
+    },
+    {
+      "market_id": "2459009",
+      "question": "Will the highest temperature in San Francisco be between 66-67°F on June 8?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5339.7139929999985,
+      "liquidity": 6873.15629,
+      "token_id": "115637893070991489583237041162332182694810763578709706594406752325921122877442",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-66-67f",
+        "condition_id": "0x1147d8010d00bd5ebae9d9537674441e88902d3c28b9781143411c13a7b2da02"
+      }
+    },
+    {
+      "market_id": "2459010",
+      "question": "Will the highest temperature in San Francisco be between 68-69°F on June 8?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3668.3305060000007,
+      "liquidity": 10355.54745,
+      "token_id": "108083033146952986096924598988438034048343675880306672528931529382479674625886",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-68-69f",
+        "condition_id": "0x93bd6913eca5af6db8f2cd0a79bfe20e386a39f1da610b2c77872c3c625a017a"
+      }
+    },
+    {
+      "market_id": "2459011",
+      "question": "Will the highest temperature in San Francisco be between 70-71°F on June 8?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1734.411221,
+      "liquidity": 8362.63638,
+      "token_id": "104905741708398874417228989445968095141868520811241024645323295633381870393900",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-70-71f",
+        "condition_id": "0xba76eec58a1cb110165ae5fc8a1650ab276295b646b9ce50db06584d0f7ea95d"
+      }
+    },
+    {
+      "market_id": "2459012",
+      "question": "Will the highest temperature in San Francisco be between 72-73°F on June 8?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2979.735467999999,
+      "liquidity": 8290.72095,
+      "token_id": "103701824371207715835318209814130667418712391520178107842159946021313721340835",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-72-73f",
+        "condition_id": "0x964aa4768d3ca4ec3b52e90121bc621090c365fb381a47c1e595b41abd16c356"
+      }
+    },
+    {
+      "market_id": "2459013",
+      "question": "Will the highest temperature in San Francisco be 74°F or higher on June 8?",
+      "bucket_low": 74.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 684.373,
+      "liquidity": 8100.35585,
+      "token_id": "50715623693393900943728978605945295686068952964201578497998230470981987025466",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-june-8-2026-74forhigher",
+        "condition_id": "0x6405a6842737dbc8e98881904a81b6799f5fb30e8ff095d5b2f7914c11ca024c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-09T07:53:26.717641+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-08T12:00:00Z",
+      "liquidity": 145951.87081,
+      "volume": 29617.231397,
+      "outcomes_count": 11,
+      "top_bucket": "64.0-65.0F",
+      "top_price": 0.9995,
+      "event_title": "Highest temperature in San Francisco on June 8?"
+    }
+  ],
+  "settle_at": "2026-06-09T07:00:00+00:00",
+  "hours_to_settle": -0.9,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-san-francisco-on-june-8-2026",
+    "event_id": "567592",
+    "markets_count": 11,
+    "game_start_time": "2026-06-08 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T13:13:01.094628+00:00",
+  "last_seen_at": "2026-06-09T07:53:26.717641+00:00",
+  "last_refreshed_at": "2026-06-09T07:53:26.717641+00:00",
+  "created_at": "2026-06-07T13:13:01.094628+00:00",
+  "updated_at": "2026-06-10T17:17:30.484272+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

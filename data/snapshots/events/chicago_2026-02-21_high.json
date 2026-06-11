@@ -1,0 +1,307 @@
+{
+  "storage_key": "chicago_2026-02-21_high",
+  "event_id": "216602",
+  "event_slug": "highest-temperature-in-chicago-on-february-21-2026",
+  "event_title": "Highest temperature in Chicago on February 21?",
+  "city_slug": "chicago",
+  "city_name": "Chicago",
+  "date": "2026-02-21",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Chicago",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-21T12:00:00Z",
+  "event_end_date": "2026-02-21T12:00:00Z",
+  "liquidity": null,
+  "volume": 67698.849883,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1397076",
+      "question": "Will the highest temperature in Chicago be 29°F or below on February 21?",
+      "bucket_low": -999.0,
+      "bucket_high": 29.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 24291.317361,
+      "liquidity": null,
+      "token_id": "63841860306187369701891323070683550492037899051960951924702204055164501332788",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-29forbelow",
+        "condition_id": "0x1f061dd6dc11cee88ffc482941b02d16b64bc427187fd98250203de9b174c97c"
+      }
+    },
+    {
+      "market_id": "1397077",
+      "question": "Will the highest temperature in Chicago be between 30-31°F on February 21?",
+      "bucket_low": 30.0,
+      "bucket_high": 31.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11870.356299,
+      "liquidity": null,
+      "token_id": "60792875601670978376867235118781796710718812949530595635731028519119063906615",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-30-31f",
+        "condition_id": "0x1f4547226193b3940d5de1c8a943f0e07458fb9089909edaad549bba82e8eef4"
+      }
+    },
+    {
+      "market_id": "1397078",
+      "question": "Will the highest temperature in Chicago be between 32-33°F on February 21?",
+      "bucket_low": 32.0,
+      "bucket_high": 33.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5047.411687,
+      "liquidity": null,
+      "token_id": "91598068380522807428283389095302680477388905701108806706647874433643655375018",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-32-33f",
+        "condition_id": "0xaa6cfdef1437a247fd362d1e220b4fb0261d2c217f97ab3e6328dcf58d87d852"
+      }
+    },
+    {
+      "market_id": "1397079",
+      "question": "Will the highest temperature in Chicago be between 34-35°F on February 21?",
+      "bucket_low": 34.0,
+      "bucket_high": 35.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5219.73831,
+      "liquidity": null,
+      "token_id": "51876533994587549630718606309624749441956808179907551187052117395368248273959",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-34-35f",
+        "condition_id": "0x365c5e3a556bb7531368e8eb9dca8667b3d7c36380d60952d43fbf22b4a3ed76"
+      }
+    },
+    {
+      "market_id": "1397080",
+      "question": "Will the highest temperature in Chicago be between 36-37°F on February 21?",
+      "bucket_low": 36.0,
+      "bucket_high": 37.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3835.740223,
+      "liquidity": null,
+      "token_id": "95378003029099514732179493076062245136797940790222053804857893052976491829570",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-36-37f",
+        "condition_id": "0x72605f74df184d5586b7908dc3c59801c11c7159990905ec40b60a8f1976b12d"
+      }
+    },
+    {
+      "market_id": "1397081",
+      "question": "Will the highest temperature in Chicago be between 38-39°F on February 21?",
+      "bucket_low": 38.0,
+      "bucket_high": 39.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5256.412958,
+      "liquidity": null,
+      "token_id": "80035719849173220120780593864417097631749292560430005174516082433459045947580",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-38-39f",
+        "condition_id": "0x6bd38848f3c2b25c180b370bc8b7a75b597807c61ccf07337c1715a535fa6ae2"
+      }
+    },
+    {
+      "market_id": "1397082",
+      "question": "Will the highest temperature in Chicago be between 40-41°F on February 21?",
+      "bucket_low": 40.0,
+      "bucket_high": 41.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3766.610568,
+      "liquidity": null,
+      "token_id": "3379496534705805488982954845812080797084521825406812509281462630413953432521",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-40-41f",
+        "condition_id": "0x475141f34d382ae52f9945958b56df8811fd37ce94b4554d726147deecf3a623"
+      }
+    },
+    {
+      "market_id": "1397083",
+      "question": "Will the highest temperature in Chicago be between 42-43°F on February 21?",
+      "bucket_low": 42.0,
+      "bucket_high": 43.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3962.670625,
+      "liquidity": null,
+      "token_id": "11373260258054093680530033177675214540623195397931351131554685324445664964010",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-42-43f",
+        "condition_id": "0xf38134dcebac5ca5d59c26e9120bdfd327c51fd3b1db99a0c0058f8b392eb67b"
+      }
+    },
+    {
+      "market_id": "1397084",
+      "question": "Will the highest temperature in Chicago be 44°F or higher on February 21?",
+      "bucket_low": 44.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4448.591852,
+      "liquidity": null,
+      "token_id": "44326197902979984445448068553303328223142616380780498685170444025391752137424",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-february-21-2026-44forhigher",
+        "condition_id": "0x303a1cda178f2a0f36efbfaf32c2dce912d0c60664aaf815af2bf96aabc950a3"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.387517+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-21T12:00:00Z",
+      "liquidity": null,
+      "volume": 67698.849883,
+      "outcomes_count": 9,
+      "top_bucket": "<=29.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chicago on February 21?"
+    }
+  ],
+  "settle_at": "2026-02-22T06:00:00+00:00",
+  "hours_to_settle": -2530.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chicago-on-february-21-2026",
+    "event_id": "216602",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.387517+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.387517+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.387517+00:00",
+  "created_at": "2026-06-07T16:06:11.387517+00:00",
+  "updated_at": "2026-06-10T17:17:28.749795+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=29F",
+      "resolved_value": "<=29F",
+      "resolution_source": null,
+      "winning_market_id": "1397076",
+      "winning_question": "Will the highest temperature in Chicago be 29°F or below on February 21?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.388521+00:00"
+  },
+  "legacy": null
+}

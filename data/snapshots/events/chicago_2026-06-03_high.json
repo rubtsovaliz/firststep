@@ -1,0 +1,360 @@
+{
+  "storage_key": "chicago_2026-06-03_high",
+  "event_id": "546768",
+  "event_slug": "highest-temperature-in-chicago-on-june-3-2026",
+  "event_title": "Highest temperature in Chicago on June 3?",
+  "city_slug": "chicago",
+  "city_name": "Chicago",
+  "date": "2026-06-03",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Chicago",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-06-03T12:00:00Z",
+  "event_end_date": "2026-06-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 20962.791787,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2407037",
+      "question": "Will the highest temperature in Chicago be 55°F or below on June 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 373.4,
+      "liquidity": 0.0,
+      "token_id": "80895474842052539214306081566308630264901783681663575514581060168412284101571",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-55forbelow",
+        "condition_id": "0xc7e963e8418b01f52f9e777a1f47c64b14fb087bd5318655841a6dfe8b805d87"
+      }
+    },
+    {
+      "market_id": "2407038",
+      "question": "Will the highest temperature in Chicago be between 56-57°F on June 3?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 448.3305000000001,
+      "liquidity": 0.0,
+      "token_id": "88342273179477558737304028017347682601465342810566971719666474760039942473538",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-56-57f",
+        "condition_id": "0x61d229d57755677d52ef0eb66c8194fb93a2d965e28d0b08bc54be1c744cd933"
+      }
+    },
+    {
+      "market_id": "2407039",
+      "question": "Will the highest temperature in Chicago be between 58-59°F on June 3?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 431.00000000000006,
+      "liquidity": 0.0,
+      "token_id": "104813955082611451513123600727041535340356078312331320810262240639439475558545",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-58-59f",
+        "condition_id": "0xef1a5c7fe84599ed65815073bf166e4c39495d52e73538e99ee86d0552d7036c"
+      }
+    },
+    {
+      "market_id": "2407040",
+      "question": "Will the highest temperature in Chicago be between 60-61°F on June 3?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 357.4,
+      "liquidity": 0.0,
+      "token_id": "7446261816739857015410281549542072002603483648055044587579238233068624102391",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-60-61f",
+        "condition_id": "0x07ca5807b5f4591270108a6449be2b9724b6ffcbcdcb44c3f25c2eed9a912e7e"
+      }
+    },
+    {
+      "market_id": "2407041",
+      "question": "Will the highest temperature in Chicago be between 62-63°F on June 3?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 452.4,
+      "liquidity": 0.0,
+      "token_id": "44134634338250644209538989465630049040037030668177356949849607614353694526218",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-62-63f",
+        "condition_id": "0x008b4f0b2463579126d2b412ee7f06ed74d67daeb6163d397dbdd9dded648255"
+      }
+    },
+    {
+      "market_id": "2407042",
+      "question": "Will the highest temperature in Chicago be between 64-65°F on June 3?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 463.40000000000003,
+      "liquidity": 0.0,
+      "token_id": "88058841764187103390742838294659828039544871898453205025410974437434560464365",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-64-65f",
+        "condition_id": "0x9749028bfb34da7198ecf7fbff9de062a447dcfd05badee1598b3de94d6d8387"
+      }
+    },
+    {
+      "market_id": "2407043",
+      "question": "Will the highest temperature in Chicago be between 66-67°F on June 3?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 473.40000000000003,
+      "liquidity": 0.0,
+      "token_id": "56701362153231126798792319126844029531878316976633695931792233276398313696746",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-66-67f",
+        "condition_id": "0x5e262dc04fd41f8e4def7c7e5db0995b8eb15d9b45b55e63dab04bb67584a7b3"
+      }
+    },
+    {
+      "market_id": "2407044",
+      "question": "Will the highest temperature in Chicago be between 68-69°F on June 3?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 441.0,
+      "liquidity": 0.0,
+      "token_id": "53375750359752775020554629466966451217488344079006321912114377143598992825669",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-68-69f",
+        "condition_id": "0x3c79803f6f271cb08da0856a278fe65ec2307b719b417a6d226d09bf7ba0df7d"
+      }
+    },
+    {
+      "market_id": "2407045",
+      "question": "Will the highest temperature in Chicago be between 70-71°F on June 3?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2720.7857559999998,
+      "liquidity": null,
+      "token_id": "9496038259829384618787045337226189711626521826786628923444785177354146073586",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-70-71f",
+        "condition_id": "0x33737d81972c158a78c2ea7c8d56b8a5bce95c00a12a0f257be004367d8668ec"
+      }
+    },
+    {
+      "market_id": "2407046",
+      "question": "Will the highest temperature in Chicago be between 72-73°F on June 3?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8690.873392000001,
+      "liquidity": null,
+      "token_id": "40690587729924958010105309081257821480569716261704616247299365605962430932384",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-72-73f",
+        "condition_id": "0x1f293202021502ccfde8b04d1dfeecbe4509451ec82086988bddad16ec4b781f"
+      }
+    },
+    {
+      "market_id": "2407047",
+      "question": "Will the highest temperature in Chicago be 74°F or higher on June 3?",
+      "bucket_low": 74.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 6110.8021389999985,
+      "liquidity": null,
+      "token_id": "37432967587133185529750171706347434517945782820759214838465121597954122365692",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-june-3-2026-74forhigher",
+        "condition_id": "0xf014f594e844745d63297a706706895ac23277a086d153335953d878de2dbccf"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:38.391105+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-06-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 20962.791787,
+      "outcomes_count": 11,
+      "top_bucket": ">=74.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chicago on June 3?"
+    }
+  ],
+  "settle_at": "2026-06-04T05:00:00+00:00",
+  "hours_to_settle": -83.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chicago-on-june-3-2026",
+    "event_id": "546768",
+    "markets_count": 11,
+    "game_start_time": "2026-06-03 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:38.391105+00:00",
+  "last_seen_at": "2026-06-07T16:05:38.391105+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:38.391105+00:00",
+  "created_at": "2026-06-07T16:05:38.391105+00:00",
+  "updated_at": "2026-06-10T17:17:28.812088+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=74F",
+      "resolved_value": ">=74F",
+      "resolution_source": null,
+      "winning_market_id": "2407047",
+      "winning_question": "Will the highest temperature in Chicago be 74°F or higher on June 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:38.393110+00:00"
+  },
+  "legacy": null
+}

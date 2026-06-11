@@ -1,0 +1,360 @@
+{
+  "storage_key": "london_2026-04-10_high",
+  "event_id": "348963",
+  "event_slug": "highest-temperature-in-london-on-april-10-2026",
+  "event_title": "Highest temperature in London on April 10?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-04-10",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-10T12:00:00Z",
+  "event_end_date": "2026-04-10T12:00:00Z",
+  "liquidity": null,
+  "volume": 292186.78017999994,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1886249",
+      "question": "Will the highest temperature in London be 16°C or below on April 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 40820.77659999999,
+      "liquidity": null,
+      "token_id": "71328861960633218128775842707342038180839586433989396667827471063146760608256",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-16corbelow",
+        "condition_id": "0x2ced5faaa1625ec6681806c36f6c59373c8c3d601b1bbfab8938b5bd4085f7ae"
+      }
+    },
+    {
+      "market_id": "1886251",
+      "question": "Will the highest temperature in London be 17°C on April 10?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 95989.25044399995,
+      "liquidity": null,
+      "token_id": "27247468569886867230848892898212767899282866350566322433338398504571379831232",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-17c",
+        "condition_id": "0x35b47285c195a3e7e4476243aeb6a9f1d1ca759b20887cff2cdb535cc9402c14"
+      }
+    },
+    {
+      "market_id": "1886252",
+      "question": "Will the highest temperature in London be 18°C on April 10?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14922.18238600001,
+      "liquidity": null,
+      "token_id": "73451713259216962137691566582409822567581819212079961540344116389382056260968",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-18c",
+        "condition_id": "0x139621b449f33dab51ac0411a355279be6aaf4017ae6a7617a80ef8b0fe68394"
+      }
+    },
+    {
+      "market_id": "1886253",
+      "question": "Will the highest temperature in London be 19°C on April 10?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 21651.876872000008,
+      "liquidity": null,
+      "token_id": "21105545256057441649480214598731224620866292309882572509353748789166450654758",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-19c",
+        "condition_id": "0x2e2f7a962eb8cef4eb40a998eb03db470404ae37891f0270cf553c664ed465b8"
+      }
+    },
+    {
+      "market_id": "1886254",
+      "question": "Will the highest temperature in London be 20°C on April 10?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 21028.450665999997,
+      "liquidity": null,
+      "token_id": "27063644844543477505649140350512580088022466139848324693421908090691570415827",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-20c",
+        "condition_id": "0x6b794a95b95e537742bd91b17a9b507c115d649838d4c37480e2b8254c9c3771"
+      }
+    },
+    {
+      "market_id": "1886255",
+      "question": "Will the highest temperature in London be 21°C on April 10?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16954.15608100001,
+      "liquidity": null,
+      "token_id": "62150640390462346935196566640561879869076369770430736271144042485609734753701",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-21c",
+        "condition_id": "0xb1e8c3a777ff58c6846c15a56cd6984ee59f3eaf9b0efb59d49db1f150625f89"
+      }
+    },
+    {
+      "market_id": "1886256",
+      "question": "Will the highest temperature in London be 22°C on April 10?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17145.106161999993,
+      "liquidity": null,
+      "token_id": "113278330978575470297102779570698694099357492640074267997391102980143003899957",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-22c",
+        "condition_id": "0xaa43bb94cbfe177a01d9ff3fd384c18e8ccd93e2df52881afc6cbc18eb00a17f"
+      }
+    },
+    {
+      "market_id": "1886257",
+      "question": "Will the highest temperature in London be 23°C on April 10?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12715.587453999999,
+      "liquidity": null,
+      "token_id": "27564002056609552440396969306342107366793468807048012156541964887351597767058",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-23c",
+        "condition_id": "0xf1acc3203fda382768cbb887fb42c52b6232858d1da96957bd20d20851d4f11b"
+      }
+    },
+    {
+      "market_id": "1886258",
+      "question": "Will the highest temperature in London be 24°C on April 10?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14027.115598999999,
+      "liquidity": null,
+      "token_id": "108310632217836645659766362559654456270813713311680919301362791998485881467024",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-24c",
+        "condition_id": "0xb35d0c121cebad694592923d5c981fda83f29326ebba4829e9b575edaac0e9cc"
+      }
+    },
+    {
+      "market_id": "1886259",
+      "question": "Will the highest temperature in London be 25°C on April 10?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13161.66962,
+      "liquidity": null,
+      "token_id": "77865955857716771865837464377557171233182460316878043035872849853154576779935",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-25c",
+        "condition_id": "0xc6402e6dd382fe3aecc8b711877e7b09b849af0ef49fb799cf998f6373573124"
+      }
+    },
+    {
+      "market_id": "1886261",
+      "question": "Will the highest temperature in London be 26°C or higher on April 10?",
+      "bucket_low": 26.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 23770.60829600001,
+      "liquidity": null,
+      "token_id": "87823550687922897423492018972883281798841145292943885152820054767802867120867",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-april-10-2026-26corhigher",
+        "condition_id": "0xcad31efaa56d85f17f98bcea075e80d6066f4f1bc308ee9c67f9a134ff24d2aa"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:06.991986+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-10T12:00:00Z",
+      "liquidity": null,
+      "volume": 292186.78017999994,
+      "outcomes_count": 11,
+      "top_bucket": "<=16.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in London on April 10?"
+    }
+  ],
+  "settle_at": "2026-04-10T23:00:00+00:00",
+  "hours_to_settle": -1385.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-london-on-april-10-2026",
+    "event_id": "348963",
+    "markets_count": 11,
+    "game_start_time": "2026-04-09 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:06.991986+00:00",
+  "last_seen_at": "2026-06-07T16:06:06.991986+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:06.991986+00:00",
+  "created_at": "2026-06-07T16:06:06.991986+00:00",
+  "updated_at": "2026-06-10T17:17:29.479630+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=16C",
+      "resolved_value": "<=16C",
+      "resolution_source": null,
+      "winning_market_id": "1886249",
+      "winning_question": "Will the highest temperature in London be 16°C or below on April 10?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:06.993009+00:00"
+  },
+  "legacy": null
+}

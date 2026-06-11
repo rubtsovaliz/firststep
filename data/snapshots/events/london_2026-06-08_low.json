@@ -1,0 +1,351 @@
+{
+  "storage_key": "london_2026-06-08_low",
+  "event_id": "566740",
+  "event_slug": "lowest-temperature-in-london-on-june-8-2026",
+  "event_title": "Lowest temperature in London on June 8?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-06-08",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Recurring",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Lowest temperature",
+    "Weather",
+    "Hide From New"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-08T12:00:00Z",
+  "event_end_date": "2026-06-08T12:00:00Z",
+  "liquidity": 30734.14621,
+  "volume": 12877.208031,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2456608",
+      "question": "Will the lowest temperature in London be 8°C or below on June 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 1068.3507759999998,
+      "liquidity": 1897.29669,
+      "token_id": "110908302617619019582066981929581700982000851223895318006769849647853975424400",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-8corbelow",
+        "condition_id": "0x6f11395ca28130ecc64dd7bbbfb35d72f0d2b7c7e365c17b101a301898a0ea14"
+      }
+    },
+    {
+      "market_id": "2456610",
+      "question": "Will the lowest temperature in London be 9°C on June 8?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 828.080753,
+      "liquidity": 1695.43098,
+      "token_id": "113636549719978712755001002749609455461027154650481896353236065593870857287590",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-9c",
+        "condition_id": "0xec8e944709bfef6ea6ff2e372eff47e4172be144803165ed0c0fa5784b1ea067"
+      }
+    },
+    {
+      "market_id": "2456612",
+      "question": "Will the lowest temperature in London be 10°C on June 8?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0235,
+      "no_price": 0.9765,
+      "volume": 672.3069859999999,
+      "liquidity": 243.49046,
+      "token_id": "111844987291375699971485559785142110255925300885329089312229102275280670126172",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0235,
+        0.9765
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-10c",
+        "condition_id": "0x99ab1c613dca5a0a345cd405f5e25a61bc4bcaebbd8a10461a1c275c29b741d0"
+      }
+    },
+    {
+      "market_id": "2456614",
+      "question": "Will the lowest temperature in London be 11°C on June 8?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0555,
+      "no_price": 0.9445,
+      "volume": 887.5958800000001,
+      "liquidity": 432.41477,
+      "token_id": "79072964152746459986855310308476017938651436916465915868162804862708529874813",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0555,
+        0.9445
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-11c",
+        "condition_id": "0x46dc15a6be196e90a33ec28c28966a2dc9b50b295e5d80b6ce2a8284003e809b"
+      }
+    },
+    {
+      "market_id": "2456616",
+      "question": "Will the lowest temperature in London be 12°C on June 8?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.425,
+      "no_price": 0.575,
+      "volume": 987.162069,
+      "liquidity": 90.1048,
+      "token_id": "113198550248323017258210684804450305493617324321413839863335026710657345798534",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.425,
+        0.575
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-12c",
+        "condition_id": "0xd0e77a6d90456b3b99c08ae95183a74fec7822aa04deb15a4d87a83f7d89253f"
+      }
+    },
+    {
+      "market_id": "2456618",
+      "question": "Will the lowest temperature in London be 13°C on June 8?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.445,
+      "no_price": 0.555,
+      "volume": 548.907254,
+      "liquidity": 109.2946,
+      "token_id": "48969046836394947918076539790164917829531925060869971074610800129211291299587",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.445,
+        0.555
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-13c",
+        "condition_id": "0xbde3cecab753bed7a873abb7a59bbe9e8cad7a1b1d9a0e7f3d7f673c5a81f469"
+      }
+    },
+    {
+      "market_id": "2456620",
+      "question": "Will the lowest temperature in London be 14°C on June 8?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1947.9616040000012,
+      "liquidity": 4979.34122,
+      "token_id": "68568378287969321603113751006463102341621847050322179609256343804907437645942",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-14c",
+        "condition_id": "0xaa8f9ac7a6e8824224d1bfedd9bb31a26e0a4265cd87d60851cc0ca536806b1a"
+      }
+    },
+    {
+      "market_id": "2456622",
+      "question": "Will the lowest temperature in London be 15°C on June 8?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1798.2172739999999,
+      "liquidity": 4221.00239,
+      "token_id": "76707171511883917055497695090506687390264377599423438274107774119000055830742",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-15c",
+        "condition_id": "0x9eea303502c27b2d4f34a6e1e82e50a31a8b45786e668480b38a8a87a6989fff"
+      }
+    },
+    {
+      "market_id": "2456624",
+      "question": "Will the lowest temperature in London be 16°C on June 8?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1449.3901750000002,
+      "liquidity": 5184.68122,
+      "token_id": "1600808897868324519977721587037459782020286577478484189811981865602682559198",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-16c",
+        "condition_id": "0x7763426d15ed8173974886cc8b8a5176bb40ece47d74c8da348ad3ea43b3b54e"
+      }
+    },
+    {
+      "market_id": "2456626",
+      "question": "Will the lowest temperature in London be 17°C on June 8?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1991.3452359999999,
+      "liquidity": 7321.33153,
+      "token_id": "89184324091630746530953496895346620150785884015713469663800467979708592449940",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-17c",
+        "condition_id": "0x41ea5e553d4f60b9b1141fc38cbb5ecc240f77405c9ba5914444bae06ace5fb3"
+      }
+    },
+    {
+      "market_id": "2456627",
+      "question": "Will the lowest temperature in London be 18°C or higher on June 8?",
+      "bucket_low": 18.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 697.890024,
+      "liquidity": 8130.72198,
+      "token_id": "98000717275677125996125082513296086631184437617458570497455910943076819415185",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-june-8-2026-18corhigher",
+        "condition_id": "0x87698c35b6badbece9a61c6754c7cb09898b2372b1f2be7b141f1a8566ca1f5f"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-08T18:44:21.072314+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-08T12:00:00Z",
+      "liquidity": 30734.14621,
+      "volume": 12877.208031,
+      "outcomes_count": 11,
+      "top_bucket": "13.0-13.0C",
+      "top_price": 0.445,
+      "event_title": "Lowest temperature in London on June 8?"
+    }
+  ],
+  "settle_at": "2026-06-08T23:00:00+00:00",
+  "hours_to_settle": 4.3,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-london-on-june-8-2026",
+    "event_id": "566740",
+    "markets_count": 11,
+    "game_start_time": "2026-06-07 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T13:13:01.168822+00:00",
+  "last_seen_at": "2026-06-08T18:44:21.072314+00:00",
+  "last_refreshed_at": "2026-06-08T18:44:21.072314+00:00",
+  "created_at": "2026-06-07T13:13:01.168822+00:00",
+  "updated_at": "2026-06-10T17:17:29.552711+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

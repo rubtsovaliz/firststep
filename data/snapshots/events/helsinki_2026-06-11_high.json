@@ -1,0 +1,351 @@
+{
+  "storage_key": "helsinki_2026-06-11_high",
+  "event_id": "575227",
+  "event_slug": "highest-temperature-in-helsinki-on-june-11-2026",
+  "event_title": "Highest temperature in Helsinki on June 11?",
+  "city_slug": "helsinki",
+  "city_name": "Helsinki",
+  "date": "2026-06-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Helsinki",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-11T12:00:00Z",
+  "event_end_date": "2026-06-11T12:00:00Z",
+  "liquidity": 33275.80274,
+  "volume": 9035.584341,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2477001",
+      "question": "Will the highest temperature in Helsinki be 12°C or below on June 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 258.913,
+      "liquidity": 5966.00554,
+      "token_id": "27721179129622784622823310220378660998362982533145342014354503573775905525268",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-12corbelow",
+        "condition_id": "0x6c88edb82b170c5c53e55fdfc2ecdc75e0029cdd0555dfa1ff113f8266313418"
+      }
+    },
+    {
+      "market_id": "2477002",
+      "question": "Will the highest temperature in Helsinki be 13°C on June 11?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 260.992,
+      "liquidity": 4468.70984,
+      "token_id": "84660764939130396100175759969290631392475773716108104024793677760026824324346",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-13c",
+        "condition_id": "0x1c3295d0f72c81d120985a4af707b378a170801a4e9f353c3427f7072041186c"
+      }
+    },
+    {
+      "market_id": "2477003",
+      "question": "Will the highest temperature in Helsinki be 14°C on June 11?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 48.038,
+      "liquidity": 2702.73096,
+      "token_id": "105190526979325287401971685130512811390225399656065352589725746590987629639567",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-14c",
+        "condition_id": "0xba81a7feda193e1434c501cd9f3e6b0979a12f84f96131fa49d75681548acde1"
+      }
+    },
+    {
+      "market_id": "2477004",
+      "question": "Will the highest temperature in Helsinki be 15°C on June 11?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0095,
+      "no_price": 0.9905,
+      "volume": 1115.153549,
+      "liquidity": 2053.35446,
+      "token_id": "14410503674964912520152145830727401212566729374447830084862378464759281691948",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0095,
+        0.9905
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-15c",
+        "condition_id": "0x39868d59a6443be0adba2659abab18303b1d811e9808fc274bf4c1c8fcbf7626"
+      }
+    },
+    {
+      "market_id": "2477005",
+      "question": "Will the highest temperature in Helsinki be 16°C on June 11?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.08,
+      "no_price": 0.92,
+      "volume": 2550.252212,
+      "liquidity": 1990.57614,
+      "token_id": "94450255988106793431176184212430318612481702171458377961057453135064018724429",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.08,
+        0.92
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-16c",
+        "condition_id": "0xb423a9e33f3e3cdfe7b6e8d822b78b3b63a59306fd6235906b66490c0b401bc9"
+      }
+    },
+    {
+      "market_id": "2477006",
+      "question": "Will the highest temperature in Helsinki be 17°C on June 11?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": 1072.952142,
+      "liquidity": 879.2095,
+      "token_id": "82471985973937010352266224863369740229567608146171906343294057426942663433032",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-17c",
+        "condition_id": "0x676ea4b9afcac312bb72a849eba92044f3525c6319374bc52fa6475010809e61"
+      }
+    },
+    {
+      "market_id": "2477007",
+      "question": "Will the highest temperature in Helsinki be 18°C on June 11?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.41,
+      "no_price": 0.59,
+      "volume": 862.2633479999998,
+      "liquidity": 804.1177,
+      "token_id": "51815063361149661533686619490208513878410223798389285247150127100632510508645",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.41,
+        0.59
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-18c",
+        "condition_id": "0xf1c92c11e55de11a4ef309dcb4005d00666eb7ef310c941c9b35aab190ca12bb"
+      }
+    },
+    {
+      "market_id": "2477008",
+      "question": "Will the highest temperature in Helsinki be 19°C on June 11?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.255,
+      "no_price": 0.745,
+      "volume": 583.3861250000001,
+      "liquidity": 693.6697,
+      "token_id": "39767400827979477046169837149109734804576344426570464720453465000880561499801",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.255,
+        0.745
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-19c",
+        "condition_id": "0x2be0763ce9916dfddc4127bc09899bc9538bc34fa84dc35ce908c70fe726c6bd"
+      }
+    },
+    {
+      "market_id": "2477009",
+      "question": "Will the highest temperature in Helsinki be 20°C on June 11?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.031,
+      "no_price": 0.969,
+      "volume": 1748.6503750000002,
+      "liquidity": 3991.78191,
+      "token_id": "103119670006145832040177713764233986352245808007783540072555259607444248579860",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.031,
+        0.969
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-20c",
+        "condition_id": "0x0b8226100aa294ee1716efc8b2f361207007a641438bec97fb8d378108f3bf60"
+      }
+    },
+    {
+      "market_id": "2477010",
+      "question": "Will the highest temperature in Helsinki be 21°C on June 11?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 323.137669,
+      "liquidity": 1056.47974,
+      "token_id": "39762614211898736112246352318103648726332608912798573037703169741467080545267",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-21c",
+        "condition_id": "0xd545e3e479890966d9beafc0c133d9e7c6500e0a45951385724f4c78ed2699db"
+      }
+    },
+    {
+      "market_id": "2477011",
+      "question": "Will the highest temperature in Helsinki be 22°C or higher on June 11?",
+      "bucket_low": 22.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 236.079,
+      "liquidity": 1905.87066,
+      "token_id": "84761495626571301501618408088817373497893105716065546274900798756464266092012",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-june-11-2026-22corhigher",
+        "condition_id": "0x868d2429e0b749b891149b74c781b5b58cff99670c3e034292a4607bc625006b"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.660630+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-11T12:00:00Z",
+      "liquidity": 33275.80274,
+      "volume": 9035.584341,
+      "outcomes_count": 11,
+      "top_bucket": "18.0-18.0C",
+      "top_price": 0.41,
+      "event_title": "Highest temperature in Helsinki on June 11?"
+    }
+  ],
+  "settle_at": "2026-06-11T21:00:00+00:00",
+  "hours_to_settle": 27.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-helsinki-on-june-11-2026",
+    "event_id": "575227",
+    "markets_count": 11,
+    "game_start_time": "2026-06-10 21:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 18.7,
+  "first_seen_at": "2026-06-09T07:53:26.349751+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.660630+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.660630+00:00",
+  "created_at": "2026-06-09T07:53:26.349751+00:00",
+  "updated_at": "2026-06-10T17:17:26.660630+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

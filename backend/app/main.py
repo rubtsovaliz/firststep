@@ -11,7 +11,7 @@ if str(ROOT) not in sys.path:
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.app.api.routes import discovery, health, legacy_dashboard, markets
+from backend.app.api.routes import discovery, forecasts, health, history, legacy_dashboard, markets
 from backend.app.core.config import get_settings
 from backend.app.core.http_cache import ApiNoStoreMiddleware
 from backend.app.core.logging import setup_logging
@@ -37,6 +37,8 @@ app.add_middleware(ApiNoStoreMiddleware)
 app.include_router(health.router)
 app.include_router(discovery.router)
 app.include_router(markets.router)
+app.include_router(history.router)
+app.include_router(forecasts.router)
 app.include_router(legacy_dashboard.router)
 
 

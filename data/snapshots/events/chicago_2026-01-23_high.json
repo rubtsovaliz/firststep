@@ -1,0 +1,253 @@
+{
+  "storage_key": "chicago_2026-01-23_high",
+  "event_id": "178718",
+  "event_slug": "highest-temperature-in-chicago-on-january-23",
+  "event_title": "Highest temperature in Chicago on January 23?",
+  "city_slug": "chicago",
+  "city_name": "Chicago",
+  "date": "2026-01-23",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Chicago"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-01-23T12:00:00Z",
+  "event_end_date": "2026-01-23T12:00:00Z",
+  "liquidity": null,
+  "volume": 54455.753864,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1233883",
+      "question": "Will the highest temperature in Chicago be -1°F or below on January 23?",
+      "bucket_low": -999.0,
+      "bucket_high": -1.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7561.950101,
+      "liquidity": null,
+      "token_id": "53493986374645876417479675157905640323796588035473529591289227412992242210996",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-23-neg-1forbelow",
+        "condition_id": "0x6ebb22bd2bb619598c0c79a97e46da3bc0952adcd034df97348f7a9b1138ffe7"
+      }
+    },
+    {
+      "market_id": "1233884",
+      "question": "Will the highest temperature in Chicago be between 0-1°F on January 23?",
+      "bucket_low": 0.0,
+      "bucket_high": 1.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3931.892058,
+      "liquidity": null,
+      "token_id": "89954426559020696354423320626555484760507941587564838628621619030397471826321",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-23-0-1f",
+        "condition_id": "0xfb2a52df386e5e72666f56cbfdd0c6be7096aabe5621ca9a6e5ac49e4f40ee62"
+      }
+    },
+    {
+      "market_id": "1233885",
+      "question": "Will the highest temperature in Chicago be between 2-3°F on January 23?",
+      "bucket_low": 2.0,
+      "bucket_high": 3.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 12958.873691,
+      "liquidity": null,
+      "token_id": "70803151116518807589721531152705966271175542535905198374720995757057123961488",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-23-2-3f",
+        "condition_id": "0x3abc17a8a1962ea2ec30e6dfd9b48f4f2cc7dc180a1e3ab50dc81de7f23cc30b"
+      }
+    },
+    {
+      "market_id": "1233886",
+      "question": "Will the highest temperature in Chicago be between 4-5°F on January 23?",
+      "bucket_low": 4.0,
+      "bucket_high": 5.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11121.362983,
+      "liquidity": null,
+      "token_id": "94947421149181654983821515814569457298156830310540430283149108670758728980704",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-23-4-5f",
+        "condition_id": "0xdfd49a302135f9e65302086c7feae3d81bf0f20aa4361b6781fe659345e77aa8"
+      }
+    },
+    {
+      "market_id": "1233887",
+      "question": "Will the highest temperature in Chicago be between 6-7°F on January 23?",
+      "bucket_low": 6.0,
+      "bucket_high": 7.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4968.784041,
+      "liquidity": null,
+      "token_id": "81012337140447733969506214978677133741642806467870435961126222909329805485697",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-23-6-7f",
+        "condition_id": "0x80d9d0fc585491a9e30f3661f073d604bc0cf6b46f50dccafff78606d9b72dc2"
+      }
+    },
+    {
+      "market_id": "1233888",
+      "question": "Will the highest temperature in Chicago be between 8-9°F on January 23?",
+      "bucket_low": 8.0,
+      "bucket_high": 9.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5044.584429,
+      "liquidity": null,
+      "token_id": "9295343981148336311487586610224054780369651637712252147490752985198484764330",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-23-8-9f",
+        "condition_id": "0x8b71d14da44e725ee6b981062030a8c9b0ee9239847c787361e52a6f42e5f2fe"
+      }
+    },
+    {
+      "market_id": "1233889",
+      "question": "Will the highest temperature in Chicago be 10°F or higher on January 23?",
+      "bucket_low": 10.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8868.306561,
+      "liquidity": null,
+      "token_id": "48577422190099764557147966409597393036347899759532541764212697929174265966990",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-23-10forhigher",
+        "condition_id": "0xca3b58bef1062f410bac131aa78e11102d552c099c9faf90e0a719079a96e97e"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:12.550419+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-01-23T12:00:00Z",
+      "liquidity": null,
+      "volume": 54455.753864,
+      "outcomes_count": 7,
+      "top_bucket": "2.0-3.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chicago on January 23?"
+    }
+  ],
+  "settle_at": "2026-01-24T06:00:00+00:00",
+  "hours_to_settle": -3226.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chicago-on-january-23",
+    "event_id": "178718",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:12.550419+00:00",
+  "last_seen_at": "2026-06-07T16:06:12.550419+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:12.550419+00:00",
+  "created_at": "2026-06-07T16:06:12.550419+00:00",
+  "updated_at": "2026-06-10T17:17:28.733956+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "2-3F",
+      "resolved_value": "2-3F",
+      "resolution_source": null,
+      "winning_market_id": "1233885",
+      "winning_question": "Will the highest temperature in Chicago be between 2-3°F on January 23?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:12.551421+00:00"
+  },
+  "legacy": null
+}

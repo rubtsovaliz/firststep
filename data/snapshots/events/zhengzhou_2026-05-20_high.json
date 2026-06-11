@@ -283,7 +283,7 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.654542+00:00",
+      "ts": "2026-06-10T17:17:26.821715+00:00",
       "active": true,
       "closed": false,
       "end_date": "2026-05-20T12:00:00Z",
@@ -298,18 +298,21 @@
   "raw_source": {
     "event_slug": "highest-temperature-in-zhengzhou-on-may-20-2026",
     "event_id": "497036",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-05-19 16:00:00+00"
   },
   "status": "discovered",
   "discovery_source": "combined",
   "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.991345+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.654542+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.654542+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.821715+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.821715+00:00",
   "created_at": "2026-06-04T16:52:28.991345+00:00",
-  "updated_at": "2026-06-05T06:36:19.654542+00:00",
+  "updated_at": "2026-06-10T17:17:26.821715+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
   "extensions": {},
-  "legacy": null
+  "legacy": null,
+  "settle_at": "2026-05-20T16:00:00+00:00",
+  "hours_to_settle": -505.3
 }

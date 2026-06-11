@@ -1,0 +1,351 @@
+{
+  "storage_key": "warsaw_2026-06-08_high",
+  "event_id": "566667",
+  "event_slug": "highest-temperature-in-warsaw-on-june-8-2026",
+  "event_title": "Highest temperature in Warsaw on June 8?",
+  "city_slug": "warsaw",
+  "city_name": "Warsaw",
+  "date": "2026-06-08",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Warsaw",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-08T12:00:00Z",
+  "event_end_date": "2026-06-08T12:00:00Z",
+  "liquidity": 108606.97703,
+  "volume": 32223.754392,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2456285",
+      "question": "Will the highest temperature in Warsaw be 19°C or below on June 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 164.48599999999996,
+      "liquidity": 16119.4583,
+      "token_id": "5857739125028802609372748198319854543769745656728400883192683865798906800657",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-19corbelow",
+        "condition_id": "0x17bfc743148305a6bf7966e30f6fda83dc13990c14cee4887740b237cc00fc44"
+      }
+    },
+    {
+      "market_id": "2456286",
+      "question": "Will the highest temperature in Warsaw be 20°C on June 8?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 396.474,
+      "liquidity": 14303.53839,
+      "token_id": "87707012287796175599411932043570351599703628245623409897145015282392002884059",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-20c",
+        "condition_id": "0xae05ed8b003168a8212f320188186fa7c5c4ee169bab6d9483efbc809fccd275"
+      }
+    },
+    {
+      "market_id": "2456287",
+      "question": "Will the highest temperature in Warsaw be 21°C on June 8?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1173.2629999999997,
+      "liquidity": 15142.26383,
+      "token_id": "81256575836754833892911838251435623516560777662219148312272206209908358024466",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-21c",
+        "condition_id": "0xb5710836f27988a329996b6c6ff61b9a7c5a86b1f406f99eb363bb7d0a71b427"
+      }
+    },
+    {
+      "market_id": "2456288",
+      "question": "Will the highest temperature in Warsaw be 22°C on June 8?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 10110.072335999997,
+      "liquidity": 14513.03161,
+      "token_id": "73610636890276457986690144469593777232868427439890351341955564333185305317496",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-22c",
+        "condition_id": "0xd75887dbf0cc6c52fe251ed0648b8a4327fe731c63c1e0da1d1a9591efcd88fb"
+      }
+    },
+    {
+      "market_id": "2456289",
+      "question": "Will the highest temperature in Warsaw be 23°C on June 8?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.9995,
+      "no_price": 0.0005,
+      "volume": 6625.042257000001,
+      "liquidity": 3356.13127,
+      "token_id": "9859960372903880843868710989529315019030135817776208392625123154076148934056",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.9995,
+        0.0005
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-23c",
+        "condition_id": "0x19e205faee1efc5670776a366922ae30cbd02e945badbd325a221b4a084ea902"
+      }
+    },
+    {
+      "market_id": "2456290",
+      "question": "Will the highest temperature in Warsaw be 24°C on June 8?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5333.988568999999,
+      "liquidity": 3608.4882,
+      "token_id": "91094917914841841556020480001031301034961240277959896553728998656159696460334",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-24c",
+        "condition_id": "0x65d352acfdb419ed0c923893ff5ee5f60f5511791fc57a08f23facf9148b0fd7"
+      }
+    },
+    {
+      "market_id": "2456291",
+      "question": "Will the highest temperature in Warsaw be 25°C on June 8?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3455.1916550000024,
+      "liquidity": 5065.45818,
+      "token_id": "104927321146600879907281012285750642008801416035437208195957342622559401822235",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-25c",
+        "condition_id": "0x8c256756b65115fa7fe87e1093699192d45c80b87b983900ce6b8576b4b8bf2c"
+      }
+    },
+    {
+      "market_id": "2456292",
+      "question": "Will the highest temperature in Warsaw be 26°C on June 8?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2868.6571230000004,
+      "liquidity": 5578.8266,
+      "token_id": "29915202260456257884069260493197227045809201733593573874639561256792726927719",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-26c",
+        "condition_id": "0x9023db24b1fad7cd58dbb0b22c673812a28f67dd09be95128068babd7b2fb9c9"
+      }
+    },
+    {
+      "market_id": "2456293",
+      "question": "Will the highest temperature in Warsaw be 27°C on June 8?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 869.5963330000001,
+      "liquidity": 8306.37025,
+      "token_id": "107686773201869782230738679932576826470607313123315623038404412559227164274011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-27c",
+        "condition_id": "0xb583f9c62f230fffea41255941335f0e7582bedcde913f58d1114978e6db0bea"
+      }
+    },
+    {
+      "market_id": "2456294",
+      "question": "Will the highest temperature in Warsaw be 28°C on June 8?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 575.5016189999999,
+      "liquidity": 8091.91576,
+      "token_id": "26944107997213927713577095348934675212114880421822252311842508170389605729625",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-28c",
+        "condition_id": "0x8a36939feb91e21e90c772aa4627e1eee2809145f738e16ea06a643c1cda7434"
+      }
+    },
+    {
+      "market_id": "2456295",
+      "question": "Will the highest temperature in Warsaw be 29°C or higher on June 8?",
+      "bucket_low": 29.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 691.4815,
+      "liquidity": 8982.71495,
+      "token_id": "66937163527154469034965295083699775355522283024649881773329193851115914319142",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-june-8-2026-29corhigher",
+        "condition_id": "0x239e5074d3f30d4d8516025301c0dc43873d498efa86742ecf05a82e69e7cf50"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-08T18:44:21.092368+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-08T12:00:00Z",
+      "liquidity": 108606.97703,
+      "volume": 32223.754392,
+      "outcomes_count": 11,
+      "top_bucket": "23.0-23.0C",
+      "top_price": 0.9995,
+      "event_title": "Highest temperature in Warsaw on June 8?"
+    }
+  ],
+  "settle_at": "2026-06-08T22:00:00+00:00",
+  "hours_to_settle": 3.3,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-warsaw-on-june-8-2026",
+    "event_id": "566667",
+    "markets_count": 11,
+    "game_start_time": "2026-06-07 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T13:13:01.217951+00:00",
+  "last_seen_at": "2026-06-08T18:44:21.092368+00:00",
+  "last_refreshed_at": "2026-06-08T18:44:21.092368+00:00",
+  "created_at": "2026-06-07T13:13:01.217951+00:00",
+  "updated_at": "2026-06-10T17:17:31.283444+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

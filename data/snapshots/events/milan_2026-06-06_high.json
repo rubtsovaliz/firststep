@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 21618.89579,
-  "volume": 1583.706278,
+  "liquidity": null,
+  "volume": 57953.56114299999,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.0055,
-      "no_price": 0.9945,
-      "volume": null,
-      "liquidity": 2264.87899,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1595.497,
+      "liquidity": null,
       "token_id": "44759699575626383918236412647725395488912517593752954254474500937566202589858",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0055,
-        0.9945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-20corbelow",
         "condition_id": "0x3c50fa645b59f41c2df22e3d366a2168bb7fd39f6ee18373ab19f83052c08b69"
@@ -59,21 +59,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.0125,
-      "no_price": 0.9875,
-      "volume": 28.064500000000002,
-      "liquidity": 1744.43238,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1345.2944429999998,
+      "liquidity": null,
       "token_id": "27980501408479928684136963769621861180829119604699252688845202410860355858879",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0125,
-        0.9875
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-21c",
         "condition_id": "0x1e8184de7501c1404828f98264bc2479edac6eff47d3902872678736b771de76"
@@ -85,21 +85,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.025,
-      "no_price": 0.975,
-      "volume": 604.5716560000001,
-      "liquidity": 3081.78668,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4201.196072000001,
+      "liquidity": null,
       "token_id": "101921838524240773128241653089617449123587104740240766125949262739403509307011",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.025,
-        0.975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-22c",
         "condition_id": "0x104d2b80494b0cbbac8639ac97485d2e130770aa417c0387a325c7eba5eddc52"
@@ -111,21 +111,21 @@
       "bucket_low": 23.0,
       "bucket_high": 23.0,
       "unit": "C",
-      "yes_price": 0.205,
-      "no_price": 0.795,
-      "volume": 311.982497,
-      "liquidity": 1225.7274,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10768.298872999998,
+      "liquidity": null,
       "token_id": "97486243931813065023276811359184066060775725310564596799422123351601256761455",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.205,
-        0.795
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-23c",
         "condition_id": "0x1cfa04557dbd4602b8cceaae90f02a168f7b5a5c3f87434fedc5836bc805b401"
@@ -137,21 +137,21 @@
       "bucket_low": 24.0,
       "bucket_high": 24.0,
       "unit": "C",
-      "yes_price": 0.345,
-      "no_price": 0.655,
-      "volume": 198.15436699999995,
-      "liquidity": 1234.4871,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 10839.973699999995,
+      "liquidity": null,
       "token_id": "26613149682344786637181141030056909506830374634194189578370917403416410992956",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.345,
-        0.655
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-24c",
         "condition_id": "0x4393c848857978e85dcf4251fb0243df4fc04e9468b2a650965478eeb66883cd"
@@ -163,21 +163,21 @@
       "bucket_low": 25.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.365,
-      "no_price": 0.635,
-      "volume": 38.779022999999995,
-      "liquidity": 1186.3589,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9107.456576,
+      "liquidity": null,
       "token_id": "63625704028216310430663799714739482822733923594747385103576522539536894382965",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.365,
-        0.635
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-25c",
         "condition_id": "0x07794fc89b0aafec27a04d989eb4f02aff574dccf8831cd21794230c9b1f1351"
@@ -189,21 +189,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.06,
-      "no_price": 0.94,
-      "volume": 199.91139,
-      "liquidity": 1193.6044,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7196.9463069999965,
+      "liquidity": null,
       "token_id": "70920237085701119459845572997686005696315590939423081826871856412057645027984",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.06,
-        0.94
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-26c",
         "condition_id": "0x664086b34ff59e73aa5f924bf9eb13e585759bacb3e5efde1396024bf9953a96"
@@ -215,21 +215,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.021,
-      "no_price": 0.979,
-      "volume": 52.597466000000004,
-      "liquidity": 1574.87097,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4998.1707719999995,
+      "liquidity": null,
       "token_id": "73138317818781276858430583705934946742019049763824698426339091010806917445364",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.021,
-        0.979
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-27c",
         "condition_id": "0x2cf16f4a66a452e7e15e47d72b8585c5ed5e74d6a04e882bfc457a79282818d0"
@@ -241,21 +241,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.0075,
-      "no_price": 0.9925,
-      "volume": 152.24649499999998,
-      "liquidity": 1970.07167,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1817.925494,
+      "liquidity": null,
       "token_id": "30002810674918280681950138618249875859402462029162931137254897540526556739196",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0075,
-        0.9925
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-28c",
         "condition_id": "0x5137f8a20bf211f14261c28ba6336adf1ae7f0a6a0ad5764da4e4aba5a19af53"
@@ -267,21 +267,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 25.03,
-      "liquidity": 3435.04618,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 441.3270000000001,
+      "liquidity": null,
       "token_id": "107242529482699906633807039222530697519057274897728366933591486800345529267493",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-29c",
         "condition_id": "0xa26ffe675c04138826018896a47768e2312ef4a9798b5b628c26556b71952f74"
@@ -293,21 +293,21 @@
       "bucket_low": 30.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 10.0,
-      "liquidity": 3482.61894,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5641.474906,
+      "liquidity": null,
       "token_id": "37540136871449339373827540855921919191315081048495123743529353274321950740987",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-milan-on-june-6-2026-30corhigher",
         "condition_id": "0x6256c3f629b981974739bafab0f1cafc4388f34c913a2456470305605e1bf834"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.116734+00:00",
+      "ts": "2026-06-07T16:05:37.604568+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 21618.89579,
-      "volume": 1583.706278,
+      "liquidity": null,
+      "volume": 57953.56114299999,
       "outcomes_count": 11,
-      "top_bucket": "25.0-25.0C",
-      "top_price": 0.365,
+      "top_bucket": "24.0-24.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Milan on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-milan-on-june-6-2026",
     "event_id": "560844",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 22:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.467997+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.116734+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.116734+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.604568+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.604568+00:00",
   "created_at": "2026-06-05T06:08:46.467997+00:00",
-  "updated_at": "2026-06-05T06:36:19.116734+00:00",
+  "updated_at": "2026-06-08T11:20:48.620894+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "24C",
+      "resolved_value": "24C",
+      "resolution_source": null,
+      "winning_market_id": "2440958",
+      "winning_question": "Will the highest temperature in Milan be 24°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.605571+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 24.3,
+        "unit": "C",
+        "model": "italia_meteo_arpae_icon_2i",
+        "requested_model": "italia_meteo_arpae_icon_2i",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 24.0,
+        "unit": "C",
+        "model": "ecmwf_ifs025_ensemble+icon_eu_eps+archive",
+        "requested_model": "ecmwf_ifs025_ensemble+icon_eu_eps",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 24.0,
+            "error": null
+          },
+          {
+            "model": "icon_eu_eps",
+            "temp": 24.0,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:17:36.310733+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T22:00:00+00:00",
+  "hours_to_settle": -18.1
 }

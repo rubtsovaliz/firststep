@@ -1,0 +1,397 @@
+{
+  "storage_key": "amsterdam_2026-05-16_high",
+  "event_id": "483485",
+  "event_slug": "highest-temperature-in-amsterdam-on-may-16-2026",
+  "event_title": "Highest temperature in Amsterdam on May 16?",
+  "city_slug": "amsterdam",
+  "city_name": "Amsterdam",
+  "date": "2026-05-16",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Amsterdam",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-16T12:00:00Z",
+  "event_end_date": "2026-05-16T12:00:00Z",
+  "liquidity": null,
+  "volume": 42335.50783700001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2257619",
+      "question": "Will the highest temperature in Amsterdam be 8°C or below on May 16?",
+      "bucket_low": -999.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1862.805407,
+      "liquidity": null,
+      "token_id": "106660136956302731431728231445887993797379770436535633393049361755253158649646",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-8corbelow",
+        "condition_id": "0x497d40ca56e0361be6a0b181aa396fad8a352dbe3008fa8b3fafb6d98ca9fa73"
+      }
+    },
+    {
+      "market_id": "2257620",
+      "question": "Will the highest temperature in Amsterdam be 9°C on May 16?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1388.734243,
+      "liquidity": null,
+      "token_id": "104205390261866444045926025418911027436697249385403802251405512085790039677345",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-9c",
+        "condition_id": "0x55c71e8d434985580a9431faa5a9cf28fa142c216cdc0c466822980ca946a0e4"
+      }
+    },
+    {
+      "market_id": "2257621",
+      "question": "Will the highest temperature in Amsterdam be 10°C on May 16?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2202.3924979999997,
+      "liquidity": null,
+      "token_id": "82032598759011464583013031164581571392490106644225762392358110581653638832040",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-10c",
+        "condition_id": "0x614774c44848478ce9381a98889cd47d207b83098c09e503f58b0625a9ba87ec"
+      }
+    },
+    {
+      "market_id": "2257622",
+      "question": "Will the highest temperature in Amsterdam be 11°C on May 16?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3185.8287760000003,
+      "liquidity": null,
+      "token_id": "96758650661179441678696914126877282649587246974233306616852573698245108353113",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-11c",
+        "condition_id": "0x6bd7967238ce9ded0dcdacbd45d714d042ae3d441b49bd30986698e21bc66802"
+      }
+    },
+    {
+      "market_id": "2257623",
+      "question": "Will the highest temperature in Amsterdam be 12°C on May 16?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 9704.912418000009,
+      "liquidity": null,
+      "token_id": "76953129884444876708216179673221570558428711080280842942270289162775317059437",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-12c",
+        "condition_id": "0x7a9d7d009b9eb64c428dbacb8c75e414ad1ca0f34fe1dd3bd0b847cdd03f53c7"
+      }
+    },
+    {
+      "market_id": "2257624",
+      "question": "Will the highest temperature in Amsterdam be 13°C on May 16?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6996.808665,
+      "liquidity": null,
+      "token_id": "95438373976450434331571884151629542530890707044843379452841927880757298199161",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-13c",
+        "condition_id": "0x74ce51d904d6731cc8c62bf9385141965984d4b3bcdef8744f9738f5dcafc9c7"
+      }
+    },
+    {
+      "market_id": "2257625",
+      "question": "Will the highest temperature in Amsterdam be 14°C on May 16?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6322.661714000003,
+      "liquidity": null,
+      "token_id": "112239415683784459302608215345491200424958230485100036011199929848251821455105",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-14c",
+        "condition_id": "0x5c7cb167ca6e0de4cdf0e81981c05968af6df1b7446263a8b6337157546bbbe5"
+      }
+    },
+    {
+      "market_id": "2257626",
+      "question": "Will the highest temperature in Amsterdam be 15°C on May 16?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4398.552135,
+      "liquidity": null,
+      "token_id": "92898498160733622648235493850670718077450465548203521620389913825523320706558",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-15c",
+        "condition_id": "0xd513ab8babe3340c945a5e4a210a4659f702d5a340b3224a88008c498b2d400c"
+      }
+    },
+    {
+      "market_id": "2257627",
+      "question": "Will the highest temperature in Amsterdam be 16°C on May 16?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1834.8676799999998,
+      "liquidity": null,
+      "token_id": "50257668647229071010168565203630251073855384849476823758371994537731701692014",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-16c",
+        "condition_id": "0x8039f2546dbeed8dc82fd1b729cdc6a6f7f4bcd72e78aee2b7f19159b2424332"
+      }
+    },
+    {
+      "market_id": "2257628",
+      "question": "Will the highest temperature in Amsterdam be 17°C on May 16?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1380.8264849999998,
+      "liquidity": null,
+      "token_id": "54882653502399450874600798518685496827148951307896343373812729771800904026018",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-17c",
+        "condition_id": "0x36852970efcfc383e23744609e1cf9c39c88168e92ba88299b5f4e960735c00f"
+      }
+    },
+    {
+      "market_id": "2257629",
+      "question": "Will the highest temperature in Amsterdam be 18°C or higher on May 16?",
+      "bucket_low": 18.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3057.117816,
+      "liquidity": null,
+      "token_id": "92838557276525243630807648824625322146081959122531693407629226932003946589648",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-may-16-2026-18corhigher",
+        "condition_id": "0xad354f80f802859d6bece7ca9d925afc3ec3f72a6c9a31e72f4b9b9681d6a8dc"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:59.332878+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-16T12:00:00Z",
+      "liquidity": null,
+      "volume": 42335.50783700001,
+      "outcomes_count": 11,
+      "top_bucket": "12.0-12.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Amsterdam on May 16?"
+    }
+  ],
+  "settle_at": "2026-05-16T22:00:00+00:00",
+  "hours_to_settle": -522.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-amsterdam-on-may-16-2026",
+    "event_id": "483485",
+    "markets_count": 11,
+    "game_start_time": "2026-05-15 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:59.332878+00:00",
+  "last_seen_at": "2026-06-07T16:05:59.332878+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:59.332878+00:00",
+  "created_at": "2026-06-07T16:05:59.332878+00:00",
+  "updated_at": "2026-06-10T18:52:10.395434+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "12C",
+      "resolved_value": "12C",
+      "resolution_source": null,
+      "winning_market_id": "2257623",
+      "winning_question": "Will the highest temperature in Amsterdam be 12°C on May 16?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:59.333886+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T18:52:10.395434+00:00",
+      "single": {
+        "city_slug": "amsterdam",
+        "date": "2026-05-16",
+        "metric": "high",
+        "model": "knmi_seamless",
+        "requested_model": "knmi_seamless",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 12.2,
+        "error": null
+      },
+      "ensemble": {
+        "city_slug": "amsterdam",
+        "date": "2026-05-16",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble",
+        "requested_model": "ecmwf_ifs025_ensemble+icon_global_eps",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 12.2,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 12.2,
+            "error": null
+          },
+          {
+            "model": "icon_global_eps",
+            "temp": null,
+            "error": "forecast_unavailable"
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null
+}

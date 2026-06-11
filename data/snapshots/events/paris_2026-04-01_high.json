@@ -1,0 +1,360 @@
+{
+  "storage_key": "paris_2026-04-01_high",
+  "event_id": "322429",
+  "event_slug": "highest-temperature-in-paris-on-april-1-2026",
+  "event_title": "Highest temperature in Paris on April 1?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-04-01",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Weather",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-01T12:00:00Z",
+  "event_end_date": "2026-04-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 308390.00227700005,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1779843",
+      "question": "Will the highest temperature in Paris be 6°C or below on April 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2435.9692999999997,
+      "liquidity": null,
+      "token_id": "65192741739635432324336991103275247627020834188663786543802452209466392999661",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-6corbelow",
+        "condition_id": "0xa9114263cf1283d3870fe09537185e379494853879a660de58fb1b6f51c1ea9a"
+      }
+    },
+    {
+      "market_id": "1779844",
+      "question": "Will the highest temperature in Paris be 7°C on April 1?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1201.9041650000004,
+      "liquidity": null,
+      "token_id": "8479483322798168850415322079669048482928219239587934735608117355583240489777",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-7c",
+        "condition_id": "0xce9346784af8209c566bb64bf3a174bc4b89e93ca27bd80ec393ec12ad42e934"
+      }
+    },
+    {
+      "market_id": "1779845",
+      "question": "Will the highest temperature in Paris be 8°C on April 1?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2152.8874,
+      "liquidity": null,
+      "token_id": "16243029581353484784927062834153507442912385950430882844387210327235369812023",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-8c",
+        "condition_id": "0x72d3eeb15cf2a78f28eb4065d74edd8c192c62f9c7c00443714f1ad3493a22cd"
+      }
+    },
+    {
+      "market_id": "1779846",
+      "question": "Will the highest temperature in Paris be 9°C on April 1?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5167.639706000002,
+      "liquidity": null,
+      "token_id": "104024732438808190781291704188389901047270861544131854764183674476206676162947",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-9c",
+        "condition_id": "0x587926efe56dd2e7e3afec342a4c409254e5ebeefc1938b49c5e6d1b55a0f498"
+      }
+    },
+    {
+      "market_id": "1779847",
+      "question": "Will the highest temperature in Paris be 10°C on April 1?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 49982.212986,
+      "liquidity": null,
+      "token_id": "56872929551069247284299513092127823109492088882256677370120082019641304833230",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-10c",
+        "condition_id": "0x5e19d14c1bb350b4c36208c8ddaee02d33dc2d637f077ea23895167134c13831"
+      }
+    },
+    {
+      "market_id": "1779848",
+      "question": "Will the highest temperature in Paris be 11°C on April 1?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 54008.087676000025,
+      "liquidity": null,
+      "token_id": "54889331692425046970933290010875357342382664189635040573464786710486026539094",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-11c",
+        "condition_id": "0x2cf2f15bef5627719176df72e5ea8ee299173985c6e6709de64a9d8bf924bcfe"
+      }
+    },
+    {
+      "market_id": "1779849",
+      "question": "Will the highest temperature in Paris be 12°C on April 1?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 47187.323386,
+      "liquidity": null,
+      "token_id": "66399595815464493254342930136021449752418494058940505699426824917855015057965",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-12c",
+        "condition_id": "0x7d3205ca182df8289963acea91aece1d90a644cbba70101a90bf5963348a5abd"
+      }
+    },
+    {
+      "market_id": "1779850",
+      "question": "Will the highest temperature in Paris be 13°C on April 1?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 107163.36625000002,
+      "liquidity": null,
+      "token_id": "8548633162859709964956936651419643122527666446613615922043237129532866596130",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-13c",
+        "condition_id": "0xb65642c9bdd92075066b29d9e248b74744cd3bdd7d9a7fee3d93f80c4bfd751a"
+      }
+    },
+    {
+      "market_id": "1779851",
+      "question": "Will the highest temperature in Paris be 14°C on April 1?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17109.838048,
+      "liquidity": null,
+      "token_id": "13598947808056170137888326021041965826065956635448831232631495596550276123918",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-14c",
+        "condition_id": "0xe74336ded25194beb46abba30cd131522e9d6b1be695cd61360f7c77753af8ed"
+      }
+    },
+    {
+      "market_id": "1779852",
+      "question": "Will the highest temperature in Paris be 15°C on April 1?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11794.931903999997,
+      "liquidity": null,
+      "token_id": "24190913333006953553064816290579722794221615268854146088645886018570461111758",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-15c",
+        "condition_id": "0x190a77792847438e3ad5996d6a985c3c7a218a6acfc31e973a4990df31404e08"
+      }
+    },
+    {
+      "market_id": "1779853",
+      "question": "Will the highest temperature in Paris be 16°C or higher on April 1?",
+      "bucket_low": 16.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10185.841456000004,
+      "liquidity": null,
+      "token_id": "76055107497875827151209815607051798539933390976545360084429362270093762589381",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-april-1-2026-16corhigher",
+        "condition_id": "0x33a9999e83c68c66e3271715cfc29458c696bd5858e9fe1907277e8234d0112e"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.403542+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 308390.00227700005,
+      "outcomes_count": 11,
+      "top_bucket": "11.0-11.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Paris on April 1?"
+    }
+  ],
+  "settle_at": "2026-04-01T22:00:00+00:00",
+  "hours_to_settle": -1602.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-paris-on-april-1-2026",
+    "event_id": "322429",
+    "markets_count": 11,
+    "game_start_time": "2026-03-31 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.403542+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.403542+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.403542+00:00",
+  "created_at": "2026-06-07T16:06:08.403542+00:00",
+  "updated_at": "2026-06-10T17:17:30.340619+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "11C",
+      "resolved_value": "11C",
+      "resolution_source": null,
+      "winning_market_id": "1779848",
+      "winning_question": "Will the highest temperature in Paris be 11°C on April 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.404554+00:00"
+  },
+  "legacy": null
+}

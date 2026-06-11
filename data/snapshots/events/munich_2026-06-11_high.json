@@ -1,0 +1,351 @@
+{
+  "storage_key": "munich_2026-06-11_high",
+  "event_id": "575219",
+  "event_slug": "highest-temperature-in-munich-on-june-11-2026",
+  "event_title": "Highest temperature in Munich on June 11?",
+  "city_slug": "munich",
+  "city_name": "Munich",
+  "date": "2026-06-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Daily Temperature",
+    "Recurring",
+    "Hide From New",
+    "Munich",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-11T12:00:00Z",
+  "event_end_date": "2026-06-11T12:00:00Z",
+  "liquidity": 34822.66864,
+  "volume": 11034.268008000003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2476913",
+      "question": "Will the highest temperature in Munich be 11°C or below on June 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 411.351236,
+      "liquidity": 3909.4173,
+      "token_id": "92652253635562497451763926044900100441260580951249411121024239966641325615941",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-11corbelow",
+        "condition_id": "0xacc970ac6c0df0c917ee78b573a5c55b24f4ba0ecdfa774f5797c61b389b485d"
+      }
+    },
+    {
+      "market_id": "2476914",
+      "question": "Will the highest temperature in Munich be 12°C on June 11?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 224.56799999999998,
+      "liquidity": 3468.87849,
+      "token_id": "51370110726183028488417060039019030898709049978411987705274544794649726266789",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-12c",
+        "condition_id": "0xe1533f7b45269cc7b825f54f3c1fc741a4186f882c32b8dfce39512c4a5ae55d"
+      }
+    },
+    {
+      "market_id": "2476915",
+      "question": "Will the highest temperature in Munich be 13°C on June 11?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.004,
+      "no_price": 0.996,
+      "volume": 166.6985,
+      "liquidity": 2362.11059,
+      "token_id": "86932089164401112213936030067574167699977159207011860544214081194888185215863",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.004,
+        0.996
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-13c",
+        "condition_id": "0x60216beae005507ad79f99fbeb9cb211fdfb44471a9aeadff207a6346f4d3661"
+      }
+    },
+    {
+      "market_id": "2476916",
+      "question": "Will the highest temperature in Munich be 14°C on June 11?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0295,
+      "no_price": 0.9705,
+      "volume": 1007.6863760000002,
+      "liquidity": 2359.67656,
+      "token_id": "66990403058734474035048365607613476871838528619906829662807295036701081721118",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0295,
+        0.9705
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-14c",
+        "condition_id": "0x9edc55c2082de652bee9e2c23058e491813a45e0af37b7038d20c28ddd043f61"
+      }
+    },
+    {
+      "market_id": "2476917",
+      "question": "Will the highest temperature in Munich be 15°C on June 11?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.175,
+      "no_price": 0.825,
+      "volume": 1400.555163,
+      "liquidity": 1814.5897,
+      "token_id": "46647173672974652437850070061037507548078535439803302601749155945436337316158",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.175,
+        0.825
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-15c",
+        "condition_id": "0x498da007268b36d35738dc59c9f1c42d7c71b1a81244678932e738d37e1a14e8"
+      }
+    },
+    {
+      "market_id": "2476918",
+      "question": "Will the highest temperature in Munich be 16°C on June 11?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.5,
+      "no_price": 0.5,
+      "volume": 1026.359618,
+      "liquidity": 1773.7156,
+      "token_id": "94101963998916957507438250128861537708437407920639023065744867510902752746539",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.5,
+        0.5
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-16c",
+        "condition_id": "0x42b935f598eea642bf6dc0fd17fdc13db634271f61eab68a22a506797c9681e6"
+      }
+    },
+    {
+      "market_id": "2476919",
+      "question": "Will the highest temperature in Munich be 17°C on June 11?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.285,
+      "no_price": 0.715,
+      "volume": 1223.1909460000002,
+      "liquidity": 1724.2888,
+      "token_id": "28639084226227550311321373284181571309308622271347502542476557411758270383287",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.285,
+        0.715
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-17c",
+        "condition_id": "0x282c371d9370eeadb3ddfa7b5e871677bfc9940ec511e4a6e8c97877f40c916a"
+      }
+    },
+    {
+      "market_id": "2476920",
+      "question": "Will the highest temperature in Munich be 18°C on June 11?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.05,
+      "no_price": 0.95,
+      "volume": 2910.2938640000016,
+      "liquidity": 3554.61699,
+      "token_id": "21614554183130559889972645169326938833609062381293939078007863206357598856226",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.05,
+        0.95
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-18c",
+        "condition_id": "0xe402da077bf67949195889b537b45eeed94f017b0b7a9d499484bca2e1fa474f"
+      }
+    },
+    {
+      "market_id": "2476921",
+      "question": "Will the highest temperature in Munich be 19°C on June 11?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0135,
+      "no_price": 0.9865,
+      "volume": 2560.999138000001,
+      "liquidity": 3237.81088,
+      "token_id": "37730340724195843891166817264258155115184006998864183762709950823832022641324",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0135,
+        0.9865
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-19c",
+        "condition_id": "0xe3f6d9c47983b9fb06b132ebee2d26dcbeee99946038391b2bb4d0712f6932ee"
+      }
+    },
+    {
+      "market_id": "2476922",
+      "question": "Will the highest temperature in Munich be 20°C on June 11?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 157.66400000000002,
+      "liquidity": 2992.80052,
+      "token_id": "96777898339940736620291962545760302914253608956035563547627370309319356375167",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-20c",
+        "condition_id": "0x42f8a67235f6a60ee7f6c189e0ed7ba763dc60f3e7544227dbe29b341917325a"
+      }
+    },
+    {
+      "market_id": "2476923",
+      "question": "Will the highest temperature in Munich be 21°C or higher on June 11?",
+      "bucket_low": 21.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 219.886285,
+      "liquidity": 1897.98261,
+      "token_id": "39289264043173861626845829276724350622976467371686372448403903165421042144222",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-june-11-2026-21corhigher",
+        "condition_id": "0x625a0d4b42b7e98f34b3a4ccf020c7e35a5aa99666d00a2821cfeb82011f4fd8"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.673719+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-11T12:00:00Z",
+      "liquidity": 34822.66864,
+      "volume": 11034.268008000003,
+      "outcomes_count": 11,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 0.5,
+      "event_title": "Highest temperature in Munich on June 11?"
+    }
+  ],
+  "settle_at": "2026-06-11T22:00:00+00:00",
+  "hours_to_settle": 28.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-munich-on-june-11-2026",
+    "event_id": "575219",
+    "markets_count": 11,
+    "game_start_time": "2026-06-10 22:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 18.7,
+  "first_seen_at": "2026-06-09T07:53:26.367826+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.673719+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.673719+00:00",
+  "created_at": "2026-06-09T07:53:26.367826+00:00",
+  "updated_at": "2026-06-10T17:17:26.673719+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

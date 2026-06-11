@@ -1,0 +1,351 @@
+{
+  "storage_key": "dallas_2026-06-07_high",
+  "event_id": "564396",
+  "event_slug": "highest-temperature-in-dallas-on-june-7-2026",
+  "event_title": "Highest temperature in Dallas on June 7?",
+  "city_slug": "dallas",
+  "city_name": "Dallas",
+  "date": "2026-06-07",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "dallas",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-07T12:00:00Z",
+  "event_end_date": "2026-06-07T12:00:00Z",
+  "liquidity": 24450.76373,
+  "volume": 32452.624458000002,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2450091",
+      "question": "Will the highest temperature in Dallas be 81°F or below on June 7?",
+      "bucket_low": -999.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1925.5602149999995,
+      "liquidity": 11980.81219,
+      "token_id": "53554383543045424823945476960686239912614577015429107755484039424662762162505",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-81forbelow",
+        "condition_id": "0xbbfe3dcb31e3f67140d3a4fa1f8b6e2bd3c6359e9cb1f5b607d52713a85e66e2"
+      }
+    },
+    {
+      "market_id": "2450092",
+      "question": "Will the highest temperature in Dallas be between 82-83°F on June 7?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0105,
+      "no_price": 0.9895,
+      "volume": 8098.711616,
+      "liquidity": 1416.02823,
+      "token_id": "59084586977653944221063758342625924673965141721012933373186438321092046702226",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0105,
+        0.9895
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-82-83f",
+        "condition_id": "0xe1e8679c1da2580091d3653494d2096933a19badad0a96b13163485dc25d1c57"
+      }
+    },
+    {
+      "market_id": "2450093",
+      "question": "Will the highest temperature in Dallas be between 84-85°F on June 7?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0585,
+      "no_price": 0.9415,
+      "volume": 4973.326183,
+      "liquidity": 609.11786,
+      "token_id": "32887167632287794189773192323915210759113740610711828852344974952117871342629",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0585,
+        0.9415
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-84-85f",
+        "condition_id": "0x2bd82cf2a7c8c6c37b85c5ebedaac8da72691fdeb51a596419b935d9392ecd29"
+      }
+    },
+    {
+      "market_id": "2450094",
+      "question": "Will the highest temperature in Dallas be between 86-87°F on June 7?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.275,
+      "no_price": 0.725,
+      "volume": 5139.845212000002,
+      "liquidity": 267.173,
+      "token_id": "4045077494985097013065720208387238934227857736343757197294147586562934827962",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.275,
+        0.725
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-86-87f",
+        "condition_id": "0x378531d28bd416dfe5e9cd0605cb7c1eb3b58a30ad7e9939514d0d6c83276d07"
+      }
+    },
+    {
+      "market_id": "2450095",
+      "question": "Will the highest temperature in Dallas be between 88-89°F on June 7?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.32,
+      "no_price": 0.68,
+      "volume": 2753.0259330000013,
+      "liquidity": 286.9758,
+      "token_id": "56653175542034975866824604449591830527548778761782643617403254279696346531338",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.32,
+        0.68
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-88-89f",
+        "condition_id": "0xfa7e89c6b1b59432f5ddbfe98d3900be82f6e26a507c50d73b77e114b957e031"
+      }
+    },
+    {
+      "market_id": "2450096",
+      "question": "Will the highest temperature in Dallas be between 90-91°F on June 7?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.31,
+      "no_price": 0.69,
+      "volume": 2683.8835249999993,
+      "liquidity": 301.9245,
+      "token_id": "45920728554095103469471174888140370893380687523092409274041640812177600824821",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.31,
+        0.69
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-90-91f",
+        "condition_id": "0x0c61800425edca26208b68f9390fad30078746215b92123804dcd773ba578914"
+      }
+    },
+    {
+      "market_id": "2450097",
+      "question": "Will the highest temperature in Dallas be between 92-93°F on June 7?",
+      "bucket_low": 92.0,
+      "bucket_high": 93.0,
+      "unit": "F",
+      "yes_price": 0.049,
+      "no_price": 0.951,
+      "volume": 2484.963111999998,
+      "liquidity": 528.46439,
+      "token_id": "24764657144356201477037943225964528061669380838131455247311422176259389270715",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.049,
+        0.951
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-92-93f",
+        "condition_id": "0xea0aca3d83116b6ca998a768dfe18f1b59cfe8801564ce1fac29f1283ad294d8"
+      }
+    },
+    {
+      "market_id": "2450098",
+      "question": "Will the highest temperature in Dallas be between 94-95°F on June 7?",
+      "bucket_low": 94.0,
+      "bucket_high": 95.0,
+      "unit": "F",
+      "yes_price": 0.0125,
+      "no_price": 0.9875,
+      "volume": 2295.139532,
+      "liquidity": 1699.19648,
+      "token_id": "1203758112117356390913078344559862744259197663321128386826508218213363244136",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0125,
+        0.9875
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-94-95f",
+        "condition_id": "0x1405d0a80085e2e548e68b3b2ab1c8bed82e44169cb365bd9659818402b405b4"
+      }
+    },
+    {
+      "market_id": "2450099",
+      "question": "Will the highest temperature in Dallas be between 96-97°F on June 7?",
+      "bucket_low": 96.0,
+      "bucket_high": 97.0,
+      "unit": "F",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 1322.7148550000002,
+      "liquidity": 1719.83338,
+      "token_id": "50781704240848229702828636024089252191602174907759678904993693203388962792238",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-96-97f",
+        "condition_id": "0x13880c4ffdab2f4603739d62a56652f3f962f0816552163b92c6386548872130"
+      }
+    },
+    {
+      "market_id": "2450100",
+      "question": "Will the highest temperature in Dallas be between 98-99°F on June 7?",
+      "bucket_low": 98.0,
+      "bucket_high": 99.0,
+      "unit": "F",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 815.8510000000002,
+      "liquidity": 2205.88674,
+      "token_id": "94629502295345872928780481988464254203643763576387547976152887127344074510057",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-98-99f",
+        "condition_id": "0x1828aa2ecb02dd97e3ea25e31a54d02eecc1845a498c12efd6c6bd1b7acf0fe0"
+      }
+    },
+    {
+      "market_id": "2450101",
+      "question": "Will the highest temperature in Dallas be 100°F or higher on June 7?",
+      "bucket_low": 100.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 744.5250000000001,
+      "liquidity": 2557.24059,
+      "token_id": "68714881800577047648633769551985235974870694617133362328473785542348090698566",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-june-7-2026-100forhigher",
+        "condition_id": "0x9884441e2c036e8ffeff3f7bfcb285968a0b63cbcad28103ce802a9d4947bbec"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T19:18:22.313994+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-07T12:00:00Z",
+      "liquidity": 24450.76373,
+      "volume": 32452.624458000002,
+      "outcomes_count": 11,
+      "top_bucket": "88.0-89.0F",
+      "top_price": 0.32,
+      "event_title": "Highest temperature in Dallas on June 7?"
+    }
+  ],
+  "settle_at": "2026-06-08T05:00:00+00:00",
+  "hours_to_settle": 9.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-dallas-on-june-7-2026",
+    "event_id": "564396",
+    "markets_count": 11,
+    "game_start_time": "2026-06-07 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-06T16:12:35.534376+00:00",
+  "last_seen_at": "2026-06-07T19:18:22.313994+00:00",
+  "last_refreshed_at": "2026-06-07T19:18:22.313994+00:00",
+  "created_at": "2026-06-06T16:12:35.534376+00:00",
+  "updated_at": "2026-06-10T17:17:28.955054+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

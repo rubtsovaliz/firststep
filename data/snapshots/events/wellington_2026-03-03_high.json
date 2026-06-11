@@ -1,0 +1,307 @@
+{
+  "storage_key": "wellington_2026-03-03_high",
+  "event_id": "238984",
+  "event_slug": "highest-temperature-in-wellington-on-march-3-2026",
+  "event_title": "Highest temperature in Wellington on March 3?",
+  "city_slug": "wellington",
+  "city_name": "Wellington",
+  "date": "2026-03-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Auckland",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-03T12:00:00Z",
+  "event_end_date": "2026-03-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 295686.681319,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1475203",
+      "question": "Will the highest temperature in Wellington be 10°C or below on March 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4286.619524,
+      "liquidity": null,
+      "token_id": "25240472374267274171652721427526304916954249250723767410917914765993555502814",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-10corbelow",
+        "condition_id": "0x4fac0dcce37ff96acf5440476bb6f3bb61703a70d1d15c58750310b9f8e59ed4"
+      }
+    },
+    {
+      "market_id": "1475204",
+      "question": "Will the highest temperature in Wellington be 11°C on March 3?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7101.149322,
+      "liquidity": null,
+      "token_id": "40858235773287878597021257602097300357479770735141994058670529749517321033909",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-11c",
+        "condition_id": "0xf2f90653d83b65edab734804b64af313b947851e2cb1e3ed29ac67d0ff7a9e13"
+      }
+    },
+    {
+      "market_id": "1475205",
+      "question": "Will the highest temperature in Wellington be 12°C on March 3?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 207922.40575,
+      "liquidity": null,
+      "token_id": "6511133736763447499267409456756808729674857743439238301200116777374469488364",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-12c",
+        "condition_id": "0xa51295bab61271c722da06519811b29bc317b184d573cde8d2d9b868c82a2076"
+      }
+    },
+    {
+      "market_id": "1475206",
+      "question": "Will the highest temperature in Wellington be 13°C on March 3?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13996.240535,
+      "liquidity": null,
+      "token_id": "85882860118958741907645157228344603565726820450482563479466115867511095581948",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-13c",
+        "condition_id": "0xcd42b818ba419dfa13c078a06bf76a2ff928335596c2b3c99b07981687b7a774"
+      }
+    },
+    {
+      "market_id": "1475207",
+      "question": "Will the highest temperature in Wellington be 14°C on March 3?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 17157.79512,
+      "liquidity": null,
+      "token_id": "57216698555423682067885807297313458180911014346131030100600515620004209332118",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-14c",
+        "condition_id": "0x27d4308943980af67f0bd2b8f97b49f04ab52040beb180e3054a5d2853d49197"
+      }
+    },
+    {
+      "market_id": "1475208",
+      "question": "Will the highest temperature in Wellington be 15°C on March 3?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11680.288932,
+      "liquidity": null,
+      "token_id": "113534597329317979873109095131706362546455231877419546797644284787378434591718",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-15c",
+        "condition_id": "0xb7bc90d778f3669883f79f06689f5c35e2092956160e17d7aaa60835dcf4f469"
+      }
+    },
+    {
+      "market_id": "1475209",
+      "question": "Will the highest temperature in Wellington be 16°C on March 3?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16154.758313,
+      "liquidity": null,
+      "token_id": "2715070680151088232952182409271598100720665394225558480145288123702275769702",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-16c",
+        "condition_id": "0xd7fd71ed0c6ded3a1f6367e5b12385066d5fcac1719f2a61c63530ae2760af3e"
+      }
+    },
+    {
+      "market_id": "1475210",
+      "question": "Will the highest temperature in Wellington be 17°C on March 3?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6479.33566,
+      "liquidity": null,
+      "token_id": "23721730222123920703790776855349565836886650687760844833584156231827672892126",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-17c",
+        "condition_id": "0x1b2ad48b0d2009ffc5c85f521fa04382277cd5eabd7f15c7f92513631ba6995a"
+      }
+    },
+    {
+      "market_id": "1475211",
+      "question": "Will the highest temperature in Wellington be 18°C or higher on March 3?",
+      "bucket_low": 18.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10908.088163,
+      "liquidity": null,
+      "token_id": "3070834429643561970076379576204500716808549269986808144847724132017298795115",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-march-3-2026-18corhigher",
+        "condition_id": "0x02b2d7d1ae62be0799608c45a3ad94b6579d91993ee86dad75be4a8c1753a6b0"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.906824+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 295686.681319,
+      "outcomes_count": 9,
+      "top_bucket": "14.0-14.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Wellington on March 3?"
+    }
+  ],
+  "settle_at": "2026-03-03T11:00:00+00:00",
+  "hours_to_settle": -2309.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-wellington-on-march-3-2026",
+    "event_id": "238984",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.906824+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.906824+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.906824+00:00",
+  "created_at": "2026-06-07T16:06:10.906824+00:00",
+  "updated_at": "2026-06-10T17:17:31.308509+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "14C",
+      "resolved_value": "14C",
+      "resolution_source": null,
+      "winning_market_id": "1475207",
+      "winning_question": "Will the highest temperature in Wellington be 14°C on March 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.907831+00:00"
+  },
+  "legacy": null
+}

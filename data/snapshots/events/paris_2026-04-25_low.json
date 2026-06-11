@@ -1,0 +1,360 @@
+{
+  "storage_key": "paris_2026-04-25_low",
+  "event_id": "408549",
+  "event_slug": "lowest-temperature-in-paris-on-april-25-2026",
+  "event_title": "Lowest temperature in Paris on April 25?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-04-25",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-25T12:00:00Z",
+  "event_end_date": "2026-04-25T12:00:00Z",
+  "liquidity": null,
+  "volume": 29000.577022000005,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2056736",
+      "question": "Will the lowest temperature in Paris be 2°C or below on April 25?",
+      "bucket_low": -999.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 575.522132,
+      "liquidity": null,
+      "token_id": "3332001371735649614858989240334176170710770412095787597937684934937988781104",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-2corbelow",
+        "condition_id": "0x836cc86f4457032cd422723b4e8dd7a7eef591580512148e8badd6e8868652d2"
+      }
+    },
+    {
+      "market_id": "2056737",
+      "question": "Will the lowest temperature in Paris be 3°C on April 25?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1135.7289,
+      "liquidity": null,
+      "token_id": "31589038420782520734873228993836591944451134097238564846518906113012925400107",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-3c",
+        "condition_id": "0xf13705b3747ae34e695aba2c4bcd7fd9d1bc3a9d7462212e7d3f20e07a402290"
+      }
+    },
+    {
+      "market_id": "2056739",
+      "question": "Will the lowest temperature in Paris be 4°C on April 25?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4295.381395,
+      "liquidity": null,
+      "token_id": "100843215400371653960825105043967887221681470737201790418676639920962778443086",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-4c",
+        "condition_id": "0x9e9324cb863ccdc54d9b037464b4d842c02f3a8180b4e319585218d65e5fe53a"
+      }
+    },
+    {
+      "market_id": "2056740",
+      "question": "Will the lowest temperature in Paris be 5°C on April 25?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 9019.374470000002,
+      "liquidity": null,
+      "token_id": "98404684140167201643465702976821754141409925745092823811110590805026879959735",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-5c",
+        "condition_id": "0xd27c2865d14f9bd620cf35390719fbef7e308c6f1a76f1cf60ffc1af7a6b3a65"
+      }
+    },
+    {
+      "market_id": "2056741",
+      "question": "Will the lowest temperature in Paris be 6°C on April 25?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1095.717949,
+      "liquidity": null,
+      "token_id": "55493302336727460592999741481625272197926879948296607203600656374914876859319",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-6c",
+        "condition_id": "0x091f488ea46cdfb1e9866964873d54e509cf0ba7319c8cccb82158c65b26cfd3"
+      }
+    },
+    {
+      "market_id": "2056742",
+      "question": "Will the lowest temperature in Paris be 7°C on April 25?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1007.672885,
+      "liquidity": null,
+      "token_id": "47674184175917099870403774230082381631564190322229695384850353543680291259346",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-7c",
+        "condition_id": "0x2204c4c2712d40685ae7d4128f6fa84f8fffdb30a9209a8fd22868e802352165"
+      }
+    },
+    {
+      "market_id": "2056743",
+      "question": "Will the lowest temperature in Paris be 8°C on April 25?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 678.932663,
+      "liquidity": null,
+      "token_id": "11232124136029253678364953002489068342761857231107694992114073443809328799608",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-8c",
+        "condition_id": "0x9b0894914f43ada5fefa9d2d41b0cec625aa5fde54fdaea669c29bf34546b153"
+      }
+    },
+    {
+      "market_id": "2056745",
+      "question": "Will the lowest temperature in Paris be 9°C on April 25?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 932.904726,
+      "liquidity": null,
+      "token_id": "33786710962992009878070826245782305998189420558081078466140373745708636667675",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-9c",
+        "condition_id": "0xfe8d883e1d0b4490be24157d3565ece3c51c03d9a405ceee182ef5b85aa4d4cf"
+      }
+    },
+    {
+      "market_id": "2056747",
+      "question": "Will the lowest temperature in Paris be 10°C on April 25?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1219.274084,
+      "liquidity": null,
+      "token_id": "108637732752456903847454873750362785729880994941984659565164494275536317536379",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-10c",
+        "condition_id": "0xb09ad7c537b26d089dd2ab0d01f6af909d8128448cef2d207439c4f046501361"
+      }
+    },
+    {
+      "market_id": "2056749",
+      "question": "Will the lowest temperature in Paris be 11°C on April 25?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 932.006466,
+      "liquidity": null,
+      "token_id": "82904322390287987108833736336955920646366866668627910679303312145158413090925",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-11c",
+        "condition_id": "0x3b578bfd955a91ab5e9f848fd45ca2cf08b2802908f5706fd0bb316c5b98bf70"
+      }
+    },
+    {
+      "market_id": "2056751",
+      "question": "Will the lowest temperature in Paris be 12°C or higher on April 25?",
+      "bucket_low": 12.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8108.0613520000015,
+      "liquidity": null,
+      "token_id": "81783094116611301340886037628215367055941292815584243552886828197092013014795",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-april-25-2026-12corhigher",
+        "condition_id": "0xc71a53bcdb6064151db641ecfc1cc05fc3b33dff94d80e3fe9dd5658ef28ecf5"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:04.147777+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-25T12:00:00Z",
+      "liquidity": null,
+      "volume": 29000.577022000005,
+      "outcomes_count": 11,
+      "top_bucket": "5.0-5.0C",
+      "top_price": 1.0,
+      "event_title": "Lowest temperature in Paris on April 25?"
+    }
+  ],
+  "settle_at": "2026-04-25T22:00:00+00:00",
+  "hours_to_settle": -1026.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-paris-on-april-25-2026",
+    "event_id": "408549",
+    "markets_count": 11,
+    "game_start_time": "2026-04-24 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:04.147777+00:00",
+  "last_seen_at": "2026-06-07T16:06:04.147777+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:04.147777+00:00",
+  "created_at": "2026-06-07T16:06:04.147777+00:00",
+  "updated_at": "2026-06-10T17:17:30.358578+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "5C",
+      "resolved_value": "5C",
+      "resolution_source": null,
+      "winning_market_id": "2056740",
+      "winning_question": "Will the lowest temperature in Paris be 5°C on April 25?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:04.148779+00:00"
+  },
+  "legacy": null
+}

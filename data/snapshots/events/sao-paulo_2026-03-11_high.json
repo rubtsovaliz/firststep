@@ -1,0 +1,307 @@
+{
+  "storage_key": "sao-paulo_2026-03-11_high",
+  "event_id": "255777",
+  "event_slug": "highest-temperature-in-sao-paulo-on-march-11-2026",
+  "event_title": "Highest temperature in Sao Paulo on March 11?",
+  "city_slug": "sao-paulo",
+  "city_name": "Sao Paulo",
+  "date": "2026-03-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Sao Paulo",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-11T12:00:00Z",
+  "event_end_date": "2026-03-11T12:00:00Z",
+  "liquidity": null,
+  "volume": 12922.076194000007,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1536878",
+      "question": "Will the highest temperature in Sao Paulo be 18°C or below on March 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "31159061960983988931878212409914970058528796572323839579099345904245430827265",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-18corbelow",
+        "condition_id": "0x88066a23b23596591eb8428fa3272093dc60aec2d6e8be3a6b2f5d0cd395454a"
+      }
+    },
+    {
+      "market_id": "1536879",
+      "question": "Will the highest temperature in Sao Paulo be 19°C on March 11?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "62765033167978601448652375208525997245835567911814855030307134443369281684525",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-19c",
+        "condition_id": "0xd31de33add0000b22dffb8f05b15cb25be73c0f9804bb7deeb71b9d8fcc75d22"
+      }
+    },
+    {
+      "market_id": "1536880",
+      "question": "Will the highest temperature in Sao Paulo be 20°C on March 11?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "29662535273482754447162408541863811863092722999289941797220271536212443625431",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-20c",
+        "condition_id": "0x5dfd7a823a3a5395a72244371a60c9926786d9d60427ffc22987823981d623ee"
+      }
+    },
+    {
+      "market_id": "1536881",
+      "question": "Will the highest temperature in Sao Paulo be 21°C on March 11?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "101224476396313791752424522486481428321558297732793981924382666946408229399461",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-21c",
+        "condition_id": "0xc700149c36645bde2cbba8c939a63f135f61a617e818f15f193ac2fe1c901d80"
+      }
+    },
+    {
+      "market_id": "1536882",
+      "question": "Will the highest temperature in Sao Paulo be 22°C on March 11?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 12922.076194000007,
+      "liquidity": null,
+      "token_id": "102535354188437274968136165843686525404058531194970525924675986400523633217523",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-22c",
+        "condition_id": "0x572112e052321b1ca04b00538523718a7fecf9683e95cac0c3c933e8fb7ef90a"
+      }
+    },
+    {
+      "market_id": "1536883",
+      "question": "Will the highest temperature in Sao Paulo be 23°C on March 11?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "101580913654006468041751035457438518121081018605513934956309286757674290421963",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-23c",
+        "condition_id": "0xa474665233244c7da19a1ad4da34eb00405310d07d4a2d288bc813d9f400775b"
+      }
+    },
+    {
+      "market_id": "1536884",
+      "question": "Will the highest temperature in Sao Paulo be 24°C on March 11?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "24866726015011619025879631399874908513464621969266351392164650732496923262367",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-24c",
+        "condition_id": "0xd0c95d636f86798c954c6959fa86392d96b704333024399a06de1469b6115c20"
+      }
+    },
+    {
+      "market_id": "1536885",
+      "question": "Will the highest temperature in Sao Paulo be 25°C on March 11?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "39842134372232083334358320836781933065914225465205064892911830998636485679976",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-25c",
+        "condition_id": "0x2cc838528c021fea4588ac5c49df68567c52ea9256c395b596966b279e4401e3"
+      }
+    },
+    {
+      "market_id": "1536886",
+      "question": "Will the highest temperature in Sao Paulo be 26°C or higher on March 11?",
+      "bucket_low": 26.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "86293156230511227578284202722563171158517988020294852372814524941831483766555",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-sao-paulo-on-march-11-2026-26corhigher",
+        "condition_id": "0x33872d8663cfdc1af87b55535c3092cadcca58ec5676cd6070d6b11ad309976c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.566854+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-11T12:00:00Z",
+      "liquidity": null,
+      "volume": 12922.076194000007,
+      "outcomes_count": 9,
+      "top_bucket": "22.0-22.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Sao Paulo on March 11?"
+    }
+  ],
+  "settle_at": "2026-03-12T03:00:00+00:00",
+  "hours_to_settle": -2101.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-sao-paulo-on-march-11-2026",
+    "event_id": "255777",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.566854+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.566854+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.566854+00:00",
+  "created_at": "2026-06-07T16:06:10.566854+00:00",
+  "updated_at": "2026-06-10T17:17:30.500647+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "22C",
+      "resolved_value": "22C",
+      "resolution_source": null,
+      "winning_market_id": "1536882",
+      "winning_question": "Will the highest temperature in Sao Paulo be 22°C on March 11?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.568859+00:00"
+  },
+  "legacy": null
+}

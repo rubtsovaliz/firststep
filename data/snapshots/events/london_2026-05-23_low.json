@@ -1,0 +1,353 @@
+{
+  "storage_key": "london_2026-05-23_low",
+  "event_id": "500776",
+  "event_slug": "lowest-temperature-in-london-on-may-23-2026",
+  "event_title": "Lowest temperature in London on May 23?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-05-23",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-23T12:00:00Z",
+  "event_end_date": "2026-05-23T12:00:00Z",
+  "liquidity": 5378.5174,
+  "volume": null,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2299997",
+      "question": "Will the lowest temperature in London be 11°C or below on May 23?",
+      "bucket_low": -999.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.475,
+      "no_price": 0.525,
+      "volume": null,
+      "liquidity": 5.9435,
+      "token_id": "85064411636070454257277736035855645547799484663622807721852902617312391364520",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.475,
+        0.525
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-11corbelow",
+        "condition_id": "0x42c6ab54741ce21c999054bec83b3b282e73133b47385aa69ef97959c1d4d9b9"
+      }
+    },
+    {
+      "market_id": "2299998",
+      "question": "Will the lowest temperature in London be 12°C on May 23?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.115,
+      "no_price": 0.885,
+      "volume": null,
+      "liquidity": 595.7168,
+      "token_id": "25231773582942816774101935301890856107723793418168613166234607167332982419557",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.115,
+        0.885
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-12c",
+        "condition_id": "0x7b19cdcaddf3ac6902004d687015603c6e07e6cdf691ac2d55253321ec7cc023"
+      }
+    },
+    {
+      "market_id": "2299999",
+      "question": "Will the lowest temperature in London be 13°C on May 23?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.125,
+      "no_price": 0.875,
+      "volume": null,
+      "liquidity": 595.6058,
+      "token_id": "79426624934076488572013193905575805631417563389713023786735378742061500910453",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.125,
+        0.875
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-13c",
+        "condition_id": "0x79992c5eb15b4f4dac409c131dc3d981feaa38622f0bbe7e784423ced8f8ba1b"
+      }
+    },
+    {
+      "market_id": "2300000",
+      "question": "Will the lowest temperature in London be 14°C on May 23?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.14,
+      "no_price": 0.86,
+      "volume": null,
+      "liquidity": 595.4562,
+      "token_id": "54271089460172252018292933405290946795790449659698298090541132984873529605580",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.14,
+        0.86
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-14c",
+        "condition_id": "0x958316242534f173b2581e26e87a65826808528b9a5b6a738378f322c6dadfc6"
+      }
+    },
+    {
+      "market_id": "2300001",
+      "question": "Will the lowest temperature in London be 15°C on May 23?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.15,
+      "no_price": 0.85,
+      "volume": null,
+      "liquidity": 598.4567,
+      "token_id": "1447096194019113910552946168068539867707107185802955540839479993404690070631",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.15,
+        0.85
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-15c",
+        "condition_id": "0x2da6c3035224303a60ca25ba49af8b3bd8ea5cc69a3c8c190b25f679fb7b2fc0"
+      }
+    },
+    {
+      "market_id": "2300002",
+      "question": "Will the lowest temperature in London be 16°C on May 23?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.16,
+      "no_price": 0.84,
+      "volume": null,
+      "liquidity": 598.1563,
+      "token_id": "84666579567051420301309824580853825809762564154792522062234786489452419759805",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.16,
+        0.84
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-16c",
+        "condition_id": "0x315892eec096c3519e0bb9044bc3689a27920a662dba4039627b88bc3d745ec7"
+      }
+    },
+    {
+      "market_id": "2300003",
+      "question": "Will the lowest temperature in London be 17°C on May 23?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.17,
+      "no_price": 0.83,
+      "volume": null,
+      "liquidity": 598.4156,
+      "token_id": "95162120678438977131392633927925079910900012801583625468968019683194495494996",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.17,
+        0.83
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-17c",
+        "condition_id": "0xe15afa9a5b403b0ff5e0a641be14017d9184dbf1b36891f64a65dcceca7e6805"
+      }
+    },
+    {
+      "market_id": "2300004",
+      "question": "Will the lowest temperature in London be 18°C on May 23?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.185,
+      "no_price": 0.815,
+      "volume": null,
+      "liquidity": 595.0102,
+      "token_id": "78082306743829874788117704821288249415474808448268488362426168351469813862984",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.185,
+        0.815
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-18c",
+        "condition_id": "0xe5898bbe39487f9ca23c6bd2a0000c9486183f992d7e3494040dc94c8d0cb8bc"
+      }
+    },
+    {
+      "market_id": "2300005",
+      "question": "Will the lowest temperature in London be 19°C on May 23?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.195,
+      "no_price": 0.805,
+      "volume": null,
+      "liquidity": 594.9064,
+      "token_id": "92352300361734388700084936981723435642511310586318149838104388468973996673025",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.195,
+        0.805
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-19c",
+        "condition_id": "0x0302aa42c9f8330c591dba273f0485666cd3a07837fb9f238a5c232f823ec5d7"
+      }
+    },
+    {
+      "market_id": "2300006",
+      "question": "Will the lowest temperature in London be 20°C on May 23?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.195,
+      "no_price": 0.805,
+      "volume": null,
+      "liquidity": 594.9059,
+      "token_id": "93376482953647323345204590532606210976666496956143343700706013302258158428142",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.195,
+        0.805
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-20c",
+        "condition_id": "0x8a52b5e1f8e37ee0c31d2dfe6fc121a091a7a6a14a7da231d622dc69ec131cdd"
+      }
+    },
+    {
+      "market_id": "2300007",
+      "question": "Will the lowest temperature in London be 21°C or higher on May 23?",
+      "bucket_low": 21.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.475,
+      "no_price": 0.525,
+      "volume": null,
+      "liquidity": 5.944,
+      "token_id": "11692965955819882446067620021934495908369482531389720673697274586922770919312",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.475,
+        0.525
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-london-on-may-23-2026-21corhigher",
+        "condition_id": "0x2230c6101f96823182a405746ce4123e39f7594075b463091c3a2d0fbdd484bd"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:51.069212+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-23T12:00:00Z",
+      "liquidity": 5378.5174,
+      "volume": null,
+      "outcomes_count": 11,
+      "top_bucket": "<=11.0C",
+      "top_price": 0.475,
+      "event_title": "Lowest temperature in London on May 23?"
+    }
+  ],
+  "settle_at": "2026-05-23T23:00:00+00:00",
+  "hours_to_settle": -353.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-london-on-may-23-2026",
+    "event_id": "500776",
+    "markets_count": 11,
+    "game_start_time": "2026-05-22 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:51.069212+00:00",
+  "last_seen_at": "2026-06-07T16:05:51.069212+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:51.069212+00:00",
+  "created_at": "2026-06-07T16:05:51.069212+00:00",
+  "updated_at": "2026-06-10T17:17:29.535291+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "gamma_enriched_at": "2026-06-07T16:05:52.249292+00:00"
+  },
+  "legacy": null
+}

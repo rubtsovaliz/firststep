@@ -1,0 +1,351 @@
+{
+  "storage_key": "seoul_2026-06-12_high",
+  "event_id": "578703",
+  "event_slug": "highest-temperature-in-seoul-on-june-12-2026",
+  "event_title": "Highest temperature in Seoul on June 12?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-06-12",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul",
+    "Daily Temperature",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-12T12:00:00Z",
+  "event_end_date": "2026-06-12T12:00:00Z",
+  "liquidity": 43049.03336,
+  "volume": 9738.131863999999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2488053",
+      "question": "Will the highest temperature in Seoul be 17°C or below on June 12?",
+      "bucket_low": -999.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 495.17300000000006,
+      "liquidity": 5520.87226,
+      "token_id": "112324026496251545224092261553507145088838746212749769651691903946374785526448",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-17corbelow",
+        "condition_id": "0x026a879478d58c36c3afe3a20e0f8bfd14b960d7e1ad7d896fc1ab70cf06e320"
+      }
+    },
+    {
+      "market_id": "2488054",
+      "question": "Will the highest temperature in Seoul be 18°C on June 12?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 403.517,
+      "liquidity": 3769.67582,
+      "token_id": "40185662727965217657153296483149774326695921845391833457400299294386756460722",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-18c",
+        "condition_id": "0x42691f3fbba7f58aaf829a76fbb44ff62daeebc7fa4eb77d82fb0327c1b59d05"
+      }
+    },
+    {
+      "market_id": "2488055",
+      "question": "Will the highest temperature in Seoul be 19°C on June 12?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 183.88800000000003,
+      "liquidity": 3766.7231,
+      "token_id": "98595471767636448063702329531571775267691550438433061235009158640192717899052",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-19c",
+        "condition_id": "0x052620ee8651e123599ded18ac9be701e74346f544bac9a422b7d7a05211d6ea"
+      }
+    },
+    {
+      "market_id": "2488056",
+      "question": "Will the highest temperature in Seoul be 20°C on June 12?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 68.8065,
+      "liquidity": 3351.99329,
+      "token_id": "74138851039424764346427549801766060599557488381121713761554341387788815229881",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-20c",
+        "condition_id": "0x39f128f06afd1d10fb0f678f636c3b80e0812c86ecbb244d262666bc87b5d409"
+      }
+    },
+    {
+      "market_id": "2488057",
+      "question": "Will the highest temperature in Seoul be 21°C on June 12?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.008,
+      "no_price": 0.992,
+      "volume": 2809.6653979999996,
+      "liquidity": 6023.25662,
+      "token_id": "88526972991948979078912805787369506573785404709083922955757087289045093467025",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.008,
+        0.992
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-21c",
+        "condition_id": "0xe48ed77ba6414f42580936004cd42bc5a67ae2480de1707215547afd151a7a1e"
+      }
+    },
+    {
+      "market_id": "2488058",
+      "question": "Will the highest temperature in Seoul be 22°C on June 12?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0135,
+      "no_price": 0.9865,
+      "volume": 2020.698742,
+      "liquidity": 6133.38244,
+      "token_id": "2132788677512625786597443302581009243323256656328842384324761980784392068142",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0135,
+        0.9865
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-22c",
+        "condition_id": "0xfc17a68e7d18c4dcfe9a1e32c86a7cfaf5f32c4a0fad2f5dbe888101c611d320"
+      }
+    },
+    {
+      "market_id": "2488059",
+      "question": "Will the highest temperature in Seoul be 23°C on June 12?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.095,
+      "no_price": 0.905,
+      "volume": 1321.5998859999997,
+      "liquidity": 4642.4746,
+      "token_id": "107986595661187231469393862630060881654143213963728691294444529156289108688744",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.095,
+        0.905
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-23c",
+        "condition_id": "0x13b2981b3f0af4007e78c4b5683c164708d4c2b0c614e665cabdacf96cb6ccad"
+      }
+    },
+    {
+      "market_id": "2488060",
+      "question": "Will the highest temperature in Seoul be 24°C on June 12?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.29,
+      "no_price": 0.71,
+      "volume": 575.0411180000001,
+      "liquidity": 3286.2797,
+      "token_id": "108647609132142152897169665352558364845051818227952536704886179886582258445143",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.29,
+        0.71
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-24c",
+        "condition_id": "0xd7e6f209697c2ed97ec31c79fe9da7f2d4859505988a89c47ee61936c41f55ef"
+      }
+    },
+    {
+      "market_id": "2488061",
+      "question": "Will the highest temperature in Seoul be 25°C on June 12?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.39,
+      "no_price": 0.61,
+      "volume": 913.7059409999998,
+      "liquidity": 2898.5923,
+      "token_id": "15517943873371686456518985506867870129404790178236828005915523308956144772505",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.39,
+        0.61
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-25c",
+        "condition_id": "0x375b3965cd635ca24ee98e34d190a93e8ec5693bab67d3d2a023e1e853365006"
+      }
+    },
+    {
+      "market_id": "2488062",
+      "question": "Will the highest temperature in Seoul be 26°C on June 12?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.155,
+      "no_price": 0.845,
+      "volume": 766.455374,
+      "liquidity": 3023.6834,
+      "token_id": "10926344565741832726266418362620102148988189017188459432163116507399763607421",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.155,
+        0.845
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-26c",
+        "condition_id": "0x664d52954be571f445467910f8a66352dd097e0cebaaee78c06e6edaf1006571"
+      }
+    },
+    {
+      "market_id": "2488063",
+      "question": "Will the highest temperature in Seoul be 27°C or higher on June 12?",
+      "bucket_low": 27.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.079,
+      "no_price": 0.921,
+      "volume": 759.436915,
+      "liquidity": 2716.58352,
+      "token_id": "104736766199759461863447017805108507250722798897627047877071568437520930597711",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.079,
+        0.921
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-june-12-2026-27corhigher",
+        "condition_id": "0x213af0ef91089bbbbdc549d02618fae0ef76236c0dc164a63536b2dc02f688dc"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.582759+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-12T12:00:00Z",
+      "liquidity": 43049.03336,
+      "volume": 9738.131863999999,
+      "outcomes_count": 11,
+      "top_bucket": "25.0-25.0C",
+      "top_price": 0.39,
+      "event_title": "Highest temperature in Seoul on June 12?"
+    }
+  ],
+  "settle_at": "2026-06-12T15:00:00+00:00",
+  "hours_to_settle": 45.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seoul-on-june-12-2026",
+    "event_id": "578703",
+    "markets_count": 11,
+    "game_start_time": "2026-06-11 15:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 42.7,
+  "first_seen_at": "2026-06-10T16:07:43.851448+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.582759+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.582759+00:00",
+  "created_at": "2026-06-10T16:07:43.851448+00:00",
+  "updated_at": "2026-06-10T17:17:26.582759+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

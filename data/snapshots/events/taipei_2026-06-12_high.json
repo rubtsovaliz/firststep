@@ -1,0 +1,351 @@
+{
+  "storage_key": "taipei_2026-06-12_high",
+  "event_id": "578709",
+  "event_slug": "highest-temperature-in-taipei-on-june-12-2026",
+  "event_title": "Highest temperature in Taipei on June 12?",
+  "city_slug": "taipei",
+  "city_name": "Taipei",
+  "date": "2026-06-12",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Taipei",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-12T12:00:00Z",
+  "event_end_date": "2026-06-12T12:00:00Z",
+  "liquidity": 33347.8817,
+  "volume": 6640.684654999999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2488119",
+      "question": "Will the highest temperature in Taipei be 24°C or below on June 12?",
+      "bucket_low": -999.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.016,
+      "no_price": 0.984,
+      "volume": 1734.7134729999998,
+      "liquidity": 2958.344,
+      "token_id": "95334355116128596171996389225958827801946522612210185667511301697281703425777",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.016,
+        0.984
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-24corbelow",
+        "condition_id": "0x1f05ef0d3c32c47fa863c7dc5816c56ad3247e5e827acf3128bbb93fbccb7cc1"
+      }
+    },
+    {
+      "market_id": "2488120",
+      "question": "Will the highest temperature in Taipei be 25°C on June 12?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.09,
+      "no_price": 0.91,
+      "volume": 806.0825249999999,
+      "liquidity": 2846.3592,
+      "token_id": "48349360723616890685024394785178610702649812348618508720346294327035259393257",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.09,
+        0.91
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-25c",
+        "condition_id": "0x49e5c7aeca232500dfbca18e29a8bd1ce9e1cafd8138f5cf49b6f1217982f415"
+      }
+    },
+    {
+      "market_id": "2488121",
+      "question": "Will the highest temperature in Taipei be 26°C on June 12?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.255,
+      "no_price": 0.745,
+      "volume": 611.4735629999998,
+      "liquidity": 2265.2675,
+      "token_id": "51522064669144555113331143448538246345163079495837265176987989975641426801298",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.255,
+        0.745
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-26c",
+        "condition_id": "0x4bab89e3111fdf93d270c2acf1d79a5b853ccc9d797865fe620fb758ed5802ce"
+      }
+    },
+    {
+      "market_id": "2488122",
+      "question": "Will the highest temperature in Taipei be 27°C on June 12?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.255,
+      "no_price": 0.745,
+      "volume": 340.4926219999999,
+      "liquidity": 1377.6702,
+      "token_id": "9394498605057699438222801287022631839465324073361096937403065547999115385473",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.255,
+        0.745
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-27c",
+        "condition_id": "0xf94ec046ecad738a13c29500383d62e916341a985155b0a0d02fe8c93421bc16"
+      }
+    },
+    {
+      "market_id": "2488123",
+      "question": "Will the highest temperature in Taipei be 28°C on June 12?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.19,
+      "no_price": 0.81,
+      "volume": 166.443556,
+      "liquidity": 1412.54,
+      "token_id": "73409529504656110712628652257840309347043854255129322463417239345022530898204",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.19,
+        0.81
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-28c",
+        "condition_id": "0x7af7d15fa4eea839b9ce210d6a23ac9b69f48139e205908abff43e89eb94aa57"
+      }
+    },
+    {
+      "market_id": "2488124",
+      "question": "Will the highest temperature in Taipei be 29°C on June 12?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.11,
+      "no_price": 0.89,
+      "volume": 137.472487,
+      "liquidity": 1425.4611,
+      "token_id": "11043661805435688277254980271098442943922987265304331899345333853006050891101",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.11,
+        0.89
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-29c",
+        "condition_id": "0xbf3a43b77b7b68bfdb1c28b70e8ddca12574ae7b4a0e55ae7989ac86d27cc6a9"
+      }
+    },
+    {
+      "market_id": "2488125",
+      "question": "Will the highest temperature in Taipei be 30°C on June 12?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.064,
+      "no_price": 0.936,
+      "volume": 234.156928,
+      "liquidity": 1492.18893,
+      "token_id": "46225327887993754673559375029528859549566161870185711723653513672041567780760",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.064,
+        0.936
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-30c",
+        "condition_id": "0x5a90ee6d65f9152a6a78650a3a6cb6bffac909e9d35278817f828cdd88a24f30"
+      }
+    },
+    {
+      "market_id": "2488126",
+      "question": "Will the highest temperature in Taipei be 31°C on June 12?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0225,
+      "no_price": 0.9775,
+      "volume": 469.79058499999996,
+      "liquidity": 2948.61371,
+      "token_id": "107078966158264784054108638849094635878848909091099820135583968452309621092043",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0225,
+        0.9775
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-31c",
+        "condition_id": "0x8ef638713b90aff97ddea674a4ad9bab77ae38f81a0b424f375b7f00724ce6b1"
+      }
+    },
+    {
+      "market_id": "2488127",
+      "question": "Will the highest temperature in Taipei be 32°C on June 12?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.005,
+      "no_price": 0.995,
+      "volume": 748.5387939999998,
+      "liquidity": 4340.95366,
+      "token_id": "9469689426248228570647851963659306120935201947551448809618243025672610477624",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.005,
+        0.995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-32c",
+        "condition_id": "0xbf7345aaaef50a40a50a0f1aa1f1353f49b2e85d8dbc4545cdf57b906ebcb5a8"
+      }
+    },
+    {
+      "market_id": "2488128",
+      "question": "Will the highest temperature in Taipei be 33°C on June 12?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 697.6533320000001,
+      "liquidity": 5620.42009,
+      "token_id": "14733049681746663530772230457675189934000742174625206660583827698825828269022",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-33c",
+        "condition_id": "0x466a40359fe5638aef436c93c5a57563d8e1b39e66943676e16fa45b1998f062"
+      }
+    },
+    {
+      "market_id": "2488129",
+      "question": "Will the highest temperature in Taipei be 34°C or higher on June 12?",
+      "bucket_low": 34.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 700.2823720000001,
+      "liquidity": 5201.43715,
+      "token_id": "98185129450688183710482163466626897331940054611081329353671057847064568778847",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-june-12-2026-34corhigher",
+        "condition_id": "0xa2b772b409929de0c9b87540d9167c7334fca8a4e23c080bab4fcac4f163ca47"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.568400+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-12T12:00:00Z",
+      "liquidity": 33347.8817,
+      "volume": 6640.684654999999,
+      "outcomes_count": 11,
+      "top_bucket": "26.0-26.0C",
+      "top_price": 0.255,
+      "event_title": "Highest temperature in Taipei on June 12?"
+    }
+  ],
+  "settle_at": "2026-06-12T16:00:00+00:00",
+  "hours_to_settle": 46.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-taipei-on-june-12-2026",
+    "event_id": "578709",
+    "markets_count": 11,
+    "game_start_time": "2026-06-11 16:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 42.7,
+  "first_seen_at": "2026-06-10T16:07:43.835858+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.568400+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.568400+00:00",
+  "created_at": "2026-06-10T16:07:43.835858+00:00",
+  "updated_at": "2026-06-10T17:17:26.568400+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 23912.09337,
-  "volume": 37535.552965999996,
+  "liquidity": null,
+  "volume": 85722.297189,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 17.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 7105.416488999999,
-      "liquidity": 3851.7163,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11244.946489,
+      "liquidity": null,
       "token_id": "62053519134650561303782923420600321048340828227372875181158873607184258927983",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-17corbelow",
         "condition_id": "0xb05fb73475111cbd0dc6488085a7ef57291f5c3337fa19cc756efd1b036a1436"
@@ -59,21 +59,21 @@
       "bucket_low": 18.0,
       "bucket_high": 18.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 7650.732076000001,
-      "liquidity": 3529.95095,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12110.220741000003,
+      "liquidity": null,
       "token_id": "45893224162125452265323602586851228025913111037366668543427906321179596123994",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-18c",
         "condition_id": "0x8d4dc2060f1dc85c5f3def9dfb83c8fc6fa6aadd5c5eb83245c339377a2184c6"
@@ -85,21 +85,21 @@
       "bucket_low": 19.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.124,
-      "no_price": 0.876,
-      "volume": 3086.6930249999978,
-      "liquidity": 807.3297,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 14931.629351999996,
+      "liquidity": null,
       "token_id": "105867244530741218819869790777903683289930369689890732335043648682374203027176",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.124,
-        0.876
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-19c",
         "condition_id": "0x70f433c753807cadd5c0472c02cb003f2e9565f04099b2c65d110ed7f464963a"
@@ -111,21 +111,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.344,
-      "no_price": 0.656,
-      "volume": 2366.7134049999995,
-      "liquidity": 617.86732,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7992.759215,
+      "liquidity": null,
       "token_id": "48601442995221787844239152560482827146068371636740419747619780718734192248585",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.344,
-        0.656
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-20c",
         "condition_id": "0xa0ad5dc9d1a982f2ba01472818767c2eb0e610fa04dfd071bcd57681b8d741e2"
@@ -137,21 +137,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.365,
-      "no_price": 0.635,
-      "volume": 4046.318277999999,
-      "liquidity": 485.7314,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8890.705256999996,
+      "liquidity": null,
       "token_id": "62106816630685503644494848306578585951238944450122779229737893415111562063279",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.365,
-        0.635
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-21c",
         "condition_id": "0xb8d050c0f3ff51ce23fe31bc956f2be628233caa1f48d727342662a12ca1b53b"
@@ -163,21 +163,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.085,
-      "no_price": 0.915,
-      "volume": 1824.188522,
-      "liquidity": 676.3544,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6698.212708000001,
+      "liquidity": null,
       "token_id": "41874414440030566602732832282746070623741115445189173567083541370923957256850",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.085,
-        0.915
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-22c",
         "condition_id": "0x1269a83e859ae49778cb0afd6e8121dfe78dadf62b0646cdacfaea57304a41e0"
@@ -189,21 +189,21 @@
       "bucket_low": 23.0,
       "bucket_high": 23.0,
       "unit": "C",
-      "yes_price": 0.008,
-      "no_price": 0.992,
-      "volume": 2616.4432939999992,
-      "liquidity": 1326.22691,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9715.753796000003,
+      "liquidity": null,
       "token_id": "98860185457237012161972235809994212106435017768651841562022969555518024209836",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.008,
-        0.992
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-23c",
         "condition_id": "0xfd92ef0c04c23ef07e73417e9aa68537e8076c80065740af65e0f67bc013f277"
@@ -215,21 +215,21 @@
       "bucket_low": 24.0,
       "bucket_high": 24.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 2383.8365959999996,
-      "liquidity": 1660.12657,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3835.4280260000005,
+      "liquidity": null,
       "token_id": "99107176487957627964070389204023696117433966271064895467746670405255326064305",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-24c",
         "condition_id": "0x6524cf2a50bae95b0100bf316b94b2e652386a2eed9bee834f4766b00def4875"
@@ -241,21 +241,21 @@
       "bucket_low": 25.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 3326.3752969999996,
-      "liquidity": 2022.98672,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4412.671601999999,
+      "liquidity": null,
       "token_id": "75974855090836348689428558401515258670400889612142394561063153452376529483450",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-25c",
         "condition_id": "0xe821036d7ac9ff75a105ccfa4f7cdfdc0219231da949dc46453057323b7f874c"
@@ -267,21 +267,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 4416.62373,
-      "liquidity": 5324.27217,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4949.985159999999,
+      "liquidity": null,
       "token_id": "8952619362390820399722851260950008699878883335515429535008633458300439611935",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-26c",
         "condition_id": "0xd4970097ffe1b16be82e8a15ba3bce75d52a4f36fd56742b54fcd77a78cc82df"
@@ -293,21 +293,21 @@
       "bucket_low": 27.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 895.7248430000001,
-      "liquidity": 5222.85466,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 939.9848430000001,
+      "liquidity": null,
       "token_id": "5524330903980079769027742093084692286997209744375977882580817112337663405769",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-helsinki-on-june-5-2026-27corhigher",
         "condition_id": "0x444c9f1824c3316ca6cb6a95bc17cb92de621e799b628aebaee3fc409d1fd61d"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.487425+00:00",
+      "ts": "2026-06-07T16:05:37.747942+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 23912.09337,
-      "volume": 37535.552965999996,
+      "liquidity": null,
+      "volume": 85722.297189,
       "outcomes_count": 11,
-      "top_bucket": "21.0-21.0C",
-      "top_price": 0.365,
+      "top_bucket": "19.0-19.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Helsinki on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-helsinki-on-june-5-2026",
     "event_id": "553932",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 21:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.865534+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.487425+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.487425+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.747942+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.747942+00:00",
   "created_at": "2026-06-04T16:52:28.865534+00:00",
-  "updated_at": "2026-06-05T06:36:19.487425+00:00",
+  "updated_at": "2026-06-07T16:05:37.747942+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "19C",
+      "resolved_value": "19C",
+      "resolution_source": null,
+      "winning_market_id": "2424835",
+      "winning_question": "Will the highest temperature in Helsinki be 19°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.751951+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T21:00:00+00:00",
+  "hours_to_settle": -43.1
 }

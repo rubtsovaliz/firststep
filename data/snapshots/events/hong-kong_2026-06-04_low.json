@@ -19,11 +19,11 @@
     "Lowest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-04T12:00:00Z",
   "event_end_date": "2026-06-04T12:00:00Z",
-  "liquidity": 74400.81429,
-  "volume": 61784.04993700003,
+  "liquidity": null,
+  "volume": 63100.099937000035,
   "market_type": "min_temperature",
   "temperature_metric": "low",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 1780.738566,
-      "liquidity": 5846.49732,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1785.948566,
+      "liquidity": null,
       "token_id": "36398808511739085402121583696509545781795532225670605880830720610888771157339",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-22corbelow",
         "condition_id": "0x4ed6433e7f64f1139c422dcb35504102e13d3a296c3849abc9710c1456621c8f"
@@ -59,21 +59,21 @@
       "bucket_low": 23.0,
       "bucket_high": 23.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 550.7922,
-      "liquidity": 5767.10433,
+      "liquidity": 0.0,
       "token_id": "19552258675246605383958643467707660052087004697559258663849232779160519841533",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-23c",
         "condition_id": "0x93119fce720c0c7f68a0ddd6e65d8ae909484ba3b3471dce2ee39ff2e96d3393"
@@ -85,21 +85,21 @@
       "bucket_low": 24.0,
       "bucket_high": 24.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 5856.1382,
-      "liquidity": 5641.18744,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5864.1382,
+      "liquidity": null,
       "token_id": "24738416217364830568630723077319264985543060787475390621423637660241094312724",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-24c",
         "condition_id": "0x9fdf405a6148e792982b3ddff01df028b8ecce5b3ae7a4ef5c2d840147424102"
@@ -111,21 +111,21 @@
       "bucket_low": 25.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 7529.836405,
-      "liquidity": 3479.34629,
+      "liquidity": null,
       "token_id": "15282053718218726397217876928177673970007504451484695502473310581422990627945",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-25c",
         "condition_id": "0x4e9a863cae916105e39f110174e0e27bb8897c5565036a3b7dacc2fcc7c2c680"
@@ -137,21 +137,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 7380.8724729999985,
-      "liquidity": 3913.38014,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7734.212472999999,
+      "liquidity": null,
       "token_id": "7701623075773423289738861024527231942323070317311213955890142576920436734204",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-26c",
         "condition_id": "0x93c1be0b4cd35ab05ed244b9498037a407569a32b7880cf803fca4d68b9da117"
@@ -163,21 +163,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.9995,
-      "no_price": 0.0005,
-      "volume": 19140.11997800004,
-      "liquidity": 8868.20794,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 19290.17997800004,
+      "liquidity": null,
       "token_id": "9102961021592286826985504093296288039910454290389932203583018798462671634886",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.9995,
-        0.0005
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-27c",
         "condition_id": "0xa58798b79913f8df86ed9691894516339895430f2e4ed8df909f47fef0369e50"
@@ -189,21 +189,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 13484.366258999995,
-      "liquidity": 9304.02176,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14283.806258999994,
+      "liquidity": null,
       "token_id": "92250553291909160914267283500576762955100654622922671295056402560466171742905",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-28c",
         "condition_id": "0xe1071150eb0e010268bef1d1d4b3038fbe656c8da09144e485f69e85c7d84886"
@@ -215,21 +215,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 3707.3011650000017,
-      "liquidity": 6846.6766,
+      "liquidity": null,
       "token_id": "114156035069310444479825800028464392371034432258867789183741257035824629994611",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-29c",
         "condition_id": "0x62df2b8571594b84671ef253a6e3c2f9db3b4f5e76df42d1daaf0d23c5efc0d3"
@@ -241,21 +241,21 @@
       "bucket_low": 30.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 964.8479010000001,
-      "liquidity": 7273.38355,
+      "liquidity": 0.0,
       "token_id": "90022751506148840168752894912082557554321411803187664085590797177853603380030",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-30c",
         "condition_id": "0x56a7a36f9e2252341c90c5b26d9ed18aaa29c2a314e972bd7295ea19c3baf9f9"
@@ -267,21 +267,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 403.9768,
-      "liquidity": 7427.6889,
+      "liquidity": 0.0,
       "token_id": "67731176349455117579938828650457737603192560196560555436602314878543691496178",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-31c",
         "condition_id": "0xa1c257e199ffd2f69677f3cbc914644089ead5ea1eb12fba7ecca071c22fa125"
@@ -293,21 +293,21 @@
       "bucket_low": 32.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 985.0599899999999,
-      "liquidity": 6777.49376,
+      "liquidity": null,
       "token_id": "53671497507363948627736371986026123043041058745068878748893996071877093657965",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-hong-kong-on-june-4-2026-32corhigher",
         "condition_id": "0x7461c6e7345553e10a726fb8a6628d6c26137f52aac439b19e2ad1f8eb3ffac2"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-04T18:29:59.240637+00:00",
+      "ts": "2026-06-07T16:05:37.898335+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-04T12:00:00Z",
-      "liquidity": 74400.81429,
-      "volume": 61784.04993700003,
+      "liquidity": null,
+      "volume": 63100.099937000035,
       "outcomes_count": 11,
       "top_bucket": "27.0-27.0C",
-      "top_price": 0.9995,
+      "top_price": 1.0,
       "event_title": "Lowest temperature in Hong Kong on June 4?"
     }
   ],
   "raw_source": {
     "event_slug": "lowest-temperature-in-hong-kong-on-june-4-2026",
     "event_id": "550340",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-03 16:00:00+00"
   },
-  "status": "inactive",
-  "discovery_source": "combined",
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
   "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.914904+00:00",
-  "last_seen_at": "2026-06-04T18:29:59.240637+00:00",
-  "last_refreshed_at": "2026-06-04T18:29:59.240637+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.898335+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.898335+00:00",
   "created_at": "2026-06-04T16:52:28.914904+00:00",
-  "updated_at": "2026-06-05T06:36:19.954122+00:00",
+  "updated_at": "2026-06-07T16:05:37.898335+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "27C",
+      "resolved_value": "27C",
+      "resolution_source": null,
+      "winning_market_id": "2416629",
+      "winning_question": "Will the lowest temperature in Hong Kong be 27°C on June 4?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.899338+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-04T16:00:00+00:00",
+  "hours_to_settle": -72.1
 }

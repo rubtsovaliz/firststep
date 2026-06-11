@@ -1,0 +1,360 @@
+{
+  "storage_key": "chicago_2026-05-01_high",
+  "event_id": "429708",
+  "event_slug": "highest-temperature-in-chicago-on-may-1-2026",
+  "event_title": "Highest temperature in Chicago on May 1?",
+  "city_slug": "chicago",
+  "city_name": "Chicago",
+  "date": "2026-05-01",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Chicago",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-01T12:00:00Z",
+  "event_end_date": "2026-05-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 53763.855635,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2112306",
+      "question": "Will the highest temperature in Chicago be 51°F or below on May 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 12049.552079000005,
+      "liquidity": null,
+      "token_id": "23575135843924131062179883482854145300975161815661327044845510251602768350419",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-51forbelow",
+        "condition_id": "0x31fcb879baae94cc5050a0c26996e883d85175d3785a742577406eabcaf36f03"
+      }
+    },
+    {
+      "market_id": "2112307",
+      "question": "Will the highest temperature in Chicago be between 52-53°F on May 1?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6316.996949999996,
+      "liquidity": null,
+      "token_id": "25574875618248413082997921897191962431362361524793096476587928582546121488128",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-52-53f",
+        "condition_id": "0x15a8849e56001f3b688631fbd12018da8d2323e9c6ddfdc46d4dd682bcff65ef"
+      }
+    },
+    {
+      "market_id": "2112308",
+      "question": "Will the highest temperature in Chicago be between 54-55°F on May 1?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5149.823584000002,
+      "liquidity": null,
+      "token_id": "31601544973251029766420653556407923312938780555139248816283108110156006814944",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-54-55f",
+        "condition_id": "0xbd1ecc87fde62c4d496d578b2d11c52726d595a0eafcb3e200750ebbb74733b8"
+      }
+    },
+    {
+      "market_id": "2112309",
+      "question": "Will the highest temperature in Chicago be between 56-57°F on May 1?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4280.172583,
+      "liquidity": null,
+      "token_id": "63641328223708284449764034539789343843252173669340753140670240881358593786652",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-56-57f",
+        "condition_id": "0x2f296ce560f838044bd007321f3979a52bf6e11663ee9fc5f028d2e38e94ba56"
+      }
+    },
+    {
+      "market_id": "2112310",
+      "question": "Will the highest temperature in Chicago be between 58-59°F on May 1?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6413.506221,
+      "liquidity": null,
+      "token_id": "96497595936305452133400114462709812671230911712447553374354554421610370147061",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-58-59f",
+        "condition_id": "0xfb0092fe6d5d6151e13282420513a67b278b3712bd202be06deafcfa7946f4f7"
+      }
+    },
+    {
+      "market_id": "2112311",
+      "question": "Will the highest temperature in Chicago be between 60-61°F on May 1?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5250.5100059999995,
+      "liquidity": null,
+      "token_id": "12255944159134852082694042089172705597473500788163272131638270439835556487338",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-60-61f",
+        "condition_id": "0xaf71ab1f4d92f08cd909e1371db218c60864dbe636ea0b17fbf5f4207d86ad49"
+      }
+    },
+    {
+      "market_id": "2112312",
+      "question": "Will the highest temperature in Chicago be between 62-63°F on May 1?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3930.4781359999993,
+      "liquidity": null,
+      "token_id": "80892077740365632001363252210171201476704857823457599879525034612119592202214",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-62-63f",
+        "condition_id": "0x647493bc2ae1f95322c87b02456c3579e0cd0493143fe225d5d05c65a44ced02"
+      }
+    },
+    {
+      "market_id": "2112313",
+      "question": "Will the highest temperature in Chicago be between 64-65°F on May 1?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4166.941781999999,
+      "liquidity": null,
+      "token_id": "57323285841921506256686457621421732379628962982170424675732649622878619180296",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-64-65f",
+        "condition_id": "0x52dee8e9a15258c77bbbf99faf10e21bf551c9c02dc4201081fb5728d0b38189"
+      }
+    },
+    {
+      "market_id": "2112314",
+      "question": "Will the highest temperature in Chicago be between 66-67°F on May 1?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2210.5810130000004,
+      "liquidity": null,
+      "token_id": "37301548410242970394492470144571275186636106951426252395863053351851253399914",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-66-67f",
+        "condition_id": "0x5fb3d9602d52d5f7358ddabb68f7eadf24bc512019cd16a37fcfefb555f01111"
+      }
+    },
+    {
+      "market_id": "2112315",
+      "question": "Will the highest temperature in Chicago be between 68-69°F on May 1?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2238.7476559999996,
+      "liquidity": null,
+      "token_id": "61359720237304605697584451182108798871698376056518496454800879459253238546734",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-68-69f",
+        "condition_id": "0x9727a7970b3897bac656e90dd46e79897b09b50a9a647e2da1f3c37e68330570"
+      }
+    },
+    {
+      "market_id": "2112316",
+      "question": "Will the highest temperature in Chicago be 70°F or higher on May 1?",
+      "bucket_low": 70.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1756.5456249999997,
+      "liquidity": null,
+      "token_id": "47993847569953731831355657741338860298806307395686751803544147062219829262748",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-may-1-2026-70forhigher",
+        "condition_id": "0x006fb7ff7217a1d613d17cf329c58bb315bbc5e5f6b77a69040449fe53390657"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.722682+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 53763.855635,
+      "outcomes_count": 11,
+      "top_bucket": "<=51.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chicago on May 1?"
+    }
+  ],
+  "settle_at": "2026-05-02T05:00:00+00:00",
+  "hours_to_settle": -875.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chicago-on-may-1-2026",
+    "event_id": "429708",
+    "markets_count": 11,
+    "game_start_time": "2026-05-01 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.722682+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.722682+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.722682+00:00",
+  "created_at": "2026-06-07T16:06:02.722682+00:00",
+  "updated_at": "2026-06-10T17:17:28.790030+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=51F",
+      "resolved_value": "<=51F",
+      "resolution_source": null,
+      "winning_market_id": "2112306",
+      "winning_question": "Will the highest temperature in Chicago be 51°F or below on May 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.723685+00:00"
+  },
+  "legacy": null
+}

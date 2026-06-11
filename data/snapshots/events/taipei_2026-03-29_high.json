@@ -1,0 +1,360 @@
+{
+  "storage_key": "taipei_2026-03-29_high",
+  "event_id": "306345",
+  "event_slug": "highest-temperature-in-taipei-on-march-29-2026",
+  "event_title": "Highest temperature in Taipei on March 29?",
+  "city_slug": "taipei",
+  "city_name": "Taipei",
+  "date": "2026-03-29",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Taipei",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-29T12:00:00Z",
+  "event_end_date": "2026-03-29T12:00:00Z",
+  "liquidity": null,
+  "volume": 271988.77760199993,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1715014",
+      "question": "Will the highest temperature in Taipei be 22°C or below on March 29?",
+      "bucket_low": -999.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 26350.68608300001,
+      "liquidity": null,
+      "token_id": "85168978183714031657978206248895909747204769771060591243743492770280441436214",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-22corbelow",
+        "condition_id": "0x55447c01159659ec4c7ca50556ef984d987c824a85fb9761fa2421cce9a7ca17"
+      }
+    },
+    {
+      "market_id": "1715015",
+      "question": "Will the highest temperature in Taipei be 23°C on March 29?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14263.270372000008,
+      "liquidity": null,
+      "token_id": "14845640509779818872719539229577182842009444465394952093156224783072981166044",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-23c",
+        "condition_id": "0xd203943f34866a1faecec5cb6cf29ae104933f5cb40d67b747d08a7541448e0f"
+      }
+    },
+    {
+      "market_id": "1715016",
+      "question": "Will the highest temperature in Taipei be 24°C on March 29?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11892.029631,
+      "liquidity": null,
+      "token_id": "19846290396844232166490174026508285246305499838549556260524808478846267757098",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-24c",
+        "condition_id": "0x3e65b4299da659348976d555b47de953eb4f801cfad359be38f0e063bf392953"
+      }
+    },
+    {
+      "market_id": "1715017",
+      "question": "Will the highest temperature in Taipei be 25°C on March 29?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13284.034067000011,
+      "liquidity": null,
+      "token_id": "114882731410358477564071574552844939603346830158218464441330380221897413307803",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-25c",
+        "condition_id": "0x4d00812a1a680509cb78aca08f6399707b549dbea91071812c9e166aeab16e86"
+      }
+    },
+    {
+      "market_id": "1715018",
+      "question": "Will the highest temperature in Taipei be 26°C on March 29?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12181.668890000004,
+      "liquidity": null,
+      "token_id": "61280000288169984429976093114958000985570483178029041269240818602461514510732",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-26c",
+        "condition_id": "0x92b4937eea2b9fdf3ea42422fba1229434e9da14192321a9cdb4a15deac71adc"
+      }
+    },
+    {
+      "market_id": "1715019",
+      "question": "Will the highest temperature in Taipei be 27°C on March 29?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11903.472141000004,
+      "liquidity": null,
+      "token_id": "28447009137263147092527436547847026068603409444180304412664205083991742409671",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-27c",
+        "condition_id": "0x1f81ea466ef77a24140098d509ca62acffe188897250cf0cbdf2310a46002e42"
+      }
+    },
+    {
+      "market_id": "1715020",
+      "question": "Will the highest temperature in Taipei be 28°C on March 29?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7693.457191000006,
+      "liquidity": null,
+      "token_id": "25803224621357788291685337232424315896459661061502593587515891430029314529424",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-28c",
+        "condition_id": "0x07d48a1512d311e0fc5c58114e523b92cc4f44ae2f6b54b3fe7bad769482cbbb"
+      }
+    },
+    {
+      "market_id": "1715021",
+      "question": "Will the highest temperature in Taipei be 29°C on March 29?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12583.936701999994,
+      "liquidity": null,
+      "token_id": "90913346916039372975191638564787543066134799556380281381255308529741197111880",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-29c",
+        "condition_id": "0x003f389cc91acf9ec2573c109ecdd7a298d881c563a8b4ca8a9e8cf77490e9b1"
+      }
+    },
+    {
+      "market_id": "1715022",
+      "question": "Will the highest temperature in Taipei be 30°C on March 29?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6161.407771000001,
+      "liquidity": null,
+      "token_id": "34387716546197679825969051374920463937497773012797574725521771891485429726727",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-30c",
+        "condition_id": "0xe656e80f2871ad1df2d450a784f287651dd84fa1cee93a107d60d88d609a1119"
+      }
+    },
+    {
+      "market_id": "1715023",
+      "question": "Will the highest temperature in Taipei be 31°C on March 29?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5211.204822000001,
+      "liquidity": null,
+      "token_id": "98428438470061485299394473195053363058919773671547801479653203560798069266802",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-31c",
+        "condition_id": "0x7686a0e7d45329fa499b3fcccc76b9ac1a401ab796be19400611deb0400091ee"
+      }
+    },
+    {
+      "market_id": "1715024",
+      "question": "Will the highest temperature in Taipei be 32°C or higher on March 29?",
+      "bucket_low": 32.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 150463.6099319999,
+      "liquidity": null,
+      "token_id": "70122493541571647135053779327831126720608626309610805083572844739914249584169",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-taipei-on-march-29-2026-32corhigher",
+        "condition_id": "0x50bb0caf5ada919b857c4c117788777045558df6f8e5a072712fe486ea63d440"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.627227+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-29T12:00:00Z",
+      "liquidity": null,
+      "volume": 271988.77760199993,
+      "outcomes_count": 11,
+      "top_bucket": "<=22.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Taipei on March 29?"
+    }
+  ],
+  "settle_at": "2026-03-29T16:00:00+00:00",
+  "hours_to_settle": -1680.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-taipei-on-march-29-2026",
+    "event_id": "306345",
+    "markets_count": 11,
+    "game_start_time": "2026-03-28 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.627227+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.627227+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.627227+00:00",
+  "created_at": "2026-06-07T16:06:08.627227+00:00",
+  "updated_at": "2026-06-10T17:17:30.963446+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=22C",
+      "resolved_value": "<=22C",
+      "resolution_source": null,
+      "winning_market_id": "1715014",
+      "winning_question": "Will the highest temperature in Taipei be 22°C or below on March 29?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.628230+00:00"
+  },
+  "legacy": null
+}

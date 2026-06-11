@@ -1,0 +1,360 @@
+{
+  "storage_key": "hong-kong_2026-05-21_low",
+  "event_id": "493765",
+  "event_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026",
+  "event_title": "Lowest temperature in Hong Kong on May 21?",
+  "city_slug": "hong-kong",
+  "city_name": "Hong Kong",
+  "date": "2026-05-21",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Hong Kong",
+    "Rewards Automation 50 4.5 50",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-21T12:00:00Z",
+  "event_end_date": "2026-05-21T12:00:00Z",
+  "liquidity": null,
+  "volume": 1087.957806,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2282375",
+      "question": "Will the lowest temperature in Hong Kong be 19°C or below on May 21?",
+      "bucket_low": -999.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "10155663968348081842458284469162607477535782607487345359363426927229737897915",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-19corbelow",
+        "condition_id": "0x7fd3dfe51c4ed2a83968ac91359450d8a32c1b6562968535bf72231c4bbcb36b"
+      }
+    },
+    {
+      "market_id": "2282376",
+      "question": "Will the lowest temperature in Hong Kong be 20°C on May 21?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 282.15,
+      "liquidity": null,
+      "token_id": "114703308620395267840764945076277705345076539693651212909630518654268413675152",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-20c",
+        "condition_id": "0x38997a1adb59bbbf1c81d0f210046f7dec28f7df1e099c8b6382ee675f4e949a"
+      }
+    },
+    {
+      "market_id": "2282377",
+      "question": "Will the lowest temperature in Hong Kong be 21°C on May 21?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 357.523156,
+      "liquidity": null,
+      "token_id": "114926294280694125994831435304673848136294506864920252222544572615865960406059",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-21c",
+        "condition_id": "0x8a2be329fb2d0cfe2c45b6c3ac22d882c3413a606a3a950d7686be96041782f3"
+      }
+    },
+    {
+      "market_id": "2282378",
+      "question": "Will the lowest temperature in Hong Kong be 22°C on May 21?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 272.0,
+      "liquidity": null,
+      "token_id": "11079804104463918061176239555061297800536075257678212649174692176318951513911",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-22c",
+        "condition_id": "0xc3b38a7145c3f3530a51a1a29c1f22ff7f0f6c498f11e6ed5594c3be5c073f9e"
+      }
+    },
+    {
+      "market_id": "2282379",
+      "question": "Will the lowest temperature in Hong Kong be 23°C on May 21?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": 0.0,
+      "token_id": "99404846383702835821831823842929631478756513107487691047735190848330913411465",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-23c",
+        "condition_id": "0x7ad85bedeeca944e6a04256395c4161e4f33f15e5eee6ebf6560d8c3f7864b39"
+      }
+    },
+    {
+      "market_id": "2282380",
+      "question": "Will the lowest temperature in Hong Kong be 24°C on May 21?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": 0.0,
+      "token_id": "105473490972036616830986732362285628647059339988290421085855469100879341783859",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-24c",
+        "condition_id": "0x0e0a9a7531ece423b981485eb67ec8b629ad2c4d5092adf3e1a5a011b56ee1e6"
+      }
+    },
+    {
+      "market_id": "2282381",
+      "question": "Will the lowest temperature in Hong Kong be 25°C on May 21?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": 0.0,
+      "token_id": "35749275806130011060307539253011536279688777416553647533552894881953647062877",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-25c",
+        "condition_id": "0x6ac26c47ac3b17d711e71ae051a879103fd28964f4f67a0291be254c3ad7ceaa"
+      }
+    },
+    {
+      "market_id": "2282382",
+      "question": "Will the lowest temperature in Hong Kong be 26°C on May 21?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": 0.0,
+      "token_id": "69803297296995603468215151791188533662192249949166868236990256107416011355898",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-26c",
+        "condition_id": "0x5ec64c0bf7ba315bc2b09248711170efd7d6f5d36bb8152fedbdabe5722b76e9"
+      }
+    },
+    {
+      "market_id": "2282383",
+      "question": "Will the lowest temperature in Hong Kong be 27°C on May 21?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6.04165,
+      "liquidity": null,
+      "token_id": "15894379758055471664235494936038553292082292840255732945697010712034164810629",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-27c",
+        "condition_id": "0x6982b9b8e873355db2eb5436f1322c36f19273b28b09526e5f14ba9b166d107c"
+      }
+    },
+    {
+      "market_id": "2282384",
+      "question": "Will the lowest temperature in Hong Kong be 28°C on May 21?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 55.1,
+      "liquidity": null,
+      "token_id": "58158788568699398125690418637821696677628983046751333029316555472380597274329",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-28c",
+        "condition_id": "0x6877c2c917ce7c16a88dd6c4cae22d5510195cd42859c044c356ed6c794052d7"
+      }
+    },
+    {
+      "market_id": "2282385",
+      "question": "Will the lowest temperature in Hong Kong be 29°C or higher on May 21?",
+      "bucket_low": 29.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 115.143,
+      "liquidity": null,
+      "token_id": "34664821012685456030935349728216713991379615353987080994468857973433377452403",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026-29corhigher",
+        "condition_id": "0x0ddf6957b1a51d3d43e23b949669316220d4c8301cc90426ecdef2ebd8abf245"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:58.674795+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-21T12:00:00Z",
+      "liquidity": null,
+      "volume": 1087.957806,
+      "outcomes_count": 11,
+      "top_bucket": "<=19.0C",
+      "top_price": 1.0,
+      "event_title": "Lowest temperature in Hong Kong on May 21?"
+    }
+  ],
+  "settle_at": "2026-05-21T16:00:00+00:00",
+  "hours_to_settle": -408.1,
+  "raw_source": {
+    "event_slug": "arch-lowest-temperature-in-hong-kong-on-may-21-2026",
+    "event_id": "493765",
+    "markets_count": 11,
+    "game_start_time": "2026-05-20 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:58.674795+00:00",
+  "last_seen_at": "2026-06-07T16:05:58.674795+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:58.674795+00:00",
+  "created_at": "2026-06-07T16:05:58.674795+00:00",
+  "updated_at": "2026-06-10T17:17:29.137454+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=19C",
+      "resolved_value": "<=19C",
+      "resolution_source": null,
+      "winning_market_id": "2282375",
+      "winning_question": "Will the lowest temperature in Hong Kong be 19°C or below on May 21?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:58.675797+00:00"
+  },
+  "legacy": null
+}

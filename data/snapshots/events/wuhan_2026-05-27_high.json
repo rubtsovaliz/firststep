@@ -1,0 +1,360 @@
+{
+  "storage_key": "wuhan_2026-05-27_high",
+  "event_id": "522330",
+  "event_slug": "highest-temperature-in-wuhan-on-may-27-2026",
+  "event_title": "Highest temperature in Wuhan on May 27?",
+  "city_slug": "wuhan",
+  "city_name": "Wuhan",
+  "date": "2026-05-27",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Wuhan",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-27T12:00:00Z",
+  "event_end_date": "2026-05-27T12:00:00Z",
+  "liquidity": null,
+  "volume": 62798.37532899999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2350900",
+      "question": "Will the highest temperature in Wuhan be 23°C or below on May 27?",
+      "bucket_low": -999.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11299.258837999992,
+      "liquidity": null,
+      "token_id": "5901979266067022795738010985866446184078968992265537575671356429123010025004",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-23corbelow",
+        "condition_id": "0x4a16059b7ccbbe8df8ad40fdd9aa34199a5a208325534156ab4600b4590f6764"
+      }
+    },
+    {
+      "market_id": "2350901",
+      "question": "Will the highest temperature in Wuhan be 24°C on May 27?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7401.3772629999985,
+      "liquidity": null,
+      "token_id": "53266487081741001026225888615159618689906516813002063797846038091335250773217",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-24c",
+        "condition_id": "0xb5dcc9370b7e5dfbd5ad23b099372a9b1f3b1f548469049c05703163a7189643"
+      }
+    },
+    {
+      "market_id": "2350902",
+      "question": "Will the highest temperature in Wuhan be 25°C on May 27?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4401.942918999999,
+      "liquidity": null,
+      "token_id": "51860934489272248807466057008943394431316960546094986926162260731098995163761",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-25c",
+        "condition_id": "0x0403d6d1ae2d1dfea6d36466d3eb7a727a6df37dca5fef0d756fd0e6d3a1d6f4"
+      }
+    },
+    {
+      "market_id": "2350903",
+      "question": "Will the highest temperature in Wuhan be 26°C on May 27?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8690.3223,
+      "liquidity": null,
+      "token_id": "27162081908748097491934684911344656721658778995395657442683610611028104639470",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-26c",
+        "condition_id": "0x2347657b64090997d1c75e6c8e5a915a8c4405e868913170fbaa873b05a7f2a4"
+      }
+    },
+    {
+      "market_id": "2350904",
+      "question": "Will the highest temperature in Wuhan be 27°C on May 27?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4860.8050470000035,
+      "liquidity": null,
+      "token_id": "47503192430232122116504230521199721960343004566417691229429348655742659731601",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-27c",
+        "condition_id": "0x190490d2526516d8a155fdbd10f74dc50781975c396539e89401cf6a1f1d33e1"
+      }
+    },
+    {
+      "market_id": "2350905",
+      "question": "Will the highest temperature in Wuhan be 28°C on May 27?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6072.871990999996,
+      "liquidity": null,
+      "token_id": "93564617101680173457640650404265692829662248316503190917605319240925349070350",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-28c",
+        "condition_id": "0xd614f603621663fff85f449930b1d7b5fec18351cce70012cc94e921b528da5f"
+      }
+    },
+    {
+      "market_id": "2350906",
+      "question": "Will the highest temperature in Wuhan be 29°C on May 27?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3792.1306850000055,
+      "liquidity": null,
+      "token_id": "4545842785871217833975499462013139817732698346955410564410338994702072714147",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-29c",
+        "condition_id": "0x0cd06e4ef038cae744b225755d958be6daeb92c6a5cd6e11ce5a94c3c247b781"
+      }
+    },
+    {
+      "market_id": "2350907",
+      "question": "Will the highest temperature in Wuhan be 30°C on May 27?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8072.510921999995,
+      "liquidity": null,
+      "token_id": "113108361753958107393576110932113676090401845054159819831152108814909843127747",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-30c",
+        "condition_id": "0x5502bbe99bbb9e1dfaa0a8ccb80e27a8059194964fe1a1735aaa73dea1c43403"
+      }
+    },
+    {
+      "market_id": "2350908",
+      "question": "Will the highest temperature in Wuhan be 31°C on May 27?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6026.427363999998,
+      "liquidity": null,
+      "token_id": "20318339818108085861782866760021623121593123893557033836220697867931293539838",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-31c",
+        "condition_id": "0xc17e480a96b016e3b6890c16e720c2c7e09e9718bc401120ae5bf724b5d1dc9e"
+      }
+    },
+    {
+      "market_id": "2350909",
+      "question": "Will the highest temperature in Wuhan be 32°C on May 27?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1186.1425,
+      "liquidity": null,
+      "token_id": "104207518015896085673919037199760255051264372676332527080548832271499294677975",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-32c",
+        "condition_id": "0x4292fa64b0767e377203dd742cef2a8b0c1518074955ede191ac9b19cb6013d8"
+      }
+    },
+    {
+      "market_id": "2350910",
+      "question": "Will the highest temperature in Wuhan be 33°C or higher on May 27?",
+      "bucket_low": 33.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 994.5854999999999,
+      "liquidity": null,
+      "token_id": "100808009128936232542043154466305275937851330698122206338765928305372594931420",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-may-27-2026-33corhigher",
+        "condition_id": "0x842b4bf1b6958cb02cc1126a50600e99459c0749f618ad1bc13f4076782ad1ce"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:39.791413+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-27T12:00:00Z",
+      "liquidity": null,
+      "volume": 62798.37532899999,
+      "outcomes_count": 11,
+      "top_bucket": "26.0-26.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Wuhan on May 27?"
+    }
+  ],
+  "settle_at": "2026-05-27T16:00:00+00:00",
+  "hours_to_settle": -264.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-wuhan-on-may-27-2026",
+    "event_id": "522330",
+    "markets_count": 11,
+    "game_start_time": "2026-05-26 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:39.791413+00:00",
+  "last_seen_at": "2026-06-07T16:05:39.791413+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:39.791413+00:00",
+  "created_at": "2026-06-07T16:05:39.791413+00:00",
+  "updated_at": "2026-06-10T17:17:31.436270+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "26C",
+      "resolved_value": "26C",
+      "resolution_source": null,
+      "winning_market_id": "2350903",
+      "winning_question": "Will the highest temperature in Wuhan be 26°C on May 27?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:39.792415+00:00"
+  },
+  "legacy": null
+}

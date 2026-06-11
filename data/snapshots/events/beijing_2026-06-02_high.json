@@ -1,0 +1,397 @@
+{
+  "storage_key": "beijing_2026-06-02_high",
+  "event_id": "543490",
+  "event_slug": "highest-temperature-in-beijing-on-june-2-2026",
+  "event_title": "Highest temperature in Beijing on June 2?",
+  "city_slug": "beijing",
+  "city_name": "Beijing",
+  "date": "2026-06-02",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Beijing",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-06-02T12:00:00Z",
+  "event_end_date": "2026-06-02T12:00:00Z",
+  "liquidity": null,
+  "volume": 110050.76455300002,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2399924",
+      "question": "Will the highest temperature in Beijing be 33°C or below on June 2?",
+      "bucket_low": -999.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 42974.41562600001,
+      "liquidity": null,
+      "token_id": "107457968664226078156230126469102428266760301002300072017030101122986040173448",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-33corbelow",
+        "condition_id": "0xa8eb91acf2283429209e0352826d5070e00b6d6db5695805d19fc9bf48a2557e"
+      }
+    },
+    {
+      "market_id": "2399925",
+      "question": "Will the highest temperature in Beijing be 34°C on June 2?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13683.122064000001,
+      "liquidity": null,
+      "token_id": "40879454799325015007433849586162761712369656910989247017069475095980705845534",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-34c",
+        "condition_id": "0xd15570969b01e2a3b08570d31b6ab2a4385e2938f618fa11aa8f1350b031bafe"
+      }
+    },
+    {
+      "market_id": "2399926",
+      "question": "Will the highest temperature in Beijing be 35°C on June 2?",
+      "bucket_low": 35.0,
+      "bucket_high": 35.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9880.017624000004,
+      "liquidity": null,
+      "token_id": "39255517642110803725020791181384002094516259285744030281388459315277993383785",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-35c",
+        "condition_id": "0xec6e4b93fa74d65cfbcfd75d51191f7e5d88694dd5010cd656eab39ff947ca30"
+      }
+    },
+    {
+      "market_id": "2399927",
+      "question": "Will the highest temperature in Beijing be 36°C on June 2?",
+      "bucket_low": 36.0,
+      "bucket_high": 36.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12886.840189000006,
+      "liquidity": null,
+      "token_id": "37282511415081575429072316118451145494080114758295069053226856958500935829908",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-36c",
+        "condition_id": "0xef87b6027cc0ea6f4444c4b1dbe4fc9a0c85ee559d7b3489145eefb05e38b361"
+      }
+    },
+    {
+      "market_id": "2399928",
+      "question": "Will the highest temperature in Beijing be 37°C on June 2?",
+      "bucket_low": 37.0,
+      "bucket_high": 37.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8867.335173999994,
+      "liquidity": null,
+      "token_id": "54937973038685067362020326396391676713884503740782069688546964162808438633299",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-37c",
+        "condition_id": "0xf8f194c3a1393455c389108b78903fa368fda907964a8f88d8c319365e2a056f"
+      }
+    },
+    {
+      "market_id": "2399929",
+      "question": "Will the highest temperature in Beijing be 38°C on June 2?",
+      "bucket_low": 38.0,
+      "bucket_high": 38.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8655.575841999997,
+      "liquidity": null,
+      "token_id": "82651385883787062690447031469258105168828863743640817681544852762394000643218",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-38c",
+        "condition_id": "0xa01f218fe63857fa6445d277f5e420f1d949dda75559b75acaa5636b2ee56070"
+      }
+    },
+    {
+      "market_id": "2399930",
+      "question": "Will the highest temperature in Beijing be 39°C on June 2?",
+      "bucket_low": 39.0,
+      "bucket_high": 39.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3542.694437,
+      "liquidity": null,
+      "token_id": "74405542515812962818152363512517426119020759399981579866220276216038546200955",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-39c",
+        "condition_id": "0x9e639d54b8d80a7f1bdbc7c708ce9c1fc9cb7d512df576c78336d02b2393cd45"
+      }
+    },
+    {
+      "market_id": "2399931",
+      "question": "Will the highest temperature in Beijing be 40°C on June 2?",
+      "bucket_low": 40.0,
+      "bucket_high": 40.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3594.297826,
+      "liquidity": null,
+      "token_id": "73196358135114515521122094871054491286590713073429475874387751676937640975397",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-40c",
+        "condition_id": "0xe41b94305ebb766a52fbcfe77be07f88e331f1a1edf35ccfdc95fb378b5f3406"
+      }
+    },
+    {
+      "market_id": "2399932",
+      "question": "Will the highest temperature in Beijing be 41°C on June 2?",
+      "bucket_low": 41.0,
+      "bucket_high": 41.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4483.851771,
+      "liquidity": null,
+      "token_id": "87266406889515973176995209357514251979364878457239625843305315562953369794283",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-41c",
+        "condition_id": "0xc3753a328f619a8da277fcb13eae67f57b18595fe49885cf7d3d6a17d153305a"
+      }
+    },
+    {
+      "market_id": "2399933",
+      "question": "Will the highest temperature in Beijing be 42°C on June 2?",
+      "bucket_low": 42.0,
+      "bucket_high": 42.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 636.8839999999999,
+      "liquidity": null,
+      "token_id": "74349681571376432182190988079586947600903686739990575359914533556455023626417",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-42c",
+        "condition_id": "0xa50f291cf8abfa50102cf08e256b2b5cd675f5f1471daa4a41ea209dc546cf78"
+      }
+    },
+    {
+      "market_id": "2399934",
+      "question": "Will the highest temperature in Beijing be 43°C or higher on June 2?",
+      "bucket_low": 43.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 845.73,
+      "liquidity": null,
+      "token_id": "38286720711654367156615648942959237787303460979737105366633025195093876629855",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-june-2-2026-43corhigher",
+        "condition_id": "0xd49bd162f42edff8ab56fb29aa58947988a8eab2d271ee6ffc1fb81ec3aa26db"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:38.574613+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-06-02T12:00:00Z",
+      "liquidity": null,
+      "volume": 110050.76455300002,
+      "outcomes_count": 11,
+      "top_bucket": "<=33.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Beijing on June 2?"
+    }
+  ],
+  "settle_at": "2026-06-02T16:00:00+00:00",
+  "hours_to_settle": -120.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-beijing-on-june-2-2026",
+    "event_id": "543490",
+    "markets_count": 11,
+    "game_start_time": "2026-06-01 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:38.574613+00:00",
+  "last_seen_at": "2026-06-07T16:05:38.574613+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:38.574613+00:00",
+  "created_at": "2026-06-07T16:05:38.574613+00:00",
+  "updated_at": "2026-06-10T17:55:39.936120+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=33C",
+      "resolved_value": "<=33C",
+      "resolution_source": null,
+      "winning_market_id": "2399924",
+      "winning_question": "Will the highest temperature in Beijing be 33°C or below on June 2?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:38.602365+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T17:55:39.936120+00:00",
+      "single": {
+        "city_slug": "beijing",
+        "date": "2026-06-02",
+        "metric": "high",
+        "model": "cma_grapes_global",
+        "requested_model": "cma_grapes_global",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 32.7,
+        "error": null
+      },
+      "ensemble": {
+        "city_slug": "beijing",
+        "date": "2026-06-02",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "unit": null,
+        "temp": null,
+        "error": "outside_ensemble_window",
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": null,
+            "error": "outside_ensemble_window"
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": null,
+            "error": "outside_ensemble_window"
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null
+}

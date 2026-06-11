@@ -1,0 +1,360 @@
+{
+  "storage_key": "seoul_2026-05-28_low",
+  "event_id": "519176",
+  "event_slug": "lowest-temperature-in-seoul-on-may-28-2026",
+  "event_title": "Lowest temperature in Seoul on May 28?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-05-28",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-28T12:00:00Z",
+  "event_end_date": "2026-05-28T12:00:00Z",
+  "liquidity": null,
+  "volume": 20367.141059999998,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2344706",
+      "question": "Will the lowest temperature in Seoul be 11°C or below on May 28?",
+      "bucket_low": -999.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1510.263,
+      "liquidity": null,
+      "token_id": "39696871631236454634223164302981684174623221232675542122663907878706158540596",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-11corbelow",
+        "condition_id": "0x846780d046a22b2b47f9bc2f50a56e50c7825f3e3b6258b2bb0a0d513a93e5f6"
+      }
+    },
+    {
+      "market_id": "2344707",
+      "question": "Will the lowest temperature in Seoul be 12°C on May 28?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 963.142,
+      "liquidity": null,
+      "token_id": "15897005503905793404859953104356875249445875855432263198574092609479567699962",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-12c",
+        "condition_id": "0x13f2420517ef3130df73e6513877ce770c19013068c4c753668b2bf7e4515266"
+      }
+    },
+    {
+      "market_id": "2344708",
+      "question": "Will the lowest temperature in Seoul be 13°C on May 28?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1357.29,
+      "liquidity": null,
+      "token_id": "102863019367580234760177556839898990672118225684024636208351753623056546578727",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-13c",
+        "condition_id": "0x3ca51bced414f1bf4d393ae57d632a41fb578d1a9415f3576f0128bde88196de"
+      }
+    },
+    {
+      "market_id": "2344709",
+      "question": "Will the lowest temperature in Seoul be 14°C on May 28?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 895.914902,
+      "liquidity": null,
+      "token_id": "84114681841937960887908607411365501635612909501104873450602646110625993862979",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-14c",
+        "condition_id": "0x570c8bf927dcaaf0653ec06e4f4cb14f81be97162e5fe262ab0a0423dd3a1aed"
+      }
+    },
+    {
+      "market_id": "2344710",
+      "question": "Will the lowest temperature in Seoul be 15°C on May 28?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2917.926003999999,
+      "liquidity": null,
+      "token_id": "25257928281362799058582047046997445293303115081509295406824493177727721070824",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-15c",
+        "condition_id": "0x6fd739ece195ddc37a2305ddc0f874e32d3c76151bc9103c7112e99f1bbe08b7"
+      }
+    },
+    {
+      "market_id": "2344711",
+      "question": "Will the lowest temperature in Seoul be 16°C on May 28?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 2478.5667969999995,
+      "liquidity": null,
+      "token_id": "77660492768953003009001886641135993457843572466922444185603862613485156152668",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-16c",
+        "condition_id": "0x78876c163ad735b1885cca7cf8fa24ea9db85d17b841b98684a5e551ab306235"
+      }
+    },
+    {
+      "market_id": "2344712",
+      "question": "Will the lowest temperature in Seoul be 17°C on May 28?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2607.544055,
+      "liquidity": null,
+      "token_id": "28472823577766146850917401171340937299132362613020717075591967648540431278774",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-17c",
+        "condition_id": "0x40e459f19c2d4112433b4559c5413414662fc3e631b972a374e3fb198409ed36"
+      }
+    },
+    {
+      "market_id": "2344713",
+      "question": "Will the lowest temperature in Seoul be 18°C on May 28?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1884.5445750000001,
+      "liquidity": null,
+      "token_id": "28001444505216643027519247827813906406881719214205972724074721199624463803945",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-18c",
+        "condition_id": "0x2f5766e77db515d2e381cfb60520e7f9a139ae5759e55721651b47752ba8c09b"
+      }
+    },
+    {
+      "market_id": "2344714",
+      "question": "Will the lowest temperature in Seoul be 19°C on May 28?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2739.062112,
+      "liquidity": null,
+      "token_id": "45358631693954821687033656277198029992295964835877416922367703333796977404070",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-19c",
+        "condition_id": "0xf8e74c62a45696b5e7b3d1938255c265f0114bc7394fb5e9f19f5edbd25df770"
+      }
+    },
+    {
+      "market_id": "2344715",
+      "question": "Will the lowest temperature in Seoul be 20°C on May 28?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 945.7501809999999,
+      "liquidity": null,
+      "token_id": "9059734508051710389906381474085303159463914619465750991776445340025244197202",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-20c",
+        "condition_id": "0xf3f6569a8797a25bf41d62dd6f8108104026d4c5f82863e3e3d88f39cbab669e"
+      }
+    },
+    {
+      "market_id": "2344716",
+      "question": "Will the lowest temperature in Seoul be 21°C or higher on May 28?",
+      "bucket_low": 21.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2067.137434,
+      "liquidity": null,
+      "token_id": "72973091919565471560424767646403144212225232288719726093554505633677058448086",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-may-28-2026-21corhigher",
+        "condition_id": "0xd81b889ab9bf378cbec2f93955f01b1e580ad7dd75526616ca9cdc9872fd6175"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:39.892678+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-28T12:00:00Z",
+      "liquidity": null,
+      "volume": 20367.141059999998,
+      "outcomes_count": 11,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 1.0,
+      "event_title": "Lowest temperature in Seoul on May 28?"
+    }
+  ],
+  "settle_at": "2026-05-28T15:00:00+00:00",
+  "hours_to_settle": -241.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-seoul-on-may-28-2026",
+    "event_id": "519176",
+    "markets_count": 11,
+    "game_start_time": "2026-05-27 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:39.892678+00:00",
+  "last_seen_at": "2026-06-07T16:05:39.892678+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:39.892678+00:00",
+  "created_at": "2026-06-07T16:05:39.892678+00:00",
+  "updated_at": "2026-06-10T17:17:30.740639+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "16C",
+      "resolved_value": "16C",
+      "resolution_source": null,
+      "winning_market_id": "2344711",
+      "winning_question": "Will the lowest temperature in Seoul be 16°C on May 28?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:39.893680+00:00"
+  },
+  "legacy": null
+}

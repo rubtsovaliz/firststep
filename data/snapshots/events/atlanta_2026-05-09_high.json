@@ -1,0 +1,360 @@
+{
+  "storage_key": "atlanta_2026-05-09_high",
+  "event_id": "457228",
+  "event_slug": "highest-temperature-in-atlanta-on-may-9-2026",
+  "event_title": "Highest temperature in Atlanta on May 9?",
+  "city_slug": "atlanta",
+  "city_name": "Atlanta",
+  "date": "2026-05-09",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Atlanta",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-09T12:00:00Z",
+  "event_end_date": "2026-05-09T12:00:00Z",
+  "liquidity": null,
+  "volume": 78703.913627,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2179169",
+      "question": "Will the highest temperature in Atlanta be 63°F or below on May 9?",
+      "bucket_low": -999.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1803.236663,
+      "liquidity": null,
+      "token_id": "91920399602997085127337396989922578117940174654537238169159070960004616406430",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-63forbelow",
+        "condition_id": "0xdeec7e17ea615fcc0779ba31f7eb152e8937de8d7da20e08a66c9bdac52189aa"
+      }
+    },
+    {
+      "market_id": "2179170",
+      "question": "Will the highest temperature in Atlanta be between 64-65°F on May 9?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3854.068603999999,
+      "liquidity": null,
+      "token_id": "12233278394705029264553984762708765309365350479115245917734233728550552974514",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-64-65f",
+        "condition_id": "0x3015a8f49a1ac9d5a62fcbe77c0751e33cbf6fd6fb2d2f6fef6615071b9a5b0a"
+      }
+    },
+    {
+      "market_id": "2179171",
+      "question": "Will the highest temperature in Atlanta be between 66-67°F on May 9?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7633.867769000001,
+      "liquidity": null,
+      "token_id": "62711574258789166699050409223461695192454940595668338039782066224496834160304",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-66-67f",
+        "condition_id": "0x45919fb9d8ef3904c677dc9868138b89fabd42f277b9eb50e07c9ad5c390f9d5"
+      }
+    },
+    {
+      "market_id": "2179172",
+      "question": "Will the highest temperature in Atlanta be between 68-69°F on May 9?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5750.821885,
+      "liquidity": null,
+      "token_id": "25733719909740946926910174609702049523112734180244715563928481802067927897745",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-68-69f",
+        "condition_id": "0xf8073c5f29b1910986a3b57c1bc64db8b186e930cf17bce7f04a1f2fc1940a06"
+      }
+    },
+    {
+      "market_id": "2179173",
+      "question": "Will the highest temperature in Atlanta be between 70-71°F on May 9?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 12311.664064999999,
+      "liquidity": null,
+      "token_id": "19266359926742440047444071253795436799057421999773156154429223517500474380539",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-70-71f",
+        "condition_id": "0x2c621d62e12a6b3460b93c60b06658ebf2c18477307b25f54967d6b299585f42"
+      }
+    },
+    {
+      "market_id": "2179174",
+      "question": "Will the highest temperature in Atlanta be between 72-73°F on May 9?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8947.174450000002,
+      "liquidity": null,
+      "token_id": "110758454214550419604167789431234714077209485482309724656087269931835760089435",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-72-73f",
+        "condition_id": "0x4198e55f401490e9c79a199f52491c103203008952df7f70987e5a4cacdb066a"
+      }
+    },
+    {
+      "market_id": "2179175",
+      "question": "Will the highest temperature in Atlanta be between 74-75°F on May 9?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10769.388324999994,
+      "liquidity": null,
+      "token_id": "6969641347586333995785730517130154395712846031954030754810727303955096172348",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-74-75f",
+        "condition_id": "0xbb33909bac3bf5f3c25e12009ac08eb7a97764c3fb297fb8efb49cd0f8a9c580"
+      }
+    },
+    {
+      "market_id": "2179176",
+      "question": "Will the highest temperature in Atlanta be between 76-77°F on May 9?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8162.0011509999995,
+      "liquidity": null,
+      "token_id": "19544942382559981300058563176727686999739314360784344218867956757771461036308",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-76-77f",
+        "condition_id": "0x3738160e0f53b3b87a5f4b79f2adfd2b0b3655e366b3573dfc3b1a78bdb5994d"
+      }
+    },
+    {
+      "market_id": "2179177",
+      "question": "Will the highest temperature in Atlanta be between 78-79°F on May 9?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5222.176659000003,
+      "liquidity": null,
+      "token_id": "45575674715317552063400180799429713478180742169029109333307190298860278096697",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-78-79f",
+        "condition_id": "0x3de2e2787a5021e2c77cc107acf97d9fded886a848de87028c758c59af0d9f93"
+      }
+    },
+    {
+      "market_id": "2179178",
+      "question": "Will the highest temperature in Atlanta be between 80-81°F on May 9?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6921.369537000003,
+      "liquidity": null,
+      "token_id": "103801827191144261632172151912478288168542468342721986150197995608369874822863",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-80-81f",
+        "condition_id": "0x00459bd3ef6d1a9101e85a484ac9a50ae2913e3ebdc46d6b75a88a43c2416c51"
+      }
+    },
+    {
+      "market_id": "2179179",
+      "question": "Will the highest temperature in Atlanta be 82°F or higher on May 9?",
+      "bucket_low": 82.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7328.144518999996,
+      "liquidity": null,
+      "token_id": "64385180527041385234669398141871888009740803986469421605701457648480767236791",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-may-9-2026-82forhigher",
+        "condition_id": "0xb6bf3d9b3242b43e60502a613b4a1004ce558aae55bbf4a76ad405ca1f0d1acc"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:00.997390+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-09T12:00:00Z",
+      "liquidity": null,
+      "volume": 78703.913627,
+      "outcomes_count": 11,
+      "top_bucket": "70.0-71.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Atlanta on May 9?"
+    }
+  ],
+  "settle_at": "2026-05-10T04:00:00+00:00",
+  "hours_to_settle": -684.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-atlanta-on-may-9-2026",
+    "event_id": "457228",
+    "markets_count": 11,
+    "game_start_time": "2026-05-09 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:00.997390+00:00",
+  "last_seen_at": "2026-06-07T16:06:00.997390+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:00.997390+00:00",
+  "created_at": "2026-06-07T16:06:00.997390+00:00",
+  "updated_at": "2026-06-10T17:17:28.402678+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "70-71F",
+      "resolved_value": "70-71F",
+      "resolution_source": null,
+      "winning_market_id": "2179173",
+      "winning_question": "Will the highest temperature in Atlanta be between 70-71°F on May 9?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:00.999396+00:00"
+  },
+  "legacy": null
+}

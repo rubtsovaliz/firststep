@@ -1,0 +1,353 @@
+{
+  "storage_key": "shanghai_2026-05-23_low",
+  "event_id": "500783",
+  "event_slug": "lowest-temperature-in-shanghai-on-may-23-2026",
+  "event_title": "Lowest temperature in Shanghai on May 23?",
+  "city_slug": "shanghai",
+  "city_name": "Shanghai",
+  "date": "2026-05-23",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Shanghai",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-23T12:00:00Z",
+  "event_end_date": "2026-05-23T12:00:00Z",
+  "liquidity": 5370.8656,
+  "volume": null,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2300074",
+      "question": "Will the lowest temperature in Shanghai be 15°C or below on May 23?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": null,
+      "liquidity": 8.2087,
+      "token_id": "1847807269256482755041952778712747513489797679495743945644973715002293344741",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-15corbelow",
+        "condition_id": "0x781a2f6424da651fe25c467c211f73826432a697ea22f9e9c5d57e979b7d2188"
+      }
+    },
+    {
+      "market_id": "2300075",
+      "question": "Will the lowest temperature in Shanghai be 16°C on May 23?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.115,
+      "no_price": 0.885,
+      "volume": null,
+      "liquidity": 598.0485,
+      "token_id": "108493300641413634791910911423588130225236361506712798393639610836921126357136",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.115,
+        0.885
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-16c",
+        "condition_id": "0x9439540257cdb00ba968a6016ad7a3f571bce190afd801839cd5daf56f3df00c"
+      }
+    },
+    {
+      "market_id": "2300076",
+      "question": "Will the lowest temperature in Shanghai be 17°C on May 23?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.135,
+      "no_price": 0.865,
+      "volume": null,
+      "liquidity": 595.2482,
+      "token_id": "79075126721089692016677005981013116716728445096097688463684895589199363526687",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.135,
+        0.865
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-17c",
+        "condition_id": "0xb63072b13cc1eac03d75908790633d8181e0000b8b8d1427b6bbd90194684444"
+      }
+    },
+    {
+      "market_id": "2300077",
+      "question": "Will the lowest temperature in Shanghai be 18°C on May 23?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.16,
+      "no_price": 0.84,
+      "volume": null,
+      "liquidity": 595.0483,
+      "token_id": "18352102913619185113610305706243912604520229799415124463242319728308089091326",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.16,
+        0.84
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-18c",
+        "condition_id": "0x1c7a6ee3ce23132d2aa9dcf62b5a8c14c402b7562ce7806d9c9deeb8480371a4"
+      }
+    },
+    {
+      "market_id": "2300078",
+      "question": "Will the lowest temperature in Shanghai be 19°C on May 23?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.175,
+      "no_price": 0.825,
+      "volume": null,
+      "liquidity": 594.8486,
+      "token_id": "74823541393399613585983805915949955799167394841772703320561986347911235768052",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.175,
+        0.825
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-19c",
+        "condition_id": "0x3b817dca637bef26eee246b69ab703cc689b6b302025a8c28091af896f601996"
+      }
+    },
+    {
+      "market_id": "2300079",
+      "question": "Will the lowest temperature in Shanghai be 20°C on May 23?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.2,
+      "no_price": 0.8,
+      "volume": null,
+      "liquidity": 594.6483,
+      "token_id": "22533765023585517875177691859339646720924228978318028501194241188040960679172",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.2,
+        0.8
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-20c",
+        "condition_id": "0xd746e02cb2a5421784906f9e4eb2ec490a2fd95fb6538c5290a24c0d34694126"
+      }
+    },
+    {
+      "market_id": "2300080",
+      "question": "Will the lowest temperature in Shanghai be 21°C on May 23?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.2,
+      "no_price": 0.8,
+      "volume": null,
+      "liquidity": 594.6483,
+      "token_id": "45585699823306180431479054601499718312306953371764323631609854275623950558395",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.2,
+        0.8
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-21c",
+        "condition_id": "0x1682cd10ae53f41a7a6f3f157738cedd5ec30fc118fcb6d96b6268936e44915b"
+      }
+    },
+    {
+      "market_id": "2300081",
+      "question": "Will the lowest temperature in Shanghai be 22°C on May 23?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.2,
+      "no_price": 0.8,
+      "volume": null,
+      "liquidity": 594.6483,
+      "token_id": "114427224760780006533149702586325940122388478964201720603255973587251969893168",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.2,
+        0.8
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-22c",
+        "condition_id": "0xf9ccda4968fb0ffc14ee5f701604dc96a05ce02c9f1999a4c9418158c78b323b"
+      }
+    },
+    {
+      "market_id": "2300082",
+      "question": "Will the lowest temperature in Shanghai be 23°C on May 23?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.18,
+      "no_price": 0.82,
+      "volume": null,
+      "liquidity": 594.8485,
+      "token_id": "66925382840782145276287728643927142274284416937601106209000798303162155860740",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.18,
+        0.82
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-23c",
+        "condition_id": "0xb80e693060b8f10ad3338ebb452e089c4186fa5f67d887f4d0660886b31353dd"
+      }
+    },
+    {
+      "market_id": "2300083",
+      "question": "Will the lowest temperature in Shanghai be 24°C on May 23?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.16,
+      "no_price": 0.84,
+      "volume": null,
+      "liquidity": 595.0483,
+      "token_id": "78497196764427280318296231520187860172031598117369534337406784751857870573275",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.16,
+        0.84
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-24c",
+        "condition_id": "0x856729d21e199d4e6d028c1b0e3d461590d54d2762b168efad1dc522255dc8ed"
+      }
+    },
+    {
+      "market_id": "2300084",
+      "question": "Will the lowest temperature in Shanghai be 25°C or higher on May 23?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.5,
+      "no_price": 0.5,
+      "volume": null,
+      "liquidity": 5.6216,
+      "token_id": "26460021745336727929021717623793197556871794590547568862323750914121805174590",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.5,
+        0.5
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-may-23-2026-25corhigher",
+        "condition_id": "0x90c46a06a0c3ed6d9c55ee87015ed4c56cbe3bf06d16c8f01f9ccf5307b103de"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:43.664947+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-23T12:00:00Z",
+      "liquidity": 5370.8656,
+      "volume": null,
+      "outcomes_count": 11,
+      "top_bucket": ">=25.0C",
+      "top_price": 0.5,
+      "event_title": "Lowest temperature in Shanghai on May 23?"
+    }
+  ],
+  "settle_at": "2026-05-23T16:00:00+00:00",
+  "hours_to_settle": -360.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-shanghai-on-may-23-2026",
+    "event_id": "500783",
+    "markets_count": 11,
+    "game_start_time": "2026-05-22 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:43.664947+00:00",
+  "last_seen_at": "2026-06-07T16:05:43.664947+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:43.664947+00:00",
+  "created_at": "2026-06-07T16:05:43.664947+00:00",
+  "updated_at": "2026-06-10T17:17:30.828781+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "gamma_enriched_at": "2026-06-07T16:05:44.925120+00:00"
+  },
+  "legacy": null
+}

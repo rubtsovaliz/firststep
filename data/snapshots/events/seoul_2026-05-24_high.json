@@ -1,0 +1,360 @@
+{
+  "storage_key": "seoul_2026-05-24_high",
+  "event_id": "512216",
+  "event_slug": "highest-temperature-in-seoul-on-may-24-2026",
+  "event_title": "Highest temperature in Seoul on May 24?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-05-24",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-24T12:00:00Z",
+  "event_end_date": "2026-05-24T12:00:00Z",
+  "liquidity": null,
+  "volume": 222609.03964400006,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2328278",
+      "question": "Will the highest temperature in Seoul be 15°C or below on May 24?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3290.987,
+      "liquidity": null,
+      "token_id": "6155081431053180565860501242423217453878359424954586368653285611714726404431",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-15corbelow",
+        "condition_id": "0x825c3a25e23e90dfedbec2d8b8e8cc053c57166dff85c20aa1009c99d58cbd3c"
+      }
+    },
+    {
+      "market_id": "2328279",
+      "question": "Will the highest temperature in Seoul be 16°C on May 24?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8105.984444,
+      "liquidity": null,
+      "token_id": "15052746946680165102268029864062479965753203370651546032213068043015135375757",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-16c",
+        "condition_id": "0x090c1db24699408baca119c73bf65b1f4f03b20f553e49940f8e01aa01f1be82"
+      }
+    },
+    {
+      "market_id": "2328280",
+      "question": "Will the highest temperature in Seoul be 17°C on May 24?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3073.7929289999997,
+      "liquidity": null,
+      "token_id": "84870964742762128572083727421990973888563576617820534744498694160396920523619",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-17c",
+        "condition_id": "0xe44624d22eb861bd7e553f1b30cf2964674df135862bf6077f9d171370dc6c9f"
+      }
+    },
+    {
+      "market_id": "2328281",
+      "question": "Will the highest temperature in Seoul be 18°C on May 24?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2312.9995160000003,
+      "liquidity": null,
+      "token_id": "86654476601154836633825784596052612217338438068752632196090249824376443837606",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-18c",
+        "condition_id": "0x22e4151a20d0735393312b7fcea139f98ffe9edd54fd53bbafe9c136b5ced62e"
+      }
+    },
+    {
+      "market_id": "2328282",
+      "question": "Will the highest temperature in Seoul be 19°C on May 24?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11556.722720000002,
+      "liquidity": null,
+      "token_id": "70891576144773661277945889144463753843532180321405715156249411484594928488756",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-19c",
+        "condition_id": "0x86e77eb71881665795386951b72dd53190690c9022896bbd1063cdea93d453fe"
+      }
+    },
+    {
+      "market_id": "2328283",
+      "question": "Will the highest temperature in Seoul be 20°C on May 24?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9136.733456,
+      "liquidity": null,
+      "token_id": "60494806097367246512867791432426177705599833853282368109263768930009376043363",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-20c",
+        "condition_id": "0x9846c7275d6ead73ab7ea068a07a68d8e2afd78df73c90774dbe3e56a466bda3"
+      }
+    },
+    {
+      "market_id": "2328284",
+      "question": "Will the highest temperature in Seoul be 21°C on May 24?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13443.804452000002,
+      "liquidity": null,
+      "token_id": "27232836711565636456165261202592620409334408254082452768789745941578068658353",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-21c",
+        "condition_id": "0x2105a18576817a2c98a8ccfae24c0c36ac351bdff63c039f8008c8dda981abed"
+      }
+    },
+    {
+      "market_id": "2328285",
+      "question": "Will the highest temperature in Seoul be 22°C on May 24?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 21277.608610000007,
+      "liquidity": null,
+      "token_id": "83481298378975069447275315640011858527453435351426799388559470737425074629486",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-22c",
+        "condition_id": "0xf0e9a49774f2315b0d1af31a204a97e440839ba15a696d3d9a29a15f7fc33a86"
+      }
+    },
+    {
+      "market_id": "2328286",
+      "question": "Will the highest temperature in Seoul be 23°C on May 24?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18493.696253000006,
+      "liquidity": null,
+      "token_id": "57672035054651166366842549987980731645808474847823503515887742863144282549328",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-23c",
+        "condition_id": "0xf88c719fcb6d3492d515fd3ad68a6a9ba445cda8fa1febb437bb6cd2769dec38"
+      }
+    },
+    {
+      "market_id": "2328287",
+      "question": "Will the highest temperature in Seoul be 24°C on May 24?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 60334.40908799999,
+      "liquidity": null,
+      "token_id": "56228853583784815727365170044250276107178296316763405926505509605994584454460",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-24c",
+        "condition_id": "0x323096f54ebf9342ad0e92630fa3db60858efbb0f7566564006e11cf2b78ce19"
+      }
+    },
+    {
+      "market_id": "2328288",
+      "question": "Will the highest temperature in Seoul be 25°C or higher on May 24?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 71582.30117600005,
+      "liquidity": null,
+      "token_id": "66275164291725703691120037024523241437971554690760086064726552392242782012046",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-may-24-2026-25corhigher",
+        "condition_id": "0xc1d87d617aa5ff7f80e6e931baed09e6accc5cd680df1266a272214a4e78b19e"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:40.456975+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-24T12:00:00Z",
+      "liquidity": null,
+      "volume": 222609.03964400006,
+      "outcomes_count": 11,
+      "top_bucket": "24.0-24.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seoul on May 24?"
+    }
+  ],
+  "settle_at": "2026-05-24T15:00:00+00:00",
+  "hours_to_settle": -337.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seoul-on-may-24-2026",
+    "event_id": "512216",
+    "markets_count": 11,
+    "game_start_time": "2026-05-23 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:40.456975+00:00",
+  "last_seen_at": "2026-06-07T16:05:40.456975+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:40.456975+00:00",
+  "created_at": "2026-06-07T16:05:40.456975+00:00",
+  "updated_at": "2026-06-10T17:17:30.735537+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "24C",
+      "resolved_value": "24C",
+      "resolution_source": null,
+      "winning_market_id": "2328287",
+      "winning_question": "Will the highest temperature in Seoul be 24°C on May 24?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:40.457979+00:00"
+  },
+  "legacy": null
+}

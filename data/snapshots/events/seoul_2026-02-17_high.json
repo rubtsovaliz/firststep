@@ -1,0 +1,305 @@
+{
+  "storage_key": "seoul_2026-02-17_high",
+  "event_id": "210110",
+  "event_slug": "highest-temperature-in-seoul-on-february-17-2026",
+  "event_title": "Highest temperature in Seoul on February 17?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-02-17",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-17T12:00:00Z",
+  "event_end_date": "2026-02-17T12:00:00Z",
+  "liquidity": null,
+  "volume": 199596.200097,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1381089",
+      "question": "Will the highest temperature in Seoul be -1°C or below on February 17?",
+      "bucket_low": -999.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8319.056286,
+      "liquidity": null,
+      "token_id": "93259298615670483889701015253596409961566144486771110926174915432431575168522",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-neg-1corbelow",
+        "condition_id": "0xd44190e4c967e71e8f2adf484979066c947ef974f4b48880b7ef3526707cf6e7"
+      }
+    },
+    {
+      "market_id": "1381090",
+      "question": "Will the highest temperature in Seoul be 0°C on February 17?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20566.787609,
+      "liquidity": null,
+      "token_id": "96000650938710951264006285079957045827813361062530557852376207221386034539718",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-0c",
+        "condition_id": "0xad09ba588073b363f2608501066d1879c8680e7208b868fe3c76db41a3cfb0b8"
+      }
+    },
+    {
+      "market_id": "1381091",
+      "question": "Will the highest temperature in Seoul be 1°C on February 17?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15573.657981,
+      "liquidity": null,
+      "token_id": "74109201420293720239683501993702390198279591897882448886230227715552018414844",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-1c",
+        "condition_id": "0x4111eb4d250083c59daafed87b826a39605e42cdb2b5b1ef63960bfd777ccc46"
+      }
+    },
+    {
+      "market_id": "1381092",
+      "question": "Will the highest temperature in Seoul be 2°C on February 17?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 19343.949029,
+      "liquidity": null,
+      "token_id": "20293094694831096290507532666659468840646007148997158823785248984606189045330",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-2c",
+        "condition_id": "0x8cbfe821650890a2c767cfb84ce57b0bac4755fbbf82cd40be0f8212082161e5"
+      }
+    },
+    {
+      "market_id": "1381093",
+      "question": "Will the highest temperature in Seoul be 3°C on February 17?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 51680.845955,
+      "liquidity": null,
+      "token_id": "22144236765725573028335573467121858823898987827409684699903866412898166461156",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-3c",
+        "condition_id": "0x6f47ea2118f0db24ca84aef4c14b8bf3328d1b7de861e6b1ed11d41826a42b3c"
+      }
+    },
+    {
+      "market_id": "1381094",
+      "question": "Will the highest temperature in Seoul be 4°C on February 17?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 21701.224104,
+      "liquidity": null,
+      "token_id": "32033683606712806935322989012288207546144111265965657391003659412405136241191",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-4c",
+        "condition_id": "0x39b32289e15e59e752b95efcc149ff6e7562ec9956994071a8a0580a64bce733"
+      }
+    },
+    {
+      "market_id": "1381095",
+      "question": "Will the highest temperature in Seoul be 5°C on February 17?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17755.548825,
+      "liquidity": null,
+      "token_id": "105234523536358218176996096222977152268864181635246168534546378833008275385810",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-5c",
+        "condition_id": "0x2994bc76f01f0d2cd6a3e6e8b3519a187d8b440bcd25e0a73f8a1492fa332a9b"
+      }
+    },
+    {
+      "market_id": "1381096",
+      "question": "Will the highest temperature in Seoul be 6°C on February 17?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16840.291419,
+      "liquidity": null,
+      "token_id": "78619452273204845430478492671140738132838585234057218857882533987107076379544",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-6c",
+        "condition_id": "0x668962d90979ba1a691b05a7c1c70035abf06bd2dbbf33cb481c1b1c26b56da6"
+      }
+    },
+    {
+      "market_id": "1381097",
+      "question": "Will the highest temperature in Seoul be 7°C or higher on February 17?",
+      "bucket_low": 7.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 27814.838889,
+      "liquidity": null,
+      "token_id": "4707100772816777817412090899520169974913144947011442040181886168539303613916",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-17-2026-7corhigher",
+        "condition_id": "0x44c1b41cefd1b9777e89cc4727ab87e43f30fdfbba956d76f3e853aadf0770b4"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.634758+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-17T12:00:00Z",
+      "liquidity": null,
+      "volume": 199596.200097,
+      "outcomes_count": 9,
+      "top_bucket": "4.0-4.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seoul on February 17?"
+    }
+  ],
+  "settle_at": "2026-02-17T15:00:00+00:00",
+  "hours_to_settle": -2641.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seoul-on-february-17-2026",
+    "event_id": "210110",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.634758+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.634758+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.634758+00:00",
+  "created_at": "2026-06-07T16:06:11.634758+00:00",
+  "updated_at": "2026-06-10T17:17:30.653185+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "4C",
+      "resolved_value": "4C",
+      "resolution_source": null,
+      "winning_market_id": "1381094",
+      "winning_question": "Will the highest temperature in Seoul be 4°C on February 17?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.636913+00:00"
+  },
+  "legacy": null
+}

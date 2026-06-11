@@ -1,0 +1,360 @@
+{
+  "storage_key": "london_2026-06-03_high",
+  "event_id": "546757",
+  "event_slug": "highest-temperature-in-london-on-june-3-2026",
+  "event_title": "Highest temperature in London on June 3?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-06-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-06-03T12:00:00Z",
+  "event_end_date": "2026-06-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 207129.046347,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2406916",
+      "question": "Will the highest temperature in London be 15°C or below on June 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5998.2249,
+      "liquidity": null,
+      "token_id": "78178868624681499902308811433228484411051971461142384743440549435774703725664",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-15corbelow",
+        "condition_id": "0xa780e1f87c2cc4ce0b2145a736afa3efb3755f2483090894ddecd3c87f88cdd4"
+      }
+    },
+    {
+      "market_id": "2406917",
+      "question": "Will the highest temperature in London be 16°C on June 3?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24503.373555000006,
+      "liquidity": null,
+      "token_id": "42411388949521611898885456287469218351797077523256717337373859156292428781592",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-16c",
+        "condition_id": "0x5811fb24f78c3c53f3477dfc025573df75271aabec4aae8ac0159e77dea060f0"
+      }
+    },
+    {
+      "market_id": "2406918",
+      "question": "Will the highest temperature in London be 17°C on June 3?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 33615.68796800002,
+      "liquidity": null,
+      "token_id": "15438263712635583530543747879193032835488892400634111632838913249276376849247",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-17c",
+        "condition_id": "0xc35b06789c6508fca8cceea4c332fbbc2dabf4b88240a46258437fba7556d288"
+      }
+    },
+    {
+      "market_id": "2406919",
+      "question": "Will the highest temperature in London be 18°C on June 3?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 21015.461530999986,
+      "liquidity": null,
+      "token_id": "102851133270596914678750876495578591219185151700702064862134768244403420636400",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-18c",
+        "condition_id": "0xff7654b67779cd791d70b0fc4ec29b199e3b4c764eac1dc4bbc5bd950e0dbe5d"
+      }
+    },
+    {
+      "market_id": "2406920",
+      "question": "Will the highest temperature in London be 19°C on June 3?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 27418.240083,
+      "liquidity": null,
+      "token_id": "82278546515680270500467469104401300803490837017247657864274034753701335396236",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-19c",
+        "condition_id": "0xe7f6041ea1ee78c6800d878c990f5672b0363817dc8a7fd3cc4a645109ac0651"
+      }
+    },
+    {
+      "market_id": "2406921",
+      "question": "Will the highest temperature in London be 20°C on June 3?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 31943.51006799999,
+      "liquidity": null,
+      "token_id": "110370924630066884628994966256570182552484865873495424119157073277731083043162",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-20c",
+        "condition_id": "0x9c1196287aad51a7edfd22cc434f030376b573859463d14ebf875db11a430141"
+      }
+    },
+    {
+      "market_id": "2406922",
+      "question": "Will the highest temperature in London be 21°C on June 3?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 37789.172560999985,
+      "liquidity": null,
+      "token_id": "32968326989840015499929346727289370223496832887568967594429766015146814146173",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-21c",
+        "condition_id": "0xbd31e11e02302e8d74e06e9a6dde9584999281d34ab5e3d90615acb5a4eb824f"
+      }
+    },
+    {
+      "market_id": "2406923",
+      "question": "Will the highest temperature in London be 22°C on June 3?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5673.051005,
+      "liquidity": null,
+      "token_id": "20180875216503133505199600547272087087447358563100126815362321704070444422320",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-22c",
+        "condition_id": "0xdcad354bc9ab8104be8a1e3958af74a715a2254b2f0100f333e3713e9057d918"
+      }
+    },
+    {
+      "market_id": "2406924",
+      "question": "Will the highest temperature in London be 23°C on June 3?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4302.547385,
+      "liquidity": null,
+      "token_id": "108253756384189404852228925510949864425105291194491032883798767871781621472854",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-23c",
+        "condition_id": "0x816eb3717df621cfe187f3795b8726cb9a8b7225e013568705409a8f2ab22226"
+      }
+    },
+    {
+      "market_id": "2406925",
+      "question": "Will the highest temperature in London be 24°C on June 3?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5298.318344,
+      "liquidity": null,
+      "token_id": "80656011642952903794025988763244238734350867756559092648555407784209459525789",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-24c",
+        "condition_id": "0xd814ba6b7338e06cf769a0435ef47e57d215df1dbee04cfa29c5d941e439a1e3"
+      }
+    },
+    {
+      "market_id": "2406926",
+      "question": "Will the highest temperature in London be 25°C or higher on June 3?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9571.458946999997,
+      "liquidity": null,
+      "token_id": "63241424540942713871679924535505928780650075211161309794547414328213768864194",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-june-3-2026-25corhigher",
+        "condition_id": "0x587dac18e1a05ff4ca73475e2bccc29ecccb712e3cd633e67e5607e3c2cf3e1e"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:38.441237+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-06-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 207129.046347,
+      "outcomes_count": 11,
+      "top_bucket": "19.0-19.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in London on June 3?"
+    }
+  ],
+  "settle_at": "2026-06-03T23:00:00+00:00",
+  "hours_to_settle": -89.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-london-on-june-3-2026",
+    "event_id": "546757",
+    "markets_count": 11,
+    "game_start_time": "2026-06-02 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:38.441237+00:00",
+  "last_seen_at": "2026-06-07T16:05:38.441237+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:38.441237+00:00",
+  "created_at": "2026-06-07T16:05:38.441237+00:00",
+  "updated_at": "2026-06-10T17:17:29.548326+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "19C",
+      "resolved_value": "19C",
+      "resolution_source": null,
+      "winning_market_id": "2406920",
+      "winning_question": "Will the highest temperature in London be 19°C on June 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:38.443242+00:00"
+  },
+  "legacy": null
+}

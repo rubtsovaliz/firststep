@@ -1,0 +1,253 @@
+{
+  "storage_key": "chicago_2026-01-29_high",
+  "event_id": "190215",
+  "event_slug": "highest-temperature-in-chicago-on-january-29",
+  "event_title": "Highest temperature in Chicago on January 29?",
+  "city_slug": "chicago",
+  "city_name": "Chicago",
+  "date": "2026-01-29",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Chicago"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-01-29T12:00:00Z",
+  "event_end_date": "2026-01-29T12:00:00Z",
+  "liquidity": null,
+  "volume": 50975.309829,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1276614",
+      "question": "Will the highest temperature in Chicago be 11°F or below on January 29?",
+      "bucket_low": -999.0,
+      "bucket_high": 11.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5758.736475,
+      "liquidity": null,
+      "token_id": "55546155792465308433769359498567822686549760571192472651825394134644202757885",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-29-11forbelow",
+        "condition_id": "0x7b6111c9161a30fa9c1e676714889893283fb0df0367cab26026072d069775bf"
+      }
+    },
+    {
+      "market_id": "1276615",
+      "question": "Will the highest temperature in Chicago be between 12-13°F on January 29?",
+      "bucket_low": 12.0,
+      "bucket_high": 13.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4586.498809,
+      "liquidity": null,
+      "token_id": "28592761381638724026395096734956521185371907697131550314065284048617172721392",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-29-12-13f",
+        "condition_id": "0xefddc3f21c594db63a6429a22aeb12b48455e52a8b45c89449a9cfcc4fb2ddf2"
+      }
+    },
+    {
+      "market_id": "1276616",
+      "question": "Will the highest temperature in Chicago be between 14-15°F on January 29?",
+      "bucket_low": 14.0,
+      "bucket_high": 15.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5519.850733,
+      "liquidity": null,
+      "token_id": "48116720021673809090754915236717855605506153032033605323402466865425944988769",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-29-14-15f",
+        "condition_id": "0x1844130b3235c48c34f03d02243f26afb227f2d1d20456cf0b3a92e6540fc874"
+      }
+    },
+    {
+      "market_id": "1276617",
+      "question": "Will the highest temperature in Chicago be between 16-17°F on January 29?",
+      "bucket_low": 16.0,
+      "bucket_high": 17.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5968.941011,
+      "liquidity": null,
+      "token_id": "104147159934666648039537915783987514182801769171965078781968450521432089122",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-29-16-17f",
+        "condition_id": "0x9352901a3feb690e36acd9eb11ccb8892cce51001a429483437ce6d656250a0f"
+      }
+    },
+    {
+      "market_id": "1276618",
+      "question": "Will the highest temperature in Chicago be between 18-19°F on January 29?",
+      "bucket_low": 18.0,
+      "bucket_high": 19.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3102.732018,
+      "liquidity": null,
+      "token_id": "2376535531734462189917150454803856488958812360251028084973926476762975712977",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-29-18-19f",
+        "condition_id": "0x99001bf1c1047f2202610a7adbb49bd85da6b9a3e9f9e3bd868baad68a5a5a09"
+      }
+    },
+    {
+      "market_id": "1276619",
+      "question": "Will the highest temperature in Chicago be between 20-21°F on January 29?",
+      "bucket_low": 20.0,
+      "bucket_high": 21.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11795.104425,
+      "liquidity": null,
+      "token_id": "15199538486266155490874493672304905518857022181441451673990455811190519712656",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-29-20-21f",
+        "condition_id": "0x3c8adf55e3cfe9d0e6491dc021290e4d90bfd86105267125b4b6fdc959da7790"
+      }
+    },
+    {
+      "market_id": "1276620",
+      "question": "Will the highest temperature in Chicago be 22°F or higher on January 29?",
+      "bucket_low": 22.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14243.446358,
+      "liquidity": null,
+      "token_id": "81617488459851314447007765226128487807678717150820121852127719823180823624185",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-january-29-22forhigher",
+        "condition_id": "0xc464391c7411b3dcfab9daaf587e6744c8201bd94f43605fc097f2910d7f6e84"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:12.304247+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-01-29T12:00:00Z",
+      "liquidity": null,
+      "volume": 50975.309829,
+      "outcomes_count": 7,
+      "top_bucket": "16.0-17.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chicago on January 29?"
+    }
+  ],
+  "settle_at": "2026-01-30T06:00:00+00:00",
+  "hours_to_settle": -3082.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chicago-on-january-29",
+    "event_id": "190215",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:12.304247+00:00",
+  "last_seen_at": "2026-06-07T16:06:12.304247+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:12.304247+00:00",
+  "created_at": "2026-06-07T16:06:12.304247+00:00",
+  "updated_at": "2026-06-10T17:17:28.736603+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "16-17F",
+      "resolved_value": "16-17F",
+      "resolution_source": null,
+      "winning_market_id": "1276617",
+      "winning_question": "Will the highest temperature in Chicago be between 16-17°F on January 29?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:12.305249+00:00"
+  },
+  "legacy": null
+}

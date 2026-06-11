@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 36204.60193,
-  "volume": 5445.323936,
+  "liquidity": null,
+  "volume": 215458.97544500002,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 14.0,
       "unit": "C",
-      "yes_price": 0.0105,
-      "no_price": 0.9895,
-      "volume": 321.736916,
-      "liquidity": 949.20397,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12238.222184000004,
+      "liquidity": null,
       "token_id": "52103677510285989863672323594861267820606184814641722337509660144010494483937",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0105,
-        0.9895
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-14corbelow",
         "condition_id": "0xc1241b77d3f8c8a301a1840696f2542ed5ce6be0bf2fc4d0792d59bbece16d2e"
@@ -59,21 +59,21 @@
       "bucket_low": 15.0,
       "bucket_high": 15.0,
       "unit": "C",
-      "yes_price": 0.0365,
-      "no_price": 0.9635,
-      "volume": 517.464819,
-      "liquidity": 1446.01689,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 23949.792477999996,
+      "liquidity": null,
       "token_id": "42082980234092728969044026426240143974228634323055286625293948013135448217196",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0365,
-        0.9635
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-15c",
         "condition_id": "0xa1e084f207ccab324bbe76210aed9c35d35aed248be1e4f217bdfce1b1530985"
@@ -85,21 +85,21 @@
       "bucket_low": 16.0,
       "bucket_high": 16.0,
       "unit": "C",
-      "yes_price": 0.28,
-      "no_price": 0.72,
-      "volume": 237.57571399999998,
-      "liquidity": 1242.9176,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 64689.81555799998,
+      "liquidity": null,
       "token_id": "111926607402144581539642581064286643925634561722411921130847796122606206620217",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.28,
-        0.72
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-16c",
         "condition_id": "0xf2fef61727b8b064f3a80256490862b9c21c9374d479641450957dc2a25bc91c"
@@ -111,21 +111,21 @@
       "bucket_low": 17.0,
       "bucket_high": 17.0,
       "unit": "C",
-      "yes_price": 0.395,
-      "no_price": 0.605,
-      "volume": 482.689416,
-      "liquidity": 1354.8785,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 42507.949762000004,
+      "liquidity": null,
       "token_id": "30716981592225316004183246283814541189043749996342356220515915285514958063264",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.395,
-        0.605
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-17c",
         "condition_id": "0x48b91817fca48c75bafd89f7bae3b0d462bc9800ea5f6c25a1e3adc51e2d01e2"
@@ -137,21 +137,21 @@
       "bucket_low": 18.0,
       "bucket_high": 18.0,
       "unit": "C",
-      "yes_price": 0.205,
-      "no_price": 0.795,
-      "volume": 584.813419,
-      "liquidity": 2216.752,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 26931.398166000017,
+      "liquidity": null,
       "token_id": "99901285827360654575021090406363305613043563228515869014902501698952758005990",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.205,
-        0.795
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-18c",
         "condition_id": "0x0d9a75a8c981763c55f7a148d4ee82fad7e6089e4ddb890cf5b33e6a40953227"
@@ -163,21 +163,21 @@
       "bucket_low": 19.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.055,
-      "no_price": 0.945,
-      "volume": 768.9270269999998,
-      "liquidity": 2952.0033,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20867.650890000008,
+      "liquidity": null,
       "token_id": "110338318098014076243179306148771757852670999156239804315166050941708346590364",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.055,
-        0.945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-19c",
         "condition_id": "0xf10eff91d33c8682460e39a52217f4dd7c45e72479f4da313ca8387716491fb9"
@@ -189,21 +189,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.015,
-      "no_price": 0.985,
-      "volume": 1134.102861,
-      "liquidity": 5635.57478,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10510.583882999998,
+      "liquidity": null,
       "token_id": "31880758731381699743691678749827907228866298638144255412220815639784826951459",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.015,
-        0.985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-20c",
         "condition_id": "0x0d039f7f3343874d9f0af29745075bd20569c1436287fe2035ad4b207b40e1f3"
@@ -215,21 +215,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.0045,
-      "no_price": 0.9955,
-      "volume": 664.910381,
-      "liquidity": 5084.32771,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5928.818743999999,
+      "liquidity": null,
       "token_id": "86074277085249041175840214762332134868732044817596297150384416157856063821366",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0045,
-        0.9955
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-21c",
         "condition_id": "0xfa8473a14171101503552fba7c09ac6dc5b798f4539be57ed903fb1eb08a382f"
@@ -241,21 +241,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 398.25323000000003,
-      "liquidity": 4707.2677,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1393.472232,
+      "liquidity": null,
       "token_id": "105995099195134341112905356799635365831076195057818747387481869428494802535973",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-22c",
         "condition_id": "0x9c9cf177747e38896b2ad544ba39a11e5c0842aef3e0f2e8a61900d86e918539"
@@ -267,21 +267,21 @@
       "bucket_low": 23.0,
       "bucket_high": 23.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 468.86350000000004,
-      "liquidity": 6533.51239,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1468.4205170000002,
+      "liquidity": null,
       "token_id": "71391752254597019017973259368018115458242900646107640350330616073270321770397",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-23c",
         "condition_id": "0xaec07f1dd0c1e90cbb6c5190eb6e32ced93a61e831bc0c2675cef471b134057c"
@@ -293,21 +293,21 @@
       "bucket_low": 24.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 34.96,
-      "liquidity": 5682.7584,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4972.851031,
+      "liquidity": null,
       "token_id": "39549132962297347455162592527108537494175544043570421705688149308420264020610",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-london-on-june-6-2026-24corhigher",
         "condition_id": "0xd11d89d66f84530be60c145763819cd0f5aa5782173cc42c5d67b1e894ca765c"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.303869+00:00",
+      "ts": "2026-06-07T16:05:37.679764+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 36204.60193,
-      "volume": 5445.323936,
+      "liquidity": null,
+      "volume": 215458.97544500002,
       "outcomes_count": 11,
       "top_bucket": "17.0-17.0C",
-      "top_price": 0.395,
+      "top_price": 1.0,
       "event_title": "Highest temperature in London on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-london-on-june-6-2026",
     "event_id": "560823",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 23:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.494688+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.303869+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.303869+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.679764+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.679764+00:00",
   "created_at": "2026-06-05T06:08:46.494688+00:00",
-  "updated_at": "2026-06-05T06:36:19.303869+00:00",
+  "updated_at": "2026-06-08T11:21:23.976056+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "17C",
+      "resolved_value": "17C",
+      "resolution_source": null,
+      "winning_market_id": "2440726",
+      "winning_question": "Will the highest temperature in London be 17°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.680766+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T23:00:00+00:00",
+  "hours_to_settle": -17.1
 }

@@ -1,0 +1,360 @@
+{
+  "storage_key": "dallas_2026-05-19_high",
+  "event_id": "493659",
+  "event_slug": "arch-highest-temperature-in-dallas-on-may-19-2026",
+  "event_title": "Highest temperature in Dallas on May 19?",
+  "city_slug": "dallas",
+  "city_name": "Dallas",
+  "date": "2026-05-19",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "dallas",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-19T12:00:00Z",
+  "event_end_date": "2026-05-19T12:00:00Z",
+  "liquidity": null,
+  "volume": 6725.156822,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2281756",
+      "question": "Will the highest temperature in Dallas be 73°F or below on May 19?",
+      "bucket_low": -999.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 237.031,
+      "liquidity": null,
+      "token_id": "104940005877190890978706415910903648786273015623849668331263458016562951817822",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-73forbelow",
+        "condition_id": "0xd74f33f968a6b7049080f82aef7cf42fde100e9ce84571532799eb2da57384f7"
+      }
+    },
+    {
+      "market_id": "2281757",
+      "question": "Will the highest temperature in Dallas be between 74-75°F on May 19?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 495.71520000000004,
+      "liquidity": null,
+      "token_id": "75201818059099282442634347529371338073082682089874482524591138055387998832324",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-74-75f",
+        "condition_id": "0x7cbc64f03b4e6a6227af5b4f0986daa76eea322193f2fbf218e4d75a0de8f2a7"
+      }
+    },
+    {
+      "market_id": "2281758",
+      "question": "Will the highest temperature in Dallas be between 76-77°F on May 19?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 195.4205,
+      "liquidity": null,
+      "token_id": "33407247516831577972653593511607198684330867202539189949992475691010413791612",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-76-77f",
+        "condition_id": "0x884cf9b8fc22b66933ef3722d1eaaee6cd569a81ba21be86e8e5af4c076f27b6"
+      }
+    },
+    {
+      "market_id": "2281759",
+      "question": "Will the highest temperature in Dallas be between 78-79°F on May 19?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 477.86131099999994,
+      "liquidity": null,
+      "token_id": "89114184022924799042114605397826729530848899767645370739810433857990509420552",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-78-79f",
+        "condition_id": "0xf6dcbadf1457399762e79ac441f11be992af9a017291412fcb864f6ae2a6886d"
+      }
+    },
+    {
+      "market_id": "2281760",
+      "question": "Will the highest temperature in Dallas be between 80-81°F on May 19?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 300.87138400000003,
+      "liquidity": null,
+      "token_id": "52915783848068753915335624624011551140064052771786948830646230178453111423342",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-80-81f",
+        "condition_id": "0x1f5692a87773d401172a9125fb3ce992e0d86e1657cbdf1c797be11a4c9fb513"
+      }
+    },
+    {
+      "market_id": "2281761",
+      "question": "Will the highest temperature in Dallas be between 82-83°F on May 19?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1144.710735,
+      "liquidity": null,
+      "token_id": "70001517937938487325100329150597223418759675195551087104545928738160621789693",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-82-83f",
+        "condition_id": "0xb8a12b1fbecc9f7e3f69f7be76f690b166393d188e210e778e1c5fc203121226"
+      }
+    },
+    {
+      "market_id": "2281762",
+      "question": "Will the highest temperature in Dallas be between 84-85°F on May 19?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 249.74207599999997,
+      "liquidity": null,
+      "token_id": "39312534722235355986592210685357965087799301486894458361199042037334674782257",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-84-85f",
+        "condition_id": "0x028a2ec601c08a78112fb034e7b0643a0c687ba74f31249e76002619b01e338b"
+      }
+    },
+    {
+      "market_id": "2281763",
+      "question": "Will the highest temperature in Dallas be between 86-87°F on May 19?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 693.2536480000001,
+      "liquidity": null,
+      "token_id": "41529889664167460282777648120171718823996011100408333723351592123429595343440",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-86-87f",
+        "condition_id": "0xe3bc1c10c7203d8a9a2c11e1c82f1e4c13e4ec5e076e42674bf363eb4951010d"
+      }
+    },
+    {
+      "market_id": "2281764",
+      "question": "Will the highest temperature in Dallas be between 88-89°F on May 19?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1289.3993019999998,
+      "liquidity": null,
+      "token_id": "48142036988808803216167630688220491489854511533550040956655708321488300273551",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-88-89f",
+        "condition_id": "0xa812739ae4644bd1ab81205969602ca7bc640580de93be21b388eacf7f86d87b"
+      }
+    },
+    {
+      "market_id": "2281765",
+      "question": "Will the highest temperature in Dallas be between 90-91°F on May 19?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 688.187013,
+      "liquidity": null,
+      "token_id": "15687849827591829304734095222939932992139747923737059875535570097186905427149",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-90-91f",
+        "condition_id": "0x60a39382e8b2dbe0753532a39a998dbea410536a133be33c907968ec718466bb"
+      }
+    },
+    {
+      "market_id": "2281766",
+      "question": "Will the highest temperature in Dallas be 92°F or higher on May 19?",
+      "bucket_low": 92.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 952.964653,
+      "liquidity": null,
+      "token_id": "1089351339336143246916949224300730994333269967168390561345775850382689243034",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-dallas-on-may-19-2026-92forhigher",
+        "condition_id": "0x318a12e6ae1cecebfe3accd81abac33d631e0704f8237eb5568d0ec364ae4acc"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:58.841571+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-19T12:00:00Z",
+      "liquidity": null,
+      "volume": 6725.156822,
+      "outcomes_count": 11,
+      "top_bucket": "<=73.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Dallas on May 19?"
+    }
+  ],
+  "settle_at": "2026-05-20T05:00:00+00:00",
+  "hours_to_settle": -443.1,
+  "raw_source": {
+    "event_slug": "arch-highest-temperature-in-dallas-on-may-19-2026",
+    "event_id": "493659",
+    "markets_count": 11,
+    "game_start_time": "2026-05-19 05:00:00+00"
+  },
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:43.480544+00:00",
+  "last_seen_at": "2026-06-07T16:05:58.841571+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:58.841571+00:00",
+  "created_at": "2026-06-07T16:05:43.480544+00:00",
+  "updated_at": "2026-06-07T16:05:58.841571+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "84-85F",
+      "resolved_value": "84-85F",
+      "resolution_source": null,
+      "winning_market_id": "2306586",
+      "winning_question": "Will the highest temperature in Dallas be between 84-85°F on May 19?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:58.843576+00:00"
+  },
+  "legacy": null
+}

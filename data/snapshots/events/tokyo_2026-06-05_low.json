@@ -19,11 +19,11 @@
     "Lowest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 21730.72335,
-  "volume": 13405.263840000001,
+  "liquidity": null,
+  "volume": 19878.75286,
   "market_type": "min_temperature",
   "temperature_metric": "low",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 11.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 919.2153,
-      "liquidity": 2224.18266,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1079.9953,
+      "liquidity": null,
       "token_id": "85496794446377517223377734984357214655716245921757574874317112683621210902433",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-11corbelow",
         "condition_id": "0x8295048096088c3e6e867f21103e8018dad69e8f3e36557e7a44d4cbd3cec8b5"
@@ -59,21 +59,21 @@
       "bucket_low": 12.0,
       "bucket_high": 12.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 168.41000000000003,
-      "liquidity": 2572.90413,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 343.38000000000005,
+      "liquidity": null,
       "token_id": "4312306422203890010841125728252335269742048022474634794573085438182588549906",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-12c",
         "condition_id": "0xc1e805074ba5d45078a3c71d2b4cc474ed03ee8e965290434783d8c110be6403"
@@ -85,21 +85,21 @@
       "bucket_low": 13.0,
       "bucket_high": 13.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 1789.048856,
-      "liquidity": 945.86596,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1862.5188559999997,
+      "liquidity": null,
       "token_id": "108582900414197367464508280731485305089602053814797884798602311562551747601857",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-13c",
         "condition_id": "0xbbb9e37f06a2bcd460914b2aaa9a8f4d26271add455eb36196444749c4d41ff8"
@@ -111,21 +111,21 @@
       "bucket_low": 14.0,
       "bucket_high": 14.0,
       "unit": "C",
-      "yes_price": 0.008,
-      "no_price": 0.992,
-      "volume": 732.266328,
-      "liquidity": 679.71353,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1398.245111,
+      "liquidity": null,
       "token_id": "38050003499701517158138450812500765595439659264271350931919882573981225207883",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.008,
-        0.992
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-14c",
         "condition_id": "0x7ce1dff9713c86608b3909138d3fcdd904342aa0ddf1931f1de345a7f4d5e9f8"
@@ -137,21 +137,21 @@
       "bucket_low": 15.0,
       "bucket_high": 15.0,
       "unit": "C",
-      "yes_price": 0.05,
-      "no_price": 0.95,
-      "volume": 641.8935300000002,
-      "liquidity": 103.8527,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3598.9235900000003,
+      "liquidity": null,
       "token_id": "34388845466499572618241323153764030479936361622948129849043583930601824272982",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.05,
-        0.95
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-15c",
         "condition_id": "0x93ccafa090aa9a047a2022d7eebef09b8d28aa228155cdce8ec13669f426db4a"
@@ -163,21 +163,21 @@
       "bucket_low": 16.0,
       "bucket_high": 16.0,
       "unit": "C",
-      "yes_price": 0.3,
-      "no_price": 0.7,
-      "volume": 112.80990200000001,
-      "liquidity": 57.9059,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 1160.026912,
+      "liquidity": null,
       "token_id": "52672331490222765756428425788640394956963681560472845683952904265724350468857",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.3,
-        0.7
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-16c",
         "condition_id": "0x922f0e01a51e97e9c3946db78bd4d2aed42cc62efeaf2ccd614c9d16b3562d6b"
@@ -189,21 +189,21 @@
       "bucket_low": 17.0,
       "bucket_high": 17.0,
       "unit": "C",
-      "yes_price": 0.64,
-      "no_price": 0.36,
-      "volume": 237.19972400000003,
-      "liquidity": 53.0325,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1626.842891,
+      "liquidity": null,
       "token_id": "62281217028273323618074195357313807072509395790856258350325926420020381589537",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.64,
-        0.36
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-17c",
         "condition_id": "0xc795f4305877a368fc9ac268c13766979d5d6ceff64736fae2b7406f086ef879"
@@ -215,21 +215,21 @@
       "bucket_low": 18.0,
       "bucket_high": 18.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 4530.949272000001,
-      "liquidity": 2376.75086,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4532.049272000001,
+      "liquidity": null,
       "token_id": "22027619821221821792043991588964548230764691894236700057000791877074665959850",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-18c",
         "condition_id": "0x01853cbfdc0259975b04f08efb4023a667a2b1d18a1ca065898aaa7b0369d9af"
@@ -241,21 +241,21 @@
       "bucket_low": 19.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 954.379912,
-      "liquidity": 2393.05711,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 955.479912,
+      "liquidity": null,
       "token_id": "22393845930665730159738119768015861822217283900259877694838170503228983779538",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-19c",
         "condition_id": "0x6df5827110631be27a4ca6223d283510f28cd3ba303b31f023d8c6e7f683272a"
@@ -267,21 +267,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 3012.201016,
-      "liquidity": 4142.99099,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3013.301016,
+      "liquidity": null,
       "token_id": "57538759491378992485989079359586845465855164156581015595982625888052393524634",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-20c",
         "condition_id": "0x2a964b6d1263b6c8b549f2cf40d2d0a18d0a6b431b00245bddeb9e3be45ee13a"
@@ -293,21 +293,21 @@
       "bucket_low": 21.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 306.89,
-      "liquidity": 5569.05848,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 307.99,
+      "liquidity": null,
       "token_id": "46531612958019082433328462691614521439487029581644738423527847500102600904338",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-tokyo-on-june-5-2026-21corhigher",
         "condition_id": "0xa10263873577b6efabf63d32e2194d2a5cc1da2f91f7a145b0c3f1700bd4d2b1"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.448251+00:00",
+      "ts": "2026-06-07T16:05:37.687784+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 21730.72335,
-      "volume": 13405.263840000001,
+      "liquidity": null,
+      "volume": 19878.75286,
       "outcomes_count": 11,
-      "top_bucket": "17.0-17.0C",
-      "top_price": 0.64,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 1.0,
       "event_title": "Lowest temperature in Tokyo on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "lowest-temperature-in-tokyo-on-june-5-2026",
     "event_id": "554007",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 15:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.844358+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.448251+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.448251+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.687784+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.687784+00:00",
   "created_at": "2026-06-04T16:52:28.844358+00:00",
-  "updated_at": "2026-06-05T06:36:19.448251+00:00",
+  "updated_at": "2026-06-08T11:27:06.881987+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "16C",
+      "resolved_value": "16C",
+      "resolution_source": null,
+      "winning_market_id": "2425099",
+      "winning_question": "Will the lowest temperature in Tokyo be 16°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.689789+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T15:00:00+00:00",
+  "hours_to_settle": -49.1
 }

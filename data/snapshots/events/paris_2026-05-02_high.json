@@ -1,0 +1,360 @@
+{
+  "storage_key": "paris_2026-05-02_high",
+  "event_id": "433169",
+  "event_slug": "highest-temperature-in-paris-on-may-2-2026",
+  "event_title": "Highest temperature in Paris on May 2?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-05-02",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-02T12:00:00Z",
+  "event_end_date": "2026-05-02T12:00:00Z",
+  "liquidity": null,
+  "volume": 118259.84257799998,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2122171",
+      "question": "Will the highest temperature in Paris be 18°C or below on May 2?",
+      "bucket_low": -999.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4957.498549000001,
+      "liquidity": null,
+      "token_id": "83302259355524764583811537687986271651617381614417609658588294993917456242293",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-18corbelow",
+        "condition_id": "0xd6d3233b60d7510bc4b08d457e8ff0ed935c3c59be12a46c5a824d7f103e6cad"
+      }
+    },
+    {
+      "market_id": "2122172",
+      "question": "Will the highest temperature in Paris be 19°C on May 2?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1840.509007,
+      "liquidity": null,
+      "token_id": "57127127556230150069959442234037026764871146266441073797404876835442427808342",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-19c",
+        "condition_id": "0xa60ae922157064a3140ab3695f3cd3ff4bf14f600bb45ef09f202ce616022f73"
+      }
+    },
+    {
+      "market_id": "2122173",
+      "question": "Will the highest temperature in Paris be 20°C on May 2?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4285.448626000001,
+      "liquidity": null,
+      "token_id": "115735392853700729952857281264623634833072571539053968312412041689393701606255",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-20c",
+        "condition_id": "0x2d02f730c2a14530a316e95f3d4b0fb04b4b0762a440c5ac178db7a2ba4cd6d2"
+      }
+    },
+    {
+      "market_id": "2122174",
+      "question": "Will the highest temperature in Paris be 21°C on May 2?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3656.978919,
+      "liquidity": null,
+      "token_id": "63502461104096732671520467955315741484902649538885489795236718514323193335147",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-21c",
+        "condition_id": "0xccef4c606cfef58ca9f44b3a74a52aa2944ed8453acd15ec0f466c1e4112b2d0"
+      }
+    },
+    {
+      "market_id": "2122175",
+      "question": "Will the highest temperature in Paris be 22°C on May 2?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6349.791642000003,
+      "liquidity": null,
+      "token_id": "45074082141743183549607025273304084754750849223861847650689439876417808647894",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-22c",
+        "condition_id": "0xcba1e12cd67df89aafdc14acd0f3fcfaa4c7ee13c2805eee0d7fd72be63dd9ab"
+      }
+    },
+    {
+      "market_id": "2122176",
+      "question": "Will the highest temperature in Paris be 23°C on May 2?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11395.593389999996,
+      "liquidity": null,
+      "token_id": "99466552198436914292207595261152769752975118005833949157515458182665094984592",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-23c",
+        "condition_id": "0xe827df064f49085bd70711b612d3bd334ad9fe58e0a367b1ce38b54f5e7577bc"
+      }
+    },
+    {
+      "market_id": "2122177",
+      "question": "Will the highest temperature in Paris be 24°C on May 2?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13357.607136999992,
+      "liquidity": null,
+      "token_id": "108371334823835838802876304327834443473945994044671912709332768767842952442857",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-24c",
+        "condition_id": "0xf2c9c13ad3429f2590938416f16e69e42a1b9c84cd74ea6bd26958c92aab367b"
+      }
+    },
+    {
+      "market_id": "2122178",
+      "question": "Will the highest temperature in Paris be 25°C on May 2?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24761.088078999997,
+      "liquidity": null,
+      "token_id": "92336396242936478869484152931474069816364043413516496376894513094702406025656",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-25c",
+        "condition_id": "0x3d3877ec6c9d740059939f150ce91127c66f842bff37b3f9fb49b7b1e7c91717"
+      }
+    },
+    {
+      "market_id": "2122179",
+      "question": "Will the highest temperature in Paris be 26°C on May 2?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 24597.403465999992,
+      "liquidity": null,
+      "token_id": "47265134326793232169519455597325259427687551374726868228134159444488683973434",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-26c",
+        "condition_id": "0x630cac7f160f045e158515b2fdc8b369df84cf58f8e324143010a9dd5a6910b0"
+      }
+    },
+    {
+      "market_id": "2122180",
+      "question": "Will the highest temperature in Paris be 27°C on May 2?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14842.044328999998,
+      "liquidity": null,
+      "token_id": "15280936176757190839315297766942755016297842489685740390808723732750870720941",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-27c",
+        "condition_id": "0x9d8abf11c283477cd970c7deb32d83c68566810fc3b8b06db8e66eb9f6984b4d"
+      }
+    },
+    {
+      "market_id": "2122181",
+      "question": "Will the highest temperature in Paris be 28°C or higher on May 2?",
+      "bucket_low": 28.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8215.879434000002,
+      "liquidity": null,
+      "token_id": "5845625491079647149552671300236895677314266370093344510479768919368547641707",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-2-2026-28corhigher",
+        "condition_id": "0x8b36932ce68590f239e478539d1eeef03c684d1a74834dfc7bc9f8db0476e42b"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.564275+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-02T12:00:00Z",
+      "liquidity": null,
+      "volume": 118259.84257799998,
+      "outcomes_count": 11,
+      "top_bucket": "26.0-26.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Paris on May 2?"
+    }
+  ],
+  "settle_at": "2026-05-02T22:00:00+00:00",
+  "hours_to_settle": -858.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-paris-on-may-2-2026",
+    "event_id": "433169",
+    "markets_count": 11,
+    "game_start_time": "2026-05-01 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.564275+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.564275+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.564275+00:00",
+  "created_at": "2026-06-07T16:06:02.564275+00:00",
+  "updated_at": "2026-06-10T17:17:30.365857+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "26C",
+      "resolved_value": "26C",
+      "resolution_source": null,
+      "winning_market_id": "2122179",
+      "winning_question": "Will the highest temperature in Paris be 26°C on May 2?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.566281+00:00"
+  },
+  "legacy": null
+}

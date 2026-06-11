@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 34876.75136,
-  "volume": 3808.0417589999997,
+  "liquidity": null,
+  "volume": 114988.549688,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 121.0,
-      "liquidity": 5989.35671,
+      "liquidity": 0.0,
       "token_id": "63477937568309750978156471307228271319859587492042784876834480226615418700518",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-19corbelow",
         "condition_id": "0x145fb3c1a2209e5ef9b58b4f6425ce179a71223904a3ede89c98a6c37ee40746"
@@ -59,21 +59,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 115.0,
-      "liquidity": 5647.75616,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 147.4,
+      "liquidity": 0.0,
       "token_id": "55327917948337586283550581615234147637564960559221679389546045704984700666610",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-20c",
         "condition_id": "0x6312d7a52f1d0bd5a44a7a3115750407a180119b3d3d2e70e4dd48e86e26852f"
@@ -85,21 +85,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 256.66666499999997,
-      "liquidity": 4838.61539,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3427.745562,
+      "liquidity": 0.0,
       "token_id": "88889933730121923490668608545118459849944353208528295954207559347869587726196",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-21c",
         "condition_id": "0x43f06c2b30f79f0943f40a2427bd59260372a6222f38351ceddbaf2572246f40"
@@ -111,21 +111,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 30.0,
-      "liquidity": 3392.25462,
+      "liquidity": 0.0,
       "token_id": "1728397572164925186779668531399116065600632820546141029003799738034313378158",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-22c",
         "condition_id": "0xc31e699ddde6a70254e967e572d6efc2988fa72a7fcf38118a782bd094684efe"
@@ -137,21 +137,21 @@
       "bucket_low": 23.0,
       "bucket_high": 23.0,
       "unit": "C",
-      "yes_price": 0.007,
-      "no_price": 0.993,
-      "volume": 1220.148077,
-      "liquidity": 4899.6078,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5914.081688,
+      "liquidity": null,
       "token_id": "55070111423325958432004804093953986686824609867746602174903636557612815698868",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.007,
-        0.993
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-23c",
         "condition_id": "0xf8cf5751eddc295eef7aa69421b4da0c9b58bd164550d224f4539005b0657b26"
@@ -163,21 +163,21 @@
       "bucket_low": 24.0,
       "bucket_high": 24.0,
       "unit": "C",
-      "yes_price": 0.065,
-      "no_price": 0.935,
-      "volume": 611.352167,
-      "liquidity": 3275.3707,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16296.316984999996,
+      "liquidity": null,
       "token_id": "100897112978543068465669461496185067943632387826920749405973334083446149171500",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.065,
-        0.935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-24c",
         "condition_id": "0xbe4dde37628e35a5d56ddbe4f351a5eceb17aaf10c0d88ad1100c65b3dc4c7a1"
@@ -189,21 +189,21 @@
       "bucket_low": 25.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.165,
-      "no_price": 0.835,
-      "volume": 463.315986,
-      "liquidity": 1397.8517,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16250.120837999999,
+      "liquidity": null,
       "token_id": "75145701186272433795559219032048066986077897196084969716259930597738628609547",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.165,
-        0.835
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-25c",
         "condition_id": "0xf425ed42372937f2a3e6ba95641e81c4a3a348413720f1f44da331990192c221"
@@ -215,21 +215,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.355,
-      "no_price": 0.645,
-      "volume": 219.590888,
-      "liquidity": 1324.6821,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 32752.58030800001,
+      "liquidity": null,
       "token_id": "101692610303885335226415122854491183220142974753131043879667044971490459979549",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.355,
-        0.645
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-26c",
         "condition_id": "0xe5e2bed55a52d9797e85f6c6488e8bb901d4574b768aa4c56f143de0670f5c0e"
@@ -241,21 +241,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.275,
-      "no_price": 0.725,
-      "volume": 77.88591299999999,
-      "liquidity": 1148.1393,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18309.181988999997,
+      "liquidity": null,
       "token_id": "40035523292128302282304815752362595060581410060483981953747117855815484095515",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.275,
-        0.725
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-27c",
         "condition_id": "0x97a1e757ab1303ad23f62289d9fe8acc5e8bf5380adbf21969299e6622bf1da9"
@@ -267,21 +267,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.105,
-      "no_price": 0.895,
-      "volume": 538.146449,
-      "liquidity": 1897.24079,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10862.260097999999,
+      "liquidity": null,
       "token_id": "13479364732006134343859375037555844634740261126845246026168012744298269389249",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.105,
-        0.895
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-28c",
         "condition_id": "0xc03de20dc69a50e71bd17840dc09b3285ce7f23a9f41ec78d18ea9451a590d65"
@@ -293,21 +293,21 @@
       "bucket_low": 29.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0405,
-      "no_price": 0.9595,
-      "volume": 937.3658499999999,
-      "liquidity": 3272.0034,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10877.862219999997,
+      "liquidity": null,
       "token_id": "18224885717844534384165312976542051161028674516839484856075800268749438067341",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0405,
-        0.9595
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-shanghai-on-june-6-2026-29corhigher",
         "condition_id": "0x94f31624658bf181ad797d9ee4d89a1c68217adea215a023e1e6909c7d302a95"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.122356+00:00",
+      "ts": "2026-06-07T16:05:37.610584+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 34876.75136,
-      "volume": 3808.0417589999997,
+      "liquidity": null,
+      "volume": 114988.549688,
       "outcomes_count": 11,
       "top_bucket": "26.0-26.0C",
-      "top_price": 0.355,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Shanghai on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-shanghai-on-june-6-2026",
     "event_id": "560842",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.470113+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.122356+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.122356+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.610584+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.610584+00:00",
   "created_at": "2026-06-05T06:08:46.470113+00:00",
-  "updated_at": "2026-06-05T06:36:19.122356+00:00",
+  "updated_at": "2026-06-08T11:18:34.471120+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "26C",
+      "resolved_value": "26C",
+      "resolution_source": null,
+      "winning_market_id": "2440939",
+      "winning_question": "Will the highest temperature in Shanghai be 26°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.611587+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 24.4,
+        "unit": "C",
+        "model": "cma_grapes_global",
+        "requested_model": "cma_grapes_global",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 25.1,
+        "unit": "C",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless+archive",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 25.1,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 25.1,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:16:48.181938+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T16:00:00+00:00",
+  "hours_to_settle": -24.1
 }

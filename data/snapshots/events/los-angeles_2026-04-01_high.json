@@ -1,0 +1,360 @@
+{
+  "storage_key": "los-angeles_2026-04-01_high",
+  "event_id": "322457",
+  "event_slug": "highest-temperature-in-los-angeles-on-april-1-2026",
+  "event_title": "Highest temperature in Los Angeles on April 1?",
+  "city_slug": "los-angeles",
+  "city_name": "Los Angeles",
+  "date": "2026-04-01",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Los Angeles",
+    "Hide From New",
+    "Daily Temperature",
+    "Recurring",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-01T12:00:00Z",
+  "event_end_date": "2026-04-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 73875.87014300001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1780151",
+      "question": "Will the highest temperature in Los Angeles be 59°F or below on April 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3485.550456999999,
+      "liquidity": null,
+      "token_id": "55256444550432168619669201596988760016785241664700863580311723857244251041425",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-59forbelow",
+        "condition_id": "0x89474c995b2795945f06bf7e50a20d551016f04fd97d3e66916f75188fbe09b8"
+      }
+    },
+    {
+      "market_id": "1780152",
+      "question": "Will the highest temperature in Los Angeles be between 60-61°F on April 1?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15767.822713000005,
+      "liquidity": null,
+      "token_id": "9575378842553368189329888157499591521897584768442527979009708482904067408931",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-60-61f",
+        "condition_id": "0xa22e583e065d5b29f8756bbb626c9d5ddc563bcf35885bc01ce541f29b92efee"
+      }
+    },
+    {
+      "market_id": "1780153",
+      "question": "Will the highest temperature in Los Angeles be between 62-63°F on April 1?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5434.247438999999,
+      "liquidity": null,
+      "token_id": "35368715031588887517680056656746012334859664646098374511142887363865450134318",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-62-63f",
+        "condition_id": "0xdf075638c8e6fcf4cd880402b746f649d6c43119e8445899438edc6cf37e46c9"
+      }
+    },
+    {
+      "market_id": "1780154",
+      "question": "Will the highest temperature in Los Angeles be between 64-65°F on April 1?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8723.756183,
+      "liquidity": null,
+      "token_id": "68829340223479837436457757111610146805685106566080696240088046933163615920206",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-64-65f",
+        "condition_id": "0x5fad453a463fcb3de7edbe769ce9df53c6f18329cf3c4a88cfe31cec2be7a735"
+      }
+    },
+    {
+      "market_id": "1780155",
+      "question": "Will the highest temperature in Los Angeles be between 66-67°F on April 1?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 13878.751747000002,
+      "liquidity": null,
+      "token_id": "72506378934790937947860601070423688108914172341515151227265063699796451968499",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-66-67f",
+        "condition_id": "0x3391fb960ffe55b63b47971b86fc271b64658e99598fff26edb148a8563b0a6b"
+      }
+    },
+    {
+      "market_id": "1780156",
+      "question": "Will the highest temperature in Los Angeles be between 68-69°F on April 1?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6472.790874000002,
+      "liquidity": null,
+      "token_id": "47281253818531014215518767517539904339308363200679289640147188176636808728331",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-68-69f",
+        "condition_id": "0x97350c88851f3d9ffd10e5cdd270ce345866c8b0a1262a01378a5438efabe554"
+      }
+    },
+    {
+      "market_id": "1780157",
+      "question": "Will the highest temperature in Los Angeles be between 70-71°F on April 1?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6567.907922000002,
+      "liquidity": null,
+      "token_id": "83170117308106153972345553189481008729802294341640638338909707563355943416780",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-70-71f",
+        "condition_id": "0x3d22d58478fcf8119f2b7d518c9e74c1f6d5cfd01e27a79450b0e12960358bfe"
+      }
+    },
+    {
+      "market_id": "1780158",
+      "question": "Will the highest temperature in Los Angeles be between 72-73°F on April 1?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5170.562800000001,
+      "liquidity": null,
+      "token_id": "96045733935416945734808558122908918048100372267743224589708622689401476812814",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-72-73f",
+        "condition_id": "0x8631e2ebc819fb8a0127bda8982f9334b99f03398646f799ee66d176d9ffa676"
+      }
+    },
+    {
+      "market_id": "1780159",
+      "question": "Will the highest temperature in Los Angeles be between 74-75°F on April 1?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2265.2651660000006,
+      "liquidity": null,
+      "token_id": "4011726436737245217882840104583914334383131322671752981902039810625255348207",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-74-75f",
+        "condition_id": "0x844499e52e3fe985b87a887e1fc6395af3d8c521dd8743df0a87d2ae0ba130e5"
+      }
+    },
+    {
+      "market_id": "1780160",
+      "question": "Will the highest temperature in Los Angeles be between 76-77°F on April 1?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2085.8463,
+      "liquidity": null,
+      "token_id": "58186942205144396816676873148869767718875758554067860829444058895781862731520",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-76-77f",
+        "condition_id": "0x2ffd2291cd26a206fae5d2315260974c24eb5f0ce7a8e07527cf570d2d485496"
+      }
+    },
+    {
+      "market_id": "1780161",
+      "question": "Will the highest temperature in Los Angeles be 78°F or higher on April 1?",
+      "bucket_low": 78.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4023.368542,
+      "liquidity": null,
+      "token_id": "90190484659518494719706130423821954914302909931446537678503205034434604038820",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-april-1-2026-78forhigher",
+        "condition_id": "0x67037acf03b316273792a91958fd3a74e0dc2eebc263fcff32ce644f5d3482a2"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.320334+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 73875.87014300001,
+      "outcomes_count": 11,
+      "top_bucket": "66.0-67.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Los Angeles on April 1?"
+    }
+  ],
+  "settle_at": "2026-04-02T07:00:00+00:00",
+  "hours_to_settle": -1593.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-los-angeles-on-april-1-2026",
+    "event_id": "322457",
+    "markets_count": 11,
+    "game_start_time": "2026-04-01 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.320334+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.320334+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.320334+00:00",
+  "created_at": "2026-06-07T16:06:08.320334+00:00",
+  "updated_at": "2026-06-10T17:17:29.559228+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "66-67F",
+      "resolved_value": "66-67F",
+      "resolution_source": null,
+      "winning_market_id": "1780155",
+      "winning_question": "Will the highest temperature in Los Angeles be between 66-67°F on April 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.321337+00:00"
+  },
+  "legacy": null
+}

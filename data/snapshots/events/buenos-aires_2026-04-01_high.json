@@ -1,0 +1,360 @@
+{
+  "storage_key": "buenos-aires_2026-04-01_high",
+  "event_id": "322431",
+  "event_slug": "highest-temperature-in-buenos-aires-on-april-1-2026",
+  "event_title": "Highest temperature in Buenos Aires on April 1?",
+  "city_slug": "buenos-aires",
+  "city_name": "Buenos Aires",
+  "date": "2026-04-01",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Hide From New",
+    "Rewards Automation 50 4.5 50",
+    "Weather",
+    "Recurring",
+    "Daily Temperature",
+    "Buenos Aires",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-01T12:00:00Z",
+  "event_end_date": "2026-04-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 158648.87952200003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1779865",
+      "question": "Will the highest temperature in Buenos Aires be 25°C or below on April 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10252.898222999998,
+      "liquidity": null,
+      "token_id": "23354183259627856627074556367326969410800485596634853421601132500984581332143",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-25corbelow",
+        "condition_id": "0x885867630e06ba5a58697ec8c7e1adaebfc42b3e01820fc7f1b644ce8586c345"
+      }
+    },
+    {
+      "market_id": "1779866",
+      "question": "Will the highest temperature in Buenos Aires be 26°C on April 1?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7425.293303,
+      "liquidity": null,
+      "token_id": "85731761701499177702299367035699118367891723598321090438602195999365081516173",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-26c",
+        "condition_id": "0x7578dfa5cebb52f7d5057b0449737c4c7650c55a2d6efd7b2260c3188f8da95a"
+      }
+    },
+    {
+      "market_id": "1779867",
+      "question": "Will the highest temperature in Buenos Aires be 27°C on April 1?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10888.46559,
+      "liquidity": null,
+      "token_id": "39485777894460819398181786675305415388886099806168797617276053958967997690225",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-27c",
+        "condition_id": "0x0697b8767646ee8b65d5e0d7a1ecf634ffc764096575e6949f595449b46390fb"
+      }
+    },
+    {
+      "market_id": "1779868",
+      "question": "Will the highest temperature in Buenos Aires be 28°C on April 1?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10454.492096,
+      "liquidity": null,
+      "token_id": "79038526633644659813949266490712917959452035533112547180224452054760388664367",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-28c",
+        "condition_id": "0xedb327d5da2bbe50fee0bd2b8f88d7651b6b517c3cce05392e8976dd5e9aad63"
+      }
+    },
+    {
+      "market_id": "1779869",
+      "question": "Will the highest temperature in Buenos Aires be 29°C on April 1?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 39414.800677000014,
+      "liquidity": null,
+      "token_id": "41681184283124374957051368070624609342342910031536293516886541834238473221356",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-29c",
+        "condition_id": "0xf10dca97621771dfb519f112e7b9c939b2228c8a2cf01b1998b86a41c0eb9314"
+      }
+    },
+    {
+      "market_id": "1779870",
+      "question": "Will the highest temperature in Buenos Aires be 30°C on April 1?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16036.407584999999,
+      "liquidity": null,
+      "token_id": "87353367441411155705569805763912353715873550553260601119063404905392723329099",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-30c",
+        "condition_id": "0x0581289360efb374bd6f613c4bf498cef2dbdb8d9dc8cf078bbc7495657bbd1a"
+      }
+    },
+    {
+      "market_id": "1779871",
+      "question": "Will the highest temperature in Buenos Aires be 31°C on April 1?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17043.321251,
+      "liquidity": null,
+      "token_id": "110542674062521675019659996589781368615511450749756651001266317600648900821543",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-31c",
+        "condition_id": "0xcd222c0aa524cea6173f11670edb9a1c97d9fc2a642279604243dc9be0b6f9c4"
+      }
+    },
+    {
+      "market_id": "1779872",
+      "question": "Will the highest temperature in Buenos Aires be 32°C on April 1?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16630.711571000007,
+      "liquidity": null,
+      "token_id": "6493383301968542184506528013460602499276337011555663189878710606711454609844",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-32c",
+        "condition_id": "0xb93b461dccdf344d384724089ed5116a51916ecaa024ed21a13933b0d70321f8"
+      }
+    },
+    {
+      "market_id": "1779873",
+      "question": "Will the highest temperature in Buenos Aires be 33°C on April 1?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14275.276948000013,
+      "liquidity": null,
+      "token_id": "89323054229636793365297114960856988250686140963493018698179814580753115385290",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-33c",
+        "condition_id": "0x9718e81d5659f9a24e5def929b3cd6b8d4de071b36fb9c1b3ed45f263d6a64e2"
+      }
+    },
+    {
+      "market_id": "1779874",
+      "question": "Will the highest temperature in Buenos Aires be 34°C on April 1?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9654.380337000006,
+      "liquidity": null,
+      "token_id": "25373679209600247044291467761142514741482930475705366333309705460956822584212",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-34c",
+        "condition_id": "0x26589661faa3e3bf35b9e2ff576338c7d65ef8c58f6607187ebb8d766cf97557"
+      }
+    },
+    {
+      "market_id": "1779875",
+      "question": "Will the highest temperature in Buenos Aires be 35°C or higher on April 1?",
+      "bucket_low": 35.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6572.831941000002,
+      "liquidity": null,
+      "token_id": "1724428818734879373083977115785236528454410811912475403823167449001933725481",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-april-1-2026-35corhigher",
+        "condition_id": "0x17d9c75d58a5fa3e855285c930548c49f9d428e67f37471568f2be2f344ebb24"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.397536+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 158648.87952200003,
+      "outcomes_count": 11,
+      "top_bucket": "29.0-29.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Buenos Aires on April 1?"
+    }
+  ],
+  "settle_at": "2026-04-02T03:00:00+00:00",
+  "hours_to_settle": -1597.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-buenos-aires-on-april-1-2026",
+    "event_id": "322431",
+    "markets_count": 11,
+    "game_start_time": "2026-04-01 03:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.397536+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.397536+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.397536+00:00",
+  "created_at": "2026-06-07T16:06:08.397536+00:00",
+  "updated_at": "2026-06-10T17:17:28.557880+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "29C",
+      "resolved_value": "29C",
+      "resolution_source": null,
+      "winning_market_id": "1779869",
+      "winning_question": "Will the highest temperature in Buenos Aires be 29°C on April 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.398542+00:00"
+  },
+  "legacy": null
+}

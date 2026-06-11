@@ -1,0 +1,360 @@
+{
+  "storage_key": "toronto_2026-05-10_high",
+  "event_id": "460653",
+  "event_slug": "highest-temperature-in-toronto-on-may-10-2026",
+  "event_title": "Highest temperature in Toronto on May 10?",
+  "city_slug": "toronto",
+  "city_name": "Toronto",
+  "date": "2026-05-10",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Toronto",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-10T12:00:00Z",
+  "event_end_date": "2026-05-10T12:00:00Z",
+  "liquidity": null,
+  "volume": 59488.634831,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2186637",
+      "question": "Will the highest temperature in Toronto be 9°C or below on May 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6766.595499,
+      "liquidity": null,
+      "token_id": "6130298470090382936485972437496764656734487434153748422569623277088383097789",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-9corbelow",
+        "condition_id": "0xa736f27333def2b007c463589b63190a861421699a1eeb6acd6371ff9cff412c"
+      }
+    },
+    {
+      "market_id": "2186638",
+      "question": "Will the highest temperature in Toronto be 10°C on May 10?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4053.0353999999984,
+      "liquidity": null,
+      "token_id": "39812059770626368497855920041860699430894632938744230245779450667484468686938",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-10c",
+        "condition_id": "0x5d8f47adc0a7820cb67c025f2ef91de254758c5e4c52285d5a58cd277fb9a3d3"
+      }
+    },
+    {
+      "market_id": "2186639",
+      "question": "Will the highest temperature in Toronto be 11°C on May 10?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6056.8854710000005,
+      "liquidity": null,
+      "token_id": "71525187765661027616204166339886096666211264378737270314900944536363907080576",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-11c",
+        "condition_id": "0xdc40e817766f5f520172c76fea68597f5d21a09dcf0c833c925425d6dbf6fd90"
+      }
+    },
+    {
+      "market_id": "2186640",
+      "question": "Will the highest temperature in Toronto be 12°C on May 10?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8371.623088999997,
+      "liquidity": null,
+      "token_id": "32385211281469681187232122337459049327178476172409921276434882042715640622045",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-12c",
+        "condition_id": "0xb89320b812d8859057b25db310438230e81c421d362c0b799328b8b9223ca0e9"
+      }
+    },
+    {
+      "market_id": "2186641",
+      "question": "Will the highest temperature in Toronto be 13°C on May 10?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7317.156292000004,
+      "liquidity": null,
+      "token_id": "53160320085178060690373674606957508147060768588156639544439984129597132972894",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-13c",
+        "condition_id": "0x2d4d5cae916e11ceb790da003e179c1d93a4efd426a7b69c96c34fdfad824f56"
+      }
+    },
+    {
+      "market_id": "2186642",
+      "question": "Will the highest temperature in Toronto be 14°C on May 10?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5046.439128000001,
+      "liquidity": null,
+      "token_id": "90722995885844053841895480745635623308649295195853175267094606060298059469330",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-14c",
+        "condition_id": "0xeae7d09dc565c7c62d231d624c6f9570b4dcc771ac4d217ea83171d189f47ed1"
+      }
+    },
+    {
+      "market_id": "2186643",
+      "question": "Will the highest temperature in Toronto be 15°C on May 10?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5285.922879000002,
+      "liquidity": null,
+      "token_id": "67069188926370192490140138484185039456173549499689789247055315831410041945955",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-15c",
+        "condition_id": "0xefb62931f58f229b30d4d830c3142781f712217968d92cf7c07c0e0889d794c7"
+      }
+    },
+    {
+      "market_id": "2186644",
+      "question": "Will the highest temperature in Toronto be 16°C on May 10?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3842.4423170000005,
+      "liquidity": null,
+      "token_id": "65133141324240253764111782838875207262938549199056803280339165531888376822684",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-16c",
+        "condition_id": "0x3bbdc5b75261fefad867fce406930548d4c8174e4fb9247bf1e930d62ffc82e9"
+      }
+    },
+    {
+      "market_id": "2186645",
+      "question": "Will the highest temperature in Toronto be 17°C on May 10?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4730.0829109999995,
+      "liquidity": null,
+      "token_id": "32569034132121759431033542310672434254524060388434192561327901361469202865217",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-17c",
+        "condition_id": "0xaa6dd237e05520dfeef94fb6e89e06e846e6b9a5abc41ce11196481cbbbf67cf"
+      }
+    },
+    {
+      "market_id": "2186646",
+      "question": "Will the highest temperature in Toronto be 18°C on May 10?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4024.543834000001,
+      "liquidity": null,
+      "token_id": "99462282402312993737275439559592512969083548650401274918220454845682099008629",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-18c",
+        "condition_id": "0x66ce86bf0a3ec03a6a4ee7fcc530257944c3d1a9a2887b7bd61fdbadc22c46cd"
+      }
+    },
+    {
+      "market_id": "2186647",
+      "question": "Will the highest temperature in Toronto be 19°C or higher on May 10?",
+      "bucket_low": 19.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3993.908011,
+      "liquidity": null,
+      "token_id": "80618084571644035893917104751475233774548045107062612091068218947582942597728",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-may-10-2026-19corhigher",
+        "condition_id": "0x2259320473a31fcaa4157522ebbe4b6b09daff9a1b6af83fdae8f89475d8df15"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:00.778843+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-10T12:00:00Z",
+      "liquidity": null,
+      "volume": 59488.634831,
+      "outcomes_count": 11,
+      "top_bucket": "13.0-13.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Toronto on May 10?"
+    }
+  ],
+  "settle_at": "2026-05-11T04:00:00+00:00",
+  "hours_to_settle": -660.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-toronto-on-may-10-2026",
+    "event_id": "460653",
+    "markets_count": 11,
+    "game_start_time": "2026-05-10 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:00.778843+00:00",
+  "last_seen_at": "2026-06-07T16:06:00.778843+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:00.778843+00:00",
+  "created_at": "2026-06-07T16:06:00.778843+00:00",
+  "updated_at": "2026-06-10T17:17:31.213260+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "13C",
+      "resolved_value": "13C",
+      "resolution_source": null,
+      "winning_market_id": "2186641",
+      "winning_question": "Will the highest temperature in Toronto be 13°C on May 10?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:00.780887+00:00"
+  },
+  "legacy": null
+}

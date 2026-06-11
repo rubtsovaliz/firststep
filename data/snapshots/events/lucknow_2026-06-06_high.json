@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 23552.55976,
-  "volume": 1281.4684089999998,
+  "liquidity": null,
+  "volume": 43058.403222,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.0065,
-      "no_price": 0.9935,
-      "volume": 32.042995,
-      "liquidity": 4175.6139,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3564.8536500000014,
+      "liquidity": null,
       "token_id": "27605022875203595512533922788298706500949635216105648019332691884305410952650",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0065,
-        0.9935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-34corbelow",
         "condition_id": "0x3c3ccfcfd3239ce2f79b6fede88f9205cd9d426aa56ffb59efb9d80db1fa6b2a"
@@ -59,21 +59,21 @@
       "bucket_low": 35.0,
       "bucket_high": 35.0,
       "unit": "C",
-      "yes_price": 0.0065,
-      "no_price": 0.9935,
-      "volume": 286.3746,
-      "liquidity": 3718.5158,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6126.399639,
+      "liquidity": null,
       "token_id": "66329779138295500511964084906856186213705289308633138018478415583241916090167",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0065,
-        0.9935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-35c",
         "condition_id": "0xbb9de5576f4fec7841d7276cc8df8e2d598f33c5b99d28ca3e0a9f246aca1ed8"
@@ -85,21 +85,21 @@
       "bucket_low": 36.0,
       "bucket_high": 36.0,
       "unit": "C",
-      "yes_price": 0.049,
-      "no_price": 0.951,
-      "volume": 4.994,
-      "liquidity": 1196.72134,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6245.672832,
+      "liquidity": null,
       "token_id": "54663528572350758016048150647034099921740790924030818299704479585508148583285",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.049,
-        0.951
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-36c",
         "condition_id": "0x176f301b3e61b1a27120a7f977c8424286e6e8ea447eebc4fbd21bea58509dae"
@@ -111,21 +111,21 @@
       "bucket_low": 37.0,
       "bucket_high": 37.0,
       "unit": "C",
-      "yes_price": 0.125,
-      "no_price": 0.875,
-      "volume": 196.112966,
-      "liquidity": 1272.5281,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5626.472825999999,
+      "liquidity": null,
       "token_id": "2019340974698061382603244921265553646956561036190719490005849412650277234789",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.125,
-        0.875
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-37c",
         "condition_id": "0xe26246f8da76e0a5ca56e7d01c6f2fdfe98b4aa549525ea7956f6f4d1eecc98f"
@@ -137,21 +137,21 @@
       "bucket_low": 38.0,
       "bucket_high": 38.0,
       "unit": "C",
-      "yes_price": 0.355,
-      "no_price": 0.645,
-      "volume": 138.55106300000003,
-      "liquidity": 1087.1561,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3141.4757779999986,
+      "liquidity": null,
       "token_id": "45663096636676642460100074412157664204351536204032612695303515611557182365358",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.355,
-        0.645
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-38c",
         "condition_id": "0x17d33ad3421f11807a92f3f406c22104873091a9817dcdd3482c453ada8cd7c3"
@@ -163,21 +163,21 @@
       "bucket_low": 39.0,
       "bucket_high": 39.0,
       "unit": "C",
-      "yes_price": 0.3,
-      "no_price": 0.7,
-      "volume": 129.753512,
-      "liquidity": 1115.6138,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4441.517010999999,
+      "liquidity": null,
       "token_id": "108090802868612558362775660714533342082418432890204539834009302109622063428790",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.3,
-        0.7
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-39c",
         "condition_id": "0xb5e12f0dd9955f67b816d1beaf86a6645ca22c46617aa1b5de762d1bd7488136"
@@ -189,21 +189,21 @@
       "bucket_low": 40.0,
       "bucket_high": 40.0,
       "unit": "C",
-      "yes_price": 0.045,
-      "no_price": 0.955,
-      "volume": 472.64432299999993,
-      "liquidity": 1498.6675,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6763.069474000003,
+      "liquidity": null,
       "token_id": "656444464043783347512944189090311821807981778289574519307605381211115062338",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.045,
-        0.955
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-40c",
         "condition_id": "0x0af1ff78dc928a5e4b8211503df770b94345c8105ed5f6dbd02d4d56c03c05f8"
@@ -215,21 +215,21 @@
       "bucket_low": 41.0,
       "bucket_high": 41.0,
       "unit": "C",
-      "yes_price": 0.022,
-      "no_price": 0.978,
-      "volume": 120.074095,
-      "liquidity": 1450.12402,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5138.752138000001,
+      "liquidity": null,
       "token_id": "31862489586704611817021189548235521080595752243496593202878067152056040536346",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.022,
-        0.978
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-41c",
         "condition_id": "0xc739bcd6e23cc4d82634af204f7b1b7b1152be32c41cd860245d6875c4e2b594"
@@ -241,21 +241,21 @@
       "bucket_low": 42.0,
       "bucket_high": 42.0,
       "unit": "C",
-      "yes_price": 0.0105,
-      "no_price": 0.9895,
-      "volume": 329.623454,
-      "liquidity": 1817.3917,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1013.987808,
+      "liquidity": null,
       "token_id": "111877832233362196970491807304177311562725292985141008519724978755626191837138",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0105,
-        0.9895
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-42c",
         "condition_id": "0x29a97c547277f1f4e157308cbf667e1e9831ffc27afb6f9e2488bd03dcb623dc"
@@ -267,21 +267,21 @@
       "bucket_low": 43.0,
       "bucket_high": 43.0,
       "unit": "C",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 161.0,
-      "liquidity": 4092.81792,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 593.615692,
+      "liquidity": null,
       "token_id": "32097390994936838151000768969996873979050051187982647177465334618888935211382",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-43c",
         "condition_id": "0x305311d0bee480c123662125b9416c2669f20a79fc6e2525adfbb18b061efa9b"
@@ -293,21 +293,21 @@
       "bucket_low": 44.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 30.909,
-      "liquidity": 3418.66722,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 402.586374,
+      "liquidity": null,
       "token_id": "54332375995069652375949087890746945005650482594851449355179951308269292258002",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-lucknow-on-june-6-2026-44corhigher",
         "condition_id": "0x3dd57807c626920393f23e8d1b9225a0f66552768525a513c54e271261eb580b"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.133026+00:00",
+      "ts": "2026-06-07T16:05:37.623616+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 23552.55976,
-      "volume": 1281.4684089999998,
+      "liquidity": null,
+      "volume": 43058.403222,
       "outcomes_count": 11,
-      "top_bucket": "38.0-38.0C",
-      "top_price": 0.355,
+      "top_bucket": "37.0-37.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Lucknow on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-lucknow-on-june-6-2026",
     "event_id": "560837",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 18:30:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.476636+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.133026+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.133026+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.623616+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.623616+00:00",
   "created_at": "2026-06-05T06:08:46.476636+00:00",
-  "updated_at": "2026-06-05T06:36:19.133026+00:00",
+  "updated_at": "2026-06-08T11:21:13.409842+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "37C",
+      "resolved_value": "37C",
+      "resolution_source": null,
+      "winning_market_id": "2440880",
+      "winning_question": "Will the highest temperature in Lucknow be 37°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.624618+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 36.4,
+        "unit": "C",
+        "model": "ecmwf_ifs",
+        "requested_model": "ecmwf_ifs",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 36.3,
+        "unit": "C",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless+archive",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 36.3,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 36.3,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:18:49.181329+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T18:30:00+00:00",
+  "hours_to_settle": -21.6
 }

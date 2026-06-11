@@ -1,0 +1,360 @@
+{
+  "storage_key": "helsinki_2026-04-10_high",
+  "event_id": "349024",
+  "event_slug": "highest-temperature-in-helsinki-on-april-10-2026",
+  "event_title": "Highest temperature in Helsinki on April 10?",
+  "city_slug": "helsinki",
+  "city_name": "Helsinki",
+  "date": "2026-04-10",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Helsinki",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-10T12:00:00Z",
+  "event_end_date": "2026-04-10T12:00:00Z",
+  "liquidity": null,
+  "volume": 41307.355798,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1886716",
+      "question": "Will the highest temperature in Helsinki be -2°C or below on April 10?",
+      "bucket_low": -999.0,
+      "bucket_high": -2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1899.803726,
+      "liquidity": null,
+      "token_id": "21962824834126481821267736317119746827648444101537708760018741403712438974295",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-neg-2corbelow",
+        "condition_id": "0x014d204ea702eda06753df6d88298910f37162bc90bf11cbef023f87d06dd2d2"
+      }
+    },
+    {
+      "market_id": "1886717",
+      "question": "Will the highest temperature in Helsinki be -1°C on April 10?",
+      "bucket_low": -1.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2431.645,
+      "liquidity": null,
+      "token_id": "61229549812794128492988378566395637973486903954753749572718535108246967985",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-neg-1c",
+        "condition_id": "0xb7115d96938ddf9ac22ab09ba9b19fee740256216d16b293add907d3410d0f8e"
+      }
+    },
+    {
+      "market_id": "1886718",
+      "question": "Will the highest temperature in Helsinki be 0°C on April 10?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2333.96555,
+      "liquidity": null,
+      "token_id": "66227246551921387265434021106637869574853767048073279084381344843633415474050",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-0c",
+        "condition_id": "0x73837de5ab5f2da5112544b3eb852bdb9e8c53290fd623df82f629470e8bad55"
+      }
+    },
+    {
+      "market_id": "1886719",
+      "question": "Will the highest temperature in Helsinki be 1°C on April 10?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2329.789733,
+      "liquidity": null,
+      "token_id": "18874566358872966455849619354192785840534946209818869435979608975170841886083",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-1c",
+        "condition_id": "0x1809de33c766b1459794f597c466798a99faeed0e0c55faf0b9b4bf1d3587295"
+      }
+    },
+    {
+      "market_id": "1886720",
+      "question": "Will the highest temperature in Helsinki be 2°C on April 10?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2080.9369659999998,
+      "liquidity": null,
+      "token_id": "87052082402229802733075697074469078279900055644252051745774905258241132822886",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-2c",
+        "condition_id": "0xf9ec7c2052e69942814dbbcf75818a2d22b129809450f26a10661f6a14420a17"
+      }
+    },
+    {
+      "market_id": "1886721",
+      "question": "Will the highest temperature in Helsinki be 3°C on April 10?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2350.6989,
+      "liquidity": 0.0,
+      "token_id": "20879766627859367302238020069146952999400261886427142546827792512759656702110",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-3c",
+        "condition_id": "0x5c04f458b4db2b45f53a93893fe7bba06abaaeb913bcfffabf5e2c8f3a92c947"
+      }
+    },
+    {
+      "market_id": "1886722",
+      "question": "Will the highest temperature in Helsinki be 4°C on April 10?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3317.739467,
+      "liquidity": null,
+      "token_id": "24828710870913645580593622692464061919697061004314878010948703551935800250500",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-4c",
+        "condition_id": "0x2231534ffa3fdbac18e8059fcccfa7d1dee2eafb85fe6fd68952ed4dd4b8a827"
+      }
+    },
+    {
+      "market_id": "1886723",
+      "question": "Will the highest temperature in Helsinki be 5°C on April 10?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3260.682720999999,
+      "liquidity": null,
+      "token_id": "91662897004827742079306791546566819741793980297868319152222338317861283116352",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-5c",
+        "condition_id": "0x4daacd070bb449e38ce04d3249ee82b6a7e20a827d9fe868aede00486ab27d05"
+      }
+    },
+    {
+      "market_id": "1886724",
+      "question": "Will the highest temperature in Helsinki be 6°C on April 10?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5833.968392,
+      "liquidity": null,
+      "token_id": "88484722269566534033077130513889589914179535617899170407269683209994442569530",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-6c",
+        "condition_id": "0x43f8a566b8cd816817161b20b6f9cd75b195ad3dda50182a78202ad5ecebefd0"
+      }
+    },
+    {
+      "market_id": "1886725",
+      "question": "Will the highest temperature in Helsinki be 7°C on April 10?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6878.949636,
+      "liquidity": null,
+      "token_id": "95236525462941302049370812977139139510303772186768298478251040495839095437507",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-7c",
+        "condition_id": "0x34e60311716c9321c0bf1c29c6108f90b8a25e683baf5dacbba05c056b0c4fcd"
+      }
+    },
+    {
+      "market_id": "1886726",
+      "question": "Will the highest temperature in Helsinki be 8°C or higher on April 10?",
+      "bucket_low": 8.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8589.175707,
+      "liquidity": null,
+      "token_id": "86151578591932515611360441129603991299015092937803805590278625289139416402196",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-april-10-2026-8corhigher",
+        "condition_id": "0x99eacd5757f06311cc12cfddc291e9b601501e8745b6cebe299bc17727ff164e"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:06.864649+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-10T12:00:00Z",
+      "liquidity": null,
+      "volume": 41307.355798,
+      "outcomes_count": 11,
+      "top_bucket": ">=8.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Helsinki on April 10?"
+    }
+  ],
+  "settle_at": "2026-04-10T21:00:00+00:00",
+  "hours_to_settle": -1387.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-helsinki-on-april-10-2026",
+    "event_id": "349024",
+    "markets_count": 11,
+    "game_start_time": "2026-04-09 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:06.864649+00:00",
+  "last_seen_at": "2026-06-07T16:06:06.864649+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:06.864649+00:00",
+  "created_at": "2026-06-07T16:06:06.864649+00:00",
+  "updated_at": "2026-06-10T17:17:29.041232+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=8C",
+      "resolved_value": ">=8C",
+      "resolution_source": null,
+      "winning_market_id": "1886726",
+      "winning_question": "Will the highest temperature in Helsinki be 8°C or higher on April 10?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:06.865672+00:00"
+  },
+  "legacy": null
+}

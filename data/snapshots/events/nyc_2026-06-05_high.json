@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 32017.91317,
-  "volume": 31047.896500000013,
+  "liquidity": null,
+  "volume": 134961.03206,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 81.0,
       "unit": "F",
-      "yes_price": 0.002,
-      "no_price": 0.998,
-      "volume": 2176.0439089999986,
-      "liquidity": 8249.56054,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2938.715912999999,
+      "liquidity": null,
       "token_id": "30704410665970981661504329866993671134734851344870460349359507313883828710492",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.002,
-        0.998
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-81forbelow",
         "condition_id": "0x5dd86f820d0f30472c0fe0c44a0ca73a319c929e02ec7380cf135254c71ffb99"
@@ -59,21 +59,21 @@
       "bucket_low": 82.0,
       "bucket_high": 83.0,
       "unit": "F",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 3125.384020000001,
-      "liquidity": 3535.77415,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3679.865029000002,
+      "liquidity": null,
       "token_id": "74871985616642032649701001076352931497762277702784655600531853672043926134262",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-82-83f",
         "condition_id": "0x89494134bd3dfd2b89aea392244c489304c7246b970cb0aa22d373f9c6ca27e3"
@@ -85,21 +85,21 @@
       "bucket_low": 84.0,
       "bucket_high": 85.0,
       "unit": "F",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 1299.1584409999996,
-      "liquidity": 1397.85003,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6225.536621,
+      "liquidity": null,
       "token_id": "2302929576782621945610772902256687046166879085946960591637082813863753081844",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-84-85f",
         "condition_id": "0x1cbdf6e422215920d7c95203070d215459ce0b89ea67c2bc63ac4cd17965134e"
@@ -111,21 +111,21 @@
       "bucket_low": 86.0,
       "bucket_high": 87.0,
       "unit": "F",
-      "yes_price": 0.0255,
-      "no_price": 0.9745,
-      "volume": 3218.9155490000003,
-      "liquidity": 1457.57382,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9027.112388000001,
+      "liquidity": null,
       "token_id": "55102807161931559812124457586799153351409214029931053047113478006357122025570",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0255,
-        0.9745
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-86-87f",
         "condition_id": "0x1b8655f99017492f01e26eb7bab8d4cbdb494f99e6814e48189c55974e1d5570"
@@ -137,21 +137,21 @@
       "bucket_low": 88.0,
       "bucket_high": 89.0,
       "unit": "F",
-      "yes_price": 0.215,
-      "no_price": 0.785,
-      "volume": 3376.5667959999996,
-      "liquidity": 1312.0986,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24063.970334000005,
+      "liquidity": null,
       "token_id": "102547550174931801037475619064197588624755649031107453858179066309638598692554",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.215,
-        0.785
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-88-89f",
         "condition_id": "0x118edc427ad9212196579238648d0c2ded05337e3cff852289d1e701a33905b1"
@@ -163,21 +163,21 @@
       "bucket_low": 90.0,
       "bucket_high": 91.0,
       "unit": "F",
-      "yes_price": 0.575,
-      "no_price": 0.425,
-      "volume": 3294.9831409999997,
-      "liquidity": 2411.376,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 30012.495443,
+      "liquidity": null,
       "token_id": "3568633620119481680245054214715422449669961198155536520045367891547707885433",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.575,
-        0.425
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-90-91f",
         "condition_id": "0x4a01c3f8874432bc38873ead2e09aaa56d7960b0d5c6a2877af8041c3dfc65dc"
@@ -189,21 +189,21 @@
       "bucket_low": 92.0,
       "bucket_high": 93.0,
       "unit": "F",
-      "yes_price": 0.17,
-      "no_price": 0.83,
-      "volume": 2754.3156800000015,
-      "liquidity": 1300.9869,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 21107.97216199999,
+      "liquidity": null,
       "token_id": "27396839388466393782875523070297273673663977461557510220248375630456022704049",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.17,
-        0.83
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-92-93f",
         "condition_id": "0x97878d1236fba4fee74ad5375e246a5eb344c1a4a528f274da3a9d8ab7e777cc"
@@ -215,21 +215,21 @@
       "bucket_low": 94.0,
       "bucket_high": 95.0,
       "unit": "F",
-      "yes_price": 0.0155,
-      "no_price": 0.9845,
-      "volume": 3308.326332,
-      "liquidity": 1620.57253,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11779.581005999999,
+      "liquidity": null,
       "token_id": "68882013028250522334998558530364402536006192957672973083958072097306919297576",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0155,
-        0.9845
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-94-95f",
         "condition_id": "0x6057a88fb595b75b472a5f2c590f57670521978f6c7dd7d20ab06f09d73114b9"
@@ -241,21 +241,21 @@
       "bucket_low": 96.0,
       "bucket_high": 97.0,
       "unit": "F",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 2198.7391940000007,
-      "liquidity": 3899.16572,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8735.388292000001,
+      "liquidity": null,
       "token_id": "50948755181988366611172853853556998371779586959217850068262559690592551891888",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-96-97f",
         "condition_id": "0xe75d1ec0a42d51920fdb848bac4a5ca8a513178bf3e9cc2d3b87a1c96e91440a"
@@ -267,21 +267,21 @@
       "bucket_low": 98.0,
       "bucket_high": 99.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 919.3335,
-      "liquidity": 3306.30197,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4092.7185,
+      "liquidity": null,
       "token_id": "23008822483030360079241327664200646624530434674632479623409919636737861115452",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-98-99f",
         "condition_id": "0x6f8c8a9681c78418a40064e05a386d0f8372e67e33697b6ef49779a68e8e17fa"
@@ -293,21 +293,21 @@
       "bucket_low": 100.0,
       "bucket_high": 999.0,
       "unit": "F",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 5492.768720000014,
-      "liquidity": 4150.76816,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13297.676372000014,
+      "liquidity": null,
       "token_id": "17018917542224841949010855198201353746438528028798773011786176769663873959819",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-nyc-on-june-5-2026-100forhigher",
         "condition_id": "0x8f39ea7dd203cdab06a1dc1cf20fe4ecf021ae718f32d2d0f81f2bceaf482daa"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.567508+00:00",
+      "ts": "2026-06-07T16:05:37.866250+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 32017.91317,
-      "volume": 31047.896500000013,
+      "liquidity": null,
+      "volume": 134961.03206,
       "outcomes_count": 11,
       "top_bucket": "90.0-91.0F",
-      "top_price": 0.575,
+      "top_price": 1.0,
       "event_title": "Highest temperature in NYC on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-nyc-on-june-5-2026",
     "event_id": "553899",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 04:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.898560+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.567508+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.567508+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.866250+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.866250+00:00",
   "created_at": "2026-06-04T16:52:28.898560+00:00",
-  "updated_at": "2026-06-05T06:36:19.567508+00:00",
+  "updated_at": "2026-06-08T11:32:19.856405+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "90-91F",
+      "resolved_value": "90-91F",
+      "resolution_source": null,
+      "winning_market_id": "2424475",
+      "winning_question": "Will the highest temperature in New York City be between 90-91°F on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.868256+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T04:00:00+00:00",
+  "hours_to_settle": -36.1
 }

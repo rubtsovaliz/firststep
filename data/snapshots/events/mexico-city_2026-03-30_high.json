@@ -1,0 +1,360 @@
+{
+  "storage_key": "mexico-city_2026-03-30_high",
+  "event_id": "322427",
+  "event_slug": "highest-temperature-in-mexico-city-on-march-30-2026",
+  "event_title": "Highest temperature in Mexico City on March 30?",
+  "city_slug": "mexico-city",
+  "city_name": "Mexico City",
+  "date": "2026-03-30",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Daily Temperature",
+    "Recurring",
+    "Hide From New",
+    "Mexico",
+    "Weather",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-30T12:00:00Z",
+  "event_end_date": "2026-03-30T12:00:00Z",
+  "liquidity": null,
+  "volume": 27617.548044,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1779821",
+      "question": "Will the highest temperature in Mexico City be 16°C or below on March 30?",
+      "bucket_low": -999.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4505.184858999999,
+      "liquidity": null,
+      "token_id": "114307292144992447519793380885055217545757029313811452678068359651001540822099",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-16corbelow",
+        "condition_id": "0x18561011d82e13e8712482b53dbf822af820e9a4d838f2dc48aef6d5da7d072c"
+      }
+    },
+    {
+      "market_id": "1779822",
+      "question": "Will the highest temperature in Mexico City be 17°C on March 30?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2032.5904379999997,
+      "liquidity": null,
+      "token_id": "29823898827278852965647500553473255449198414838673500508301924545655092802144",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-17c",
+        "condition_id": "0x0c2befbea6fe94f1ea2d0ad4fdca2f75f21e0ccfe36e2a008783ff79cd8887a0"
+      }
+    },
+    {
+      "market_id": "1779823",
+      "question": "Will the highest temperature in Mexico City be 18°C on March 30?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2013.7213000000002,
+      "liquidity": null,
+      "token_id": "46747034038681834814509609233157767156813318954824443799378250506050358108649",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-18c",
+        "condition_id": "0x4c8bf60efe0f0dd3be8558d8df1d97dc149d592d5399fff5c43d0d832eb3129f"
+      }
+    },
+    {
+      "market_id": "1779824",
+      "question": "Will the highest temperature in Mexico City be 19°C on March 30?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2821.0044089999997,
+      "liquidity": null,
+      "token_id": "50056824473153218663199661130836650406374823122858614010524801517158302520092",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-19c",
+        "condition_id": "0x5c72f371430ce9b9c0ea83438a874902eb44aa3854aa8569b9aea757b879dde8"
+      }
+    },
+    {
+      "market_id": "1779825",
+      "question": "Will the highest temperature in Mexico City be 20°C on March 30?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5389.330823999999,
+      "liquidity": null,
+      "token_id": "25056224566407836418667128459065249417227807357604595270214121499907699180211",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-20c",
+        "condition_id": "0x6e815727ffdd4da726b80022384e4d04f96e562e794da58a6c89fd65812edc3d"
+      }
+    },
+    {
+      "market_id": "1779826",
+      "question": "Will the highest temperature in Mexico City be 21°C on March 30?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2703.792547,
+      "liquidity": null,
+      "token_id": "82495996830940775080500301858687734031262595307367131995568934116133298190610",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-21c",
+        "condition_id": "0x044dba4689b457da9acda02da4e507af1985c40eed9aeb981f22cf079f332fb1"
+      }
+    },
+    {
+      "market_id": "1779827",
+      "question": "Will the highest temperature in Mexico City be 22°C on March 30?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2247.5931280000004,
+      "liquidity": null,
+      "token_id": "43840832972363312079644279368084691610074816977159607089552227275347865750848",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-22c",
+        "condition_id": "0x7432e24dcd81288aead154ffab101f61400c6301c7be71f4833af86c28590810"
+      }
+    },
+    {
+      "market_id": "1779828",
+      "question": "Will the highest temperature in Mexico City be 23°C on March 30?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2085.001026,
+      "liquidity": null,
+      "token_id": "98122982349042690128494451462632269147676445804904059232245264024772704475778",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-23c",
+        "condition_id": "0x0d02558cfe83b8d84e619d814a2b7c972ea524e83963108129bc21baa36957bb"
+      }
+    },
+    {
+      "market_id": "1779829",
+      "question": "Will the highest temperature in Mexico City be 24°C on March 30?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1567.011031,
+      "liquidity": null,
+      "token_id": "8161474366281654278939467232521340164279988821199580564483498698045570859000",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-24c",
+        "condition_id": "0x4c3eb60b2eeec7c859b3a5d5917d0bbd85346890e7c54a491081258215d47b12"
+      }
+    },
+    {
+      "market_id": "1779830",
+      "question": "Will the highest temperature in Mexico City be 25°C on March 30?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1088.956316,
+      "liquidity": null,
+      "token_id": "100107492920913175193095395263252744855996669853742054611573420119648000040105",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-25c",
+        "condition_id": "0x69b50461e1f65375c9ba35607c0384a2a40ecdaa256f11909809ff3053d5f98f"
+      }
+    },
+    {
+      "market_id": "1779831",
+      "question": "Will the highest temperature in Mexico City be 26°C or higher on March 30?",
+      "bucket_low": 26.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1163.362166,
+      "liquidity": null,
+      "token_id": "97640864007320104535813015900938757116296949325634270120402528242058470229556",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-march-30-2026-26corhigher",
+        "condition_id": "0xf7c1853079f5239dbf06fa697bc91bc6e312459c015de50bf683fbc61adac760"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.409567+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-30T12:00:00Z",
+      "liquidity": null,
+      "volume": 27617.548044,
+      "outcomes_count": 11,
+      "top_bucket": "20.0-20.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Mexico City on March 30?"
+    }
+  ],
+  "settle_at": "2026-03-31T06:00:00+00:00",
+  "hours_to_settle": -1642.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-mexico-city-on-march-30-2026",
+    "event_id": "322427",
+    "markets_count": 11,
+    "game_start_time": "2026-03-30 06:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.409567+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.409567+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.409567+00:00",
+  "created_at": "2026-06-07T16:06:08.409567+00:00",
+  "updated_at": "2026-06-10T17:17:29.745041+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "20C",
+      "resolved_value": "20C",
+      "resolution_source": null,
+      "winning_market_id": "1779825",
+      "winning_question": "Will the highest temperature in Mexico City be 20°C on March 30?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.410570+00:00"
+  },
+  "legacy": null
+}

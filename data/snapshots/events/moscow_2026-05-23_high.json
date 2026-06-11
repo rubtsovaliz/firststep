@@ -1,0 +1,360 @@
+{
+  "storage_key": "moscow_2026-05-23_high",
+  "event_id": "509235",
+  "event_slug": "highest-temperature-in-moscow-on-may-23-2026",
+  "event_title": "Highest temperature in Moscow on May 23?",
+  "city_slug": "moscow",
+  "city_name": "Moscow",
+  "date": "2026-05-23",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Moscow",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-23T12:00:00Z",
+  "event_end_date": "2026-05-23T12:00:00Z",
+  "liquidity": null,
+  "volume": 35604.666924000005,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2320079",
+      "question": "Will the highest temperature in Moscow be 16°C or below on May 23?",
+      "bucket_low": -999.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1007.3748290000002,
+      "liquidity": null,
+      "token_id": "53015978351443275485059926724302119777345560259573586214423619336889013908893",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-16corbelow",
+        "condition_id": "0x7b9a7f5c6a0d811dbc8ec96e4aeadcc62f55753b109cd22e8155769712524e42"
+      }
+    },
+    {
+      "market_id": "2320080",
+      "question": "Will the highest temperature in Moscow be 17°C on May 23?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 898.1012190000002,
+      "liquidity": null,
+      "token_id": "36117989789079540551651147532055856359056025881685063719340203564444221271890",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-17c",
+        "condition_id": "0x4460c67a40067b31db5c22027ab6313d1fc774231194856d443bbfcba405c1b3"
+      }
+    },
+    {
+      "market_id": "2320081",
+      "question": "Will the highest temperature in Moscow be 18°C on May 23?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3134.964528,
+      "liquidity": null,
+      "token_id": "72908218398646627501144382137288261188200017150094771057683574538887316932799",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-18c",
+        "condition_id": "0xcb8f30ec3c715245358c3de8532402cfc6aaea6b66d90f7df4408f88254c1545"
+      }
+    },
+    {
+      "market_id": "2320082",
+      "question": "Will the highest temperature in Moscow be 19°C on May 23?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3093.4666099999995,
+      "liquidity": null,
+      "token_id": "15152490967677780124034563639959682134023870277917096299128724378719592435462",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-19c",
+        "condition_id": "0xc8df700d41b5d8c51af5ad1c9478fee569c9911c3ce1311d6da0688617d106bc"
+      }
+    },
+    {
+      "market_id": "2320083",
+      "question": "Will the highest temperature in Moscow be 20°C on May 23?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5563.634543,
+      "liquidity": null,
+      "token_id": "55805766842835950231490919405529112626769241537075571650456110186516185503377",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-20c",
+        "condition_id": "0x20598310b1f616c3ee9935363f399b94f0da4164832025a0019913489401568b"
+      }
+    },
+    {
+      "market_id": "2320084",
+      "question": "Will the highest temperature in Moscow be 21°C on May 23?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 3667.8359730000006,
+      "liquidity": null,
+      "token_id": "83357300133507082545997396131711558872981297334478816448491435616574749777402",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-21c",
+        "condition_id": "0xf872f3171cfedd2395ad248c4f195dc480fc096e718025e1bdf7aff5ab04128b"
+      }
+    },
+    {
+      "market_id": "2320085",
+      "question": "Will the highest temperature in Moscow be 22°C on May 23?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3959.792492000002,
+      "liquidity": null,
+      "token_id": "25937779414786207505239805385949178847528521957798585431313045611111206682570",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-22c",
+        "condition_id": "0x929514792ed940165eba6dd707b1f43e891894fd92a37044ebd3d23dfce6416e"
+      }
+    },
+    {
+      "market_id": "2320086",
+      "question": "Will the highest temperature in Moscow be 23°C on May 23?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4096.968465,
+      "liquidity": null,
+      "token_id": "71732359934013056711636395448015295761435018813347720459426076211732478266041",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-23c",
+        "condition_id": "0x593e4a702f0ee70b3f52545e1dd26a8ffdda98db560ae7fb3b714f8ba435a3a5"
+      }
+    },
+    {
+      "market_id": "2320087",
+      "question": "Will the highest temperature in Moscow be 24°C on May 23?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3177.289513,
+      "liquidity": null,
+      "token_id": "60772357339433247301204468461805595583440654564618768681312197895906003084641",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-24c",
+        "condition_id": "0x267f32fd2b6c1d1b2dbf847d4164e3fbed10951ff2969fbe0612d6dec4857f33"
+      }
+    },
+    {
+      "market_id": "2320088",
+      "question": "Will the highest temperature in Moscow be 25°C on May 23?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2646.4873620000017,
+      "liquidity": null,
+      "token_id": "48547052785028868274532402899521452800372722863953358553552791986887203548004",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-25c",
+        "condition_id": "0xac03531b6e44ec3c4c643e5e536c5acff4f781ae9554123113d6348fc420ece3"
+      }
+    },
+    {
+      "market_id": "2320089",
+      "question": "Will the highest temperature in Moscow be 26°C or higher on May 23?",
+      "bucket_low": 26.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4358.75139,
+      "liquidity": null,
+      "token_id": "39905123227926949791884530123981676700653262214621273951448391779445151693023",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-may-23-2026-26corhigher",
+        "condition_id": "0x09020bfc068676ec1290b322038d1ece353546fec2cff0cd0b4e8bd7f63da607"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:40.509113+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-23T12:00:00Z",
+      "liquidity": null,
+      "volume": 35604.666924000005,
+      "outcomes_count": 11,
+      "top_bucket": "21.0-21.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Moscow on May 23?"
+    }
+  ],
+  "settle_at": "2026-05-23T21:00:00+00:00",
+  "hours_to_settle": -355.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-moscow-on-may-23-2026",
+    "event_id": "509235",
+    "markets_count": 11,
+    "game_start_time": "2026-05-22 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:40.509113+00:00",
+  "last_seen_at": "2026-06-07T16:05:40.509113+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:40.509113+00:00",
+  "created_at": "2026-06-07T16:05:40.509113+00:00",
+  "updated_at": "2026-06-10T17:17:30.006486+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "21C",
+      "resolved_value": "21C",
+      "resolution_source": null,
+      "winning_market_id": "2320084",
+      "winning_question": "Will the highest temperature in Moscow be 21°C on May 23?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:40.510116+00:00"
+  },
+  "legacy": null
+}

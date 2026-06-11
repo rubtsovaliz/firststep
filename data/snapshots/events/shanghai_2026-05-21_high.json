@@ -1,0 +1,360 @@
+{
+  "storage_key": "shanghai_2026-05-21_high",
+  "event_id": "500685",
+  "event_slug": "highest-temperature-in-shanghai-on-may-21-2026",
+  "event_title": "Highest temperature in Shanghai on May 21?",
+  "city_slug": "shanghai",
+  "city_name": "Shanghai",
+  "date": "2026-05-21",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Shanghai",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-21T12:00:00Z",
+  "event_end_date": "2026-05-21T12:00:00Z",
+  "liquidity": null,
+  "volume": 101446.64012699999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2299512",
+      "question": "Will the highest temperature in Shanghai be 20°C or below on May 21?",
+      "bucket_low": -999.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1857.990815,
+      "liquidity": null,
+      "token_id": "90737229696372925019594058910061018439706496479580707469030168229647149093279",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-20corbelow",
+        "condition_id": "0x29152324b027259c2482cf38242e007c090850319e0c26700b8cac1af35daceb"
+      }
+    },
+    {
+      "market_id": "2299513",
+      "question": "Will the highest temperature in Shanghai be 21°C on May 21?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 536.79,
+      "liquidity": null,
+      "token_id": "91419989053536738575822459111130537629549663049074122047601988929181714036698",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-21c",
+        "condition_id": "0xc14d614fabdcabcbbb4e63727c0d0e883511c9334ab48dc1c8ba0c735fd8b507"
+      }
+    },
+    {
+      "market_id": "2299514",
+      "question": "Will the highest temperature in Shanghai be 22°C on May 21?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 658.9771000000001,
+      "liquidity": null,
+      "token_id": "1103361189463725077229745129256265761462290207647052273204205324435750160069",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-22c",
+        "condition_id": "0xd85d3dfcb3ada7765eeff5f45a67186614aae9649a7dfe0a48e9b9fffb428176"
+      }
+    },
+    {
+      "market_id": "2299515",
+      "question": "Will the highest temperature in Shanghai be 23°C on May 21?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3338.0374580000002,
+      "liquidity": null,
+      "token_id": "76078002058709984664984998620208753866560746208616099405407447836633078212125",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-23c",
+        "condition_id": "0x148f21043d88a4959cba417ac2be36eca0583aa7091f73c184d266f8786a6391"
+      }
+    },
+    {
+      "market_id": "2299516",
+      "question": "Will the highest temperature in Shanghai be 24°C on May 21?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20047.679369000005,
+      "liquidity": null,
+      "token_id": "6847360059452938989812612346368111242720971556351669552003881297514880963319",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-24c",
+        "condition_id": "0x3713fd53f583ff1e85480ac6e45f8ae5dfc02492c3ef59c46729f678c0b4bad2"
+      }
+    },
+    {
+      "market_id": "2299517",
+      "question": "Will the highest temperature in Shanghai be 25°C on May 21?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 31246.371226000003,
+      "liquidity": null,
+      "token_id": "4335567354621360435236940630696619526366381352692493368071926600635656033869",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-25c",
+        "condition_id": "0x8567aa8b1bc04ea78d856a9ee1ca39e65060f033b5663294b9bc850e57b46171"
+      }
+    },
+    {
+      "market_id": "2299518",
+      "question": "Will the highest temperature in Shanghai be 26°C on May 21?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16104.618259000003,
+      "liquidity": null,
+      "token_id": "60506246568663135681746978433414450352273673682884091014934619451088789478905",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-26c",
+        "condition_id": "0x1a9517d3cf09fa0924bf7466edc7df8cc1afd347eee44346ab99fc25ed66f0bd"
+      }
+    },
+    {
+      "market_id": "2299519",
+      "question": "Will the highest temperature in Shanghai be 27°C on May 21?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10240.860160999988,
+      "liquidity": null,
+      "token_id": "14374673900325502472785528897444958107554042619136997671321232497867955600223",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-27c",
+        "condition_id": "0x2da0d3f9a8462ede4afc9c40b781a236e2e966bff66d6f0c60325d531ade66e3"
+      }
+    },
+    {
+      "market_id": "2299520",
+      "question": "Will the highest temperature in Shanghai be 28°C on May 21?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6387.622500999999,
+      "liquidity": null,
+      "token_id": "97669714141854840051974151629406227089088453906606496057045939805024002676464",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-28c",
+        "condition_id": "0xb38aa85cefc26e86b76fed37d6f26dd9a01fa72bda9d089012eef29735ffd307"
+      }
+    },
+    {
+      "market_id": "2299521",
+      "question": "Will the highest temperature in Shanghai be 29°C on May 21?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5272.644665999998,
+      "liquidity": null,
+      "token_id": "103247415787949106483746037265522203545658719318013313958733219549439482971545",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-29c",
+        "condition_id": "0x8b749626ffc15509d09946ae010e59382ab00d0b76196a21f4bfa8d794f7ff55"
+      }
+    },
+    {
+      "market_id": "2299522",
+      "question": "Will the highest temperature in Shanghai be 30°C or higher on May 21?",
+      "bucket_low": 30.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5755.048572000002,
+      "liquidity": null,
+      "token_id": "101885791710104492130939471074275865831849749434698399006663914122724360667283",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-may-21-2026-30corhigher",
+        "condition_id": "0xd7e7662c9b9890fe5f648f18799401489349bf814f50af40895b7492c0538fce"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:52.370311+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-21T12:00:00Z",
+      "liquidity": null,
+      "volume": 101446.64012699999,
+      "outcomes_count": 11,
+      "top_bucket": "25.0-25.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Shanghai on May 21?"
+    }
+  ],
+  "settle_at": "2026-05-21T16:00:00+00:00",
+  "hours_to_settle": -408.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-shanghai-on-may-21-2026",
+    "event_id": "500685",
+    "markets_count": 11,
+    "game_start_time": "2026-05-20 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:52.370311+00:00",
+  "last_seen_at": "2026-06-07T16:05:52.370311+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:52.370311+00:00",
+  "created_at": "2026-06-07T16:05:52.370311+00:00",
+  "updated_at": "2026-06-10T17:17:30.823966+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "25C",
+      "resolved_value": "25C",
+      "resolution_source": null,
+      "winning_market_id": "2299517",
+      "winning_question": "Will the highest temperature in Shanghai be 25°C on May 21?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:52.371314+00:00"
+  },
+  "legacy": null
+}

@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 29347.12563,
-  "volume": 62876.01619399999,
+  "liquidity": null,
+  "volume": 91481.50139899999,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 2377.4379390000004,
-      "liquidity": 9356.33786,
+      "liquidity": null,
       "token_id": "94629387384303461584222440276999551464237414355940433189825663249548953995536",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-31corbelow",
         "condition_id": "0x8c96fbf0b32477f2046e52663e84d314d77eb0bb7441ab2d625179cec229abe8"
@@ -59,21 +59,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 11891.754962,
-      "liquidity": 6378.90664,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12137.844962000001,
+      "liquidity": null,
       "token_id": "26435629050864661143199378203545448567974651776481921303814495713270977990407",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-32c",
         "condition_id": "0x4437a6a6c28ad56b29edaff21409018eb52b2a3472c74c12959cc1a46d21ed1b"
@@ -85,21 +85,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 10177.179774999997,
-      "liquidity": 3486.8026,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11643.27608,
+      "liquidity": null,
       "token_id": "999886114580720441762609351530132731866550087825526710187758140076434269184",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-33c",
         "condition_id": "0x49f681c13b7c3dd3d4fdafe26199dbbddfe2ace73fa01b79589d4b4cf5e235a7"
@@ -111,21 +111,21 @@
       "bucket_low": 34.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.105,
-      "no_price": 0.895,
-      "volume": 7075.503151,
-      "liquidity": 805.3214,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12835.794526999993,
+      "liquidity": null,
       "token_id": "43437514343773996882336938811791798633781934552081248271144438369586478731213",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.105,
-        0.895
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-34c",
         "condition_id": "0xc32a54a9daa8e96f86ba4c852208a687ed8a43f7abb0e3d82eab8fbe621df440"
@@ -137,21 +137,21 @@
       "bucket_low": 35.0,
       "bucket_high": 35.0,
       "unit": "C",
-      "yes_price": 0.56,
-      "no_price": 0.44,
-      "volume": 3048.257841000001,
-      "liquidity": 277.4745,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8345.049464999998,
+      "liquidity": null,
       "token_id": "113205615264315530317796092202833132682502309363079548233645802656173842845884",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.56,
-        0.44
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-35c",
         "condition_id": "0xaf1803c982080e715e3e33750e3cbbc2be2f5be43c78cc9dfeff7b1537ec9538"
@@ -163,21 +163,21 @@
       "bucket_low": 36.0,
       "bucket_high": 36.0,
       "unit": "C",
-      "yes_price": 0.29,
-      "no_price": 0.71,
-      "volume": 2013.2656179999994,
-      "liquidity": 286.266,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7882.165844999998,
+      "liquidity": null,
       "token_id": "26995884386135229021643137640324037855533492899181802335030066083109285029015",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.29,
-        0.71
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-36c",
         "condition_id": "0x274fafd7f4f273aa9394fdc1d8fd0bf3b92cc49741ab7373d78ada4be319f614"
@@ -189,21 +189,21 @@
       "bucket_low": 37.0,
       "bucket_high": 37.0,
       "unit": "C",
-      "yes_price": 0.07,
-      "no_price": 0.93,
-      "volume": 2842.728627,
-      "liquidity": 419.8095,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5251.685607999999,
+      "liquidity": null,
       "token_id": "25947733804350831264031099666575553873270486889248845806586196165729164481357",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.07,
-        0.93
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-37c",
         "condition_id": "0xfce29ce5ccd78d4f1ef635e4ff4dbc652f3d9af562ca7e21ffc267ae7f22bd0e"
@@ -215,21 +215,21 @@
       "bucket_low": 38.0,
       "bucket_high": 38.0,
       "unit": "C",
-      "yes_price": 0.0065,
-      "no_price": 0.9935,
-      "volume": 5798.005142999998,
-      "liquidity": 930.75218,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8988.369834999996,
+      "liquidity": null,
       "token_id": "37954538283387786608224950348390413816142772142940108600606896439607277217735",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0065,
-        0.9935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-38c",
         "condition_id": "0xc0815519773028b781d19d284fd15b698033532228e8fe0dbf5a5eb0c7d31603"
@@ -241,21 +241,21 @@
       "bucket_low": 39.0,
       "bucket_high": 39.0,
       "unit": "C",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 6623.5281380000015,
-      "liquidity": 1892.45274,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10076.397138000002,
+      "liquidity": null,
       "token_id": "35974355648444560751858035059027226277371353241795350102465221566431062111366",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-39c",
         "condition_id": "0x87469dc13c709f0b1995029d759b2acc8d165571f5891e183dd3194ca1832cc1"
@@ -267,21 +267,21 @@
       "bucket_low": 40.0,
       "bucket_high": 40.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 4982.1654610000005,
-      "liquidity": 2243.18709,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5047.6654610000005,
+      "liquidity": null,
       "token_id": "53427101223930964539918223371985240361470283197346576494916741028678053394599",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-40c",
         "condition_id": "0x240e56cdd1c4fcb495d89a9bd813f049d8dd3062bbb94b022a505b8f30525f41"
@@ -293,21 +293,21 @@
       "bucket_low": 41.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 6895.814538999996,
-      "liquidity": 2197.34868,
+      "liquidity": null,
       "token_id": "43661277981846945134338543686976399594623693019428408911717570295962354152647",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-guangzhou-on-june-5-2026-41corhigher",
         "condition_id": "0x7aaec51f08f659be1256a25bdbf16f0de052b570873df493b571610a38097bd3"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.464974+00:00",
+      "ts": "2026-06-07T16:05:37.717891+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 29347.12563,
-      "volume": 62876.01619399999,
+      "liquidity": null,
+      "volume": 91481.50139899999,
       "outcomes_count": 11,
       "top_bucket": "35.0-35.0C",
-      "top_price": 0.56,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Guangzhou on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-guangzhou-on-june-5-2026",
     "event_id": "553937",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.860392+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.464974+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.464974+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.717891+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.717891+00:00",
   "created_at": "2026-06-04T16:52:28.860392+00:00",
-  "updated_at": "2026-06-05T06:36:19.464974+00:00",
+  "updated_at": "2026-06-07T16:05:37.717891+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "35C",
+      "resolved_value": "35C",
+      "resolution_source": null,
+      "winning_market_id": "2424892",
+      "winning_question": "Will the highest temperature in Guangzhou be 35°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.719896+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T16:00:00+00:00",
+  "hours_to_settle": -48.1
 }

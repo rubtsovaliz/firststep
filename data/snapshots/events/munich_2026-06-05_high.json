@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 24302.65849,
-  "volume": 20904.100682,
+  "liquidity": null,
+  "volume": 54542.31731900001,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 13.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 1914.8120119999999,
-      "liquidity": 7470.5688,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2142.792012,
+      "liquidity": null,
       "token_id": "25640123610078988121708266555443305872088323699726189485222600359786787466541",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-13corbelow",
         "condition_id": "0xe473d007ed194598853c6b73928de9349db241f25b4f6a32724dee7f2db18942"
@@ -59,21 +59,21 @@
       "bucket_low": 14.0,
       "bucket_high": 14.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 1342.9669999999999,
-      "liquidity": 5661.14951,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1470.937,
+      "liquidity": null,
       "token_id": "97352505533690395923325409119438426138272325130238497772916970676994961997310",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-14c",
         "condition_id": "0x0661e20d31feafa4965871f3c0b62c0b3fd51c27ff2a6d554e7ee9f06f52dbbe"
@@ -85,21 +85,21 @@
       "bucket_low": 15.0,
       "bucket_high": 15.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 660.0746040000002,
-      "liquidity": 1581.93216,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 705.2946040000003,
+      "liquidity": null,
       "token_id": "51319282972180217327428044430453731219902825964526395135348861099770535489895",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-15c",
         "condition_id": "0xc2de3dbc58b8b1d5ba4450e9b2f59e6e58b43bb32d965d1bd5809cf3f03843ae"
@@ -111,21 +111,21 @@
       "bucket_low": 16.0,
       "bucket_high": 16.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 1016.483616,
-      "liquidity": 1209.28223,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1713.5311180000026,
+      "liquidity": null,
       "token_id": "107281359951137193885165449052983260135052869729497698929830275160929911973052",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-16c",
         "condition_id": "0x596a4c62d81f45a628af8ef88c9ef78511111ceb39c4e92e24380b2a887fd0d5"
@@ -137,21 +137,21 @@
       "bucket_low": 17.0,
       "bucket_high": 17.0,
       "unit": "C",
-      "yes_price": 0.044,
-      "no_price": 0.956,
-      "volume": 3029.4641759999995,
-      "liquidity": 853.17733,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6416.905747000001,
+      "liquidity": null,
       "token_id": "40951107773606060131360193978432538735771872044663256688533210969481409078692",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.044,
-        0.956
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-17c",
         "condition_id": "0xa9c6a9e2cb23cb0f818d1bd7c2b8e07b72832aff1ddc58b1bd97788772447cf7"
@@ -163,21 +163,21 @@
       "bucket_low": 18.0,
       "bucket_high": 18.0,
       "unit": "C",
-      "yes_price": 0.21,
-      "no_price": 0.79,
-      "volume": 2646.6872000000003,
-      "liquidity": 760.8575,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8770.214242000002,
+      "liquidity": null,
       "token_id": "85788499732785649224822532412785439724831027507363977497095222041873885730360",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.21,
-        0.79
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-18c",
         "condition_id": "0x11fdca62ac50acb5248f3e2b06c49431761b3ac2fda42024be4d72cee7c7ca0d"
@@ -189,21 +189,21 @@
       "bucket_low": 19.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.505,
-      "no_price": 0.495,
-      "volume": 2229.6721659999994,
-      "liquidity": 835.9288,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 11041.853871000001,
+      "liquidity": null,
       "token_id": "38284197759710831777476064955625690979906101956875743264534395713051579612395",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.505,
-        0.495
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-19c",
         "condition_id": "0x744f2eb82c1c0193da45469ab049c869a8f955a04ec73ffdfff2303b9e88b36c"
@@ -215,21 +215,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.225,
-      "no_price": 0.775,
-      "volume": 2207.7435990000004,
-      "liquidity": 991.6499,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8274.479086000003,
+      "liquidity": null,
       "token_id": "24896491000862405159789009690661811669672568423355358310623883079049319420062",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.225,
-        0.775
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-20c",
         "condition_id": "0xae6847323db65fc47b07329cdf046383fe6f3286be1d306209ac141d9634e356"
@@ -241,21 +241,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.011,
-      "no_price": 0.989,
-      "volume": 2891.944940000001,
-      "liquidity": 1355.73885,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7866.058674999999,
+      "liquidity": null,
       "token_id": "51011414409558589432968519980574310436723184638343922753222267834759795891291",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.011,
-        0.989
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-21c",
         "condition_id": "0xc53976b9db0a4fe901740efa2e343d76b0d186513ac602f3f06d8e2b1452dce5"
@@ -267,21 +267,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.0055,
-      "no_price": 0.9945,
-      "volume": 1782.9764890000001,
-      "liquidity": 1687.15336,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3245.304494,
+      "liquidity": null,
       "token_id": "2814438036808683573668475484498172278134408197044759910090066614115546628974",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0055,
-        0.9945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-22c",
         "condition_id": "0xe89870a9e704b1e8203faba283c9a3fe6d15461e04725fc368e489d73c286aa6"
@@ -293,21 +293,21 @@
       "bucket_low": 23.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 2030.5394579999997,
-      "liquidity": 2397.59271,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2894.9464699999994,
+      "liquidity": null,
       "token_id": "54333690574182012066718063135287765736106620011216707742140373936800076836696",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-munich-on-june-5-2026-23corhigher",
         "condition_id": "0xac25b31cedae7c49c8b086665796fe286501e7f878123ed4660625d488ea7ac7"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.548569+00:00",
+      "ts": "2026-06-07T16:05:37.841185+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 24302.65849,
-      "volume": 20904.100682,
+      "liquidity": null,
+      "volume": 54542.31731900001,
       "outcomes_count": 11,
       "top_bucket": "19.0-19.0C",
-      "top_price": 0.505,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Munich on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-munich-on-june-5-2026",
     "event_id": "553907",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 22:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.891340+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.548569+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.548569+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.841185+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.841185+00:00",
   "created_at": "2026-06-04T16:52:28.891340+00:00",
-  "updated_at": "2026-06-05T06:36:19.548569+00:00",
+  "updated_at": "2026-06-08T11:35:05.649944+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "19C",
+      "resolved_value": "19C",
+      "resolution_source": null,
+      "winning_market_id": "2424564",
+      "winning_question": "Will the highest temperature in Munich be 19°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.842188+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T22:00:00+00:00",
+  "hours_to_settle": -42.1
 }

@@ -1,0 +1,360 @@
+{
+  "storage_key": "madrid_2026-05-19_high",
+  "event_id": "493673",
+  "event_slug": "arch-highest-temperature-in-madrid-on-may-19-2026",
+  "event_title": "Highest temperature in Madrid on May 19?",
+  "city_slug": "madrid",
+  "city_name": "Madrid",
+  "date": "2026-05-19",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Madrid",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-19T12:00:00Z",
+  "event_end_date": "2026-05-19T12:00:00Z",
+  "liquidity": null,
+  "volume": 5900.261701,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2281910",
+      "question": "Will the highest temperature in Madrid be 20°C or below on May 19?",
+      "bucket_low": -999.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 290.431,
+      "liquidity": null,
+      "token_id": "20476957021696897924091885131723538677584358327826466426117933387320982671868",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-20corbelow",
+        "condition_id": "0xf546494804988d2c10ac46fdced4ac1cd7021f3df974bc3a960818dce6ef44de"
+      }
+    },
+    {
+      "market_id": "2281911",
+      "question": "Will the highest temperature in Madrid be 21°C on May 19?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 390.4439999999999,
+      "liquidity": null,
+      "token_id": "45429682437661999035233629513700022931197895472405689209955004857001272014717",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-21c",
+        "condition_id": "0x44fecf78a2ed847e74d66c72fd0a33629b488b50ec8e20bef4a33c3636f21693"
+      }
+    },
+    {
+      "market_id": "2281912",
+      "question": "Will the highest temperature in Madrid be 22°C on May 19?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 241.663586,
+      "liquidity": null,
+      "token_id": "52568100525861072196252819505143334812066475429968349610010745781659753168651",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-22c",
+        "condition_id": "0xadf7745b7bdc09bbc9ae19eae588f84e02a82b03dc837721b0b002dd562434a7"
+      }
+    },
+    {
+      "market_id": "2281913",
+      "question": "Will the highest temperature in Madrid be 23°C on May 19?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 562.7719600000001,
+      "liquidity": null,
+      "token_id": "38491208987135036023292968484278603261168454174669644100301255294708805994148",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-23c",
+        "condition_id": "0xedc385385c89d77224defed0815329f661a818024739ee75fcb7a00eba218a61"
+      }
+    },
+    {
+      "market_id": "2281914",
+      "question": "Will the highest temperature in Madrid be 24°C on May 19?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 739.2668749999999,
+      "liquidity": null,
+      "token_id": "10666194283007135049454550983791837853888857951267710798445146857480537690248",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-24c",
+        "condition_id": "0xd2e3fece7e04bf9035206929ce5ebd27370b55e93f749b407d422572c93820ff"
+      }
+    },
+    {
+      "market_id": "2281915",
+      "question": "Will the highest temperature in Madrid be 25°C on May 19?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 786.7632800000002,
+      "liquidity": null,
+      "token_id": "20101171975824806500834200433326279648947582886017899033246876184566567480379",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-25c",
+        "condition_id": "0x70f5439ed541f86b4e3dabc366e5f40bd8238a49f8c0af99d3b21d78440c2aea"
+      }
+    },
+    {
+      "market_id": "2281916",
+      "question": "Will the highest temperature in Madrid be 26°C on May 19?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 994.2129070000001,
+      "liquidity": null,
+      "token_id": "96257327274769234140272432551254188113462976743148548668703011260667338321644",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-26c",
+        "condition_id": "0x8cbf85b6e69cd8996f4152c9872924ff3ad408448fea74f062f89936f5459dc0"
+      }
+    },
+    {
+      "market_id": "2281917",
+      "question": "Will the highest temperature in Madrid be 27°C on May 19?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1098.3771590000001,
+      "liquidity": null,
+      "token_id": "72447859124037950780150546273460448869636284151762771303426204769911382696463",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-27c",
+        "condition_id": "0xc8b113220161e432a38031ee0866ba77fc4f87a31fa50f97ccb8fc29cafa31c8"
+      }
+    },
+    {
+      "market_id": "2281918",
+      "question": "Will the highest temperature in Madrid be 28°C on May 19?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 202.42163300000004,
+      "liquidity": null,
+      "token_id": "24530834633342379807901447973730830696092546475626460650587589638433332819284",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-28c",
+        "condition_id": "0xe1cb75f97c85babdfc17af91874b3eb39ff611b267cc659ecb023b8dc132db78"
+      }
+    },
+    {
+      "market_id": "2281919",
+      "question": "Will the highest temperature in Madrid be 29°C on May 19?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 183.700796,
+      "liquidity": null,
+      "token_id": "23663574525456283089232343459262757656440554213285454083424611380180606911049",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-29c",
+        "condition_id": "0xdccacc3b1d8dac5ef3596058331261a82fd4fca13a817bc5cd72d656cb695700"
+      }
+    },
+    {
+      "market_id": "2281920",
+      "question": "Will the highest temperature in Madrid be 30°C or higher on May 19?",
+      "bucket_low": 30.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 410.20850500000006,
+      "liquidity": null,
+      "token_id": "87219393669839178774068617464221599966564864613224216064371870872696234770864",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-madrid-on-may-19-2026-30corhigher",
+        "condition_id": "0x125caea12ee8c098d73cda281a38f8c2a8b69c3c4e798c13dd32b15e0474521a"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:58.788431+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-19T12:00:00Z",
+      "liquidity": null,
+      "volume": 5900.261701,
+      "outcomes_count": 11,
+      "top_bucket": "<=20.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Madrid on May 19?"
+    }
+  ],
+  "settle_at": "2026-05-19T22:00:00+00:00",
+  "hours_to_settle": -450.1,
+  "raw_source": {
+    "event_slug": "arch-highest-temperature-in-madrid-on-may-19-2026",
+    "event_id": "493673",
+    "markets_count": 11,
+    "game_start_time": "2026-05-18 22:00:00+00"
+  },
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:43.436429+00:00",
+  "last_seen_at": "2026-06-07T16:05:58.788431+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:58.788431+00:00",
+  "created_at": "2026-06-07T16:05:43.436429+00:00",
+  "updated_at": "2026-06-07T16:05:58.788431+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=22C",
+      "resolved_value": ">=22C",
+      "resolution_source": null,
+      "winning_market_id": "2306804",
+      "winning_question": "Will the highest temperature in Madrid be 22°C or higher on May 19?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:58.790437+00:00"
+  },
+  "legacy": null
+}

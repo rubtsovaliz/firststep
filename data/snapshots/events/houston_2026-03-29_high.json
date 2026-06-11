@@ -1,0 +1,360 @@
+{
+  "storage_key": "houston_2026-03-29_high",
+  "event_id": "306360",
+  "event_slug": "highest-temperature-in-houston-on-march-29-2026",
+  "event_title": "Highest temperature in Houston on March 29?",
+  "city_slug": "houston",
+  "city_name": "Houston",
+  "date": "2026-03-29",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Houston",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-29T12:00:00Z",
+  "event_end_date": "2026-03-29T12:00:00Z",
+  "liquidity": null,
+  "volume": 73275.295872,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1715109",
+      "question": "Will the highest temperature in Houston be 73°F or below on March 29?",
+      "bucket_low": -999.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6728.320144000001,
+      "liquidity": null,
+      "token_id": "91549704750363609404409674905106046604900446490708664937724181255915062305955",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-73forbelow",
+        "condition_id": "0xc5b017a979512b81488eceb65cf1ebd780eb505553feb7fe0977558ffb08a3ef"
+      }
+    },
+    {
+      "market_id": "1715110",
+      "question": "Will the highest temperature in Houston be between 74-75°F on March 29?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6765.201587999998,
+      "liquidity": null,
+      "token_id": "15410446293678521641567185753319163708366884818928385965111560477770915975471",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-74-75f",
+        "condition_id": "0x37c355c058307e4721567c2bfdb831c01bd891f8d7e543778158a62791fcdc5b"
+      }
+    },
+    {
+      "market_id": "1715111",
+      "question": "Will the highest temperature in Houston be between 76-77°F on March 29?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5906.726809999997,
+      "liquidity": null,
+      "token_id": "46627509890262415340751952515034080383414092795019580508733959027357610330603",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-76-77f",
+        "condition_id": "0x20cbd7a0cb8e5a745ea14fa4d8310472adb81eb2c9fee586e8ed470b4f2de39f"
+      }
+    },
+    {
+      "market_id": "1715112",
+      "question": "Will the highest temperature in Houston be between 78-79°F on March 29?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7554.077780999999,
+      "liquidity": null,
+      "token_id": "9324705172513744834154834717368631130901690544629063038995116403227719455174",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-78-79f",
+        "condition_id": "0x2322d8698772658edc1727bbfd44c439caa61efac4a766a5be1c67ae77c5de27"
+      }
+    },
+    {
+      "market_id": "1715113",
+      "question": "Will the highest temperature in Houston be between 80-81°F on March 29?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 14095.505854000005,
+      "liquidity": null,
+      "token_id": "43342012872370534471278023297134408085172977278776155202370044032217502067056",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-80-81f",
+        "condition_id": "0x2a35638de1ee27cc2c11de668e9f6ce4c35b70e98b4fb299342591b4b2782832"
+      }
+    },
+    {
+      "market_id": "1715114",
+      "question": "Will the highest temperature in Houston be between 82-83°F on March 29?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7614.480890999995,
+      "liquidity": null,
+      "token_id": "28027344217049162160359282697018905473527558083855848611441573148920202103545",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-82-83f",
+        "condition_id": "0xb8c7bcc64bca618e141d1bcc2890ad3b04f6e0b113eff18c6f302cc091058e50"
+      }
+    },
+    {
+      "market_id": "1715115",
+      "question": "Will the highest temperature in Houston be between 84-85°F on March 29?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7982.4534660000045,
+      "liquidity": null,
+      "token_id": "1641292076765492810828793893018845671945155864878596178016213120877815546755",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-84-85f",
+        "condition_id": "0xe500ccf99f2cec6d6be489d2f977e17588707c743fa48a7cb9145081c3c271b4"
+      }
+    },
+    {
+      "market_id": "1715116",
+      "question": "Will the highest temperature in Houston be between 86-87°F on March 29?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5019.634543000001,
+      "liquidity": null,
+      "token_id": "56527446193031620383895447193774198104330365218748653146045986040984390568011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-86-87f",
+        "condition_id": "0xd28b06f04295dbac05c3525ec496671f5ba4b079ae0a7cd050f37355a4909e85"
+      }
+    },
+    {
+      "market_id": "1715117",
+      "question": "Will the highest temperature in Houston be between 88-89°F on March 29?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3985.158303000001,
+      "liquidity": null,
+      "token_id": "35939569690755104377872034986949113296247599545832282772998378408383776630595",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-88-89f",
+        "condition_id": "0x95c8fdec965334084d3ceff22fc511a9c69b6771295d675717e2df66ff0d29cd"
+      }
+    },
+    {
+      "market_id": "1715118",
+      "question": "Will the highest temperature in Houston be between 90-91°F on March 29?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3704.9274799999985,
+      "liquidity": null,
+      "token_id": "110469837337536111537156136323179531319661139088277161141915311233631926000164",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-90-91f",
+        "condition_id": "0x05b8c64b0f057d048ec664e2335e56377b8045b74df6e20d868f5b60158f477a"
+      }
+    },
+    {
+      "market_id": "1715119",
+      "question": "Will the highest temperature in Houston be 92°F or higher on March 29?",
+      "bucket_low": 92.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3918.8090119999983,
+      "liquidity": null,
+      "token_id": "71540580817055956063463040929145205540016754086635175376351498106241166776359",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-march-29-2026-92forhigher",
+        "condition_id": "0xaac68f31c0aaea6aea0ded666d3ce853d84f7c21107f606c7648067ca3dc69df"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.592137+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-29T12:00:00Z",
+      "liquidity": null,
+      "volume": 73275.295872,
+      "outcomes_count": 11,
+      "top_bucket": "80.0-81.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Houston on March 29?"
+    }
+  ],
+  "settle_at": "2026-03-30T05:00:00+00:00",
+  "hours_to_settle": -1667.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-houston-on-march-29-2026",
+    "event_id": "306360",
+    "markets_count": 11,
+    "game_start_time": "2026-03-29 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.592137+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.592137+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.592137+00:00",
+  "created_at": "2026-06-07T16:06:08.592137+00:00",
+  "updated_at": "2026-06-10T17:17:29.166598+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "80-81F",
+      "resolved_value": "80-81F",
+      "resolution_source": null,
+      "winning_market_id": "1715113",
+      "winning_question": "Will the highest temperature in Houston be between 80-81°F on March 29?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.593139+00:00"
+  },
+  "legacy": null
+}

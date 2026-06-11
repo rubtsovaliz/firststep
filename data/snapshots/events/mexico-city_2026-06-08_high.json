@@ -1,0 +1,351 @@
+{
+  "storage_key": "mexico-city_2026-06-08_high",
+  "event_id": "567593",
+  "event_slug": "highest-temperature-in-mexico-city-on-june-8-2026",
+  "event_title": "Highest temperature in Mexico City on June 8?",
+  "city_slug": "mexico-city",
+  "city_name": "Mexico City",
+  "date": "2026-06-08",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Mexico",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-08T12:00:00Z",
+  "event_end_date": "2026-06-08T12:00:00Z",
+  "liquidity": 25672.37867,
+  "volume": 16080.920987000001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2459014",
+      "question": "Will the highest temperature in Mexico City be 18°C or below on June 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 137.965986,
+      "liquidity": 7044.38386,
+      "token_id": "72510120462011184871019132420900594362109837344777137559098476794380080606979",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-18corbelow",
+        "condition_id": "0x243f9c74ac1002a52b38b6273a67a06ef267aa0f7c7a15222ac2f3b46fe992dc"
+      }
+    },
+    {
+      "market_id": "2459015",
+      "question": "Will the highest temperature in Mexico City be 19°C on June 8?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 999.0755460000001,
+      "liquidity": 7366.58732,
+      "token_id": "59243315371226114287014670944999774920022920093654268553630943245535362561343",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-19c",
+        "condition_id": "0xfae036880ade7350658195658a3aa352dd07a622436a0d280e24e32969570339"
+      }
+    },
+    {
+      "market_id": "2459016",
+      "question": "Will the highest temperature in Mexico City be 20°C on June 8?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1419.1552589999997,
+      "liquidity": 2409.70646,
+      "token_id": "82431227801677498527168632119606177626804044606906999560973775647433185488909",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-20c",
+        "condition_id": "0x0e95780e96f3b84d746c4de298531ff62f0647f0a4e947fc42358b3166eac57b"
+      }
+    },
+    {
+      "market_id": "2459017",
+      "question": "Will the highest temperature in Mexico City be 21°C on June 8?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3518.536516,
+      "liquidity": 5669.40819,
+      "token_id": "101448773067212008643066853980647321454514051063490209458393043396070326636540",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-21c",
+        "condition_id": "0x264f2baf9daf4fc3b71c928a182fb2135c94fd311f456001903b6f59f3350025"
+      }
+    },
+    {
+      "market_id": "2459018",
+      "question": "Will the highest temperature in Mexico City be 22°C on June 8?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.235,
+      "no_price": 0.765,
+      "volume": 2630.0550510000003,
+      "liquidity": 182.7239,
+      "token_id": "6384920832612106426725115579586770039832567916908903409375121360739173519381",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.235,
+        0.765
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-22c",
+        "condition_id": "0x95fc30dc378efcf0b2d9b505ee47788e7a60d0e59ea4ed47a77cc1468ff70a6b"
+      }
+    },
+    {
+      "market_id": "2459019",
+      "question": "Will the highest temperature in Mexico City be 23°C on June 8?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.45,
+      "no_price": 0.55,
+      "volume": 1411.3111940000006,
+      "liquidity": 135.6324,
+      "token_id": "23812286661610185582784575401045299658461702655848019706811187898953143253634",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.45,
+        0.55
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-23c",
+        "condition_id": "0xc4ee7dec71232068f534a78a86ce8c134825a6654919bdcf2afe66df6ab5aa5c"
+      }
+    },
+    {
+      "market_id": "2459020",
+      "question": "Will the highest temperature in Mexico City be 24°C on June 8?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.41,
+      "no_price": 0.59,
+      "volume": 1379.692703,
+      "liquidity": 148.6018,
+      "token_id": "107361347659327983168792889553616723956037832343781434458964065785482154996059",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.41,
+        0.59
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-24c",
+        "condition_id": "0x5fb283384355f4ae4e7047f2175e3d9e844d1c46889c7673ca2ed971c984e2bf"
+      }
+    },
+    {
+      "market_id": "2459021",
+      "question": "Will the highest temperature in Mexico City be 25°C on June 8?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.04,
+      "no_price": 0.96,
+      "volume": 910.4740220000001,
+      "liquidity": 262.0835,
+      "token_id": "85400036631690595007061054615759499223931966014244347267637028543485171804104",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.04,
+        0.96
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-25c",
+        "condition_id": "0x40bd2b908120d1cbfc29baafa4c26c5fb78dbd6b5ebfe1347cfa901e3347900e"
+      }
+    },
+    {
+      "market_id": "2459022",
+      "question": "Will the highest temperature in Mexico City be 26°C on June 8?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0095,
+      "no_price": 0.9905,
+      "volume": 1605.2976400000002,
+      "liquidity": 495.74484,
+      "token_id": "42720284824376746369136071340420525258638512249452802000741543298979106146262",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0095,
+        0.9905
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-26c",
+        "condition_id": "0x94938ac160f3858bff67db85d38a9250d5acc2765a9b5a79437b2c98654b2778"
+      }
+    },
+    {
+      "market_id": "2459023",
+      "question": "Will the highest temperature in Mexico City be 27°C on June 8?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 1562.8041159999998,
+      "liquidity": 1139.01335,
+      "token_id": "7914604076629513073989818383970774871541240036528310672127681344714206017185",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-27c",
+        "condition_id": "0x428ea4c39766367f296eed04286b06f9b987f839989860af065d4e6ef3e8c2d1"
+      }
+    },
+    {
+      "market_id": "2459024",
+      "question": "Will the highest temperature in Mexico City be 28°C or higher on June 8?",
+      "bucket_low": 28.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 732.1019999999999,
+      "liquidity": 1812.80731,
+      "token_id": "63562711284308933887694585449300214437631293096780289163236143366834518209928",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-june-8-2026-28corhigher",
+        "condition_id": "0xd2971799a9b40b1cca945db19a533b5e30ae3f379d44b3e5aff37b02087eec66"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-08T18:44:21.024185+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-08T12:00:00Z",
+      "liquidity": 25672.37867,
+      "volume": 16080.920987000001,
+      "outcomes_count": 11,
+      "top_bucket": "23.0-23.0C",
+      "top_price": 0.45,
+      "event_title": "Highest temperature in Mexico City on June 8?"
+    }
+  ],
+  "settle_at": "2026-06-09T06:00:00+00:00",
+  "hours_to_settle": 11.3,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-mexico-city-on-june-8-2026",
+    "event_id": "567593",
+    "markets_count": 11,
+    "game_start_time": "2026-06-08 06:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T13:13:01.092623+00:00",
+  "last_seen_at": "2026-06-08T18:44:21.024185+00:00",
+  "last_refreshed_at": "2026-06-08T18:44:21.024185+00:00",
+  "created_at": "2026-06-07T13:13:01.092623+00:00",
+  "updated_at": "2026-06-10T17:17:29.788883+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

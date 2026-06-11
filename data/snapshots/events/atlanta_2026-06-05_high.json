@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 20507.18294,
-  "volume": 22596.495668000003,
+  "liquidity": null,
+  "volume": 63304.269467999984,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 77.0,
       "unit": "F",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 2181.7420360000006,
-      "liquidity": 3059.51792,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3112.313236000001,
+      "liquidity": null,
       "token_id": "57187126718521985621844479389078824753977088891026586751989089890790859385730",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-77forbelow",
         "condition_id": "0xe281d4ece743f73284ece2a070a640de0ac26fa7183be89fc51e4c145c12c491"
@@ -59,21 +59,21 @@
       "bucket_low": 78.0,
       "bucket_high": 79.0,
       "unit": "F",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 3645.2524900000003,
-      "liquidity": 2335.02278,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5536.4034900000015,
+      "liquidity": null,
       "token_id": "34990067066518092957729749054580185263849223440425477417986754781759458170707",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-78-79f",
         "condition_id": "0xffdadd62346467e36410e87d449c6673949992c2499ec5b1a7d53ce4552ee6bc"
@@ -85,21 +85,21 @@
       "bucket_low": 80.0,
       "bucket_high": 81.0,
       "unit": "F",
-      "yes_price": 0.023,
-      "no_price": 0.977,
-      "volume": 2231.0698169999996,
-      "liquidity": 1026.12988,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4968.8954889999795,
+      "liquidity": null,
       "token_id": "79071754849092033197307103717864315325977706512022195450522323334714059618600",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.023,
-        0.977
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-80-81f",
         "condition_id": "0x75bc513579d3745478cae7ba43bae030d1dfb0277327472393838d551c70f8e9"
@@ -111,21 +111,21 @@
       "bucket_low": 82.0,
       "bucket_high": 83.0,
       "unit": "F",
-      "yes_price": 0.035,
-      "no_price": 0.965,
-      "volume": 2540.832567999999,
-      "liquidity": 1209.66739,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16448.572014,
+      "liquidity": null,
       "token_id": "68644071423952943942574886744905372975223908078229166820384088014392308006620",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.035,
-        0.965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-82-83f",
         "condition_id": "0xecbd25cce7981dfddbdcd8a85e359447bd6a5cdf50df24429df666fc81284bdc"
@@ -137,21 +137,21 @@
       "bucket_low": 84.0,
       "bucket_high": 85.0,
       "unit": "F",
-      "yes_price": 0.385,
-      "no_price": 0.615,
-      "volume": 1308.7882719999998,
-      "liquidity": 459.6643,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 9533.299074000002,
+      "liquidity": null,
       "token_id": "50987031665714268668407187442709863116585950976192348271391890896111974598228",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.385,
-        0.615
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-84-85f",
         "condition_id": "0x79d470f132bda0f52f8e251f78785cb14b80f661a0891718067101058cd10712"
@@ -163,21 +163,21 @@
       "bucket_low": 86.0,
       "bucket_high": 87.0,
       "unit": "F",
-      "yes_price": 0.515,
-      "no_price": 0.485,
-      "volume": 1750.7684419999998,
-      "liquidity": 627.2632,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7397.5074970000005,
+      "liquidity": null,
       "token_id": "64153870682104562070836875434011638383324937575682297288251695672372452495808",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.515,
-        0.485
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-86-87f",
         "condition_id": "0x97f01cc7155cb3f5b955584885635efa47e58a68ac4ffe8803f0534cbe39a4ea"
@@ -189,21 +189,21 @@
       "bucket_low": 88.0,
       "bucket_high": 89.0,
       "unit": "F",
-      "yes_price": 0.075,
-      "no_price": 0.925,
-      "volume": 2545.833071,
-      "liquidity": 658.0396,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6376.162990999999,
+      "liquidity": null,
       "token_id": "9733240314605847935833322657397278669301686896831852580952535819288496802799",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.075,
-        0.925
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-88-89f",
         "condition_id": "0x64b8f12b64bac0fcf65dbd5a0281aab11226a815e496fb4fe56b3100abebcccd"
@@ -215,21 +215,21 @@
       "bucket_low": 90.0,
       "bucket_high": 91.0,
       "unit": "F",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 1639.3168480000004,
-      "liquidity": 1754.66131,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4226.161728000001,
+      "liquidity": null,
       "token_id": "3262862584118873972696432496506642606099981281696487093415211099157353473997",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-90-91f",
         "condition_id": "0x81477298fa21c727a1320d218f0675a0ff31cea2f0bbf017f6ba2dcf0107db50"
@@ -241,21 +241,21 @@
       "bucket_low": 92.0,
       "bucket_high": 93.0,
       "unit": "F",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 3755.4432820000043,
-      "liquidity": 1430.76843,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4225.354482000003,
+      "liquidity": null,
       "token_id": "39184445608435525215047895697833947530775461973354428772913501672114247919151",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-92-93f",
         "condition_id": "0x13b6b3c83b4512edd0caae8b1c1c708ebb4492d7420a651508221107c9d3bbeb"
@@ -267,21 +267,21 @@
       "bucket_low": 94.0,
       "bucket_high": 95.0,
       "unit": "F",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 716.265467,
-      "liquidity": 2668.46919,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 892.2954669999999,
+      "liquidity": null,
       "token_id": "51495219064208848104468652442542133674584746124865653798434825330123677846963",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-94-95f",
         "condition_id": "0x248ad339a4c4407806bad7efccfc7f63313721a742b05dd4ea2e40e93a7b0f0f"
@@ -293,21 +293,21 @@
       "bucket_low": 96.0,
       "bucket_high": 999.0,
       "unit": "F",
-      "yes_price": 0.001,
-      "no_price": 0.999,
-      "volume": 461.3039999999999,
-      "liquidity": 5090.28625,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 587.3039999999999,
+      "liquidity": null,
       "token_id": "47688687792285196737276230213746632014419029228020748767846470792540384563675",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.001,
-        0.999
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-atlanta-on-june-5-2026-96forhigher",
         "condition_id": "0xb4695b14861adcf9168b3d157878bfaaabcefa13051aeba6bef48fcd5e7143f8"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.563016+00:00",
+      "ts": "2026-06-07T16:05:37.860235+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 20507.18294,
-      "volume": 22596.495668000003,
+      "liquidity": null,
+      "volume": 63304.269467999984,
       "outcomes_count": 11,
-      "top_bucket": "86.0-87.0F",
-      "top_price": 0.515,
+      "top_bucket": "84.0-85.0F",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Atlanta on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-atlanta-on-june-5-2026",
     "event_id": "553901",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 04:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.896699+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.563016+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.563016+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.860235+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.860235+00:00",
   "created_at": "2026-06-04T16:52:28.896699+00:00",
-  "updated_at": "2026-06-05T06:36:19.563016+00:00",
+  "updated_at": "2026-06-07T16:05:37.860235+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "84-85F",
+      "resolved_value": "84-85F",
+      "resolution_source": null,
+      "winning_market_id": "2424496",
+      "winning_question": "Will the highest temperature in Atlanta be between 84-85°F on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.862240+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T04:00:00+00:00",
+  "hours_to_settle": -36.1
 }

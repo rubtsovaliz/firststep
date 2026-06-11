@@ -1,0 +1,360 @@
+{
+  "storage_key": "nyc_2026-05-15_low",
+  "event_id": "475404",
+  "event_slug": "lowest-temperature-in-nyc-on-may-15-2026",
+  "event_title": "Lowest temperature in NYC on May 15?",
+  "city_slug": "nyc",
+  "city_name": "Nyc",
+  "date": "2026-05-15",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Recurring",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Hide From New",
+    "Lowest temperature",
+    "New York City",
+    "Weather",
+    "Daily Temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-15T12:00:00Z",
+  "event_end_date": "2026-05-15T12:00:00Z",
+  "liquidity": null,
+  "volume": 15294.949614,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2235553",
+      "question": "Will the lowest temperature in New York City be 41°F or below on May 15?",
+      "bucket_low": -999.0,
+      "bucket_high": 41.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2602.0809790000003,
+      "liquidity": null,
+      "token_id": "58381241591532765220605060458827832592948994956262549612168267794851152760504",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-41forbelow",
+        "condition_id": "0x6d69a42b1588b44dd91891953440e831163cc693ff92b4b5f69872af01cef7d9"
+      }
+    },
+    {
+      "market_id": "2235554",
+      "question": "Will the lowest temperature in New York City be between 42-43°F on May 15?",
+      "bucket_low": 42.0,
+      "bucket_high": 43.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 409.996,
+      "liquidity": null,
+      "token_id": "114908096536003248509853599465083595488885660995790772504033147092657449195011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-42-43f",
+        "condition_id": "0x66753f76df883d97ce42a1ed7e41104fb6aefc7309bb4d400e9924d7db31d486"
+      }
+    },
+    {
+      "market_id": "2235555",
+      "question": "Will the lowest temperature in New York City be between 44-45°F on May 15?",
+      "bucket_low": 44.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 453.906998,
+      "liquidity": null,
+      "token_id": "6771133222099596591766053975156278535054684215723446939164954414752949633278",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-44-45f",
+        "condition_id": "0xce8e22895d1d3eacc4e3c12b209c9100ef50b6c33859dc44cbed32c066fb9685"
+      }
+    },
+    {
+      "market_id": "2235556",
+      "question": "Will the lowest temperature in New York City be between 46-47°F on May 15?",
+      "bucket_low": 46.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 816.77,
+      "liquidity": null,
+      "token_id": "8758979182928532617170567979100050511912644013869039854015273379112969532431",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-46-47f",
+        "condition_id": "0xcea48b7b9b41aa031c83e9bb39f9e7cd5efdddf939c104ea1563195a36c03fea"
+      }
+    },
+    {
+      "market_id": "2235557",
+      "question": "Will the lowest temperature in New York City be between 48-49°F on May 15?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1409.3553469999997,
+      "liquidity": null,
+      "token_id": "5531145293985262973512952107332021036351551275279667002510506448398129076803",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-48-49f",
+        "condition_id": "0xeb52b4713141f3ca5d7252caf73dca7deab08d25d56ba7230486e9bb94c19caf"
+      }
+    },
+    {
+      "market_id": "2235558",
+      "question": "Will the lowest temperature in New York City be between 50-51°F on May 15?",
+      "bucket_low": 50.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2473.4810939999998,
+      "liquidity": null,
+      "token_id": "61888271437439119323493482112650151621085316042400323352581320352763381682457",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-50-51f",
+        "condition_id": "0x6bdcc78cd4dfb2dadb1d9e42080a5615476c32c8b4916c79cb8da59f126b6181"
+      }
+    },
+    {
+      "market_id": "2235559",
+      "question": "Will the lowest temperature in New York City be between 52-53°F on May 15?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 2560.2329710000004,
+      "liquidity": null,
+      "token_id": "29333666635553932557781519139328132354526505798740452313934852877693510680990",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-52-53f",
+        "condition_id": "0x5be375d7ee919278753f3f702ed089f158bffd610be48500ea47e45fb8dcf731"
+      }
+    },
+    {
+      "market_id": "2235560",
+      "question": "Will the lowest temperature in New York City be between 54-55°F on May 15?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 710.276299,
+      "liquidity": null,
+      "token_id": "36508280815072692809501623644854372974395125731422298647986018539369738490989",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-54-55f",
+        "condition_id": "0x3af7b6722abeb56f1b0819640327e05fe4a8793fadcd6f8ca7c7b6c743664ae3"
+      }
+    },
+    {
+      "market_id": "2235561",
+      "question": "Will the lowest temperature in New York City be between 56-57°F on May 15?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 978.6763659999999,
+      "liquidity": null,
+      "token_id": "43002996472702778401357648846324133391658754439707430389365846862501979903990",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-56-57f",
+        "condition_id": "0x4099c3cd5884a89184e2e6076743e0cf8217d58f369cd6085a6c0033d86db5e6"
+      }
+    },
+    {
+      "market_id": "2235562",
+      "question": "Will the lowest temperature in New York City be between 58-59°F on May 15?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1964.408932,
+      "liquidity": null,
+      "token_id": "30187421814559794006575459539857754087232482626265192004855870075294821829627",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-58-59f",
+        "condition_id": "0xf2604ff31315d4657707700bb3344012a213b4c2a6c823e6816d3cef12fbaae7"
+      }
+    },
+    {
+      "market_id": "2235563",
+      "question": "Will the lowest temperature in New York City be 60°F or higher on May 15?",
+      "bucket_low": 60.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 915.764628,
+      "liquidity": null,
+      "token_id": "60539214893944167857974761258124548849422440765963835723660211739809302432053",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-may-15-2026-60forhigher",
+        "condition_id": "0xe0ae17b522fa20bcec0d121e05cb13afb9c241f70bda5d6126b73e8a7924cc40"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:59.972419+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-15T12:00:00Z",
+      "liquidity": null,
+      "volume": 15294.949614,
+      "outcomes_count": 11,
+      "top_bucket": "52.0-53.0F",
+      "top_price": 1.0,
+      "event_title": "Lowest temperature in NYC on May 15?"
+    }
+  ],
+  "settle_at": "2026-05-16T04:00:00+00:00",
+  "hours_to_settle": -540.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-nyc-on-may-15-2026",
+    "event_id": "475404",
+    "markets_count": 11,
+    "game_start_time": "2026-05-15 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:59.972419+00:00",
+  "last_seen_at": "2026-06-07T16:05:59.972419+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:59.972419+00:00",
+  "created_at": "2026-06-07T16:05:59.972419+00:00",
+  "updated_at": "2026-06-10T17:17:30.234081+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "52-53F",
+      "resolved_value": "52-53F",
+      "resolution_source": null,
+      "winning_market_id": "2235559",
+      "winning_question": "Will the lowest temperature in New York City be between 52-53°F on May 15?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:59.973421+00:00"
+  },
+  "legacy": null
+}

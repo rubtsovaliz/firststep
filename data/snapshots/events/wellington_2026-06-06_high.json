@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 33348.91816,
-  "volume": 2487.393033,
+  "liquidity": null,
+  "volume": 76600.20059900002,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 11.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": null,
-      "liquidity": 3848.06174,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 167.55,
+      "liquidity": null,
       "token_id": "85378903575770039776463881150808480205736901886032838546703595909486829063728",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-11corbelow",
         "condition_id": "0xbcc129bb00c8917f970e09407bde05be6867944aee387f2e2ecaeab7a1282cd1"
@@ -59,21 +59,21 @@
       "bucket_low": 12.0,
       "bucket_high": 12.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 230.0,
-      "liquidity": 4803.12375,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2080.5389999999998,
+      "liquidity": null,
       "token_id": "67688652937030344788129827306388430322661792075338143734415729579463712115422",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-12c",
         "condition_id": "0x50a3ad3b62c1af24bb7c3780463b16a693a5b2425e854a98b4be4539c1f4daa4"
@@ -85,21 +85,21 @@
       "bucket_low": 13.0,
       "bucket_high": 13.0,
       "unit": "C",
-      "yes_price": 0.0055,
-      "no_price": 0.9945,
-      "volume": 585.5,
-      "liquidity": 6281.68789,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2263.0511400000005,
+      "liquidity": null,
       "token_id": "33346982811414364957670541484744935692506896671089029432123477688250004901355",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0055,
-        0.9945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-13c",
         "condition_id": "0xeaacf48ce9e71ccb13f0e9bbd5a988e9441810140ac514f848718174c89238c4"
@@ -111,21 +111,21 @@
       "bucket_low": 14.0,
       "bucket_high": 14.0,
       "unit": "C",
-      "yes_price": 0.029,
-      "no_price": 0.971,
-      "volume": 1046.730957,
-      "liquidity": 6471.84626,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8521.953096000001,
+      "liquidity": null,
       "token_id": "58329479593569648164397346929036649542900650814348359284928540724821170646143",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.029,
-        0.971
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-14c",
         "condition_id": "0x864c38c97e088621a5129291042a9f4020c5cada845eb0987dc6a74dc141b442"
@@ -137,21 +137,21 @@
       "bucket_low": 15.0,
       "bucket_high": 15.0,
       "unit": "C",
-      "yes_price": 0.15,
-      "no_price": 0.85,
-      "volume": 165.917018,
-      "liquidity": 1017.2008,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 25413.594769000007,
+      "liquidity": null,
       "token_id": "90554012524990705577395526932666137303216072279320816269760027761181426838049",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.15,
-        0.85
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-15c",
         "condition_id": "0xa3212fff248b354037de7cc41cbe89118815145bcd8b16a8c1648a24f0806401"
@@ -163,21 +163,21 @@
       "bucket_low": 16.0,
       "bucket_high": 16.0,
       "unit": "C",
-      "yes_price": 0.41,
-      "no_price": 0.59,
-      "volume": 253.543659,
-      "liquidity": 1035.4017,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8830.964528,
+      "liquidity": null,
       "token_id": "46362635377122189412557005721779307989131114705773415203882333809830557954608",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.41,
-        0.59
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-16c",
         "condition_id": "0x289f4797323bc8dfa3b1dcddc80410aa358f8a34336a550c7afbad32f5915da3"
@@ -189,21 +189,21 @@
       "bucket_low": 17.0,
       "bucket_high": 17.0,
       "unit": "C",
-      "yes_price": 0.325,
-      "no_price": 0.675,
-      "volume": 303.599448,
-      "liquidity": 994.7666,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 16567.712404000013,
+      "liquidity": null,
       "token_id": "8194207606081416463366533549010291603052453275577985312597157387372824972983",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.325,
-        0.675
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-17c",
         "condition_id": "0xf5864c4fe12bc9c0ae771133a5b3edc3c77c72077283c5b60dc30bfe0cee5404"
@@ -215,21 +215,21 @@
       "bucket_low": 18.0,
       "bucket_high": 18.0,
       "unit": "C",
-      "yes_price": 0.0565,
-      "no_price": 0.9435,
-      "volume": 570.8757420000002,
-      "liquidity": 1016.42186,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7059.912566000001,
+      "liquidity": null,
       "token_id": "46862350803233253629430690660856190326575044221964501372574009888761422071222",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0565,
-        0.9435
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-18c",
         "condition_id": "0xbacd0400eb6078249b67de5f01fa2db0da54fe2fbed1f1017fc915fd84d22f3f"
@@ -241,21 +241,21 @@
       "bucket_low": 19.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 147.2,
-      "liquidity": 3941.11551,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2669.249096,
+      "liquidity": null,
       "token_id": "79049064829901751609107139250110465531909257292255592680800304235522621998024",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-19c",
         "condition_id": "0xbac27f8eb90743ff21ff99879775fd7ab1a26d64d863daf4aae6c86e4a3d25af"
@@ -267,21 +267,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 5.0,
-      "liquidity": 4779.4819,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 908.73,
+      "liquidity": null,
       "token_id": "98064124917923948315572037735386492962524896659730347907215543824764054937935",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-20c",
         "condition_id": "0x210a1ada625e71449279ea5a1f086c70b75bcb66f363a9a2547534301ff62b5e"
@@ -293,21 +293,21 @@
       "bucket_low": 21.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 5.0,
-      "liquidity": 4875.15344,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2116.944,
+      "liquidity": null,
       "token_id": "34727595117459870106304034670237039447537073073583566851568923809619671844701",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wellington-on-june-6-2026-21corhigher",
         "condition_id": "0x2e731d1bb25f15c7c7ba6652eaa8ba049d42a23175ea8561994b59bef88f32da"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.135463+00:00",
+      "ts": "2026-06-07T16:05:37.626624+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 33348.91816,
-      "volume": 2487.393033,
+      "liquidity": null,
+      "volume": 76600.20059900002,
       "outcomes_count": 11,
-      "top_bucket": "16.0-16.0C",
-      "top_price": 0.41,
+      "top_bucket": "17.0-17.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Wellington on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-wellington-on-june-6-2026",
     "event_id": "560836",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 12:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.477838+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.135463+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.135463+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.626624+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.626624+00:00",
   "created_at": "2026-06-05T06:08:46.477838+00:00",
-  "updated_at": "2026-06-05T06:36:19.135463+00:00",
+  "updated_at": "2026-06-08T10:14:24.718288+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "17C",
+      "resolved_value": "17C",
+      "resolution_source": null,
+      "winning_market_id": "2440872",
+      "winning_question": "Will the highest temperature in Wellington be 17°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.628629+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 15.3,
+        "unit": "C",
+        "model": "ecmwf_ifs",
+        "requested_model": "ecmwf_ifs",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 15.3,
+        "unit": "C",
+        "model": "bom_access_global_ensemble+ecmwf_ifs025_ensemble+archive",
+        "requested_model": "bom_access_global_ensemble+ecmwf_ifs025_ensemble",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "bom_access_global_ensemble",
+            "temp": 15.3,
+            "error": null
+          },
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 15.3,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:07:57.282421+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T12:00:00+00:00",
+  "hours_to_settle": -28.1
 }

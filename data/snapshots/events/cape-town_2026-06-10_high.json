@@ -1,0 +1,351 @@
+{
+  "storage_key": "cape-town_2026-06-10_high",
+  "event_id": "571596",
+  "event_slug": "highest-temperature-in-cape-town-on-june-10-2026",
+  "event_title": "Highest temperature in Cape Town on June 10?",
+  "city_slug": "cape-town",
+  "city_name": "Cape Town",
+  "date": "2026-06-10",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Cape Town",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-10T12:00:00Z",
+  "event_end_date": "2026-06-10T12:00:00Z",
+  "liquidity": 58203.59568,
+  "volume": 42548.159352,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2468395",
+      "question": "Will the highest temperature in Cape Town be 13°C or below on June 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3931.9816389999996,
+      "liquidity": 11351.6956,
+      "token_id": "98796545424577730971515812168113768642278577916493389522749464284691021187261",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-13corbelow",
+        "condition_id": "0xa416185432db0e0cda494a0bd30ac5deb73973494edb0488c69418029c398537"
+      }
+    },
+    {
+      "market_id": "2468396",
+      "question": "Will the highest temperature in Cape Town be 14°C on June 10?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3765.138654,
+      "liquidity": 10882.33024,
+      "token_id": "83673684865693317451651564020902906538736816094413054218446795317202300431880",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-14c",
+        "condition_id": "0x3fcbbc3d96f49974a7afc45aa09375eba6fd8a9f7f703fd5a3ed0f7fa0f48fae"
+      }
+    },
+    {
+      "market_id": "2468397",
+      "question": "Will the highest temperature in Cape Town be 15°C on June 10?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3528.803098000001,
+      "liquidity": 10484.75961,
+      "token_id": "23573512879182239245635778846758466379769178067205684456981784280041261325681",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-15c",
+        "condition_id": "0xe7e2f4b09485e910c6bd215edbd8d813401e4a581031acbeb078ed11629f7147"
+      }
+    },
+    {
+      "market_id": "2468398",
+      "question": "Will the highest temperature in Cape Town be 16°C on June 10?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 6242.092377000001,
+      "liquidity": 9920.08447,
+      "token_id": "105152412971223628144305804264698805589054683238016764507997444314381539360598",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-16c",
+        "condition_id": "0x959198d4af99ba96888c44cad8d930c72a348ee70c06fd64c0b3d237cd090d11"
+      }
+    },
+    {
+      "market_id": "2468399",
+      "question": "Will the highest temperature in Cape Town be 17°C on June 10?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.999,
+      "no_price": 0.001,
+      "volume": 7788.867397999999,
+      "liquidity": 957.74044,
+      "token_id": "3715441106464318875047638344446073746434881700139595879667461538112358183896",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.999,
+        0.001
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-17c",
+        "condition_id": "0x51768f51f89cb51057d1b32b6d4df86b85d948afbc3b40d756d900abb8271dee"
+      }
+    },
+    {
+      "market_id": "2468400",
+      "question": "Will the highest temperature in Cape Town be 18°C on June 10?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 3601.8947190000004,
+      "liquidity": 2251.35864,
+      "token_id": "104138904916390925167917622926942142263007578984535769648459698081798200810013",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-18c",
+        "condition_id": "0xf511f1e3f2f0bc67a923f93aa6c74e532cb37b0f576e22c00ccff257ea28d647"
+      }
+    },
+    {
+      "market_id": "2468401",
+      "question": "Will the highest temperature in Cape Town be 19°C on June 10?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 3637.461238000001,
+      "liquidity": 1372.85575,
+      "token_id": "99453798872638950542628759619679567077972812105151514050739819817458121362626",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-19c",
+        "condition_id": "0x1dc6a096bc5f38dfe92454964ebb4bb5952111e0ec9e3704b5fc40dd03b5689b"
+      }
+    },
+    {
+      "market_id": "2468402",
+      "question": "Will the highest temperature in Cape Town be 20°C on June 10?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3965.6176300000006,
+      "liquidity": 1853.2988,
+      "token_id": "83718210457362307108309323882309333718683296757945577122118140257921980233487",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-20c",
+        "condition_id": "0x4bacb7964d943383a250524d725a7d074e8a51d3ca4f261e67d762d7c32a5965"
+      }
+    },
+    {
+      "market_id": "2468403",
+      "question": "Will the highest temperature in Cape Town be 21°C on June 10?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4067.778027000001,
+      "liquidity": 1746.27533,
+      "token_id": "58130420442774983479599234827818342168132365205595582202545245318543747368706",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-21c",
+        "condition_id": "0xfc442f2666938fea663996aa89b0fe6d10607ce2bea1e83cb0f9d39a2667c396"
+      }
+    },
+    {
+      "market_id": "2468404",
+      "question": "Will the highest temperature in Cape Town be 22°C on June 10?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 983.5583250000001,
+      "liquidity": 2365.25996,
+      "token_id": "80807983816876609879022558866481811036608907610961177381364541674448405426060",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-22c",
+        "condition_id": "0x489eb976a1868f420eb7dcfc259eb209e4aa9d5c842a5a7ea61f28161db5dccc"
+      }
+    },
+    {
+      "market_id": "2468405",
+      "question": "Will the highest temperature in Cape Town be 23°C or higher on June 10?",
+      "bucket_low": 23.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1044.966247,
+      "liquidity": 2629.64512,
+      "token_id": "40457042123932654892802325608114889112384498712323157339102864547735715946366",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-cape-town-on-june-10-2026-23corhigher",
+        "condition_id": "0x69ca633780798899b4c9e8e4af8b765a69e28213e732d51fd16cd880eb7957de"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.758868+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-10T12:00:00Z",
+      "liquidity": 58203.59568,
+      "volume": 42548.159352,
+      "outcomes_count": 11,
+      "top_bucket": "17.0-17.0C",
+      "top_price": 0.999,
+      "event_title": "Highest temperature in Cape Town on June 10?"
+    }
+  ],
+  "settle_at": "2026-06-10T22:00:00+00:00",
+  "hours_to_settle": 4.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-cape-town-on-june-10-2026",
+    "event_id": "571596",
+    "markets_count": 11,
+    "game_start_time": "2026-06-09 22:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-08T09:41:19.232030+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.758868+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.758868+00:00",
+  "created_at": "2026-06-08T09:41:19.232030+00:00",
+  "updated_at": "2026-06-10T17:17:26.758868+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

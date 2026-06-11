@@ -1,0 +1,307 @@
+{
+  "storage_key": "buenos-aires_2026-03-03_high",
+  "event_id": "238974",
+  "event_slug": "highest-temperature-in-buenos-aires-on-march-3-2026",
+  "event_title": "Highest temperature in Buenos Aires on March 3?",
+  "city_slug": "buenos-aires",
+  "city_name": "Buenos Aires",
+  "date": "2026-03-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Buenos Aires",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-03T12:00:00Z",
+  "event_end_date": "2026-03-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 304016.251623,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1475113",
+      "question": "Will the highest temperature in Buenos Aires be 25°C or below on March 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 87814.521427,
+      "liquidity": null,
+      "token_id": "112417599974150329179655221621861946055501779283912690679887085659136408229051",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-25corbelow",
+        "condition_id": "0xb5bec465ef78fd04ed00fc9f2704b661d4634e9d1161ca95098dbc00d705d499"
+      }
+    },
+    {
+      "market_id": "1475114",
+      "question": "Will the highest temperature in Buenos Aires be 26°C on March 3?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 21501.015513,
+      "liquidity": null,
+      "token_id": "25687011276856271448130813392818978643858411625034202142877673663168224101896",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-26c",
+        "condition_id": "0x72fcdf99fc8b1875c98ab54154cece5827d85ab25f7dc2b1dfe9228d66327605"
+      }
+    },
+    {
+      "market_id": "1475115",
+      "question": "Will the highest temperature in Buenos Aires be 27°C on March 3?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 27810.198172,
+      "liquidity": null,
+      "token_id": "47821706834305028345855564924817225440081414020805426610688611756313550819198",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-27c",
+        "condition_id": "0xa1ee78334eb6d0e1a1d28987cb050a8f3fbb3c8d9e8ff7c938d2344922eb6ae5"
+      }
+    },
+    {
+      "market_id": "1475116",
+      "question": "Will the highest temperature in Buenos Aires be 28°C on March 3?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 45891.018032,
+      "liquidity": null,
+      "token_id": "68901545448158661355968978096350307111994451866789952420024012765721466267239",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-28c",
+        "condition_id": "0xf7be040b5af1bef7888aa8f69081813ab57a3ef4ec4a0531e1ebed305de64b7f"
+      }
+    },
+    {
+      "market_id": "1475117",
+      "question": "Will the highest temperature in Buenos Aires be 29°C on March 3?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 23334.500094,
+      "liquidity": null,
+      "token_id": "18328319001864904155418954039412205366935654836260524963795896163196170358906",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-29c",
+        "condition_id": "0x0cd967342239edf745a499cf776dd6c0e778c6d008252352aac0c8156f1e07c0"
+      }
+    },
+    {
+      "market_id": "1475118",
+      "question": "Will the highest temperature in Buenos Aires be 30°C on March 3?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18366.472704,
+      "liquidity": null,
+      "token_id": "37912896354332068824405490896292360894043755001472682276533489132595878139507",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-30c",
+        "condition_id": "0xf87fdd154eba93c1f09dc5229a13b9377305f4e76cf7bb05bc5dae297fb89294"
+      }
+    },
+    {
+      "market_id": "1475119",
+      "question": "Will the highest temperature in Buenos Aires be 31°C on March 3?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20534.607957,
+      "liquidity": null,
+      "token_id": "77746855075715107952337406715560769959998815889351814878396684328259969256236",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-31c",
+        "condition_id": "0x33d3e82555f0cefcf291dc7c2a8aaf38f0e90eb23e7f28e614952a41399480e5"
+      }
+    },
+    {
+      "market_id": "1475120",
+      "question": "Will the highest temperature in Buenos Aires be 32°C on March 3?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 30952.166625,
+      "liquidity": null,
+      "token_id": "92118165806415875111326740873178941056624931990016362517954338605637776999722",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-32c",
+        "condition_id": "0xae186d161f816ce6fd4fcc7a47bbb69370bbaa1ff954c1d74e7f5b79e82e1786"
+      }
+    },
+    {
+      "market_id": "1475121",
+      "question": "Will the highest temperature in Buenos Aires be 33°C or higher on March 3?",
+      "bucket_low": 33.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 27811.751099,
+      "liquidity": null,
+      "token_id": "59824252900664694835906587280461776493473597372865221443938490446387407481269",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-buenos-aires-on-march-3-2026-33corhigher",
+        "condition_id": "0x61e715585c80e02664e43a1a54084c7fcdb63df4c4fa6fd4745d5b37445d4f32"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.933895+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 304016.251623,
+      "outcomes_count": 9,
+      "top_bucket": "29.0-29.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Buenos Aires on March 3?"
+    }
+  ],
+  "settle_at": "2026-03-04T03:00:00+00:00",
+  "hours_to_settle": -2293.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-buenos-aires-on-march-3-2026",
+    "event_id": "238974",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.933895+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.933895+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.933895+00:00",
+  "created_at": "2026-06-07T16:06:10.933895+00:00",
+  "updated_at": "2026-06-10T17:17:28.541122+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "29C",
+      "resolved_value": "29C",
+      "resolution_source": null,
+      "winning_market_id": "1475117",
+      "winning_question": "Will the highest temperature in Buenos Aires be 29°C on March 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.934903+00:00"
+  },
+  "legacy": null
+}

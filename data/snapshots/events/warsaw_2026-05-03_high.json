@@ -1,0 +1,360 @@
+{
+  "storage_key": "warsaw_2026-05-03_high",
+  "event_id": "436627",
+  "event_slug": "highest-temperature-in-warsaw-on-may-3-2026",
+  "event_title": "Highest temperature in Warsaw on May 3?",
+  "city_slug": "warsaw",
+  "city_name": "Warsaw",
+  "date": "2026-05-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Warsaw",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-03T12:00:00Z",
+  "event_end_date": "2026-05-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 64077.281859,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2130053",
+      "question": "Will the highest temperature in Warsaw be 19°C or below on May 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1744.8845830000002,
+      "liquidity": null,
+      "token_id": "90065342367740735519978892296806645055943918113622591998263940334111583279077",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-19corbelow",
+        "condition_id": "0xe94cdf943f12bd017e42c7e04a72a95f3103e8a945199a9d501e7b487afdbdf0"
+      }
+    },
+    {
+      "market_id": "2130054",
+      "question": "Will the highest temperature in Warsaw be 20°C on May 3?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2785.1889160000005,
+      "liquidity": null,
+      "token_id": "71222698757924329909205369122449832647525532290604353085940231571437313734947",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-20c",
+        "condition_id": "0x5be4e2b701787aa9f7bdc39e0e5faf37ef450681ff0ab30b4428b8c37504b374"
+      }
+    },
+    {
+      "market_id": "2130055",
+      "question": "Will the highest temperature in Warsaw be 21°C on May 3?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1709.9298299999998,
+      "liquidity": null,
+      "token_id": "46154708279145215912711880227506869398570142843299636151597650022221697865385",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-21c",
+        "condition_id": "0xfd00be485dd21f31beed30e658075640a38f964ce3a55360735226cf4cc1c144"
+      }
+    },
+    {
+      "market_id": "2130056",
+      "question": "Will the highest temperature in Warsaw be 22°C on May 3?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2295.34975,
+      "liquidity": null,
+      "token_id": "34551676845086140088787304390272593295739883986659541897730404489460658292381",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-22c",
+        "condition_id": "0x729735fa8658d2b05a1a56f032577c08025cc04f8f042ca7256c46ad1ea25ab9"
+      }
+    },
+    {
+      "market_id": "2130057",
+      "question": "Will the highest temperature in Warsaw be 23°C on May 3?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3712.7671219999993,
+      "liquidity": null,
+      "token_id": "68901028730789517309984038897572130560304344019780859983681275855405067822912",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-23c",
+        "condition_id": "0x89bd461f66d14b95689351feba0cb00c8a1eee98015ab4edca38106f05ea8853"
+      }
+    },
+    {
+      "market_id": "2130058",
+      "question": "Will the highest temperature in Warsaw be 24°C on May 3?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4660.206882999999,
+      "liquidity": null,
+      "token_id": "2496775918107055022998271793415639875371574887539447145590242241469970988643",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-24c",
+        "condition_id": "0x51fb9e834cda837182849eddded44eadb26265534d377bcbb9fc9e1a9cfe919d"
+      }
+    },
+    {
+      "market_id": "2130059",
+      "question": "Will the highest temperature in Warsaw be 25°C on May 3?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6309.799066000001,
+      "liquidity": null,
+      "token_id": "35219399258468992364428896935290303371041821945423249175426814106676352843155",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-25c",
+        "condition_id": "0x9515ef217fae1e979546f3c36bd410868c77bde12cbdb19d456a34fc27e91c9b"
+      }
+    },
+    {
+      "market_id": "2130060",
+      "question": "Will the highest temperature in Warsaw be 26°C on May 3?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11486.421305999997,
+      "liquidity": null,
+      "token_id": "18461598217192420438982552543157955242992846385203590735599846095670033310752",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-26c",
+        "condition_id": "0xdd3e496a1aec4cd0afb275230eda630562f6e54c859262f1e387a4ab0842a7d9"
+      }
+    },
+    {
+      "market_id": "2130061",
+      "question": "Will the highest temperature in Warsaw be 27°C on May 3?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 9716.345615000002,
+      "liquidity": null,
+      "token_id": "95813965893531096243217693809883655280008130063645944162586237937044901327510",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-27c",
+        "condition_id": "0xfe8a383e7184c172b986449dd87890e8b5e7e7bb781b4ff6c5d6d2f6dd39df4f"
+      }
+    },
+    {
+      "market_id": "2130062",
+      "question": "Will the highest temperature in Warsaw be 28°C on May 3?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12119.041416000002,
+      "liquidity": null,
+      "token_id": "82952106483057041811389962345476199611271169649156860518018985091260541148078",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-28c",
+        "condition_id": "0xb4f2669f2fb918c9e2f83a667f7740a6e05f6833e53b948ae49c9c7014712816"
+      }
+    },
+    {
+      "market_id": "2130063",
+      "question": "Will the highest temperature in Warsaw be 29°C or higher on May 3?",
+      "bucket_low": 29.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7537.347371999999,
+      "liquidity": null,
+      "token_id": "83702948704478524692960711987376253751700192257680683836102378223797953049417",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-warsaw-on-may-3-2026-29corhigher",
+        "condition_id": "0x001d704c3d0f240503ed631427ff479965547f1b136c245acbab33fe05ac46e7"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.261990+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 64077.281859,
+      "outcomes_count": 11,
+      "top_bucket": "27.0-27.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Warsaw on May 3?"
+    }
+  ],
+  "settle_at": "2026-05-03T22:00:00+00:00",
+  "hours_to_settle": -834.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-warsaw-on-may-3-2026",
+    "event_id": "436627",
+    "markets_count": 11,
+    "game_start_time": "2026-05-02 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.261990+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.261990+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.261990+00:00",
+  "created_at": "2026-06-07T16:06:02.261990+00:00",
+  "updated_at": "2026-06-10T17:17:31.262693+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "27C",
+      "resolved_value": "27C",
+      "resolution_source": null,
+      "winning_market_id": "2130061",
+      "winning_question": "Will the highest temperature in Warsaw be 27°C on May 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.262993+00:00"
+  },
+  "legacy": null
+}

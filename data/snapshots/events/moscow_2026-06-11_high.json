@@ -1,0 +1,351 @@
+{
+  "storage_key": "moscow_2026-06-11_high",
+  "event_id": "575224",
+  "event_slug": "highest-temperature-in-moscow-on-june-11-2026",
+  "event_title": "Highest temperature in Moscow on June 11?",
+  "city_slug": "moscow",
+  "city_name": "Moscow",
+  "date": "2026-06-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Moscow",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-11T12:00:00Z",
+  "event_end_date": "2026-06-11T12:00:00Z",
+  "liquidity": 33182.72531,
+  "volume": 9185.133832,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2476968",
+      "question": "Will the highest temperature in Moscow be 24°C or below on June 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 175.97799999999998,
+      "liquidity": 3332.57408,
+      "token_id": "1680712889949813682243835140748858641973784678213698174456469689015029769080",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-24corbelow",
+        "condition_id": "0x3d298534d831f29847c9d9541d16f13f3f476943fa0b235bf77cc263865d1f0a"
+      }
+    },
+    {
+      "market_id": "2476969",
+      "question": "Will the highest temperature in Moscow be 25°C on June 11?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 760.9642,
+      "liquidity": 4023.09804,
+      "token_id": "61206343256419641212686234201483789622941352632525417426592815042530348324955",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-25c",
+        "condition_id": "0x63fba0caf3eebac2e8f1b713ff5e0e0694008392347596fb2383557885f34367"
+      }
+    },
+    {
+      "market_id": "2476970",
+      "question": "Will the highest temperature in Moscow be 26°C on June 11?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 1121.9003619999999,
+      "liquidity": 3432.76426,
+      "token_id": "15020053777380341904665645957374739722677878437458188883223244093377685250159",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-26c",
+        "condition_id": "0x85909d3209fed1304a4de5070c3c3c70034c6b1207fe9c6e5063b9f20597dbcb"
+      }
+    },
+    {
+      "market_id": "2476971",
+      "question": "Will the highest temperature in Moscow be 27°C on June 11?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0075,
+      "no_price": 0.9925,
+      "volume": 745.0697240000001,
+      "liquidity": 1721.1131,
+      "token_id": "10966446855758655159459791812412923993982632012349982627039227985152783186933",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0075,
+        0.9925
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-27c",
+        "condition_id": "0xe575e02bdabc5437f51c67c5ac0c5537c484f2856bdb877ab95cf52f32db4e89"
+      }
+    },
+    {
+      "market_id": "2476972",
+      "question": "Will the highest temperature in Moscow be 28°C on June 11?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.075,
+      "no_price": 0.925,
+      "volume": 448.24816500000003,
+      "liquidity": 2143.5942,
+      "token_id": "28051454010384990018667114040932226106954912506685166783126502025012943135644",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.075,
+        0.925
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-28c",
+        "condition_id": "0x1e56e3d033a6ce048b7bddd236b6de8dfa35e2a4d953d86b013bce90a847d1e6"
+      }
+    },
+    {
+      "market_id": "2476973",
+      "question": "Will the highest temperature in Moscow be 29°C on June 11?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.325,
+      "no_price": 0.675,
+      "volume": 237.26977599999998,
+      "liquidity": 1203.4212,
+      "token_id": "10511043678737384805720400242818180581297741654643808315225791909826371222132",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.325,
+        0.675
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-29c",
+        "condition_id": "0x7cf99ff4882e22df9dc31badc471357df24bc2dbcac180ea29ab8b76aa68be75"
+      }
+    },
+    {
+      "market_id": "2476974",
+      "question": "Will the highest temperature in Moscow be 30°C on June 11?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.435,
+      "no_price": 0.565,
+      "volume": 227.05306699999997,
+      "liquidity": 886.1797,
+      "token_id": "70048427270537369259932096324089204703549710031775737132774356608890176945172",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.435,
+        0.565
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-30c",
+        "condition_id": "0xdbb8be31691d2011402a358c2cad9f5bf081d5406d846bc75ebee259bb4a98b7"
+      }
+    },
+    {
+      "market_id": "2476975",
+      "question": "Will the highest temperature in Moscow be 31°C on June 11?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.14,
+      "no_price": 0.86,
+      "volume": 403.690733,
+      "liquidity": 1268.96,
+      "token_id": "12668260274556244436809248877338715653935445743795959737499862025982030803719",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.14,
+        0.86
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-31c",
+        "condition_id": "0x210865931f5c279e34baf71d225504b4da565523520d03bd81bd316b253d7c87"
+      }
+    },
+    {
+      "market_id": "2476976",
+      "question": "Will the highest temperature in Moscow be 32°C on June 11?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.019,
+      "no_price": 0.981,
+      "volume": 274.925749,
+      "liquidity": 1481.2038,
+      "token_id": "61947187881913736559632060680350252864599606429222034903221444089980966213385",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.019,
+        0.981
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-32c",
+        "condition_id": "0x6ae6d9fb14a992ba13ae4f4e709d156d1e88a78e9864082f5e5f99452249ce49"
+      }
+    },
+    {
+      "market_id": "2476977",
+      "question": "Will the highest temperature in Moscow be 33°C on June 11?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.004,
+      "no_price": 0.996,
+      "volume": 325.19569999999993,
+      "liquidity": 2839.3135,
+      "token_id": "51168901730998592121107522294360569212127196441417459383502361097686945494574",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.004,
+        0.996
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-33c",
+        "condition_id": "0x9a0774973e67d0c191d16c09df4cf46fb069a9215d0039d49013f755ca786d9c"
+      }
+    },
+    {
+      "market_id": "2476978",
+      "question": "Will the highest temperature in Moscow be 34°C or higher on June 11?",
+      "bucket_low": 34.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 4493.367765999999,
+      "liquidity": 3693.72735,
+      "token_id": "102370336369602233193549596460411256542104138127422655854093652939641832395845",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-june-11-2026-34corhigher",
+        "condition_id": "0x8f11fb7c5d9e2b1d2a17b582b187a7500bab96e98b2e5f9e99bda93cd09a4d28"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.665643+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-11T12:00:00Z",
+      "liquidity": 33182.72531,
+      "volume": 9185.133832,
+      "outcomes_count": 11,
+      "top_bucket": "30.0-30.0C",
+      "top_price": 0.435,
+      "event_title": "Highest temperature in Moscow on June 11?"
+    }
+  ],
+  "settle_at": "2026-06-11T21:00:00+00:00",
+  "hours_to_settle": 27.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-moscow-on-june-11-2026",
+    "event_id": "575224",
+    "markets_count": 11,
+    "game_start_time": "2026-06-10 21:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 18.7,
+  "first_seen_at": "2026-06-09T07:53:26.357195+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.665643+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.665643+00:00",
+  "created_at": "2026-06-09T07:53:26.357195+00:00",
+  "updated_at": "2026-06-10T17:17:26.665643+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

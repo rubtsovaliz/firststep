@@ -1,0 +1,351 @@
+{
+  "storage_key": "jeddah_2026-06-08_high",
+  "event_id": "566694",
+  "event_slug": "highest-temperature-in-jeddah-on-june-8-2026",
+  "event_title": "Highest temperature in Jeddah on June 8?",
+  "city_slug": "jeddah",
+  "city_name": "Jeddah",
+  "date": "2026-06-08",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Jeddah",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-08T12:00:00Z",
+  "event_end_date": "2026-06-08T12:00:00Z",
+  "liquidity": 131119.60506,
+  "volume": 51270.954003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2456448",
+      "question": "Will the highest temperature in Jeddah be 35°C or below on June 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 35.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2399.478311,
+      "liquidity": 19120.65324,
+      "token_id": "108002993141081053995955541424600731436932260774680635753789645151839703324785",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-35corbelow",
+        "condition_id": "0xd742b22d78480f8dba39adb5c45349da04d9f37134c4418f23004b7e5adb011a"
+      }
+    },
+    {
+      "market_id": "2456449",
+      "question": "Will the highest temperature in Jeddah be 36°C on June 8?",
+      "bucket_low": 36.0,
+      "bucket_high": 36.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4052.406355,
+      "liquidity": 27975.73415,
+      "token_id": "35091174653323787489198058465645782331081568300537536786430316360162715638193",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-36c",
+        "condition_id": "0x1980f4e5f3c479d7c79c13222ef8257946bfc680e44e76937a394841fe867c9d"
+      }
+    },
+    {
+      "market_id": "2456450",
+      "question": "Will the highest temperature in Jeddah be 37°C on June 8?",
+      "bucket_low": 37.0,
+      "bucket_high": 37.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 8314.24058,
+      "liquidity": 27788.74548,
+      "token_id": "108783728519044306448089166140257112321000933892341004843662770690818320876185",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-37c",
+        "condition_id": "0x7ce7425e2f3bce132eec0cacb4b57c9d41d63036dbaeaed91a2ffb60559c83e5"
+      }
+    },
+    {
+      "market_id": "2456451",
+      "question": "Will the highest temperature in Jeddah be 38°C on June 8?",
+      "bucket_low": 38.0,
+      "bucket_high": 38.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 7168.040264,
+      "liquidity": 23529.11474,
+      "token_id": "112803596981416554543592928184605944817149395138200061812105689201860519729869",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-38c",
+        "condition_id": "0x6da8b519bda17b5c71489240d33b1b05905fe8bf6cd4bf8cd02b3cc6f10b0768"
+      }
+    },
+    {
+      "market_id": "2456452",
+      "question": "Will the highest temperature in Jeddah be 39°C on June 8?",
+      "bucket_low": 39.0,
+      "bucket_high": 39.0,
+      "unit": "C",
+      "yes_price": 0.9975,
+      "no_price": 0.0025,
+      "volume": 6749.780819000001,
+      "liquidity": 2246.72088,
+      "token_id": "112660025574119488197134741493340476169687362006987174301709725820596820305013",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.9975,
+        0.0025
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-39c",
+        "condition_id": "0x41759487659362d34381cd96f43f147e9d4df491a1a84e11bba61569aa78f183"
+      }
+    },
+    {
+      "market_id": "2456453",
+      "question": "Will the highest temperature in Jeddah be 40°C on June 8?",
+      "bucket_low": 40.0,
+      "bucket_high": 40.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 2749.717739999999,
+      "liquidity": 4536.21254,
+      "token_id": "61509793859615000883632246898342855416597535478129781105312973914077485261408",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-40c",
+        "condition_id": "0x34ad44bb6e3d5dfb8fcfa5223370823ae0f6d57b1aa47bd5a6cd8266ab45a04d"
+      }
+    },
+    {
+      "market_id": "2456454",
+      "question": "Will the highest temperature in Jeddah be 41°C on June 8?",
+      "bucket_low": 41.0,
+      "bucket_high": 41.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4331.955461,
+      "liquidity": 4618.20822,
+      "token_id": "51552963471300162459481011127196157434068202680640004704569786847740919596991",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-41c",
+        "condition_id": "0xb136933b557efababd52b7a7a7b1dbbdc08c99d5f081bee27d6e2d2721c07f64"
+      }
+    },
+    {
+      "market_id": "2456455",
+      "question": "Will the highest temperature in Jeddah be 42°C on June 8?",
+      "bucket_low": 42.0,
+      "bucket_high": 42.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2543.0650890000006,
+      "liquidity": 4049.4708,
+      "token_id": "12541587320961710130229179087454758798762731212640167533286901498401013530654",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-42c",
+        "condition_id": "0x6e8fa643812346a0acdfe167f70ec76b16e6631a282d2b1d05727a4b3ed7f8fb"
+      }
+    },
+    {
+      "market_id": "2456456",
+      "question": "Will the highest temperature in Jeddah be 43°C on June 8?",
+      "bucket_low": 43.0,
+      "bucket_high": 43.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4051.817656,
+      "liquidity": 4880.99841,
+      "token_id": "111453941246249655533231444361071726541865544772502735275282978055580889396263",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-43c",
+        "condition_id": "0x593698846229dac269ca0d42cb3c820201921520381a60943adbccef2618468c"
+      }
+    },
+    {
+      "market_id": "2456457",
+      "question": "Will the highest temperature in Jeddah be 44°C on June 8?",
+      "bucket_low": 44.0,
+      "bucket_high": 44.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3081.69515,
+      "liquidity": 5071.21611,
+      "token_id": "9481573324408606921299166787583384786473463667331495622869436946841242793065",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-44c",
+        "condition_id": "0x0ef51774fc41d9ce01efd7e9e438a4e6150340e8f99bc2c63748c01d9ddfc14c"
+      }
+    },
+    {
+      "market_id": "2456458",
+      "question": "Will the highest temperature in Jeddah be 45°C or higher on June 8?",
+      "bucket_low": 45.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 6300.609078,
+      "liquidity": 6264.5728,
+      "token_id": "27703284394721743174525796239129000390690697775980210268316083218129902893390",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-jeddah-on-june-8-2026-45corhigher",
+        "condition_id": "0x75a11bccaf008fa512aabb4599e6a024229c16008e4f2e5da5bfef9de3aee180"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-08T18:44:21.080335+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-08T12:00:00Z",
+      "liquidity": 131119.60506,
+      "volume": 51270.954003,
+      "outcomes_count": 11,
+      "top_bucket": "39.0-39.0C",
+      "top_price": 0.9975,
+      "event_title": "Highest temperature in Jeddah on June 8?"
+    }
+  ],
+  "settle_at": "2026-06-08T21:00:00+00:00",
+  "hours_to_settle": 2.3,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-jeddah-on-june-8-2026",
+    "event_id": "566694",
+    "markets_count": 11,
+    "game_start_time": "2026-06-07 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T13:13:01.184864+00:00",
+  "last_seen_at": "2026-06-08T18:44:21.080335+00:00",
+  "last_refreshed_at": "2026-06-08T18:44:21.080335+00:00",
+  "created_at": "2026-06-07T13:13:01.184864+00:00",
+  "updated_at": "2026-06-10T17:17:29.330238+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

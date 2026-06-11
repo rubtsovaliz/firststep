@@ -1,0 +1,351 @@
+{
+  "storage_key": "shanghai_2026-06-12_high",
+  "event_id": "578707",
+  "event_slug": "highest-temperature-in-shanghai-on-june-12-2026",
+  "event_title": "Highest temperature in Shanghai on June 12?",
+  "city_slug": "shanghai",
+  "city_name": "Shanghai",
+  "date": "2026-06-12",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Recurring",
+    "Hide From New",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Weather",
+    "Daily Temperature",
+    "Shanghai",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-12T12:00:00Z",
+  "event_end_date": "2026-06-12T12:00:00Z",
+  "liquidity": 28451.90953,
+  "volume": 3756.9005810000003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2488097",
+      "question": "Will the highest temperature in Shanghai be 25°C or below on June 12?",
+      "bucket_low": -999.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 126.702,
+      "liquidity": 6358.94895,
+      "token_id": "36152316061665878174671550593143364831501029961512484260657600720043224257590",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-25corbelow",
+        "condition_id": "0xf55e07d7aee6faf69942171738d168c8a5401be78b97ec07bbeb28fee4d03d99"
+      }
+    },
+    {
+      "market_id": "2488098",
+      "question": "Will the highest temperature in Shanghai be 26°C on June 12?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 169.27225,
+      "liquidity": 2865.37299,
+      "token_id": "47930413108272906354005792443595060061615781515918349766735090049808642421533",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-26c",
+        "condition_id": "0xe66722ec266684415c877d285fb053481c25c744e454a021c6e580d0d0859acd"
+      }
+    },
+    {
+      "market_id": "2488099",
+      "question": "Will the highest temperature in Shanghai be 27°C on June 12?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.012,
+      "no_price": 0.988,
+      "volume": 206.97059000000002,
+      "liquidity": 1584.91433,
+      "token_id": "43254861696859458320527092542859695462335565424666116458398713512945987321476",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.012,
+        0.988
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-27c",
+        "condition_id": "0xb4b9356a556037ff8b363b0eb27611490888f677fddf3b7a7cdf9f8cfe1eff45"
+      }
+    },
+    {
+      "market_id": "2488100",
+      "question": "Will the highest temperature in Shanghai be 28°C on June 12?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0305,
+      "no_price": 0.9695,
+      "volume": 206.39397400000001,
+      "liquidity": 1573.34832,
+      "token_id": "71991127966579922902520967795765279502323129982700526024061845598850758034987",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0305,
+        0.9695
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-28c",
+        "condition_id": "0xdbe37e3e6b3217716ce99976c9ceb6247c1ff56b48ec7c660215dfe090b1beb3"
+      }
+    },
+    {
+      "market_id": "2488101",
+      "question": "Will the highest temperature in Shanghai be 29°C on June 12?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.125,
+      "no_price": 0.875,
+      "volume": 370.486423,
+      "liquidity": 1314.9838,
+      "token_id": "422057382134178756218474350710222697699936864962599683454822016055257529345",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.125,
+        0.875
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-29c",
+        "condition_id": "0xa1b6fc466a7c8b4b27e06839db0ec25c6d1f555d66179cb32a55d3b78b125b42"
+      }
+    },
+    {
+      "market_id": "2488102",
+      "question": "Will the highest temperature in Shanghai be 30°C on June 12?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.28,
+      "no_price": 0.72,
+      "volume": 150.31069100000005,
+      "liquidity": 1197.8348,
+      "token_id": "1196488310173630788659023962446944584479935040603826882318281473686662147481",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.28,
+        0.72
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-30c",
+        "condition_id": "0x9cb6d4a25ccfa67d7caedef56187eed6cb6013105a29dcc46090c3d0d9fe2c7f"
+      }
+    },
+    {
+      "market_id": "2488103",
+      "question": "Will the highest temperature in Shanghai be 31°C on June 12?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.32,
+      "no_price": 0.68,
+      "volume": 228.072226,
+      "liquidity": 1280.0877,
+      "token_id": "84351498887980380057964505898186860407657310020234170275331580667664333373205",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.32,
+        0.68
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-31c",
+        "condition_id": "0xfacaeaf5e824f3807003a719d6b20b7c1b6fbc605ceff5f40756e6b50324151a"
+      }
+    },
+    {
+      "market_id": "2488104",
+      "question": "Will the highest temperature in Shanghai be 32°C on June 12?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.175,
+      "no_price": 0.825,
+      "volume": 316.531593,
+      "liquidity": 1258.7855,
+      "token_id": "7953289095959225705073967598435799798456423258541686552964805734289351075230",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.175,
+        0.825
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-32c",
+        "condition_id": "0xbdd01954f8a43250f102790a9cd7b7b94f744394836dd0f3343d834cc3a51196"
+      }
+    },
+    {
+      "market_id": "2488105",
+      "question": "Will the highest temperature in Shanghai be 33°C on June 12?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.0655,
+      "no_price": 0.9345,
+      "volume": 1012.7388960000001,
+      "liquidity": 2722.72841,
+      "token_id": "94704918927725276034573748545221679735862853179263001784536444767883546188217",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0655,
+        0.9345
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-33c",
+        "condition_id": "0x4217749804a7f5812fada4907a615c7e336a7228ad4f1d0708f10e13ca84a888"
+      }
+    },
+    {
+      "market_id": "2488106",
+      "question": "Will the highest temperature in Shanghai be 34°C on June 12?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.0245,
+      "no_price": 0.9755,
+      "volume": 633.504064,
+      "liquidity": 3602.09707,
+      "token_id": "88678851611228456673618800559845365034258447418409228341995357415988250755184",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0245,
+        0.9755
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-34c",
+        "condition_id": "0xf222bbe18ea776f594e3ca1741277975edcd978959ac7d19e225cf529b2e0ef4"
+      }
+    },
+    {
+      "market_id": "2488107",
+      "question": "Will the highest temperature in Shanghai be 35°C or higher on June 12?",
+      "bucket_low": 35.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0045,
+      "no_price": 0.9955,
+      "volume": 378.137431,
+      "liquidity": 2505.50579,
+      "token_id": "19575379672987046976572307928579031878721653533534575980368671629417483978078",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0045,
+        0.9955
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shanghai-on-june-12-2026-35corhigher",
+        "condition_id": "0xb7cbcb88a17a9066165cdfb7a0acd4a06fc2c2970d87ba56e6c970a813db0ba1"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.573414+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-12T12:00:00Z",
+      "liquidity": 28451.90953,
+      "volume": 3756.9005810000003,
+      "outcomes_count": 11,
+      "top_bucket": "31.0-31.0C",
+      "top_price": 0.32,
+      "event_title": "Highest temperature in Shanghai on June 12?"
+    }
+  ],
+  "settle_at": "2026-06-12T16:00:00+00:00",
+  "hours_to_settle": 46.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-shanghai-on-june-12-2026",
+    "event_id": "578707",
+    "markets_count": 11,
+    "game_start_time": "2026-06-11 16:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 42.7,
+  "first_seen_at": "2026-06-10T16:07:43.841559+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.573414+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.573414+00:00",
+  "created_at": "2026-06-10T16:07:43.841559+00:00",
+  "updated_at": "2026-06-10T17:17:26.573414+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

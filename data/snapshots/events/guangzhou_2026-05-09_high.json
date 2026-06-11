@@ -1,0 +1,360 @@
+{
+  "storage_key": "guangzhou_2026-05-09_high",
+  "event_id": "457287",
+  "event_slug": "highest-temperature-in-guangzhou-on-may-9-2026",
+  "event_title": "Highest temperature in Guangzhou on May 9?",
+  "city_slug": "guangzhou",
+  "city_name": "Guangzhou",
+  "date": "2026-05-09",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Guangzhou",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-09T12:00:00Z",
+  "event_end_date": "2026-05-09T12:00:00Z",
+  "liquidity": null,
+  "volume": 60580.416579000004,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2179608",
+      "question": "Will the highest temperature in Guangzhou be 15°C or below on May 9?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5451.987605,
+      "liquidity": null,
+      "token_id": "86083055340731347364464121170308398210415773979621684442739268511850001386747",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-15corbelow",
+        "condition_id": "0xb9552f37f026d8f7de0bcba8750eefe311e6d47cbc9feead4926478189db06d8"
+      }
+    },
+    {
+      "market_id": "2179609",
+      "question": "Will the highest temperature in Guangzhou be 16°C on May 9?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4544.070997,
+      "liquidity": null,
+      "token_id": "28207925361289799778063920698468542384439212816875291997690740295554508822188",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-16c",
+        "condition_id": "0x1a55765e88baa12781bb1f67a6c849628e4e7194eed9e97a5c319c8c0d4cbb76"
+      }
+    },
+    {
+      "market_id": "2179610",
+      "question": "Will the highest temperature in Guangzhou be 17°C on May 9?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5255.876834,
+      "liquidity": null,
+      "token_id": "70961293103148963453713903070652446326072108202514061520950539517116428016206",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-17c",
+        "condition_id": "0xcb80500e10095f2792fdc6bc71f5e175093a49c906d2c4e73a5ce221928b2bdb"
+      }
+    },
+    {
+      "market_id": "2179611",
+      "question": "Will the highest temperature in Guangzhou be 18°C on May 9?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3990.6043270000005,
+      "liquidity": null,
+      "token_id": "106597733635568069022769771238333728991448921923239813365252122543486646085405",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-18c",
+        "condition_id": "0xec43af8df14d8045928e6a4c29ff1fdfabe0dce1964719d9c4c19c33ccef0bd6"
+      }
+    },
+    {
+      "market_id": "2179612",
+      "question": "Will the highest temperature in Guangzhou be 19°C on May 9?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4199.407636000001,
+      "liquidity": null,
+      "token_id": "16629775053355687577762067812423481974514985962168625304526261809484194578027",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-19c",
+        "condition_id": "0x536dd98ca28239f97d082ea86f9b01cefd6dc1613f3e28411f8a303db44f8b97"
+      }
+    },
+    {
+      "market_id": "2179613",
+      "question": "Will the highest temperature in Guangzhou be 20°C on May 9?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4372.042944000001,
+      "liquidity": null,
+      "token_id": "107087377245409533234751525287448506169071948250586143102077448839158944697419",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-20c",
+        "condition_id": "0x2c8984bbf99747aed2ff7bba256d0107b6bd7f312b183bcaac3365298a9b5a64"
+      }
+    },
+    {
+      "market_id": "2179614",
+      "question": "Will the highest temperature in Guangzhou be 21°C on May 9?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3905.562142,
+      "liquidity": null,
+      "token_id": "29736367031906891987062559579611772838538394045886629133273005815453262211619",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-21c",
+        "condition_id": "0x7ede4085683b84b241ec524787f99ac7e5b67fec1c1803c3605cc945b474ddf4"
+      }
+    },
+    {
+      "market_id": "2179615",
+      "question": "Will the highest temperature in Guangzhou be 22°C on May 9?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5793.146442,
+      "liquidity": null,
+      "token_id": "35950420338676638762763107234675988294936716338471968601587543632136978524031",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-22c",
+        "condition_id": "0x24ec83355ff38daa7b6b4094f1b09941778edce89eeaa8fc253ee020c8e51941"
+      }
+    },
+    {
+      "market_id": "2179616",
+      "question": "Will the highest temperature in Guangzhou be 23°C on May 9?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6079.887629000001,
+      "liquidity": null,
+      "token_id": "14677819525416929528684361848622693844664894487140771384111173958795686325457",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-23c",
+        "condition_id": "0xda406cd0d4b52cbbd8b348c806a98142646fac2e45644f2dfd7b6af352f2fcc2"
+      }
+    },
+    {
+      "market_id": "2179617",
+      "question": "Will the highest temperature in Guangzhou be 24°C on May 9?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7775.773535000003,
+      "liquidity": null,
+      "token_id": "28187714586527676743891564862462840392582446194406192935020546857590087635989",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-24c",
+        "condition_id": "0x79b0991fd8d144760a20e1840894363e33349fa714ac6319ffe13ca26e6e715b"
+      }
+    },
+    {
+      "market_id": "2179618",
+      "question": "Will the highest temperature in Guangzhou be 25°C or higher on May 9?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9212.056488,
+      "liquidity": null,
+      "token_id": "38477646712055332272633859461494712943311362455870584121902488371193951767061",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-guangzhou-on-may-9-2026-25corhigher",
+        "condition_id": "0xd255b96e4221f66a2740cc47ffb2c9d2f0027c245e26150305171bfc0901c158"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:00.855025+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-09T12:00:00Z",
+      "liquidity": null,
+      "volume": 60580.416579000004,
+      "outcomes_count": 11,
+      "top_bucket": "24.0-24.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Guangzhou on May 9?"
+    }
+  ],
+  "settle_at": "2026-05-09T16:00:00+00:00",
+  "hours_to_settle": -696.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-guangzhou-on-may-9-2026",
+    "event_id": "457287",
+    "markets_count": 11,
+    "game_start_time": "2026-05-08 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:00.855025+00:00",
+  "last_seen_at": "2026-06-07T16:06:00.855025+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:00.855025+00:00",
+  "created_at": "2026-06-07T16:06:00.855025+00:00",
+  "updated_at": "2026-06-10T17:17:29.016474+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "24C",
+      "resolved_value": "24C",
+      "resolution_source": null,
+      "winning_market_id": "2179617",
+      "winning_question": "Will the highest temperature in Guangzhou be 24°C on May 9?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:00.856026+00:00"
+  },
+  "legacy": null
+}

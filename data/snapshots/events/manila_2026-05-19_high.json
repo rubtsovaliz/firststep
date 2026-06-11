@@ -1,0 +1,360 @@
+{
+  "storage_key": "manila_2026-05-19_high",
+  "event_id": "493723",
+  "event_slug": "arch-highest-temperature-in-manila-on-may-19-2026",
+  "event_title": "Highest temperature in Manila on May 19?",
+  "city_slug": "manila",
+  "city_name": "Manila",
+  "date": "2026-05-19",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Manila",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-19T12:00:00Z",
+  "event_end_date": "2026-05-19T12:00:00Z",
+  "liquidity": null,
+  "volume": 2693.7883930000003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2282254",
+      "question": "Will the highest temperature in Manila be 29°C or below on May 19?",
+      "bucket_low": -999.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 168.897,
+      "liquidity": null,
+      "token_id": "23309505889976438672201219143378550992841458184963358386595052104219533148192",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-29corbelow",
+        "condition_id": "0xf98ebd30e7052a15e8cfd3b68768547dd6ab257f83663eff093e304becfaa7c2"
+      }
+    },
+    {
+      "market_id": "2282255",
+      "question": "Will the highest temperature in Manila be 30°C on May 19?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 68.939,
+      "liquidity": null,
+      "token_id": "82953327524887115031742838750878150334367912487376221530849660821452041367421",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-30c",
+        "condition_id": "0x69dcae86687320cd812ac52b6ff131dad31413a74b76ee5ee5bf59ba66c525e7"
+      }
+    },
+    {
+      "market_id": "2282256",
+      "question": "Will the highest temperature in Manila be 31°C on May 19?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 321.748113,
+      "liquidity": null,
+      "token_id": "104906093915019434429351322217679366041796150049886625636470586954734235888662",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-31c",
+        "condition_id": "0x36f0b58451ed94a58a549c92b9991281ece9fc756a7266d9a7703789ad554a4a"
+      }
+    },
+    {
+      "market_id": "2282257",
+      "question": "Will the highest temperature in Manila be 32°C on May 19?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 297.62255600000003,
+      "liquidity": null,
+      "token_id": "113571998510392718387049421043727015625430177061814392809673108574191414561208",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-32c",
+        "condition_id": "0x9989aaeea389ebfaf715736a2ef6842065e9b7e3240769cd85566ef2b5b0968e"
+      }
+    },
+    {
+      "market_id": "2282258",
+      "question": "Will the highest temperature in Manila be 33°C on May 19?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 394.515713,
+      "liquidity": null,
+      "token_id": "35154324941119571414485186943117345735655439480467463857366974701958793752003",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-33c",
+        "condition_id": "0xb0e966636c10b678c84512d9202dc6b25ec4aed0e4e252697bd3ac562b5213d2"
+      }
+    },
+    {
+      "market_id": "2282259",
+      "question": "Will the highest temperature in Manila be 34°C on May 19?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 350.39812700000004,
+      "liquidity": null,
+      "token_id": "25308807146657669928665665493222207548983052869746988325350642387317777154953",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-34c",
+        "condition_id": "0x3238ee7967597ab173e17187fee8b27ae45a9c00e5ef0ff8ae3f23df775549a4"
+      }
+    },
+    {
+      "market_id": "2282260",
+      "question": "Will the highest temperature in Manila be 35°C on May 19?",
+      "bucket_low": 35.0,
+      "bucket_high": 35.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 104.75696099999999,
+      "liquidity": null,
+      "token_id": "92477814894758161295577170076335199460560684291831716382092078271575027435610",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-35c",
+        "condition_id": "0x245e5386dbe3651ae49d80497e4d44578d72eb716f8f17a1d8713679505636b5"
+      }
+    },
+    {
+      "market_id": "2282261",
+      "question": "Will the highest temperature in Manila be 36°C on May 19?",
+      "bucket_low": 36.0,
+      "bucket_high": 36.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 184.6283,
+      "liquidity": null,
+      "token_id": "23017314127516325133410037066588230512788458486190865708119898057775359908853",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-36c",
+        "condition_id": "0x7548e0365516cbb5861c2c46df4283db5fc48788e5b6947203927a978717052d"
+      }
+    },
+    {
+      "market_id": "2282262",
+      "question": "Will the highest temperature in Manila be 37°C on May 19?",
+      "bucket_low": 37.0,
+      "bucket_high": 37.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 652.446623,
+      "liquidity": null,
+      "token_id": "60973882138018205531905704149727781662265696110032742570529196940300733191204",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-37c",
+        "condition_id": "0xc46082417b1d39655ddf7c5c755132908898074f51a8844186e1327e645f9a37"
+      }
+    },
+    {
+      "market_id": "2282263",
+      "question": "Will the highest temperature in Manila be 38°C on May 19?",
+      "bucket_low": 38.0,
+      "bucket_high": 38.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 77.914,
+      "liquidity": null,
+      "token_id": "52827767986147013041649436332912132238981839940503733683361107789769909834703",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-38c",
+        "condition_id": "0xc404801f87a27a6a4e87178c3e4a57fae7a281f68e486242de045ae330add3f4"
+      }
+    },
+    {
+      "market_id": "2282264",
+      "question": "Will the highest temperature in Manila be 39°C or higher on May 19?",
+      "bucket_low": 39.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 71.922,
+      "liquidity": null,
+      "token_id": "69032555068525471813185027693345363242963232213690281706757809297596644477824",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-manila-on-may-19-2026-39corhigher",
+        "condition_id": "0x2bd841dd425b5f12e5e720fcb3ae8c09b7d03005934d6002cb179e81ae043dc6"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:58.696415+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-19T12:00:00Z",
+      "liquidity": null,
+      "volume": 2693.7883930000003,
+      "outcomes_count": 11,
+      "top_bucket": "34.0-34.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Manila on May 19?"
+    }
+  ],
+  "settle_at": "2026-05-19T16:00:00+00:00",
+  "hours_to_settle": -456.1,
+  "raw_source": {
+    "event_slug": "arch-highest-temperature-in-manila-on-may-19-2026",
+    "event_id": "493723",
+    "markets_count": 11,
+    "game_start_time": "2026-05-18 16:00:00+00"
+  },
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:43.352210+00:00",
+  "last_seen_at": "2026-06-07T16:05:58.696415+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:58.696415+00:00",
+  "created_at": "2026-06-07T16:05:43.352210+00:00",
+  "updated_at": "2026-06-07T16:05:58.696415+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=32C",
+      "resolved_value": ">=32C",
+      "resolution_source": null,
+      "winning_market_id": "2307097",
+      "winning_question": "Will the highest temperature in Manila be 32°C or higher on May 19?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:58.697979+00:00"
+  },
+  "legacy": null
+}

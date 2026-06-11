@@ -1,0 +1,360 @@
+{
+  "storage_key": "helsinki_2026-05-20_high",
+  "event_id": "497027",
+  "event_slug": "highest-temperature-in-helsinki-on-may-20-2026",
+  "event_title": "Highest temperature in Helsinki on May 20?",
+  "city_slug": "helsinki",
+  "city_name": "Helsinki",
+  "date": "2026-05-20",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Helsinki",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-20T12:00:00Z",
+  "event_end_date": "2026-05-20T12:00:00Z",
+  "liquidity": null,
+  "volume": 41925.641917999994,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2290001",
+      "question": "Will the highest temperature in Helsinki be 14°C or below on May 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 787.38222,
+      "liquidity": null,
+      "token_id": "42379988269208157941565817379869278838010942051262950742139558155864158638018",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-14corbelow",
+        "condition_id": "0xeb7b4c6085edf9f00f6844b6e96fc4251be98de986b5c4e5298276861eb51f96"
+      }
+    },
+    {
+      "market_id": "2290002",
+      "question": "Will the highest temperature in Helsinki be 15°C on May 20?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 684.8625,
+      "liquidity": null,
+      "token_id": "25100351022319936506940119970044125536883769826650065857611486388927132874759",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-15c",
+        "condition_id": "0x116093ed49cf071c4ce84c3c3116da250d8b9f91b28260cfa2b8e9e4de69e030"
+      }
+    },
+    {
+      "market_id": "2290003",
+      "question": "Will the highest temperature in Helsinki be 16°C on May 20?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 15458.469406999991,
+      "liquidity": null,
+      "token_id": "12062163406381175111157001111526175876372866912267873579959651008994379264868",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-16c",
+        "condition_id": "0x9a183917e2e7356f7722ef426476bac295838aa30284320750c3976947870a97"
+      }
+    },
+    {
+      "market_id": "2290004",
+      "question": "Will the highest temperature in Helsinki be 17°C on May 20?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9688.391055,
+      "liquidity": null,
+      "token_id": "90981807186135845999067043750284079143562443939491782061322277957693316618791",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-17c",
+        "condition_id": "0x9364949a0aade33c8053aa986fe682f30a8ed3a351c4a0fde9ba545d2edd6335"
+      }
+    },
+    {
+      "market_id": "2290005",
+      "question": "Will the highest temperature in Helsinki be 18°C on May 20?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5797.838929000002,
+      "liquidity": null,
+      "token_id": "25574262018582513608030286350224299705743257089400295829836862468870666730450",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-18c",
+        "condition_id": "0xc000dee8013ae58067d9f7e454024c122941774eac824c0f4fae1ae59847081d"
+      }
+    },
+    {
+      "market_id": "2290006",
+      "question": "Will the highest temperature in Helsinki be 19°C on May 20?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2737.426865,
+      "liquidity": null,
+      "token_id": "88822102198746210174190748585969841477469633193615247895736969766000076859895",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-19c",
+        "condition_id": "0x126a19960df6fedc27b5c07bb77e688ac91621ed3377f04a3219ff38f49a535b"
+      }
+    },
+    {
+      "market_id": "2290007",
+      "question": "Will the highest temperature in Helsinki be 20°C on May 20?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2401.494362,
+      "liquidity": null,
+      "token_id": "98847702259481630745071564391447429273289768044030093510842614619431655179367",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-20c",
+        "condition_id": "0x4d3e9fab30297f1983b8941a57f7acc86343b6c20591e72b01df7a10cf5bbfef"
+      }
+    },
+    {
+      "market_id": "2290008",
+      "question": "Will the highest temperature in Helsinki be 21°C on May 20?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1700.784033,
+      "liquidity": null,
+      "token_id": "103774592708706316076389379139360401424341890676528361938079633909031417311935",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-21c",
+        "condition_id": "0x8c245695f69d6266ae92c3550e41947042bb1a35a938714c679c5259d0b2ed73"
+      }
+    },
+    {
+      "market_id": "2290009",
+      "question": "Will the highest temperature in Helsinki be 22°C on May 20?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 933.880197,
+      "liquidity": null,
+      "token_id": "18527432287887813263545727933234769071020111435703952426750342732880257796321",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-22c",
+        "condition_id": "0x2a14812fa9359d8dda135696625c5f2198194fbb0b6fd9d15ccfc43eebb2daff"
+      }
+    },
+    {
+      "market_id": "2290010",
+      "question": "Will the highest temperature in Helsinki be 23°C on May 20?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 787.5407499999997,
+      "liquidity": null,
+      "token_id": "109578635712762784463881625805082647154944080309123241491330418740549327448457",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-23c",
+        "condition_id": "0x5bac608a1091a9a4e911304ec1191f489a4349d04f878ded094de5d6c90c33ad"
+      }
+    },
+    {
+      "market_id": "2290011",
+      "question": "Will the highest temperature in Helsinki be 24°C or higher on May 20?",
+      "bucket_low": 24.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 947.5715999999999,
+      "liquidity": null,
+      "token_id": "83017889772365382325152626691859289552474140174926909798123696857930239666093",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-helsinki-on-may-20-2026-24corhigher",
+        "condition_id": "0x79a29a293474e72ec26d9d6ee3a6608620a9b0e45108b424b180e641fd7262a6"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:58.511368+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-20T12:00:00Z",
+      "liquidity": null,
+      "volume": 41925.641917999994,
+      "outcomes_count": 11,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Helsinki on May 20?"
+    }
+  ],
+  "settle_at": "2026-05-20T21:00:00+00:00",
+  "hours_to_settle": -427.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-helsinki-on-may-20-2026",
+    "event_id": "497027",
+    "markets_count": 11,
+    "game_start_time": "2026-05-19 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:58.511368+00:00",
+  "last_seen_at": "2026-06-07T16:05:58.511368+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:58.511368+00:00",
+  "created_at": "2026-06-07T16:05:58.511368+00:00",
+  "updated_at": "2026-06-10T17:17:29.065295+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "16C",
+      "resolved_value": "16C",
+      "resolution_source": null,
+      "winning_market_id": "2290003",
+      "winning_question": "Will the highest temperature in Helsinki be 16°C on May 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:58.513372+00:00"
+  },
+  "legacy": null
+}

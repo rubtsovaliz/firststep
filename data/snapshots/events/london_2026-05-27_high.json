@@ -1,0 +1,360 @@
+{
+  "storage_key": "london_2026-05-27_high",
+  "event_id": "522303",
+  "event_slug": "highest-temperature-in-london-on-may-27-2026",
+  "event_title": "Highest temperature in London on May 27?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-05-27",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-27T12:00:00Z",
+  "event_end_date": "2026-05-27T12:00:00Z",
+  "liquidity": null,
+  "volume": 569412.661588,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2350603",
+      "question": "Will the highest temperature in London be 19°C or below on May 27?",
+      "bucket_low": -999.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 88844.73798999998,
+      "liquidity": null,
+      "token_id": "91900013923939660849659742589924738160764588200095989605928863381388622540401",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-19corbelow",
+        "condition_id": "0x783b6d81c93491b10ed7fec8001a0fa85d1952fc6feec39b67489761cf83b880"
+      }
+    },
+    {
+      "market_id": "2350604",
+      "question": "Will the highest temperature in London be 20°C on May 27?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11005.015792000004,
+      "liquidity": null,
+      "token_id": "21925838468295074407074857910339606029741296786935316719368528873888821586650",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-20c",
+        "condition_id": "0xebd7354e522b9454ba2bd57a06f8663e009731e0181c956db6e5484c1165063c"
+      }
+    },
+    {
+      "market_id": "2350605",
+      "question": "Will the highest temperature in London be 21°C on May 27?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12960.847058000003,
+      "liquidity": null,
+      "token_id": "25756961557344732498143450640151286971844634639387059358600040936863225039546",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-21c",
+        "condition_id": "0x1b353468d4b1c1e71215bbd1860aa6e6f085cdcba183da02ab06b42abd78ba43"
+      }
+    },
+    {
+      "market_id": "2350606",
+      "question": "Will the highest temperature in London be 22°C on May 27?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20483.071047999994,
+      "liquidity": null,
+      "token_id": "50209891469616917796371359360506381046910606953250675779685194838593514072132",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-22c",
+        "condition_id": "0x24a5a83e0ef23b92f343799b87a358c6e6ebcbd337ba5917114beaf34ebb4c74"
+      }
+    },
+    {
+      "market_id": "2350607",
+      "question": "Will the highest temperature in London be 23°C on May 27?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 59853.98805299999,
+      "liquidity": null,
+      "token_id": "7846053779895342002577560590143766621947209100075694797482933827883304286192",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-23c",
+        "condition_id": "0x07d1ef2b3049bc90f982329b636090dbe56ab05ebed083f4486bd2523a4bc7e4"
+      }
+    },
+    {
+      "market_id": "2350608",
+      "question": "Will the highest temperature in London be 24°C on May 27?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 151466.01187700004,
+      "liquidity": null,
+      "token_id": "55222216626803055388122861485045528998557518341404823447164078684666448558439",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-24c",
+        "condition_id": "0x421824b40d9426018db1248942022c5432b719d58bf55c34026f71a54cf66c54"
+      }
+    },
+    {
+      "market_id": "2350609",
+      "question": "Will the highest temperature in London be 25°C on May 27?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 90489.75358200002,
+      "liquidity": null,
+      "token_id": "51156029425706350348068118351113243978172564740135645629871064828728901901802",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-25c",
+        "condition_id": "0xabdb1bf2bd946c6477eddcc01d3088c72e9005a8df32460dcde988f03e81e8c7"
+      }
+    },
+    {
+      "market_id": "2350610",
+      "question": "Will the highest temperature in London be 26°C on May 27?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 38467.24441700002,
+      "liquidity": null,
+      "token_id": "108192810592704638524126190787009409509143018576767506507446453883719930572285",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-26c",
+        "condition_id": "0xa7389a0c86576145a13f0eeaf1006e4791f1445d07fa779c81d4823e9e1bcd7f"
+      }
+    },
+    {
+      "market_id": "2350611",
+      "question": "Will the highest temperature in London be 27°C on May 27?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 32931.762297999994,
+      "liquidity": null,
+      "token_id": "114163981399556762389469930602854237701690524073932076003258076953916131864006",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-27c",
+        "condition_id": "0xf07d5ed2e473ecf71a9b2bec22251a2c51db48e141dbc0adeff77b0d7bd15768"
+      }
+    },
+    {
+      "market_id": "2350612",
+      "question": "Will the highest temperature in London be 28°C on May 27?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24384.013137000013,
+      "liquidity": null,
+      "token_id": "41184209844041213038814255713998088664632929072675133717585489440156285968672",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-28c",
+        "condition_id": "0xfcf4cd323412732673e8cb021af36c1f93ac5e6e469867566a4c018416e7d0e5"
+      }
+    },
+    {
+      "market_id": "2350613",
+      "question": "Will the highest temperature in London be 29°C or higher on May 27?",
+      "bucket_low": 29.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 38526.21633599999,
+      "liquidity": null,
+      "token_id": "112989809737812660102765600900157149400432484316629997033371781659127854691784",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-27-2026-29corhigher",
+        "condition_id": "0x01645d0bd3cebb431ca45606e4c72eb165296cccfca3f1ab86c260e3e4bd593b"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:39.871623+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-27T12:00:00Z",
+      "liquidity": null,
+      "volume": 569412.661588,
+      "outcomes_count": 11,
+      "top_bucket": "24.0-24.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in London on May 27?"
+    }
+  ],
+  "settle_at": "2026-05-27T23:00:00+00:00",
+  "hours_to_settle": -257.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-london-on-may-27-2026",
+    "event_id": "522303",
+    "markets_count": 11,
+    "game_start_time": "2026-05-26 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:39.871623+00:00",
+  "last_seen_at": "2026-06-07T16:05:39.871623+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:39.871623+00:00",
+  "created_at": "2026-06-07T16:05:39.871623+00:00",
+  "updated_at": "2026-06-10T17:17:29.539302+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "24C",
+      "resolved_value": "24C",
+      "resolution_source": null,
+      "winning_market_id": "2350608",
+      "winning_question": "Will the highest temperature in London be 24°C on May 27?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:39.872625+00:00"
+  },
+  "legacy": null
+}

@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 23540.47355,
-  "volume": 646.616908,
+  "liquidity": null,
+  "volume": 25135.791926,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 26.0,
-      "liquidity": 1446.56304,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2171.083998,
+      "liquidity": null,
       "token_id": "29545052430012982409000872121447743567960492268182273011682907970083710518070",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-26corbelow",
         "condition_id": "0x62aa59c71f811e87d13a3a9a5b732a943797f82f36004f8bd5b25641e7d55896"
@@ -59,21 +59,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.025,
-      "no_price": 0.975,
-      "volume": 169.18586599999998,
-      "liquidity": 1619.83498,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2277.4499090000004,
+      "liquidity": null,
       "token_id": "93307851400973790005028760033693739854447103194598276559948702445606026784454",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.025,
-        0.975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-27c",
         "condition_id": "0xaa02563a699ff7f186cbc2a2938c7eff0f1fefff9384005b1eef6e50b9874097"
@@ -85,21 +85,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.065,
-      "no_price": 0.935,
-      "volume": 121.280825,
-      "liquidity": 1279.1107,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5895.213396000002,
+      "liquidity": null,
       "token_id": "81386378058907909263542673403241981523486817651097438692968199663074329203014",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.065,
-        0.935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-28c",
         "condition_id": "0x3fdf1e0ced8da91b158ab13fd1d21e4532da6a2b2acecb169911a79ce571e842"
@@ -111,21 +111,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.23,
-      "no_price": 0.77,
-      "volume": 186.73870799999997,
-      "liquidity": 1128.9804,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4175.148026999998,
+      "liquidity": null,
       "token_id": "73510085225146983157226683851233571807617423598998678087254708316190477893899",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.23,
-        0.77
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-29c",
         "condition_id": "0xa936f1b95d0d192c79ba0dd02e845524f6bc99d239c6d6321700a49ec3435e15"
@@ -137,21 +137,21 @@
       "bucket_low": 30.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.365,
-      "no_price": 0.635,
-      "volume": 42.975387000000005,
-      "liquidity": 1126.7781,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 3237.1105710000006,
+      "liquidity": null,
       "token_id": "32397890450964287495917063246565485899603705337032081662374871674509947037569",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.365,
-        0.635
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-30c",
         "condition_id": "0x799d5e343fb2eeb575509d5e7cfd79cc87eb3bae8346c4539e67940271840cab"
@@ -163,21 +163,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.215,
-      "no_price": 0.785,
-      "volume": 20.0,
-      "liquidity": 1145.6212,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2184.265537999999,
+      "liquidity": null,
       "token_id": "110243275886646371040042094129420754354944339775190547830253918729530555817896",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.215,
-        0.785
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-31c",
         "condition_id": "0xe91f4a65186631162fd14f170cf7b454e0ef0ed65d5aee436e6c7c27389ded4a"
@@ -189,21 +189,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.0475,
-      "no_price": 0.9525,
-      "volume": 134.358122,
-      "liquidity": 1326.83165,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2814.7061080000008,
+      "liquidity": null,
       "token_id": "22442667837886389544963009029478640158202992178051680840515244551395530266812",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0475,
-        0.9525
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-32c",
         "condition_id": "0xedcec5796da594dec13fada1dae5270ac406f1cb4ee5bef0dc354cb8d640e05b"
@@ -215,21 +215,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.026,
-      "no_price": 0.974,
-      "volume": 16.066833,
-      "liquidity": 1707.34418,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1140.953355,
+      "liquidity": null,
       "token_id": "88774279372027482819549029246636585927028382487151354785594968556083772454732",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.026,
-        0.974
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-33c",
         "condition_id": "0x6266626b2e6e2795efe3d1d2d7162df4a356f5ca4f3e757f48b2ee421c3761e0"
@@ -241,21 +241,21 @@
       "bucket_low": 34.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.0065,
-      "no_price": 0.9935,
-      "volume": 46.032,
-      "liquidity": 3538.67537,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 458.55799999999994,
+      "liquidity": null,
       "token_id": "53021716011968942458672597306197701118698852099729508317269074177895856988728",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0065,
-        0.9935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-34c",
         "condition_id": "0x77afb2c1fe4336a3fab929b1c868058c95339fb60da8af345ef4a396156ea631"
@@ -267,21 +267,21 @@
       "bucket_low": 35.0,
       "bucket_high": 35.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 24.994,
-      "liquidity": 4717.7088,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 326.948024,
+      "liquidity": null,
       "token_id": "7097291418704154920841139792291277853219046753742558225557881813107436565827",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-35c",
         "condition_id": "0x0b2776d4372b05b744645a5cb10ff7ec0be6065d66f4ad1b7d002eebe427bafd"
@@ -293,21 +293,21 @@
       "bucket_low": 36.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 10.0,
-      "liquidity": 5096.6294,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 454.355,
+      "liquidity": null,
       "token_id": "641751071322820033227980613624000707499209819203798263074610376421770877547",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-panama-city-on-june-6-2026-36corhigher",
         "condition_id": "0x97ee2037f0d2efb98bea29dc4fe0e7b223635d0278b1ccb2b5a3e8e26fae5405"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:18.974444+00:00",
+      "ts": "2026-06-07T16:05:37.528385+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 23540.47355,
-      "volume": 646.616908,
+      "liquidity": null,
+      "volume": 25135.791926,
       "outcomes_count": 11,
       "top_bucket": "30.0-30.0C",
-      "top_price": 0.365,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Panama City on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-panama-city-on-june-6-2026",
     "event_id": "560864",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-06 05:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.430457+00:00",
-  "last_seen_at": "2026-06-05T06:36:18.974444+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:18.974444+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.528385+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.528385+00:00",
   "created_at": "2026-06-05T06:08:46.430457+00:00",
-  "updated_at": "2026-06-05T06:36:18.974444+00:00",
+  "updated_at": "2026-06-08T11:19:43.880110+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "30C",
+      "resolved_value": "30C",
+      "resolution_source": null,
+      "winning_market_id": "2441178",
+      "winning_question": "Will the highest temperature in Panama City be 30°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.530400+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 26.6,
+        "unit": "C",
+        "model": "ecmwf_ifs",
+        "requested_model": "ecmwf_ifs",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 26.6,
+        "unit": "C",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless+archive",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 26.6,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 26.6,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:17:36.303714+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-07T05:00:00+00:00",
+  "hours_to_settle": -11.1
 }

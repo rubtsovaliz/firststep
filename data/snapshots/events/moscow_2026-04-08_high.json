@@ -1,0 +1,360 @@
+{
+  "storage_key": "moscow_2026-04-08_high",
+  "event_id": "341853",
+  "event_slug": "highest-temperature-in-moscow-on-april-8-2026",
+  "event_title": "Highest temperature in Moscow on April 8?",
+  "city_slug": "moscow",
+  "city_name": "Moscow",
+  "date": "2026-04-08",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Moscow",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-08T12:00:00Z",
+  "event_end_date": "2026-04-08T12:00:00Z",
+  "liquidity": null,
+  "volume": 71571.354213,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1854851",
+      "question": "Will the highest temperature in Moscow be 1°C or below on April 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4179.310987999999,
+      "liquidity": null,
+      "token_id": "21673613627404119486905428891484508995286275370528046944243104225670952528451",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-1corbelow",
+        "condition_id": "0x271381f5440f127c4d9f638d3b5e352ccac6cb2930e2717f808adae550c73491"
+      }
+    },
+    {
+      "market_id": "1854852",
+      "question": "Will the highest temperature in Moscow be 2°C on April 8?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3492.129996,
+      "liquidity": null,
+      "token_id": "86879583827591216312943161766284955844777117513233808554852948035459664652294",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-2c",
+        "condition_id": "0xbd64e198ee19db020e54700e42516a21fc653d9568d2ee66cc27366135fc4c88"
+      }
+    },
+    {
+      "market_id": "1854853",
+      "question": "Will the highest temperature in Moscow be 3°C on April 8?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5150.502658,
+      "liquidity": null,
+      "token_id": "67932357369900117701166274774545852912634888725147746717980992435557372181085",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-3c",
+        "condition_id": "0x63dabfb07efb6fefb40b3ccc426c404f68afa336fe5b19d55509ef27c623b910"
+      }
+    },
+    {
+      "market_id": "1854854",
+      "question": "Will the highest temperature in Moscow be 4°C on April 8?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6463.183518000001,
+      "liquidity": null,
+      "token_id": "54373095320311388986278307393644045135307707538860664657156775436903280755011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-4c",
+        "condition_id": "0xac5288cc23a0a73c90e789d70429481e6f6b89ce003caf1ff6397f7c34ab6233"
+      }
+    },
+    {
+      "market_id": "1854855",
+      "question": "Will the highest temperature in Moscow be 5°C on April 8?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 11510.607369000005,
+      "liquidity": null,
+      "token_id": "99583390152339975612051393247221441298013298584144453965534797346070013539583",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-5c",
+        "condition_id": "0xffcc37201456948cb71ae813368ef9a9b861be5bd712ee6d54ea558a302ed170"
+      }
+    },
+    {
+      "market_id": "1854856",
+      "question": "Will the highest temperature in Moscow be 6°C on April 8?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13500.314463000004,
+      "liquidity": null,
+      "token_id": "4302894870582543245822552470267630440131597168768104272078071964079127946203",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-6c",
+        "condition_id": "0x4134d8e94df767f0ca61d15c8aa49fe832ba451660bbb5e6646088a17214f683"
+      }
+    },
+    {
+      "market_id": "1854857",
+      "question": "Will the highest temperature in Moscow be 7°C on April 8?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10046.829853999998,
+      "liquidity": null,
+      "token_id": "49897437897307726716068535830839078507502890470660563853960843207540668855949",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-7c",
+        "condition_id": "0x4aa751977dc840be367e44a738fafedf27674f4ed573600f54ccffee936e31ee"
+      }
+    },
+    {
+      "market_id": "1854858",
+      "question": "Will the highest temperature in Moscow be 8°C on April 8?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5515.238850999998,
+      "liquidity": null,
+      "token_id": "111483950018551283018332234476983701218543271715222611057580093906827863697505",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-8c",
+        "condition_id": "0x1295baeb4083eacf1df5dcfd2fe45f5a1268233d7360d9fd9af16b0caf5a30ab"
+      }
+    },
+    {
+      "market_id": "1854859",
+      "question": "Will the highest temperature in Moscow be 9°C on April 8?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3403.107291,
+      "liquidity": null,
+      "token_id": "4939367002985387233759148776542707273951340796947106666021002244130188131220",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-9c",
+        "condition_id": "0x949085b1b03421f16b6603436e738b85e6b2b67fdfa80cae5e201739b619e491"
+      }
+    },
+    {
+      "market_id": "1854860",
+      "question": "Will the highest temperature in Moscow be 10°C on April 8?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3307.7465469999993,
+      "liquidity": null,
+      "token_id": "10118048449727515372741576906039950088088651062071238213938361351901952723026",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-10c",
+        "condition_id": "0xc780d60d42ac18d2084fb75268b6a54ebb128170e72fd12fd09608d2984cda5a"
+      }
+    },
+    {
+      "market_id": "1854861",
+      "question": "Will the highest temperature in Moscow be 11°C or higher on April 8?",
+      "bucket_low": 11.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5002.382677999996,
+      "liquidity": null,
+      "token_id": "78141303737577642919730652776002045241831074574009518000334440184926391204876",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-moscow-on-april-8-2026-11corhigher",
+        "condition_id": "0x48090e62f943662810d1e47a8ff0aaec86bdb549242d7a83cceb5e5bd42209a9"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:07.185565+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-08T12:00:00Z",
+      "liquidity": null,
+      "volume": 71571.354213,
+      "outcomes_count": 11,
+      "top_bucket": "5.0-5.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Moscow on April 8?"
+    }
+  ],
+  "settle_at": "2026-04-08T21:00:00+00:00",
+  "hours_to_settle": -1435.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-moscow-on-april-8-2026",
+    "event_id": "341853",
+    "markets_count": 11,
+    "game_start_time": "2026-04-07 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:07.185565+00:00",
+  "last_seen_at": "2026-06-07T16:06:07.185565+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:07.185565+00:00",
+  "created_at": "2026-06-07T16:06:07.185565+00:00",
+  "updated_at": "2026-06-10T17:17:29.977409+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "5C",
+      "resolved_value": "5C",
+      "resolution_source": null,
+      "winning_market_id": "1854855",
+      "winning_question": "Will the highest temperature in Moscow be 5°C on April 8?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:07.186588+00:00"
+  },
+  "legacy": null
+}

@@ -1,0 +1,307 @@
+{
+  "storage_key": "london_2026-02-28_high",
+  "event_id": "231941",
+  "event_slug": "highest-temperature-in-london-on-february-28-2026",
+  "event_title": "Highest temperature in London on February 28?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-02-28",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-28T12:00:00Z",
+  "event_end_date": "2026-02-28T12:00:00Z",
+  "liquidity": null,
+  "volume": 294255.582222,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1444156",
+      "question": "Will the highest temperature in London be 8°C or below on February 28?",
+      "bucket_low": -999.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 25752.371985,
+      "liquidity": null,
+      "token_id": "108066643169357588502216678071139360058001378288802385016081335681532093921208",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-8corbelow",
+        "condition_id": "0xe1ad64e93cfb661c390413b8aca185816a4fb369f869c11976b5cba818967fd8"
+      }
+    },
+    {
+      "market_id": "1444157",
+      "question": "Will the highest temperature in London be 9°C on February 28?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 74611.391016,
+      "liquidity": null,
+      "token_id": "95879374119323891540594887690200060076321540862492794749304118320284757693749",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-9c",
+        "condition_id": "0xb13df72c0e34b58e50d0e9a634b130e08a45e3c74fb47db8f0db3adc7db378f6"
+      }
+    },
+    {
+      "market_id": "1444158",
+      "question": "Will the highest temperature in London be 10°C on February 28?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 64484.842966,
+      "liquidity": null,
+      "token_id": "36639011966377944795268216805003616763316565598128549337212904656891880766102",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-10c",
+        "condition_id": "0x67b0bc9a65725e19a1dfa87de53fa05637f665be8d403cecc1b391aea959e956"
+      }
+    },
+    {
+      "market_id": "1444159",
+      "question": "Will the highest temperature in London be 11°C on February 28?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 37100.020499,
+      "liquidity": null,
+      "token_id": "32856380897051912745832977470746041698276164112872789027956369221188702082642",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-11c",
+        "condition_id": "0xba9347b9ed9b93641547705b6de96d0c756c1d275e051cc0f13e90734c34aa27"
+      }
+    },
+    {
+      "market_id": "1444160",
+      "question": "Will the highest temperature in London be 12°C on February 28?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 50558.962593,
+      "liquidity": null,
+      "token_id": "37575243268465568610949965667832577371114270016042478744388446254977656942480",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-12c",
+        "condition_id": "0x65c59f650ee64dc4d77bd0127a198fdc2f6b016fb07eff4f0a0dc1a80f935359"
+      }
+    },
+    {
+      "market_id": "1444161",
+      "question": "Will the highest temperature in London be 13°C on February 28?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16477.073744,
+      "liquidity": null,
+      "token_id": "105976950978857809620751032251412532951906639082434061875502724401033776038641",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-13c",
+        "condition_id": "0x4c214044002134c03e75bb9094101f1a49b1ad4a6acb3398029adf79788ac17d"
+      }
+    },
+    {
+      "market_id": "1444162",
+      "question": "Will the highest temperature in London be 14°C on February 28?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13273.593548,
+      "liquidity": null,
+      "token_id": "13358982771600726003087066351406020963283690218203130261430931382269593703898",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-14c",
+        "condition_id": "0x38d8283457cb0d0072e6c4486ad86edfa66a26c03c0deb2f08c88c703437d7b1"
+      }
+    },
+    {
+      "market_id": "1444163",
+      "question": "Will the highest temperature in London be 15°C on February 28?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6544.275906,
+      "liquidity": null,
+      "token_id": "67674267380289374304687496043771633617584845741709611224951715403035168277748",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-15c",
+        "condition_id": "0x4b4272dce7360966776a528f5964d68438b452ccfa2326fa7b7dd65e6c09977f"
+      }
+    },
+    {
+      "market_id": "1444164",
+      "question": "Will the highest temperature in London be 16°C or higher on February 28?",
+      "bucket_low": 16.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5453.049965,
+      "liquidity": null,
+      "token_id": "59322612659386489310193890614036548509085716191967769260929564554609280806635",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-february-28-2026-16corhigher",
+        "condition_id": "0x3cbaf795560f1f8b039a8fe08280cc7192cbb274e0ea1628d9397c77a44d88cc"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.072372+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-28T12:00:00Z",
+      "liquidity": null,
+      "volume": 294255.582222,
+      "outcomes_count": 9,
+      "top_bucket": "11.0-11.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in London on February 28?"
+    }
+  ],
+  "settle_at": "2026-03-01T00:00:00+00:00",
+  "hours_to_settle": -2368.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-london-on-february-28-2026",
+    "event_id": "231941",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.072372+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.072372+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.072372+00:00",
+  "created_at": "2026-06-07T16:06:11.072372+00:00",
+  "updated_at": "2026-06-10T17:17:29.455568+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "11C",
+      "resolved_value": "11C",
+      "resolution_source": null,
+      "winning_market_id": "1444159",
+      "winning_question": "Will the highest temperature in London be 11°C on February 28?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.073375+00:00"
+  },
+  "legacy": null
+}

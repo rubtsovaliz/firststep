@@ -1,0 +1,351 @@
+{
+  "storage_key": "nyc_2026-06-10_low",
+  "event_id": "574585",
+  "event_slug": "lowest-temperature-in-nyc-on-june-10-2026",
+  "event_title": "Lowest temperature in NYC on June 10?",
+  "city_slug": "nyc",
+  "city_name": "Nyc",
+  "date": "2026-06-10",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "New York City",
+    "Daily Temperature",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-10T12:00:00Z",
+  "event_end_date": "2026-06-10T12:00:00Z",
+  "liquidity": 45409.43588,
+  "volume": 28571.48357300001,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2475006",
+      "question": "Will the lowest temperature in New York City be 59°F or below on June 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5674.421930000001,
+      "liquidity": 8400.63556,
+      "token_id": "12258133490686966393684693218092431331904688957314810394565355165660737511416",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-59forbelow",
+        "condition_id": "0x6baf404194e6cfccde3cce1f6645d8fe75347973ddc76a1e0573ac032cba58da"
+      }
+    },
+    {
+      "market_id": "2475007",
+      "question": "Will the lowest temperature in New York City be between 60-61°F on June 10?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 1975.3884380000002,
+      "liquidity": 2334.62526,
+      "token_id": "73450783214859286390694373974633454994200364815258464773782164318238913365028",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-60-61f",
+        "condition_id": "0xda3354c086614d4bb8f2568cbb54c5fc1bcdec861fb34a6b98dffe4670ff2b17"
+      }
+    },
+    {
+      "market_id": "2475008",
+      "question": "Will the lowest temperature in New York City be between 62-63°F on June 10?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 2110.935975,
+      "liquidity": 974.99702,
+      "token_id": "60216955228091255264877794542430142279200220098128643006413521747246513371903",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-62-63f",
+        "condition_id": "0x17e01f0a95dc474acc7e36c5c6c555c898db0b46703b0afacd55895ff167e0c5"
+      }
+    },
+    {
+      "market_id": "2475009",
+      "question": "Will the lowest temperature in New York City be between 64-65°F on June 10?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 1366.978529,
+      "liquidity": 936.17878,
+      "token_id": "48518281300825268221145708844897765301287555655558240845680730981497524427939",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-64-65f",
+        "condition_id": "0x663db2f3c7d3b31cb6ad559bf99c69f67a0e426c132d730f90b2cf2044455ba6"
+      }
+    },
+    {
+      "market_id": "2475010",
+      "question": "Will the lowest temperature in New York City be between 66-67°F on June 10?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.016,
+      "no_price": 0.984,
+      "volume": 1094.3743819999997,
+      "liquidity": 729.98105,
+      "token_id": "73701001599810775506309387517223219013485236995433777067730422072017881906522",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.016,
+        0.984
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-66-67f",
+        "condition_id": "0xeedc789139992e2c1d708ffc1eb22a8825a43b5eab96b350b93be07397c87544"
+      }
+    },
+    {
+      "market_id": "2475011",
+      "question": "Will the lowest temperature in New York City be between 68-69°F on June 10?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.02,
+      "no_price": 0.98,
+      "volume": 2235.143678,
+      "liquidity": 1622.96477,
+      "token_id": "56451179390478718812455466722985600273347297216962971312138187975483517908784",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.02,
+        0.98
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-68-69f",
+        "condition_id": "0x62b091ae972193a2a818d0a90c64594ea0c873c211a574af73c33331e6c18709"
+      }
+    },
+    {
+      "market_id": "2475012",
+      "question": "Will the lowest temperature in New York City be between 70-71°F on June 10?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.9575,
+      "no_price": 0.0425,
+      "volume": 8739.643609000002,
+      "liquidity": 3802.08754,
+      "token_id": "114418090492355747222340681183445701958284969900336821302074289887294891723029",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.9575,
+        0.0425
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-70-71f",
+        "condition_id": "0x46f67b5f19e06c9989bacffe9736ed7d2edf826f219b3cdb4e8cedfaa0130b63"
+      }
+    },
+    {
+      "market_id": "2475013",
+      "question": "Will the lowest temperature in New York City be between 72-73°F on June 10?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 3251.7800320000006,
+      "liquidity": 3204.67495,
+      "token_id": "28002549384851669893217256964919810861269447275660515486398341785012116557315",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-72-73f",
+        "condition_id": "0x77cebf9edf0d0dc1250c18d8f353d01dc2fb877787c8b2abdbdeda7a87a86d09"
+      }
+    },
+    {
+      "market_id": "2475014",
+      "question": "Will the lowest temperature in New York City be between 74-75°F on June 10?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1772.8630000000035,
+      "liquidity": 7836.01623,
+      "token_id": "111927871963678888582375927115193943078804105738178811614297569130340025721502",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-74-75f",
+        "condition_id": "0x12ceb29d5ab868fffdc6a51e5e953b44156a42cf16f530dedfa5b9dd6cd78287"
+      }
+    },
+    {
+      "market_id": "2475015",
+      "question": "Will the lowest temperature in New York City be between 76-77°F on June 10?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 365.0,
+      "liquidity": 6895.55476,
+      "token_id": "95412128005641181885613691359659475603374428651731452668008391498035495789148",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-76-77f",
+        "condition_id": "0x19006acaa33c74c6720713bfea43f3ae172dc0e8ad339f939af5b6512784875d"
+      }
+    },
+    {
+      "market_id": "2475016",
+      "question": "Will the lowest temperature in New York City be 78°F or higher on June 10?",
+      "bucket_low": 78.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 369.0,
+      "liquidity": 8365.95876,
+      "token_id": "109005600296204042564517078684707880474040967979973326530796515349082383140405",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-nyc-on-june-10-2026-78forhigher",
+        "condition_id": "0x236056be5ae8596af2635d035ff097013ad7b2fc4f2f77b436ffa3d76dee8dc3"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.747784+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-10T12:00:00Z",
+      "liquidity": 45409.43588,
+      "volume": 28571.48357300001,
+      "outcomes_count": 11,
+      "top_bucket": "70.0-71.0F",
+      "top_price": 0.9575,
+      "event_title": "Lowest temperature in NYC on June 10?"
+    }
+  ],
+  "settle_at": "2026-06-11T04:00:00+00:00",
+  "hours_to_settle": 10.7,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-nyc-on-june-10-2026",
+    "event_id": "574585",
+    "markets_count": 11,
+    "game_start_time": "2026-06-10 04:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-09T07:53:26.466732+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.747784+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.747784+00:00",
+  "created_at": "2026-06-09T07:53:26.466732+00:00",
+  "updated_at": "2026-06-10T17:17:26.747784+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

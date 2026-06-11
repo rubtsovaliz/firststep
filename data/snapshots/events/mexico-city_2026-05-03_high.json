@@ -1,0 +1,360 @@
+{
+  "storage_key": "mexico-city_2026-05-03_high",
+  "event_id": "436641",
+  "event_slug": "highest-temperature-in-mexico-city-on-may-3-2026",
+  "event_title": "Highest temperature in Mexico City on May 3?",
+  "city_slug": "mexico-city",
+  "city_name": "Mexico City",
+  "date": "2026-05-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Mexico",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-03T12:00:00Z",
+  "event_end_date": "2026-05-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 105432.626709,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2130207",
+      "question": "Will the highest temperature in Mexico City be 20°C or below on May 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8890.114000000001,
+      "liquidity": null,
+      "token_id": "43806382937620517517775745224454839650156590267800152109987283310626933805640",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-20corbelow",
+        "condition_id": "0x878f9f8f079575a74aa9d07d5bd422b5268117fabfe1df4134566757f7a22ff3"
+      }
+    },
+    {
+      "market_id": "2130208",
+      "question": "Will the highest temperature in Mexico City be 21°C on May 3?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10262.166792999999,
+      "liquidity": null,
+      "token_id": "13197853607432752560646737194459198881837860120924535875372916617897963378589",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-21c",
+        "condition_id": "0x76de306c8699d5afea0c58a550d332c48a61f4c2f2651ca8d7c7677589a19b08"
+      }
+    },
+    {
+      "market_id": "2130209",
+      "question": "Will the highest temperature in Mexico City be 22°C on May 3?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3778.5041730000003,
+      "liquidity": null,
+      "token_id": "101697856944033754511997919149518392832949639553557920363994611880606085061118",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-22c",
+        "condition_id": "0x815c0669dc1f6f68dfb684aa9d452ad6524849617156a2c8087b0ee53ba125c6"
+      }
+    },
+    {
+      "market_id": "2130210",
+      "question": "Will the highest temperature in Mexico City be 23°C on May 3?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3721.6161139999995,
+      "liquidity": null,
+      "token_id": "37226199745828270345952175881747325150712830208465101099842573860034694649958",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-23c",
+        "condition_id": "0xaa00c9a287035e50827cf2f859beb0b7189d99b4d5e4c47812d92ce4f6048a34"
+      }
+    },
+    {
+      "market_id": "2130211",
+      "question": "Will the highest temperature in Mexico City be 24°C on May 3?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4808.419057000001,
+      "liquidity": null,
+      "token_id": "86811412721352336801629052133650650666215247547238159321222037693549591215317",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-24c",
+        "condition_id": "0x570f61d4396ed922df95fcb54e6c36311f9b68ed3795a89304ed47b8c58d9b8f"
+      }
+    },
+    {
+      "market_id": "2130212",
+      "question": "Will the highest temperature in Mexico City be 25°C on May 3?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3038.412546999999,
+      "liquidity": null,
+      "token_id": "88033222539983861028012006834967610120147787316362639261962720885121877072376",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-25c",
+        "condition_id": "0x938b6521317313ac95b2b350f55da352a1e09d1d17edbeb4d606bbe1504d7d32"
+      }
+    },
+    {
+      "market_id": "2130213",
+      "question": "Will the highest temperature in Mexico City be 26°C on May 3?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 25703.868838000002,
+      "liquidity": null,
+      "token_id": "68335056828977683352442963320322749928125058391623096785384596100474919516058",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-26c",
+        "condition_id": "0x99e38f0f1d46d99955491b972b499e63824a697ce3eb761a951ed2605376fc62"
+      }
+    },
+    {
+      "market_id": "2130214",
+      "question": "Will the highest temperature in Mexico City be 27°C on May 3?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8137.123586,
+      "liquidity": null,
+      "token_id": "18966221930628028133166476166958723307320380895046128616112759245958428085283",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-27c",
+        "condition_id": "0x982e1aeee976852177fd550442c4e2f5a5e8a764c3c1b4d722ed1fb6c18b33ae"
+      }
+    },
+    {
+      "market_id": "2130215",
+      "question": "Will the highest temperature in Mexico City be 28°C on May 3?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13362.434237,
+      "liquidity": null,
+      "token_id": "57270309050480070639876547871564593874729053374416830178127276977483845750125",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-28c",
+        "condition_id": "0x0783b279054efa86a153b902d6fe1ae886d535c378c450b9eff5c174066f50bf"
+      }
+    },
+    {
+      "market_id": "2130216",
+      "question": "Will the highest temperature in Mexico City be 29°C on May 3?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9615.479816999996,
+      "liquidity": null,
+      "token_id": "30974420913104870309994025618215746517194454271340225371280570056506510589537",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-29c",
+        "condition_id": "0x10ce043a4ec7b94f4a60bf3b7ae7147aa53ab4f4ceded7085b905baee5d9f382"
+      }
+    },
+    {
+      "market_id": "2130217",
+      "question": "Will the highest temperature in Mexico City be 30°C or higher on May 3?",
+      "bucket_low": 30.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14114.487547,
+      "liquidity": null,
+      "token_id": "87113287604666688517028476874958162196701552782151715984572026006597175743368",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-mexico-city-on-may-3-2026-30corhigher",
+        "condition_id": "0x09891545f00cc6c28b8b5ebf82f62daa3769d84b8fa1c23b68176138257298a7"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.196820+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 105432.626709,
+      "outcomes_count": 11,
+      "top_bucket": "27.0-27.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Mexico City on May 3?"
+    }
+  ],
+  "settle_at": "2026-05-04T06:00:00+00:00",
+  "hours_to_settle": -826.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-mexico-city-on-may-3-2026",
+    "event_id": "436641",
+    "markets_count": 11,
+    "game_start_time": "2026-05-03 06:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.196820+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.196820+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.196820+00:00",
+  "created_at": "2026-06-07T16:06:02.196820+00:00",
+  "updated_at": "2026-06-10T17:17:29.767098+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "27C",
+      "resolved_value": "27C",
+      "resolution_source": null,
+      "winning_market_id": "2130214",
+      "winning_question": "Will the highest temperature in Mexico City be 27°C on May 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.198846+00:00"
+  },
+  "legacy": null
+}

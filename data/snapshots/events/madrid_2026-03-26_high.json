@@ -1,0 +1,360 @@
+{
+  "storage_key": "madrid_2026-03-26_high",
+  "event_id": "296000",
+  "event_slug": "highest-temperature-in-madrid-on-march-26-2026",
+  "event_title": "Highest temperature in Madrid on March 26?",
+  "city_slug": "madrid",
+  "city_name": "Madrid",
+  "date": "2026-03-26",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Madrid",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-26T12:00:00Z",
+  "event_end_date": "2026-03-26T12:00:00Z",
+  "liquidity": null,
+  "volume": 90062.775171,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1680872",
+      "question": "Will the highest temperature in Madrid be 15°C or below on March 26?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "115177055004571844773613435161363410749931263321573179787240813156578171631948",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-15corbelow",
+        "condition_id": "0x8b4f022de3634b369e31612e3c7549b8784e30a587021bcf7f8cad9ab1ef4224"
+      }
+    },
+    {
+      "market_id": "1680873",
+      "question": "Will the highest temperature in Madrid be 16°C on March 26?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "96156664758819659294807000570008146559008679483427097099588204585488051428830",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-16c",
+        "condition_id": "0xcf5421e656214e2764b7fb235cf98905b5320993fe2a860425491160de4bba21"
+      }
+    },
+    {
+      "market_id": "1680874",
+      "question": "Will the highest temperature in Madrid be 17°C on March 26?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 17192.200730999997,
+      "liquidity": null,
+      "token_id": "34810537207618131239007765829297271877218586648689674852189958075814746770647",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-17c",
+        "condition_id": "0xc3160fa3b39fed2fe197988d55f513dd410cb4c34853b97f32c72edc54e20e9c"
+      }
+    },
+    {
+      "market_id": "1680875",
+      "question": "Will the highest temperature in Madrid be 18°C on March 26?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 31260.07061800001,
+      "liquidity": null,
+      "token_id": "90298951515160339583453985826069189098622738184564251115949042325044228203746",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-18c",
+        "condition_id": "0x811f246081d4a09eabcbc57b749cd75e66747478ef7b77d0f19dce6711ccb3ec"
+      }
+    },
+    {
+      "market_id": "1680876",
+      "question": "Will the highest temperature in Madrid be 19°C on March 26?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8824.37377,
+      "liquidity": null,
+      "token_id": "78116354085349940512769952165132026985325988149249412956732368311027264022995",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-19c",
+        "condition_id": "0x197712353dee0b866f4e106a99f69176617587868953343efb6d7168bf9afda9"
+      }
+    },
+    {
+      "market_id": "1680877",
+      "question": "Will the highest temperature in Madrid be 20°C on March 26?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9676.022354000002,
+      "liquidity": null,
+      "token_id": "35952855954647112106673573387141422145403297224721749381473728798494462829214",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-20c",
+        "condition_id": "0x84363ce96ad261f2b8943c3b14fa3e5448beca8f350ed2b600109c3807ea1bed"
+      }
+    },
+    {
+      "market_id": "1680878",
+      "question": "Will the highest temperature in Madrid be 21°C on March 26?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 23110.107697999996,
+      "liquidity": null,
+      "token_id": "88025110091713493738632559870959112949209439794744100909158488865017222223327",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-21c",
+        "condition_id": "0x8ccc8cc95ad33d9d8acf363696b90b472670172153880560f03cc66768a2eb5a"
+      }
+    },
+    {
+      "market_id": "1680879",
+      "question": "Will the highest temperature in Madrid be 22°C on March 26?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "75877470283283334251655609458744569004118937833906484860499543684488353957850",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-22c",
+        "condition_id": "0xb236225d8637e9ef7bcdea2bc01c903956b80bd10fd12e23fc5f7283303b2b46"
+      }
+    },
+    {
+      "market_id": "1680880",
+      "question": "Will the highest temperature in Madrid be 23°C on March 26?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "64791740037850603936855696380820897105576079306489845837176905830165667393089",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-23c",
+        "condition_id": "0x15da4ce9630b9bd4957e4c6e4c05413e019a787e920c4842f981a4e539408563"
+      }
+    },
+    {
+      "market_id": "1680881",
+      "question": "Will the highest temperature in Madrid be 24°C on March 26?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "51540335862656028848776151461880628720376662439000761342537400318208773684863",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-24c",
+        "condition_id": "0xb62bb1b4263fb650757bfb0509ea520d5a57ac3d36d5161931f3e574024a8c92"
+      }
+    },
+    {
+      "market_id": "1680882",
+      "question": "Will the highest temperature in Madrid be 25°C or higher on March 26?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "29336467529150911734543694972751631866817335555635694862835313132675132113431",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-march-26-2026-25corhigher",
+        "condition_id": "0x6958f80cb84348b9cc1efc5ca6638d2e4444d8ca6bfaecf3e4f4c21ab94a3f14"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.996212+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-26T12:00:00Z",
+      "liquidity": null,
+      "volume": 90062.775171,
+      "outcomes_count": 11,
+      "top_bucket": "17.0-17.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Madrid on March 26?"
+    }
+  ],
+  "settle_at": "2026-03-26T23:00:00+00:00",
+  "hours_to_settle": -1745.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-madrid-on-march-26-2026",
+    "event_id": "296000",
+    "markets_count": 11,
+    "game_start_time": "2026-03-25 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.996212+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.996212+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.996212+00:00",
+  "created_at": "2026-06-07T16:06:08.996212+00:00",
+  "updated_at": "2026-06-10T17:17:29.662596+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "17C",
+      "resolved_value": "17C",
+      "resolution_source": null,
+      "winning_market_id": "1680874",
+      "winning_question": "Will the highest temperature in Madrid be 17°C on March 26?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.997196+00:00"
+  },
+  "legacy": null
+}

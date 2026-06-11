@@ -1,0 +1,360 @@
+{
+  "storage_key": "los-angeles_2026-05-11_high",
+  "event_id": "465291",
+  "event_slug": "highest-temperature-in-los-angeles-on-may-11-2026",
+  "event_title": "Highest temperature in Los Angeles on May 11?",
+  "city_slug": "los-angeles",
+  "city_name": "Los Angeles",
+  "date": "2026-05-11",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Los Angeles",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-11T12:00:00Z",
+  "event_end_date": "2026-05-11T12:00:00Z",
+  "liquidity": null,
+  "volume": 72280.899918,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2206257",
+      "question": "Will the highest temperature in Los Angeles be 53°F or below on May 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1475.662,
+      "liquidity": null,
+      "token_id": "4765497130988499094017668852893728486211492697332676097707887724155780820062",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-53forbelow",
+        "condition_id": "0x55b7ab3f343136ea08a635ac9d139a149dd09168b7e8f819469486fb141991dd"
+      }
+    },
+    {
+      "market_id": "2206258",
+      "question": "Will the highest temperature in Los Angeles be between 54-55°F on May 11?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1554.699,
+      "liquidity": null,
+      "token_id": "68454146605186369862410086349847479265387501926780572967646048801436681219801",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-54-55f",
+        "condition_id": "0xbc0d881f221ede843c949b114f885e7005ddc97cfbe86f30be07e2f1775de0dc"
+      }
+    },
+    {
+      "market_id": "2206259",
+      "question": "Will the highest temperature in Los Angeles be between 56-57°F on May 11?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1400.490719,
+      "liquidity": null,
+      "token_id": "21991126196709455926306126042189544038835237208834703558890653180700218361733",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-56-57f",
+        "condition_id": "0x4f7085bf868ff1e6973f78745723e337c14f4eeede4bc7ec010a007b46e915c2"
+      }
+    },
+    {
+      "market_id": "2206260",
+      "question": "Will the highest temperature in Los Angeles be between 58-59°F on May 11?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1309.491376,
+      "liquidity": null,
+      "token_id": "43849221543256686110966238195667735972864629967477885972401936226284770337037",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-58-59f",
+        "condition_id": "0x1eca4d220e00f9f9d65d2403e72bd386b4658afd1d16e2d1c409ecb9f46d89aa"
+      }
+    },
+    {
+      "market_id": "2206261",
+      "question": "Will the highest temperature in Los Angeles be between 60-61°F on May 11?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2710.608,
+      "liquidity": null,
+      "token_id": "96441395101730111006609958146726511934546798233950362447751654477382985847590",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-60-61f",
+        "condition_id": "0x1edc6778bf71c8ba75952ac315d832b1e18408482088b9bb6e05e0dde8f75927"
+      }
+    },
+    {
+      "market_id": "2206262",
+      "question": "Will the highest temperature in Los Angeles be between 62-63°F on May 11?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4048.8019999999997,
+      "liquidity": null,
+      "token_id": "46020667589661913921963344414131834783221443982728401259416892186093890410628",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-62-63f",
+        "condition_id": "0x1d5e7d2e14b8a38f94c125a31cb605105d1ffda6e56da728070ae3491ca1ae34"
+      }
+    },
+    {
+      "market_id": "2206263",
+      "question": "Will the highest temperature in Los Angeles be between 64-65°F on May 11?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9942.305583999996,
+      "liquidity": null,
+      "token_id": "31109170294223282291322180631872003633498321132079834550904479485265003294568",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-64-65f",
+        "condition_id": "0xfa1596281f6ecb6850b80ee24051433ac042176f71cc78ff241243041ca9ddd1"
+      }
+    },
+    {
+      "market_id": "2206264",
+      "question": "Will the highest temperature in Los Angeles be between 66-67°F on May 11?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 27187.209365999995,
+      "liquidity": null,
+      "token_id": "54855829124659588234232937872920405091598351479368729776790148060258306130375",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-66-67f",
+        "condition_id": "0x048e656370523039785f9039443d54f03d89da62816eed6f42cbce0e63f1eb01"
+      }
+    },
+    {
+      "market_id": "2206265",
+      "question": "Will the highest temperature in Los Angeles be between 68-69°F on May 11?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8384.574807000006,
+      "liquidity": null,
+      "token_id": "28251184609757014230521842434934276703167874037810025564218298058493585678939",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-68-69f",
+        "condition_id": "0xd62b7051bca8e87c43d616ac50752e533e4439ed79e328d7bb4b3e3ad66259a2"
+      }
+    },
+    {
+      "market_id": "2206266",
+      "question": "Will the highest temperature in Los Angeles be between 70-71°F on May 11?",
+      "bucket_low": 70.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5984.019549,
+      "liquidity": null,
+      "token_id": "53619540292973989466292223006339614983490392442998841114867858001923366749351",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-70-71f",
+        "condition_id": "0xad79d3a2dbdf4b09190cdf03bb00ed249ae04982157f4aea3b9825da0b3c0e79"
+      }
+    },
+    {
+      "market_id": "2206267",
+      "question": "Will the highest temperature in Los Angeles be 72°F or higher on May 11?",
+      "bucket_low": 72.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8283.037517,
+      "liquidity": null,
+      "token_id": "23059579417739058861277566767401411301373717498766921936474363786661169815530",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-los-angeles-on-may-11-2026-72forhigher",
+        "condition_id": "0xac9f8af3a42f03904a056b85dc07ecaa613ba57cdca53df7eb41971409c43f32"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:00.447469+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-11T12:00:00Z",
+      "liquidity": null,
+      "volume": 72280.899918,
+      "outcomes_count": 11,
+      "top_bucket": "66.0-67.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Los Angeles on May 11?"
+    }
+  ],
+  "settle_at": "2026-05-12T07:00:00+00:00",
+  "hours_to_settle": -633.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-los-angeles-on-may-11-2026",
+    "event_id": "465291",
+    "markets_count": 11,
+    "game_start_time": "2026-05-11 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:00.447469+00:00",
+  "last_seen_at": "2026-06-07T16:06:00.447469+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:00.447469+00:00",
+  "created_at": "2026-06-07T16:06:00.447469+00:00",
+  "updated_at": "2026-06-10T17:17:29.583388+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "66-67F",
+      "resolved_value": "66-67F",
+      "resolution_source": null,
+      "winning_market_id": "2206264",
+      "winning_question": "Will the highest temperature in Los Angeles be between 66-67°F on May 11?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:00.448454+00:00"
+  },
+  "legacy": null
+}

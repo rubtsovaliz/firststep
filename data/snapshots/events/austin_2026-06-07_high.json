@@ -1,0 +1,351 @@
+{
+  "storage_key": "austin_2026-06-07_high",
+  "event_id": "564418",
+  "event_slug": "highest-temperature-in-austin-on-june-7-2026",
+  "event_title": "Highest temperature in Austin on June 7?",
+  "city_slug": "austin",
+  "city_name": "Austin",
+  "date": "2026-06-07",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Austin",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-07T12:00:00Z",
+  "event_end_date": "2026-06-07T12:00:00Z",
+  "liquidity": 38915.55991,
+  "volume": 24894.406151999996,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2450333",
+      "question": "Will the highest temperature in Austin be 81°F or below on June 7?",
+      "bucket_low": -999.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 6079.201776999999,
+      "liquidity": 8918.52265,
+      "token_id": "23429414247875957522579246059619344878905557660103590973307842328942691703124",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-81forbelow",
+        "condition_id": "0xa9d953226917ec1a3e347ca3035bf3e6de5fc7088ed8289f95c1a2d3ebb53d20"
+      }
+    },
+    {
+      "market_id": "2450334",
+      "question": "Will the highest temperature in Austin be between 82-83°F on June 7?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2049.232229,
+      "liquidity": 9681.31165,
+      "token_id": "63629903735790117333990426085309478777266570288662411930402677718457111680865",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-82-83f",
+        "condition_id": "0xd2cee5444eebd6cac6315f9427b17c7cf6a54a12fec30cb73bb7190e0741d38b"
+      }
+    },
+    {
+      "market_id": "2450335",
+      "question": "Will the highest temperature in Austin be between 84-85°F on June 7?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3090.1412569999993,
+      "liquidity": 9282.49298,
+      "token_id": "54161848613580303062448596250566865761148664974883810822317952956529767766748",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-84-85f",
+        "condition_id": "0x6fcb618983c36edf71a43d4aec55c1a40e537e662cd4b0764bc0dc80cd22aa43"
+      }
+    },
+    {
+      "market_id": "2450336",
+      "question": "Will the highest temperature in Austin be between 86-87°F on June 7?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3338.738138999999,
+      "liquidity": 3710.30148,
+      "token_id": "20320585249222518052778100420309326738341412144156617600016049331359027070625",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-86-87f",
+        "condition_id": "0xea14e343b95a740a2e7cfd1320b41446819b20a420dbd19bd4a51ce57dbe2ad7"
+      }
+    },
+    {
+      "market_id": "2450337",
+      "question": "Will the highest temperature in Austin be between 88-89°F on June 7?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.415,
+      "no_price": 0.585,
+      "volume": 1713.2519799999993,
+      "liquidity": 218.791,
+      "token_id": "29792062751210833110479574473893551184763997694065886432225601569501378257047",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.415,
+        0.585
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-88-89f",
+        "condition_id": "0x7e25fa4ffd567ec4e39d42dd243f0cbe2dc4a71a1e639f79dbe1d6066078bcf3"
+      }
+    },
+    {
+      "market_id": "2450338",
+      "question": "Will the highest temperature in Austin be between 90-91°F on June 7?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.515,
+      "no_price": 0.485,
+      "volume": 2185.5260460000013,
+      "liquidity": 203.7194,
+      "token_id": "62658866243751114778722267984905379990372247488391495036552929199381947141193",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.515,
+        0.485
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-90-91f",
+        "condition_id": "0x976e4eaff4485a00dd64b085f04f97ab609eea7a32c34f3747034b29d01d7d9c"
+      }
+    },
+    {
+      "market_id": "2450339",
+      "question": "Will the highest temperature in Austin be between 92-93°F on June 7?",
+      "bucket_low": 92.0,
+      "bucket_high": 93.0,
+      "unit": "F",
+      "yes_price": 0.06,
+      "no_price": 0.94,
+      "volume": 1874.6974859999998,
+      "liquidity": 784.1375,
+      "token_id": "61752458692729679391233241343611441521212037947594035486895867375528440149305",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.06,
+        0.94
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-92-93f",
+        "condition_id": "0x66d20e46ed319bb546f0291c1dfd733200d33230eed24ddb3be2b7a5a52e69d6"
+      }
+    },
+    {
+      "market_id": "2450340",
+      "question": "Will the highest temperature in Austin be between 94-95°F on June 7?",
+      "bucket_low": 94.0,
+      "bucket_high": 95.0,
+      "unit": "F",
+      "yes_price": 0.011,
+      "no_price": 0.989,
+      "volume": 2710.4623009999996,
+      "liquidity": 1492.19598,
+      "token_id": "19274318219820552313019715476311535257143408832651245388339658597133792513673",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.011,
+        0.989
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-94-95f",
+        "condition_id": "0xe1fd6f1a9089e175cfd8189bc9fc195dca38e9ddf35845a52fed6e11ccae8c96"
+      }
+    },
+    {
+      "market_id": "2450341",
+      "question": "Will the highest temperature in Austin be between 96-97°F on June 7?",
+      "bucket_low": 96.0,
+      "bucket_high": 97.0,
+      "unit": "F",
+      "yes_price": 0.006,
+      "no_price": 0.994,
+      "volume": 1209.8922,
+      "liquidity": 964.84603,
+      "token_id": "112615980365954617080370589515547377379714597262855455329113619124960543775642",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.006,
+        0.994
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-96-97f",
+        "condition_id": "0xa79dea872d35cf4f646974488f5604169942c512c090e0869918b4cc1f039663"
+      }
+    },
+    {
+      "market_id": "2450342",
+      "question": "Will the highest temperature in Austin be between 98-99°F on June 7?",
+      "bucket_low": 98.0,
+      "bucket_high": 99.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 352.990166,
+      "liquidity": 1744.00031,
+      "token_id": "114440640246728230206794416897315920755817360204415669702993651574634315302931",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-98-99f",
+        "condition_id": "0xc911c9b84c58fa469c6a030fb98e98ba132531035f3ac1cf20b053e7878cda9f"
+      }
+    },
+    {
+      "market_id": "2450343",
+      "question": "Will the highest temperature in Austin be 100°F or higher on June 7?",
+      "bucket_low": 100.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 465.386,
+      "liquidity": 1816.09753,
+      "token_id": "99804423570360682193456129368402090939328137240772541363349121655306147078827",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-june-7-2026-100forhigher",
+        "condition_id": "0x58cfa15c8669650b206631da6dafa2290651dabd7640d2ae7f800ed0cfe65596"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T19:18:22.285920+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-07T12:00:00Z",
+      "liquidity": 38915.55991,
+      "volume": 24894.406151999996,
+      "outcomes_count": 11,
+      "top_bucket": "90.0-91.0F",
+      "top_price": 0.515,
+      "event_title": "Highest temperature in Austin on June 7?"
+    }
+  ],
+  "settle_at": "2026-06-08T05:00:00+00:00",
+  "hours_to_settle": 9.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-austin-on-june-7-2026",
+    "event_id": "564418",
+    "markets_count": 11,
+    "game_start_time": "2026-06-07 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-06T16:12:35.487255+00:00",
+  "last_seen_at": "2026-06-07T19:18:22.285920+00:00",
+  "last_refreshed_at": "2026-06-07T19:18:22.285920+00:00",
+  "created_at": "2026-06-06T16:12:35.487255+00:00",
+  "updated_at": "2026-06-10T17:17:28.464860+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

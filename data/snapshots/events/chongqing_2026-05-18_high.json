@@ -1,0 +1,360 @@
+{
+  "storage_key": "chongqing_2026-05-18_high",
+  "event_id": "490252",
+  "event_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026",
+  "event_title": "Highest temperature in Chongqing on May 18?",
+  "city_slug": "chongqing",
+  "city_name": "Chongqing",
+  "date": "2026-05-18",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Chongqing",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-18T12:00:00Z",
+  "event_end_date": "2026-05-18T12:00:00Z",
+  "liquidity": 0.0,
+  "volume": 16743.001885,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2274393",
+      "question": "Will the highest temperature in Chongqing be 19°C or below on May 18?",
+      "bucket_low": -999.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 579.9905,
+      "liquidity": 0.0,
+      "token_id": "39697401662986053717237918308718378917112928581784163613999826796868118674178",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-19corbelow",
+        "condition_id": "0xe5a531bdecf6e87e2c10b3eeaa88c20df1d386de734f0c68ce1aeed6e1101ec4"
+      }
+    },
+    {
+      "market_id": "2274394",
+      "question": "Will the highest temperature in Chongqing be 20°C on May 18?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1212.8264410000002,
+      "liquidity": 0.0,
+      "token_id": "46260741914754999672203401407640038722869796055372523155370717022115217452481",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-20c",
+        "condition_id": "0x12f54ca0e2d36b28800b05416b2b21924d2ce1620585f39914fe0a318ec089fa"
+      }
+    },
+    {
+      "market_id": "2274395",
+      "question": "Will the highest temperature in Chongqing be 21°C on May 18?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6455.131024,
+      "liquidity": 0.0,
+      "token_id": "25619195850220839502016982964961908617290780937552726025200068991393753811579",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-21c",
+        "condition_id": "0x576d57a20bf55a28c0809aaf052191652f19f412212d0f9b9de8fca2022eb0d2"
+      }
+    },
+    {
+      "market_id": "2274396",
+      "question": "Will the highest temperature in Chongqing be 22°C on May 18?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1759.9168980000006,
+      "liquidity": 0.0,
+      "token_id": "82955378897738830361457357452435075677413917921958307035402725139737850651837",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-22c",
+        "condition_id": "0xacdcdd9e204c7507928256af724f3f5b4f17a2d613ef686929c9512cd7af1d53"
+      }
+    },
+    {
+      "market_id": "2274397",
+      "question": "Will the highest temperature in Chongqing be 23°C on May 18?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 576.6829290000001,
+      "liquidity": 0.0,
+      "token_id": "9111327759273289973038784210690026367613780618786675754382567265691512177556",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-23c",
+        "condition_id": "0x9b82e9122ee98ccfd23ca237433c1914aadf4d477c948bea6969f83ca100b58d"
+      }
+    },
+    {
+      "market_id": "2274398",
+      "question": "Will the highest temperature in Chongqing be 24°C on May 18?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 684.9539949999997,
+      "liquidity": 0.0,
+      "token_id": "45502429347665637350107413231850036975550937394779129853687840775320719542299",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-24c",
+        "condition_id": "0x2d43bf17364a7a1c490e948480be7046bde06de3c9253c023c11ed790f370a16"
+      }
+    },
+    {
+      "market_id": "2274399",
+      "question": "Will the highest temperature in Chongqing be 25°C on May 18?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 495.380906,
+      "liquidity": 0.0,
+      "token_id": "7270418284914044792028895467344130686411200017310975242183426704696129597403",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-25c",
+        "condition_id": "0xb02fa61c64efdd3079c61764a9634ab8388d734f319b4950e19ea9238b0366d7"
+      }
+    },
+    {
+      "market_id": "2274400",
+      "question": "Will the highest temperature in Chongqing be 26°C on May 18?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 821.49104,
+      "liquidity": 0.0,
+      "token_id": "30420151560088295303946624798785133974608729465292021600347105009469954365710",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-26c",
+        "condition_id": "0x84218ff161e6add1b2346133bd6b69b5458a2a4016a8b857cb451d2d4d297bb7"
+      }
+    },
+    {
+      "market_id": "2274401",
+      "question": "Will the highest temperature in Chongqing be 27°C on May 18?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 930.7399869999999,
+      "liquidity": 0.0,
+      "token_id": "57102361516995566139976171174905174707898021732994605029341975533056197227891",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-27c",
+        "condition_id": "0x5889a7e6f7b0de0197fb5018a2b7f7f26861eaff9de35909c3205723bc81be7e"
+      }
+    },
+    {
+      "market_id": "2274402",
+      "question": "Will the highest temperature in Chongqing be 28°C on May 18?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1599.7932709999998,
+      "liquidity": 0.0,
+      "token_id": "92523392022827736380651129930494511082986373709728267655674315800284862107989",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-28c",
+        "condition_id": "0x0525f5b039d13507792ee691b43c1fbe3537cad4a5bfa134954ae255dded6217"
+      }
+    },
+    {
+      "market_id": "2274403",
+      "question": "Will the highest temperature in Chongqing be 29°C or higher on May 18?",
+      "bucket_low": 29.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1626.0948939999998,
+      "liquidity": 0.0,
+      "token_id": "51266341172743545481270146175866633460261165765358241954243885133070511165954",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026-29corhigher",
+        "condition_id": "0xacb10a36ebd35bf7796d7ac138ebeceb052fd802564a1bf3d217d19e71366d68"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:58.981432+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-18T12:00:00Z",
+      "liquidity": 0.0,
+      "volume": 16743.001885,
+      "outcomes_count": 11,
+      "top_bucket": "23.0-23.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chongqing on May 18?"
+    }
+  ],
+  "settle_at": "2026-05-18T16:00:00+00:00",
+  "hours_to_settle": -480.1,
+  "raw_source": {
+    "event_slug": "arch-highest-temperature-in-chongqing-on-may-18-2026",
+    "event_id": "490252",
+    "markets_count": 11,
+    "game_start_time": "2026-05-17 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:58.981432+00:00",
+  "last_seen_at": "2026-06-07T16:05:58.981432+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:58.981432+00:00",
+  "created_at": "2026-06-07T16:05:58.981432+00:00",
+  "updated_at": "2026-06-10T17:17:28.858925+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "23C",
+      "resolved_value": "23C",
+      "resolution_source": null,
+      "winning_market_id": "2274397",
+      "winning_question": "Will the highest temperature in Chongqing be 23°C on May 18?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:58.983437+00:00"
+  },
+  "legacy": null
+}

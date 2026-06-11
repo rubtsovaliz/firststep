@@ -64,10 +64,15 @@ class SnapshotService:
     def save_event(self, record: dict[str, Any]) -> None:
         key = record.get("storage_key", "unknown")
         path = self.event_path(key)
+        is_new = not path.exists()
         path.write_text(
             json.dumps(record, indent=2, ensure_ascii=False),
             encoding="utf-8",
         )
+        if is_new:
+            from backend.app.services.history_service import invalidate_history_index
+
+            invalidate_history_index()
 
     def load_all_events(self) -> list[dict[str, Any]]:
         records: list[dict[str, Any]] = []

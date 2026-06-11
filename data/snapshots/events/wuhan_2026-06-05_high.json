@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 28561.29135,
-  "volume": 25855.180599,
+  "liquidity": null,
+  "volume": 46850.921688,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 2523.5821080000005,
-      "liquidity": 6985.89123,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2543.5821080000005,
+      "liquidity": null,
       "token_id": "35206571764496205068576840404320017787786581250649095932955944276207854508951",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-30corbelow",
         "condition_id": "0x80825ca2016c174af188fc8acd089389c6577a68a293560701a61e90121b5a59"
@@ -59,21 +59,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 4649.079665000001,
-      "liquidity": 6133.07581,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4828.429665000001,
+      "liquidity": null,
       "token_id": "39623234122564148661248501414631261908172984870899364339449206472533892448252",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-31c",
         "condition_id": "0x6cb1cd5768395d4a09cf0e41f48cb0b358714fabeaa1cff2e93b35c46635268d"
@@ -85,21 +85,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.74,
-      "no_price": 0.26,
-      "volume": 2621.5469369999996,
-      "liquidity": 183.2361,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9416.022431999998,
+      "liquidity": null,
       "token_id": "55096402438333933381636239973377231614219252142520922977684291493265583009602",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.74,
-        0.26
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-32c",
         "condition_id": "0xd39c3081ba6d7beb7ad8beaba32562e0cf25c3e9d86008be0d1d23f7c95d487e"
@@ -111,21 +111,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.22,
-      "no_price": 0.78,
-      "volume": 1398.5178509999998,
-      "liquidity": 202.9105,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8276.807250000002,
+      "liquidity": null,
       "token_id": "66567982319101529705566100145257383925511628185425628855272779037963197064310",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.22,
-        0.78
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-33c",
         "condition_id": "0x6b5d31c17300a548e02d6595bf6140299d683c624a58c327b275fde4aa6a765a"
@@ -137,21 +137,21 @@
       "bucket_low": 34.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.045,
-      "no_price": 0.955,
-      "volume": 1567.7117959999998,
-      "liquidity": 216.3988,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4442.644618,
+      "liquidity": null,
       "token_id": "86870216677562282328775712257114215987588804856130340096660673931514264060744",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.045,
-        0.955
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-34c",
         "condition_id": "0x8bb3269d34b768d7ecfb6e9f72359f08cf4529dae776d83a2126ecfdee259f55"
@@ -163,21 +163,21 @@
       "bucket_low": 35.0,
       "bucket_high": 35.0,
       "unit": "C",
-      "yes_price": 0.04,
-      "no_price": 0.96,
-      "volume": 2140.6643469999995,
-      "liquidity": 185.0913,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2727.694447,
+      "liquidity": null,
       "token_id": "84393006282391192681378027256653562777188206934345099176720707472423634951594",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.04,
-        0.96
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-35c",
         "condition_id": "0x1fed89de5af41fc1bc638cf751b4b4c1ee84cb2ff437eba2812788e0e5a72979"
@@ -189,21 +189,21 @@
       "bucket_low": 36.0,
       "bucket_high": 36.0,
       "unit": "C",
-      "yes_price": 0.0045,
-      "no_price": 0.9955,
-      "volume": 3639.3808299999996,
-      "liquidity": 445.62653,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3932.0008299999995,
+      "liquidity": null,
       "token_id": "90547389174411578785540306731716509968494853827032614686913915271082874002359",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0045,
-        0.9955
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-36c",
         "condition_id": "0xfda0a41538cac28a9beb3b94cbfcafe5783cef354fa6f9fe2ef1b74c383b5ddc"
@@ -215,21 +215,21 @@
       "bucket_low": 37.0,
       "bucket_high": 37.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 2397.980272999999,
-      "liquidity": 2316.49543,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2771.6902729999997,
+      "liquidity": null,
       "token_id": "77009916800501038962576062248952579710580428212321476337501223510725846120927",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-37c",
         "condition_id": "0xe261c60749853c369f4883acef7a292ecf6ff675e8adea5157c5999de0f638f4"
@@ -241,21 +241,21 @@
       "bucket_low": 38.0,
       "bucket_high": 38.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 550.4802,
-      "liquidity": 3796.49311,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 703.4501999999999,
+      "liquidity": null,
       "token_id": "84080509987135943656141942762284352936115869140262503887692816320830633921337",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-38c",
         "condition_id": "0xd2f9200dba601b8790798e7a70d1a3085b96190d69f640137ce7f992cbcb7914"
@@ -267,21 +267,21 @@
       "bucket_low": 39.0,
       "bucket_high": 39.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 5065.587409000001,
-      "liquidity": 4174.42183,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6865.196565000002,
+      "liquidity": null,
       "token_id": "92427898090628398019376410286275888740097076475184953991261309365384469474077",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-39c",
         "condition_id": "0x44399fc15707ae677af2a9fe2e307745f19cfd18201eb21747a358f2672645c7"
@@ -293,21 +293,21 @@
       "bucket_low": 40.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 301.9533,
-      "liquidity": 4071.26158,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 343.4033,
+      "liquidity": null,
       "token_id": "96364401196205633314387141830513029824365012100306302557623746111975003371077",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-wuhan-on-june-5-2026-40corhigher",
         "condition_id": "0xb903455d47cba448ab740472f4c23d751bba362884e0d05ab51e4ba9b78dc266"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.522235+00:00",
+      "ts": "2026-06-07T16:32:42.524726+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 28561.29135,
-      "volume": 25855.180599,
+      "liquidity": null,
+      "volume": 46850.921688,
       "outcomes_count": 11,
-      "top_bucket": "32.0-32.0C",
-      "top_price": 0.74,
+      "top_bucket": "33.0-33.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Wuhan on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-wuhan-on-june-5-2026",
     "event_id": "553919",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_enrichment",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.880060+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.522235+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.522235+00:00",
+  "last_seen_at": "2026-06-07T16:32:42.524726+00:00",
+  "last_refreshed_at": "2026-06-07T16:32:42.524726+00:00",
   "created_at": "2026-06-04T16:52:28.880060+00:00",
-  "updated_at": "2026-06-05T06:36:19.522235+00:00",
+  "updated_at": "2026-06-08T10:54:35.292567+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "33C",
+      "resolved_value": "33C",
+      "resolution_source": null,
+      "winning_market_id": "2424693",
+      "winning_question": "Will the highest temperature in Wuhan be 33°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:32:42.527733+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T16:00:00+00:00",
+  "hours_to_settle": -48.5
 }

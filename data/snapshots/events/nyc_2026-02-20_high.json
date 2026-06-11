@@ -1,0 +1,307 @@
+{
+  "storage_key": "nyc_2026-02-20_high",
+  "event_id": "213978",
+  "event_slug": "highest-temperature-in-nyc-on-february-20-2026",
+  "event_title": "Highest temperature in NYC on February 20?",
+  "city_slug": "nyc",
+  "city_name": "Nyc",
+  "date": "2026-02-20",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "New York City",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-20T12:00:00Z",
+  "event_end_date": "2026-02-20T12:00:00Z",
+  "liquidity": null,
+  "volume": 498528.862296,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1392014",
+      "question": "Will the highest temperature in New York City be 31°F or below on February 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 31.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8110.455592,
+      "liquidity": null,
+      "token_id": "86105142833745250270287078581996396115211139165186932344946153024936721808768",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-31forbelow",
+        "condition_id": "0xbe3e25007d88b468b7c866d2be17c8630fd2a08755caef34812dddb9370376f5"
+      }
+    },
+    {
+      "market_id": "1392015",
+      "question": "Will the highest temperature in New York City be between 32-33°F on February 20?",
+      "bucket_low": 32.0,
+      "bucket_high": 33.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15531.364805,
+      "liquidity": null,
+      "token_id": "66084531812418130132422358148799989257414171583322260682647896233289085196076",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-32-33f",
+        "condition_id": "0x67f5a5a54e2205f69904ebbd417c4121720a10d02f70873515b5bc04bc2488ae"
+      }
+    },
+    {
+      "market_id": "1392016",
+      "question": "Will the highest temperature in New York City be between 34-35°F on February 20?",
+      "bucket_low": 34.0,
+      "bucket_high": 35.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 254987.978197,
+      "liquidity": null,
+      "token_id": "86225539823775729819378244895701073524208527439427843559327928852509785569173",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-34-35f",
+        "condition_id": "0x4d718594343dc56a9e4fbdf153e844ae99e989667ce9061fe097b83d39d68043"
+      }
+    },
+    {
+      "market_id": "1392017",
+      "question": "Will the highest temperature in New York City be between 36-37°F on February 20?",
+      "bucket_low": 36.0,
+      "bucket_high": 37.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 71353.755702,
+      "liquidity": null,
+      "token_id": "30564361124234620087383695611474625409295476050282899095907465313926223128030",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-36-37f",
+        "condition_id": "0x281f0206b3b85a6de1bf12ad88d9056fb04c91e1f685ba28c7635539d297fc50"
+      }
+    },
+    {
+      "market_id": "1392018",
+      "question": "Will the highest temperature in New York City be between 38-39°F on February 20?",
+      "bucket_low": 38.0,
+      "bucket_high": 39.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 33154.232107,
+      "liquidity": null,
+      "token_id": "10059777089880890231154039294857114989436314379709796751636334372677468555011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-38-39f",
+        "condition_id": "0x05fe17252de1996c7cf2bd0cb43b9aca2b763b61e6f15d82fe2bcbbf8bfc5181"
+      }
+    },
+    {
+      "market_id": "1392019",
+      "question": "Will the highest temperature in New York City be between 40-41°F on February 20?",
+      "bucket_low": 40.0,
+      "bucket_high": 41.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 30898.952267,
+      "liquidity": null,
+      "token_id": "68320725901237443177716426964763661485140005302946823175927020635335173557270",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-40-41f",
+        "condition_id": "0xc612ef0c9ab4fcb3bf4c04208527b264d28edeaaac98afb61838402ea4646364"
+      }
+    },
+    {
+      "market_id": "1392020",
+      "question": "Will the highest temperature in New York City be between 42-43°F on February 20?",
+      "bucket_low": 42.0,
+      "bucket_high": 43.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 45089.490223,
+      "liquidity": null,
+      "token_id": "64231777149798105748654651397819532593089475921092663171903615901115042367390",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-42-43f",
+        "condition_id": "0x34659eaa3eda5311e7631bb05063a06ea46b5c737c9077dacdeca0e2e6af4e6c"
+      }
+    },
+    {
+      "market_id": "1392021",
+      "question": "Will the highest temperature in New York City be between 44-45°F on February 20?",
+      "bucket_low": 44.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13808.178425,
+      "liquidity": null,
+      "token_id": "99236985388813725973349399644586683722956694427287553434048549119681217739741",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-44-45f",
+        "condition_id": "0xe094cacb139cc044e3b3bbb0b21ef5095897cfc0dc152dc88efb6d025a790e58"
+      }
+    },
+    {
+      "market_id": "1392022",
+      "question": "Will the highest temperature in New York City be 46°F or higher on February 20?",
+      "bucket_low": 46.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 25594.454978,
+      "liquidity": null,
+      "token_id": "26230037839660997291971253812344828304081233316272673739758374934558853756983",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-february-20-2026-46forhigher",
+        "condition_id": "0x158d11986bcbbc22075d3cd8a93b1fa649828cd5a8481af6439269ac464dff16"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.455289+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-20T12:00:00Z",
+      "liquidity": null,
+      "volume": 498528.862296,
+      "outcomes_count": 9,
+      "top_bucket": "38.0-39.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in NYC on February 20?"
+    }
+  ],
+  "settle_at": "2026-02-21T05:00:00+00:00",
+  "hours_to_settle": -2555.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-nyc-on-february-20-2026",
+    "event_id": "213978",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.455289+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.455289+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.455289+00:00",
+  "created_at": "2026-06-07T16:06:11.455289+00:00",
+  "updated_at": "2026-06-10T17:17:30.160889+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "38-39F",
+      "resolved_value": "38-39F",
+      "resolution_source": null,
+      "winning_market_id": "1392018",
+      "winning_question": "Will the highest temperature in New York City be between 38-39°F on February 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.456826+00:00"
+  },
+  "legacy": null
+}

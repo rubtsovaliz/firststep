@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 27738.96692,
-  "volume": 2724.349863,
+  "liquidity": null,
+  "volume": 68326.440468,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 5.0,
-      "liquidity": 3976.42097,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16.0,
+      "liquidity": 0.0,
       "token_id": "3829349250886709622964765525429819878685056366873471161855499138752388885759",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-28corbelow",
         "condition_id": "0xf0281cd01a1c95472a140ace0b744da88d601556a9a826adb0af5c6751a4af94"
@@ -59,21 +59,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 175.73000000000002,
-      "liquidity": 3691.54797,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 564.9234,
+      "liquidity": null,
       "token_id": "66089434041543105741881831107116681702173626931193571715622869082138570063192",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-29c",
         "condition_id": "0x394cdf686498d10e8acf0b632fabf3a7c4c4dcc3cc211755c074e7ffea719f2f"
@@ -85,21 +85,21 @@
       "bucket_low": 30.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.0125,
-      "no_price": 0.9875,
-      "volume": 1577.0900000000001,
-      "liquidity": 4768.72753,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2878.1666610000007,
+      "liquidity": null,
       "token_id": "33089887895536077093750862053469011228003115204833211881938232088451737040656",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0125,
-        0.9875
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-30c",
         "condition_id": "0xdde6e89506983afeb99827489e9f5abaf4f9faff1c1cb53c59ac755acff35a26"
@@ -111,21 +111,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.055,
-      "no_price": 0.945,
-      "volume": 347.43037999999996,
-      "liquidity": 1609.5713,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6617.682525,
+      "liquidity": null,
       "token_id": "45894546409690934125000650946060668220682674293965011288514837345854676193809",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.055,
-        0.945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-31c",
         "condition_id": "0xa67f701509644817ec44d959bb8cc259c935f83116a43b6e6d31a78c9a066c74"
@@ -137,21 +137,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.255,
-      "no_price": 0.745,
-      "volume": 167.34244199999998,
-      "liquidity": 1418.9352,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8014.347659000003,
+      "liquidity": null,
       "token_id": "27252069544701140187187082092529783510909818981330679714607915478564400119025",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.255,
-        0.745
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-32c",
         "condition_id": "0x70b32adad75285101da9a0cb17d103fb17f0e7314cea69012bb64303b613a40b"
@@ -163,21 +163,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.455,
-      "no_price": 0.545,
-      "volume": 202.02734999999998,
-      "liquidity": 1260.0067,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 15017.359499000004,
+      "liquidity": null,
       "token_id": "52023521345723923065910063034519882854484580758659398836073864736399282298199",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.455,
-        0.545
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-33c",
         "condition_id": "0xa48de448de443e6647b3cd16f4c42d7b4cf5687012b28ec766ec6ad1e4cd19ff"
@@ -189,21 +189,21 @@
       "bucket_low": 34.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.205,
-      "no_price": 0.795,
-      "volume": 164.13557099999997,
-      "liquidity": 1359.3606,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11956.12585099999,
+      "liquidity": null,
       "token_id": "111608486764171442192887982589472487986580335405432106862164103107578233772065",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.205,
-        0.795
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-34c",
         "condition_id": "0x95a7ba5a724faab397c45a70c0a3358b2a2f77a58b2c70dd53b7d278c8e047d7"
@@ -215,21 +215,21 @@
       "bucket_low": 35.0,
       "bucket_high": 35.0,
       "unit": "C",
-      "yes_price": 0.0355,
-      "no_price": 0.9645,
-      "volume": 193.92999999999998,
-      "liquidity": 1663.57031,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9111.260151,
+      "liquidity": null,
       "token_id": "8644386469247041797681043956380288675777666800978791312084034098421271271738",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0355,
-        0.9645
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-35c",
         "condition_id": "0x1ede24faca8b3950424d97d20da3b55b9fcaad7821887be96d5baaf996075136"
@@ -241,21 +241,21 @@
       "bucket_low": 36.0,
       "bucket_high": 36.0,
       "unit": "C",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 4.994,
-      "liquidity": 1578.1326,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2250.7807219999995,
+      "liquidity": null,
       "token_id": "8646029989273187605589886365259407267883785958631232625218703458158476815524",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-36c",
         "condition_id": "0xae17c84e4db40a9ea8b89ecd576ddf50421188a907c27e1a38469324b8bcc31b"
@@ -267,21 +267,21 @@
       "bucket_low": 37.0,
       "bucket_high": 37.0,
       "unit": "C",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 4.994,
-      "liquidity": 3652.07872,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4527.928,
+      "liquidity": null,
       "token_id": "36279071489109807916043006845467537711006481059230082835339262960059150497603",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-37c",
         "condition_id": "0xa9a59527e8061f1967f7f316a5044b3c32f1244d17a92e4ae806ab905913eab7"
@@ -293,21 +293,21 @@
       "bucket_low": 38.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 4.994,
-      "liquidity": 4030.96866,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7371.865999999999,
+      "liquidity": null,
       "token_id": "17012298219285383687763366503785002188707829389821020424810521142777116555245",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-singapore-on-june-6-2026-38corhigher",
         "condition_id": "0x0b3e65c647bfb90284d1eb9b3d16ea411510ff5a11cd9057f49d58b23f2825af"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.120339+00:00",
+      "ts": "2026-06-07T16:05:37.607576+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 27738.96692,
-      "volume": 2724.349863,
+      "liquidity": null,
+      "volume": 68326.440468,
       "outcomes_count": 11,
       "top_bucket": "33.0-33.0C",
-      "top_price": 0.455,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Singapore on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-singapore-on-june-6-2026",
     "event_id": "560843",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.469039+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.120339+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.120339+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.607576+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.607576+00:00",
   "created_at": "2026-06-05T06:08:46.469039+00:00",
-  "updated_at": "2026-06-05T06:36:19.120339+00:00",
+  "updated_at": "2026-06-08T11:18:25.472578+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "33C",
+      "resolved_value": "33C",
+      "resolution_source": null,
+      "winning_market_id": "2440948",
+      "winning_question": "Will the highest temperature in Singapore be 33°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.608579+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 33.8,
+        "unit": "C",
+        "model": "ecmwf_ifs",
+        "requested_model": "ecmwf_ifs",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 33.8,
+        "unit": "C",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless+archive",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 33.8,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 33.8,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:15:20.563370+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T16:00:00+00:00",
+  "hours_to_settle": -24.1
 }

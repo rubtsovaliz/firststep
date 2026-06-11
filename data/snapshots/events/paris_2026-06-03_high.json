@@ -1,0 +1,361 @@
+{
+  "storage_key": "paris_2026-06-03_high",
+  "event_id": "546758",
+  "event_slug": "highest-temperature-in-paris-on-june-3-2026",
+  "event_title": "Highest temperature in Paris on June 3?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-06-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "France",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-06-03T12:00:00Z",
+  "event_end_date": "2026-06-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 134460.446039,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2406927",
+      "question": "Will the highest temperature in Paris be 18°C or below on June 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20117.580429999995,
+      "liquidity": null,
+      "token_id": "61402423279716562883651024678925741903671712918429556813828707899953245086915",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-18corbelow",
+        "condition_id": "0x9042e8135b39857a7668eb372a8031707ad482db2958a7abf06780efc92aa5c6"
+      }
+    },
+    {
+      "market_id": "2406928",
+      "question": "Will the highest temperature in Paris be 19°C on June 3?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 28893.028569000016,
+      "liquidity": null,
+      "token_id": "29478897046362541580095320899283320154579270274700054020586894454383271275114",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-19c",
+        "condition_id": "0xc6964266850617a4bfe9fcc0ae8a7d7581f449b1c9450acd7c629a5d7f28595f"
+      }
+    },
+    {
+      "market_id": "2406929",
+      "question": "Will the highest temperature in Paris be 20°C on June 3?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 28796.615729000012,
+      "liquidity": null,
+      "token_id": "91511929815000491435097777558907391041321448181895211231253331409710690354543",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-20c",
+        "condition_id": "0x405a0bd87daf4d093ba97fe189b0311df6e17205ba6c30cb11d01bb651b60541"
+      }
+    },
+    {
+      "market_id": "2406930",
+      "question": "Will the highest temperature in Paris be 21°C on June 3?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 29234.837103999984,
+      "liquidity": null,
+      "token_id": "107482402831288241749281945070715285547052469922523629735989329817156079465430",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-21c",
+        "condition_id": "0xb56b5c6ff0fa965a634424bdc41b9d20f974e157965e79355c1ad70c1bb25da1"
+      }
+    },
+    {
+      "market_id": "2406931",
+      "question": "Will the highest temperature in Paris be 22°C on June 3?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11347.226282000007,
+      "liquidity": null,
+      "token_id": "56847565498960719677033870965580212484321985241888584090863166077042312531735",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-22c",
+        "condition_id": "0x02e886c1953e4aa407c3fd02bd63f00c36ad0a15850caed8c17fca23916bb27b"
+      }
+    },
+    {
+      "market_id": "2406932",
+      "question": "Will the highest temperature in Paris be 23°C on June 3?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5936.198541000002,
+      "liquidity": null,
+      "token_id": "76660552682546816462896430032263725029203290780956774551324519480543828999919",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-23c",
+        "condition_id": "0x32fad80329bd75b16c9b8d971a326cd8f2c9e0179b395d8728a80bdaf7d47e4e"
+      }
+    },
+    {
+      "market_id": "2406933",
+      "question": "Will the highest temperature in Paris be 24°C on June 3?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2229.7803350000004,
+      "liquidity": null,
+      "token_id": "26389039197524997082925810313477740730566122998039830784604649962900892500504",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-24c",
+        "condition_id": "0xf468ec72fbb0123c4d8e49f756a6416dbdbdb95d595bb228f73e9e365a174c53"
+      }
+    },
+    {
+      "market_id": "2406934",
+      "question": "Will the highest temperature in Paris be 25°C on June 3?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2003.2843349999991,
+      "liquidity": null,
+      "token_id": "53395635499960300946142004600329988619827250349089594515600247808428310780251",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-25c",
+        "condition_id": "0xd3e3196284d0b9c0676a750db49380f19ee6bc48cdc2919004e3f0b8e0fba664"
+      }
+    },
+    {
+      "market_id": "2406935",
+      "question": "Will the highest temperature in Paris be 26°C on June 3?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2648.652244,
+      "liquidity": null,
+      "token_id": "69421142215714168268072553244435590517789233214727319547072250688159104479862",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-26c",
+        "condition_id": "0x62f5735b46e70877613fd1d54f6a3d941b15657b267b120706ac75df7bc1ef36"
+      }
+    },
+    {
+      "market_id": "2406936",
+      "question": "Will the highest temperature in Paris be 27°C on June 3?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1271.9889139999998,
+      "liquidity": null,
+      "token_id": "112558290112359380191365900658762998911243359624972381555968985088623101746015",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-27c",
+        "condition_id": "0xa2d32a95de1c13740c80f011362063d7482995fec3045a5b080377a85dba7459"
+      }
+    },
+    {
+      "market_id": "2406937",
+      "question": "Will the highest temperature in Paris be 28°C or higher on June 3?",
+      "bucket_low": 28.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1981.2535560000001,
+      "liquidity": null,
+      "token_id": "53443419673430498549346985971877963209775956804451425637736100157691090952967",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-june-3-2026-28corhigher",
+        "condition_id": "0xda67fd1efef5801235aadf34de3c60a1b82cdcf788adb3c91855851fe9e300fb"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:38.436224+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-06-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 134460.446039,
+      "outcomes_count": 11,
+      "top_bucket": "20.0-20.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Paris on June 3?"
+    }
+  ],
+  "settle_at": "2026-06-03T22:00:00+00:00",
+  "hours_to_settle": -90.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-paris-on-june-3-2026",
+    "event_id": "546758",
+    "markets_count": 11,
+    "game_start_time": "2026-06-02 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:38.436224+00:00",
+  "last_seen_at": "2026-06-07T16:05:38.436224+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:38.436224+00:00",
+  "created_at": "2026-06-07T16:05:38.436224+00:00",
+  "updated_at": "2026-06-10T17:17:30.404791+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "20C",
+      "resolved_value": "20C",
+      "resolution_source": null,
+      "winning_market_id": "2406929",
+      "winning_question": "Will the highest temperature in Paris be 20°C on June 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:38.438229+00:00"
+  },
+  "legacy": null
+}

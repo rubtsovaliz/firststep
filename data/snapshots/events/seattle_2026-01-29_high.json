@@ -1,0 +1,253 @@
+{
+  "storage_key": "seattle_2026-01-29_high",
+  "event_id": "190210",
+  "event_slug": "highest-temperature-in-seattle-on-january-29",
+  "event_title": "Highest temperature in Seattle on January 29?",
+  "city_slug": "seattle",
+  "city_name": "Seattle",
+  "date": "2026-01-29",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seattle"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-01-29T12:00:00Z",
+  "event_end_date": "2026-01-29T12:00:00Z",
+  "liquidity": null,
+  "volume": 67289.524403,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1276579",
+      "question": "Will the highest temperature in Seattle be 45°F or below on January 29?",
+      "bucket_low": -999.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7229.453939,
+      "liquidity": null,
+      "token_id": "107206901331789011848687816787524117210259581060405692218918112966272990270833",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-january-29-45forbelow",
+        "condition_id": "0x451c108fa474c1a86faca44b02e6e8a961196deced55d30f68f6a9f33e421a52"
+      }
+    },
+    {
+      "market_id": "1276580",
+      "question": "Will the highest temperature in Seattle be between 46-47°F on January 29?",
+      "bucket_low": 46.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11085.832709,
+      "liquidity": null,
+      "token_id": "25045471785686671366679130742150648068768227872079944595575779173427045607443",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-january-29-46-47f",
+        "condition_id": "0x3574ea969d60c7034d35c2412e92e8f83671d8b44b71d23b8beb89ab7773b88d"
+      }
+    },
+    {
+      "market_id": "1276581",
+      "question": "Will the highest temperature in Seattle be between 48-49°F on January 29?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5456.820168,
+      "liquidity": null,
+      "token_id": "3314699072770561247299925749035804157683802873016475739013852412076818524158",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-january-29-48-49f",
+        "condition_id": "0x362c1fe0d9a2797dcc2f83a99a0cfb731b5759d7c3dd63ee8ee555b95149ca5f"
+      }
+    },
+    {
+      "market_id": "1276582",
+      "question": "Will the highest temperature in Seattle be between 50-51°F on January 29?",
+      "bucket_low": 50.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 9091.071021,
+      "liquidity": null,
+      "token_id": "113378284703254890402208138735674866319857810594965373911732692087466452496971",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-january-29-50-51f",
+        "condition_id": "0x606a8b7b0ce56ce9b6a513fee1a5be19168f41fc079b78718a231c093e8cd71b"
+      }
+    },
+    {
+      "market_id": "1276583",
+      "question": "Will the highest temperature in Seattle be between 52-53°F on January 29?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10804.755734,
+      "liquidity": null,
+      "token_id": "70239232349252526358174585456765633487674595576304221122824852602121114574645",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-january-29-52-53f",
+        "condition_id": "0x7bd7d90a119e0265106711dd0d931b7d33af50abed2652640d0b63f925389139"
+      }
+    },
+    {
+      "market_id": "1276584",
+      "question": "Will the highest temperature in Seattle be between 54-55°F on January 29?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10067.094232,
+      "liquidity": null,
+      "token_id": "55902314297612849773570240561686963957978229580854486062638898948894169388026",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-january-29-54-55f",
+        "condition_id": "0x83a5e06fd6efad316fcdc11afc1a0ee238cffeccad363b805406e4542b8936a5"
+      }
+    },
+    {
+      "market_id": "1276585",
+      "question": "Will the highest temperature in Seattle be 56°F or higher on January 29?",
+      "bucket_low": 56.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13554.4966,
+      "liquidity": null,
+      "token_id": "102649409380865320737458948248732800033306540717517224401128738424495272037755",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-january-29-56forhigher",
+        "condition_id": "0x96b210b7a361e2f782eddd8440d662385a777bb1f1f61736e7c785ca7a78a415"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:12.317803+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-01-29T12:00:00Z",
+      "liquidity": null,
+      "volume": 67289.524403,
+      "outcomes_count": 7,
+      "top_bucket": "50.0-51.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seattle on January 29?"
+    }
+  ],
+  "settle_at": "2026-01-30T08:00:00+00:00",
+  "hours_to_settle": -3080.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seattle-on-january-29",
+    "event_id": "190210",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:12.317803+00:00",
+  "last_seen_at": "2026-06-07T16:06:12.317803+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:12.317803+00:00",
+  "created_at": "2026-06-07T16:06:12.317803+00:00",
+  "updated_at": "2026-06-10T17:17:30.563008+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "50-51F",
+      "resolved_value": "50-51F",
+      "resolution_source": null,
+      "winning_market_id": "1276582",
+      "winning_question": "Will the highest temperature in Seattle be between 50-51°F on January 29?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:12.318792+00:00"
+  },
+  "legacy": null
+}

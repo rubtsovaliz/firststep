@@ -1,0 +1,360 @@
+{
+  "storage_key": "austin_2026-03-27_high",
+  "event_id": "299440",
+  "event_slug": "highest-temperature-in-austin-on-march-27-2026",
+  "event_title": "Highest temperature in Austin on March 27?",
+  "city_slug": "austin",
+  "city_name": "Austin",
+  "date": "2026-03-27",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Austin",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-27T12:00:00Z",
+  "event_end_date": "2026-03-27T12:00:00Z",
+  "liquidity": null,
+  "volume": 56529.054000000004,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1690360",
+      "question": "Will the highest temperature in Austin be 75°F or below on March 27?",
+      "bucket_low": -999.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5987.020815999998,
+      "liquidity": null,
+      "token_id": "13339551828500442764702349446333266027553999859533578242114348353790278123438",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-75forbelow",
+        "condition_id": "0x1ac6a775463f8e5b2d3c9cb0e753efc463dae3b62da2ebc6139dc926fc87bab3"
+      }
+    },
+    {
+      "market_id": "1690361",
+      "question": "Will the highest temperature in Austin be between 76-77°F on March 27?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2714.4771709999995,
+      "liquidity": null,
+      "token_id": "27524131427583402412850877675488244052589741466968805067508000011895335714981",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-76-77f",
+        "condition_id": "0x05284c59497ede5032227adff35a81adc2d87c803505f269212e7cbfb6973c89"
+      }
+    },
+    {
+      "market_id": "1690362",
+      "question": "Will the highest temperature in Austin be between 78-79°F on March 27?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2608.683624,
+      "liquidity": null,
+      "token_id": "104490079288271775927170471215860960929003253561196832126228331847731908132092",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-78-79f",
+        "condition_id": "0x8df7a7bed645250b4b03dc05118ed18a35c319b2c6a1a1bccb8f6f9df2240649"
+      }
+    },
+    {
+      "market_id": "1690363",
+      "question": "Will the highest temperature in Austin be between 80-81°F on March 27?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2805.5839980000032,
+      "liquidity": null,
+      "token_id": "103361944712664001838947224157567101303259480954167731725738323376067962932662",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-80-81f",
+        "condition_id": "0x9871e4d0f2bb2d4a0b8cc2c1523e22afe70fbab484e73566615736a2481a152a"
+      }
+    },
+    {
+      "market_id": "1690364",
+      "question": "Will the highest temperature in Austin be between 82-83°F on March 27?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5532.925219999999,
+      "liquidity": null,
+      "token_id": "17248043701170376991355473411690057793619771186280046768485047910213391135931",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-82-83f",
+        "condition_id": "0x226928f4b4f901e08e8cfb33469ea587c1a154ddb048fb16b672004f645dde60"
+      }
+    },
+    {
+      "market_id": "1690365",
+      "question": "Will the highest temperature in Austin be between 84-85°F on March 27?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8977.530523000001,
+      "liquidity": null,
+      "token_id": "64070550498301354883370979871643616666300204597044718890420275586598420621018",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-84-85f",
+        "condition_id": "0x18379eaec814ca26b25a21dd75e8b8be51561a56cd381dea175486283de6461f"
+      }
+    },
+    {
+      "market_id": "1690366",
+      "question": "Will the highest temperature in Austin be between 86-87°F on March 27?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 12728.622480000004,
+      "liquidity": null,
+      "token_id": "58328020963713108485893171704488152360202269935001517202419161874257507649469",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-86-87f",
+        "condition_id": "0xc789bd5b88ac74c8be2cea44a926c58aee1dc999b937cb3e67d8e82d500626ca"
+      }
+    },
+    {
+      "market_id": "1690367",
+      "question": "Will the highest temperature in Austin be between 88-89°F on March 27?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6288.352809000001,
+      "liquidity": null,
+      "token_id": "39460175088262128173142457203146168952778872636995385140442984637485736811551",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-88-89f",
+        "condition_id": "0xa8b772a2f1869ac06ebb7d453e296d90b23b55b90d58ad8c79fcd3753402a881"
+      }
+    },
+    {
+      "market_id": "1690368",
+      "question": "Will the highest temperature in Austin be between 90-91°F on March 27?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3393.130257,
+      "liquidity": null,
+      "token_id": "105492685077326089874968149595899330883656749148346560449624553672639760655286",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-90-91f",
+        "condition_id": "0xf03fa8625ce8104695dcb75dd940160035b8c999b67a5fdbfb5037d379b84057"
+      }
+    },
+    {
+      "market_id": "1690369",
+      "question": "Will the highest temperature in Austin be between 92-93°F on March 27?",
+      "bucket_low": 92.0,
+      "bucket_high": 93.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2738.4681199999986,
+      "liquidity": null,
+      "token_id": "15897939261251576878052825839647819067556109742030690267549395165519864572346",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-92-93f",
+        "condition_id": "0xde2f3ad36b98abd95f1bb8772cf12343741c2d0d641dfcd2a53e4e5aa9d7e9e9"
+      }
+    },
+    {
+      "market_id": "1690370",
+      "question": "Will the highest temperature in Austin be 94°F or higher on March 27?",
+      "bucket_low": 94.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2754.2589819999994,
+      "liquidity": null,
+      "token_id": "50610563624280581310891156160930757882599147423780312550397913660608091784136",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-march-27-2026-94forhigher",
+        "condition_id": "0x4fb13cb62d03cb92eeb9a591a2bb52dba10ac925afa28bcb7a02ea9d5eae9ec8"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.841817+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-27T12:00:00Z",
+      "liquidity": null,
+      "volume": 56529.054000000004,
+      "outcomes_count": 11,
+      "top_bucket": "86.0-87.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Austin on March 27?"
+    }
+  ],
+  "settle_at": "2026-03-28T05:00:00+00:00",
+  "hours_to_settle": -1715.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-austin-on-march-27-2026",
+    "event_id": "299440",
+    "markets_count": 11,
+    "game_start_time": "2026-03-27 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.841817+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.841817+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.841817+00:00",
+  "created_at": "2026-06-07T16:06:08.841817+00:00",
+  "updated_at": "2026-06-10T17:17:28.422730+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "86-87F",
+      "resolved_value": "86-87F",
+      "resolution_source": null,
+      "winning_market_id": "1690366",
+      "winning_question": "Will the highest temperature in Austin be between 86-87°F on March 27?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.842819+00:00"
+  },
+  "legacy": null
+}

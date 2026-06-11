@@ -1,0 +1,360 @@
+{
+  "storage_key": "tokyo_2026-03-27_high",
+  "event_id": "299427",
+  "event_slug": "highest-temperature-in-tokyo-on-march-27-2026",
+  "event_title": "Highest temperature in Tokyo on March 27?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-03-27",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Tokyo",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-27T12:00:00Z",
+  "event_end_date": "2026-03-27T12:00:00Z",
+  "liquidity": null,
+  "volume": 171670.193719,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1690217",
+      "question": "Will the highest temperature in Tokyo be 11°C or below on March 27?",
+      "bucket_low": -999.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "92076175329356590937020506456533272295620958790054889494657796443466541182402",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-11corbelow",
+        "condition_id": "0x11a7917e83321bfed1a1252a215b23beda347c3e5b08cdebd59fa8651a8c9dc5"
+      }
+    },
+    {
+      "market_id": "1690218",
+      "question": "Will the highest temperature in Tokyo be 12°C on March 27?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5367.700416000001,
+      "liquidity": null,
+      "token_id": "26102499687924942889722578131415766651945578718078121188089509727868988752683",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-12c",
+        "condition_id": "0xcaa1420564bd498159485607198521acbd991e26e3b2bed6be8082ee158249a4"
+      }
+    },
+    {
+      "market_id": "1690219",
+      "question": "Will the highest temperature in Tokyo be 13°C on March 27?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5265.936080000001,
+      "liquidity": null,
+      "token_id": "61526302703209963071690127898540263472428960169005949018754142552668053856672",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-13c",
+        "condition_id": "0x52a587923fb678976f612d67910e087a9631e257e1c557ba507200dc6436a947"
+      }
+    },
+    {
+      "market_id": "1690220",
+      "question": "Will the highest temperature in Tokyo be 14°C on March 27?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11823.047246,
+      "liquidity": null,
+      "token_id": "557266371467672054129638708150208207666848751200128268865187139282624845714",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-14c",
+        "condition_id": "0x118cce852a108397735d46661ee395be5a4fab9f862a071e68ad80e70f75320e"
+      }
+    },
+    {
+      "market_id": "1690221",
+      "question": "Will the highest temperature in Tokyo be 15°C on March 27?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 61891.47994199999,
+      "liquidity": null,
+      "token_id": "105698845059990993942958334559745577322956832186660241012921960606750275730407",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-15c",
+        "condition_id": "0x03408c0f89dbea2d4f3153ee4d74013e5d3c645ca1514024cb8ef407a425df64"
+      }
+    },
+    {
+      "market_id": "1690222",
+      "question": "Will the highest temperature in Tokyo be 16°C on March 27?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 30927.91815700002,
+      "liquidity": null,
+      "token_id": "52705954800828639044543937673473366058498923952594700436739102753753093838884",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-16c",
+        "condition_id": "0xa3e9b2334831b45a91ee74666b1caca0c110e880599b0bea3cc70f54517664d2"
+      }
+    },
+    {
+      "market_id": "1690223",
+      "question": "Will the highest temperature in Tokyo be 17°C on March 27?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17043.957220999993,
+      "liquidity": null,
+      "token_id": "5214328714403167831819670624542618057349234801107332746400479860621412541994",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-17c",
+        "condition_id": "0x360ad4a5490cf757a35dc982dfdbc3109a88ccd4699075512b428932864cb45c"
+      }
+    },
+    {
+      "market_id": "1690224",
+      "question": "Will the highest temperature in Tokyo be 18°C on March 27?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16422.87503799999,
+      "liquidity": null,
+      "token_id": "96007267018592451394331849774640966084265969294176401901332141599485717101715",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-18c",
+        "condition_id": "0x5252987a096e9435f9f2e6494400e34e35fb2930dbefedec676f328ce63822d5"
+      }
+    },
+    {
+      "market_id": "1690225",
+      "question": "Will the highest temperature in Tokyo be 19°C on March 27?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11755.742759999996,
+      "liquidity": null,
+      "token_id": "299522959409058240156393659798304326384660897471124367952905842935373265954",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-19c",
+        "condition_id": "0x93f49b39e796fa6f7c0b6cc635b4dc65283f2806135af8e570dceba8bee6e957"
+      }
+    },
+    {
+      "market_id": "1690226",
+      "question": "Will the highest temperature in Tokyo be 20°C on March 27?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5149.438956999999,
+      "liquidity": null,
+      "token_id": "86277101960125343938340710933010994767691732029482151903446765228955393695344",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-20c",
+        "condition_id": "0xda41e62f7ea4f321e6e459db7b1fb7df68f43fb0cf3c19008febf1022153b065"
+      }
+    },
+    {
+      "market_id": "1690227",
+      "question": "Will the highest temperature in Tokyo be 21°C or higher on March 27?",
+      "bucket_low": 21.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6022.0979019999995,
+      "liquidity": null,
+      "token_id": "34929873759008305129045003258471008265798608631225468449554220780469328633670",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-march-27-2026-21corhigher",
+        "condition_id": "0x82369eb348f6dcc64ecd21223cbe4105a4d5902dc631b4b695bfba4482d3f353"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.881921+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-27T12:00:00Z",
+      "liquidity": null,
+      "volume": 171670.193719,
+      "outcomes_count": 11,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Tokyo on March 27?"
+    }
+  ],
+  "settle_at": "2026-03-27T15:00:00+00:00",
+  "hours_to_settle": -1729.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-tokyo-on-march-27-2026",
+    "event_id": "299427",
+    "markets_count": 11,
+    "game_start_time": "2026-03-26 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.881921+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.881921+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.881921+00:00",
+  "created_at": "2026-06-07T16:06:08.881921+00:00",
+  "updated_at": "2026-06-10T17:17:31.076903+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "16C",
+      "resolved_value": "16C",
+      "resolution_source": null,
+      "winning_market_id": "1690222",
+      "winning_question": "Will the highest temperature in Tokyo be 16°C on March 27?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.882924+00:00"
+  },
+  "legacy": null
+}

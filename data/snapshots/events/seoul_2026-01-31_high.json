@@ -1,0 +1,253 @@
+{
+  "storage_key": "seoul_2026-01-31_high",
+  "event_id": "192374",
+  "event_slug": "highest-temperature-in-seoul-on-january-31",
+  "event_title": "Highest temperature in Seoul on January 31?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-01-31",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-01-31T12:00:00Z",
+  "event_end_date": "2026-01-31T12:00:00Z",
+  "liquidity": null,
+  "volume": 199748.768735,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1291772",
+      "question": "Will the highest temperature in Seoul be -4°C or below on January 31?",
+      "bucket_low": -999.0,
+      "bucket_high": -4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16468.446145,
+      "liquidity": null,
+      "token_id": "75146702773292528494560970255018920514700496343555713783657060626420101511707",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-january-31-neg-4corbelow",
+        "condition_id": "0x44f3e3f60f9e8b1b4024e859768c71a071e50ff17dc0ce4aebccc0c2b5c8da83"
+      }
+    },
+    {
+      "market_id": "1291773",
+      "question": "Will the highest temperature in Seoul be -3°C on January 31?",
+      "bucket_low": -3.0,
+      "bucket_high": -3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 23932.919616,
+      "liquidity": null,
+      "token_id": "99261230385023799788766844534492859469931452800284067872438324513176725810168",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-january-31-neg-3c",
+        "condition_id": "0x1adbe901043179a989450b29da3f48f75a58b8709cb3095d3b4d863970a22541"
+      }
+    },
+    {
+      "market_id": "1291774",
+      "question": "Will the highest temperature in Seoul be -2°C on January 31?",
+      "bucket_low": -2.0,
+      "bucket_high": -2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 23625.282045,
+      "liquidity": null,
+      "token_id": "73814842996601661420897544446324810921564345434836393602076297845774304709471",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-january-31-neg-2c",
+        "condition_id": "0x44e8d76c3e5ed29e9331cd2a32fcb07a9923d02fe476556a8ad18047f0665276"
+      }
+    },
+    {
+      "market_id": "1291775",
+      "question": "Will the highest temperature in Seoul be -1°C on January 31?",
+      "bucket_low": -1.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 34190.685507,
+      "liquidity": null,
+      "token_id": "106890271265918045991194430915300746398717042756346215559889022478258103523787",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-january-31-neg-1c",
+        "condition_id": "0x854c2ba54b32f79a3c97044f1b0a21346a42d2d2b67ddbb65dd216e6f4dc6275"
+      }
+    },
+    {
+      "market_id": "1291776",
+      "question": "Will the highest temperature in Seoul be 0°C on January 31?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 27166.227077,
+      "liquidity": null,
+      "token_id": "5686780698893272224764920091392919178776416194256713735485355036375690549044",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-january-31-0c",
+        "condition_id": "0x89033486c0bbdea9a9a432bd2d836ee70aa7122e2d1ed3d09b98a8057788ab23"
+      }
+    },
+    {
+      "market_id": "1291777",
+      "question": "Will the highest temperature in Seoul be 1°C on January 31?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 42117.649906,
+      "liquidity": null,
+      "token_id": "114267212157323435885330665994998109461212934361815909336796845957336827493622",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-january-31-1c",
+        "condition_id": "0x4bed5e189e83e8e84204c64a3c35d2ca8308afc50db3067d32605fffc708ad4d"
+      }
+    },
+    {
+      "market_id": "1291778",
+      "question": "Will the highest temperature in Seoul be 2°C or higher on January 31?",
+      "bucket_low": 2.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 32247.558439,
+      "liquidity": null,
+      "token_id": "67009349889535210157192771152302488732547786724943794535613296891539193404198",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-january-31-2corhigher",
+        "condition_id": "0xe8ce9bf25123c9b31786e456bac67abc3f9f0502fd7965a5c13febfa28a05640"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:12.252111+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-01-31T12:00:00Z",
+      "liquidity": null,
+      "volume": 199748.768735,
+      "outcomes_count": 7,
+      "top_bucket": "-1.0--1.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seoul on January 31?"
+    }
+  ],
+  "settle_at": "2026-01-31T15:00:00+00:00",
+  "hours_to_settle": -3049.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seoul-on-january-31",
+    "event_id": "192374",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:12.252111+00:00",
+  "last_seen_at": "2026-06-07T16:06:12.252111+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:12.252111+00:00",
+  "created_at": "2026-06-07T16:06:12.252111+00:00",
+  "updated_at": "2026-06-10T17:17:30.644509+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "-1C",
+      "resolved_value": "-1C",
+      "resolution_source": null,
+      "winning_market_id": "1291775",
+      "winning_question": "Will the highest temperature in Seoul be -1°C on January 31?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:12.254116+00:00"
+  },
+  "legacy": null
+}

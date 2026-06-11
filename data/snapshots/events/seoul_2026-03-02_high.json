@@ -1,0 +1,307 @@
+{
+  "storage_key": "seoul_2026-03-02_high",
+  "event_id": "236635",
+  "event_slug": "highest-temperature-in-seoul-on-march-2-2026",
+  "event_title": "Highest temperature in Seoul on March 2?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-03-02",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-02T12:00:00Z",
+  "event_end_date": "2026-03-02T12:00:00Z",
+  "liquidity": null,
+  "volume": 240258.702952,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1465112",
+      "question": "Will the highest temperature in Seoul be 2°C or below on March 2?",
+      "bucket_low": -999.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17674.514918,
+      "liquidity": null,
+      "token_id": "68088881792318187469556721813313560121397273832243096083697385762331581092743",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-2corbelow",
+        "condition_id": "0xc4eb1f556f65897b8f254b0a43c101848d1dc418d4e8e81f09977394af7b5fed"
+      }
+    },
+    {
+      "market_id": "1465113",
+      "question": "Will the highest temperature in Seoul be 3°C on March 2?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16437.586933,
+      "liquidity": null,
+      "token_id": "26056319314673327556274192554890787500174547073806833457687977984560732336037",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-3c",
+        "condition_id": "0x876b82bda5a36ae223e661643c3cf4e6299701655df57ccb0ff67682a7e35228"
+      }
+    },
+    {
+      "market_id": "1465114",
+      "question": "Will the highest temperature in Seoul be 4°C on March 2?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14412.301483,
+      "liquidity": null,
+      "token_id": "46251914338969173720018744401532387908788691547845229623386025014390339407766",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-4c",
+        "condition_id": "0x384fd1c993ddce6a2dfcd40f3d3fbf012367705d2eb44bad0c559f6d0cd69c29"
+      }
+    },
+    {
+      "market_id": "1465115",
+      "question": "Will the highest temperature in Seoul be 5°C on March 2?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16429.395684,
+      "liquidity": null,
+      "token_id": "68150854311342063077068304240323182495794901064722579614518285244676455633543",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-5c",
+        "condition_id": "0x20c1790a781de0074227b8e3765bedf7aaaaf081b457800eae9919f51ffb91b0"
+      }
+    },
+    {
+      "market_id": "1465116",
+      "question": "Will the highest temperature in Seoul be 6°C on March 2?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 52776.8247,
+      "liquidity": null,
+      "token_id": "52604971799422261263056506093353284695845421039450504723499139970934650905318",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-6c",
+        "condition_id": "0x2c699ea49245ebb306d789bb3ee0fcc7e60d7ce1af66c3439e0118f5d280ec43"
+      }
+    },
+    {
+      "market_id": "1465117",
+      "question": "Will the highest temperature in Seoul be 7°C on March 2?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24869.151511,
+      "liquidity": null,
+      "token_id": "7314833275361869237627526388488217789852907233363855837316757352148395118473",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-7c",
+        "condition_id": "0x77d00ef748d76264d9ca065bf7424c1c65753e8ecf9ffa132fc7c90f11bac24a"
+      }
+    },
+    {
+      "market_id": "1465118",
+      "question": "Will the highest temperature in Seoul be 8°C on March 2?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20787.747491,
+      "liquidity": null,
+      "token_id": "29682971792493764332694139545011959317299247818228679603940366724695636676190",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-8c",
+        "condition_id": "0xd34d884a18d6486589b73cfb6a389d8e277f113ce4a6b14c5a615c6c74cbd678"
+      }
+    },
+    {
+      "market_id": "1465119",
+      "question": "Will the highest temperature in Seoul be 9°C on March 2?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 32626.832668,
+      "liquidity": null,
+      "token_id": "61792313220564091156453699543652866137129089134609645532415440074969452311025",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-9c",
+        "condition_id": "0xee76be823cf3950e34e76b924adbe70247bcc8a586e03c0f4244663b7d07fef6"
+      }
+    },
+    {
+      "market_id": "1465120",
+      "question": "Will the highest temperature in Seoul be 10°C or higher on March 2?",
+      "bucket_low": 10.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 44244.347564,
+      "liquidity": null,
+      "token_id": "9397706509049768428094130931345623436588723590360867383578339955180859276317",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-march-2-2026-10corhigher",
+        "condition_id": "0x1401126df5be99c54c735dc5d22476309dff66f6b8d6bb0354fcd871917a75bb"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.968987+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-02T12:00:00Z",
+      "liquidity": null,
+      "volume": 240258.702952,
+      "outcomes_count": 9,
+      "top_bucket": "6.0-6.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seoul on March 2?"
+    }
+  ],
+  "settle_at": "2026-03-02T15:00:00+00:00",
+  "hours_to_settle": -2329.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seoul-on-march-2-2026",
+    "event_id": "236635",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.968987+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.968987+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.968987+00:00",
+  "created_at": "2026-06-07T16:06:10.968987+00:00",
+  "updated_at": "2026-06-10T17:17:30.660204+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "6C",
+      "resolved_value": "6C",
+      "resolution_source": null,
+      "winning_market_id": "1465116",
+      "winning_question": "Will the highest temperature in Seoul be 6°C on March 2?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.969989+00:00"
+  },
+  "legacy": null
+}

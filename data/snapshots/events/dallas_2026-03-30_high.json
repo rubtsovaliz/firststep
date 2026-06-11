@@ -1,0 +1,360 @@
+{
+  "storage_key": "dallas_2026-03-30_high",
+  "event_id": "322393",
+  "event_slug": "highest-temperature-in-dallas-on-march-30-2026",
+  "event_title": "Highest temperature in Dallas on March 30?",
+  "city_slug": "dallas",
+  "city_name": "Dallas",
+  "date": "2026-03-30",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Hide From New",
+    "Recurring",
+    "Rewards Automation 50 4.5 50",
+    "dallas",
+    "Weather",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-30T12:00:00Z",
+  "event_end_date": "2026-03-30T12:00:00Z",
+  "liquidity": null,
+  "volume": 112913.281664,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1779502",
+      "question": "Will the highest temperature in Dallas be 79°F or below on March 30?",
+      "bucket_low": -999.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10358.1511,
+      "liquidity": null,
+      "token_id": "649184125130486002659917500960374219865328624829523239632727724212370233268",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-79forbelow",
+        "condition_id": "0x2ae22c359ac4d61127085b9301703c0bcf92a1a6fff82ba1cec365667663d511"
+      }
+    },
+    {
+      "market_id": "1779503",
+      "question": "Will the highest temperature in Dallas be between 80-81°F on March 30?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 19000.315635999996,
+      "liquidity": null,
+      "token_id": "83882134201937117851655668624228431954468610085229609579480973522984667420688",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-80-81f",
+        "condition_id": "0x0b09ccf82e8bbe2954f68a7c2dc98c533157a1bdeb7585b24d9dae0fc0ea3004"
+      }
+    },
+    {
+      "market_id": "1779504",
+      "question": "Will the highest temperature in Dallas be between 82-83°F on March 30?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 19817.929054999997,
+      "liquidity": null,
+      "token_id": "33193163067207871041013607892505826095734825878545253728332750651715782592881",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-82-83f",
+        "condition_id": "0x6ff433c776f0024a4c60d877509116ea84e0c665199123ea31b541bedd634dd3"
+      }
+    },
+    {
+      "market_id": "1779505",
+      "question": "Will the highest temperature in Dallas be between 84-85°F on March 30?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15619.426071999997,
+      "liquidity": null,
+      "token_id": "50418657859752783438262782642338513627320547581061396265770876219147206146799",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-84-85f",
+        "condition_id": "0x61cb19b4318279829d515ece11ed596e2cdfdb6a29952caf57463375c72af05a"
+      }
+    },
+    {
+      "market_id": "1779506",
+      "question": "Will the highest temperature in Dallas be between 86-87°F on March 30?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10199.471802000002,
+      "liquidity": null,
+      "token_id": "70845530347877857752961628075431582565653974293169098764658417576294144090085",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-86-87f",
+        "condition_id": "0xb8efb3bd0d33c060dd1d7d170cfdc4e13089cc6171d2562003d0d5998cae0e09"
+      }
+    },
+    {
+      "market_id": "1779507",
+      "question": "Will the highest temperature in Dallas be between 88-89°F on March 30?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12474.921725999997,
+      "liquidity": null,
+      "token_id": "102960536701334194048010425791711365222043898958682370861453925659129250632503",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-88-89f",
+        "condition_id": "0x354a4d79dc9558ccec28f7f6190eb84c48b7f96dfa666e882d68d602fbd27382"
+      }
+    },
+    {
+      "market_id": "1779508",
+      "question": "Will the highest temperature in Dallas be between 90-91°F on March 30?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9742.371818999996,
+      "liquidity": null,
+      "token_id": "115392732979541241665112817703864219520147775957105257084814548006909060875001",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-90-91f",
+        "condition_id": "0x252ff4464b92e3a9949928dcb19d08c090266a55952dff5770cf69036e224e7c"
+      }
+    },
+    {
+      "market_id": "1779509",
+      "question": "Will the highest temperature in Dallas be between 92-93°F on March 30?",
+      "bucket_low": 92.0,
+      "bucket_high": 93.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2942.151410000001,
+      "liquidity": null,
+      "token_id": "28197987800783657886971341744559462724994472084644366234122050795329717530506",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-92-93f",
+        "condition_id": "0xfb6a6041d82699fa8d050c285e69a06bf156c94cf786ae475098cced510b240d"
+      }
+    },
+    {
+      "market_id": "1779510",
+      "question": "Will the highest temperature in Dallas be between 94-95°F on March 30?",
+      "bucket_low": 94.0,
+      "bucket_high": 95.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4998.772944000002,
+      "liquidity": null,
+      "token_id": "74480545545697093239566000137930639667288308756232198614806372384855788246232",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-94-95f",
+        "condition_id": "0x360ddf4a4c198cf5d3f2fc122bffa7be5b9ad40b647da7a88f68a732387defed"
+      }
+    },
+    {
+      "market_id": "1779511",
+      "question": "Will the highest temperature in Dallas be between 96-97°F on March 30?",
+      "bucket_low": 96.0,
+      "bucket_high": 97.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5412.294399999999,
+      "liquidity": null,
+      "token_id": "83399961450417398227753917876785453848664237494854583586669015728671358138361",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-96-97f",
+        "condition_id": "0xce425f8baacd1187964d5612c817a9cb1456e938b73ffa812f91662310a3249c"
+      }
+    },
+    {
+      "market_id": "1779512",
+      "question": "Will the highest temperature in Dallas be 98°F or higher on March 30?",
+      "bucket_low": 98.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2347.4757000000004,
+      "liquidity": null,
+      "token_id": "28178943490156247651428131622980217017396819919640613748300159896372432344404",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-dallas-on-march-30-2026-98forhigher",
+        "condition_id": "0x771891d3b069bda42f9bbd7f877ab35762f364b831a8010ced260d40f9490067"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.499915+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-30T12:00:00Z",
+      "liquidity": null,
+      "volume": 112913.281664,
+      "outcomes_count": 11,
+      "top_bucket": "82.0-83.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Dallas on March 30?"
+    }
+  ],
+  "settle_at": "2026-03-31T05:00:00+00:00",
+  "hours_to_settle": -1643.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-dallas-on-march-30-2026",
+    "event_id": "322393",
+    "markets_count": 11,
+    "game_start_time": "2026-03-30 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.499915+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.499915+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.499915+00:00",
+  "created_at": "2026-06-07T16:06:08.499915+00:00",
+  "updated_at": "2026-06-10T17:17:28.909995+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "82-83F",
+      "resolved_value": "82-83F",
+      "resolution_source": null,
+      "winning_market_id": "1779504",
+      "winning_question": "Will the highest temperature in Dallas be between 82-83°F on March 30?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.500898+00:00"
+  },
+  "legacy": null
+}

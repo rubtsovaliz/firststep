@@ -19,11 +19,11 @@
     "Lowest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 23084.59007,
-  "volume": 9406.626252,
+  "liquidity": null,
+  "volume": 20333.135786000003,
   "market_type": "min_temperature",
   "temperature_metric": "low",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 71.0,
       "unit": "F",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 2252.2479769999977,
-      "liquidity": 460.73904,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2758.4577659999977,
+      "liquidity": null,
       "token_id": "37258996317619314644752252967521830024359965569214832110030771612549024184546",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-71forbelow",
         "condition_id": "0x13fbba52c3290f5aca2c0a771a58740298ef63295dbd58017a4b5ac986fca2ba"
@@ -59,21 +59,21 @@
       "bucket_low": 72.0,
       "bucket_high": 73.0,
       "unit": "F",
-      "yes_price": 0.077,
-      "no_price": 0.923,
-      "volume": 266.368802,
-      "liquidity": 56.45042,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1954.1812750000001,
+      "liquidity": null,
       "token_id": "44544937590605583979817984233716920093680169192580325511523392947448831604680",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.077,
-        0.923
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-72-73f",
         "condition_id": "0x32d96cbce93375a25163e9dd5088be08f078a76823751212c88c22b8de6e9050"
@@ -85,21 +85,21 @@
       "bucket_low": 74.0,
       "bucket_high": 75.0,
       "unit": "F",
-      "yes_price": 0.34,
-      "no_price": 0.66,
-      "volume": 59.865,
-      "liquidity": 49.0674,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1211.9786490000001,
+      "liquidity": null,
       "token_id": "90275731125403081247637525538985321355256582431193914966199488137809763370600",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.34,
-        0.66
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-74-75f",
         "condition_id": "0x038342879af45da147ead772a852ef2fa85327fbaf20678b6f536ae6a45f05b4"
@@ -111,21 +111,21 @@
       "bucket_low": 76.0,
       "bucket_high": 77.0,
       "unit": "F",
-      "yes_price": 0.33,
-      "no_price": 0.67,
-      "volume": 170.32811,
-      "liquidity": 53.4924,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1518.565648,
+      "liquidity": null,
       "token_id": "103758222839087631073377824412193334314253061760509207846413722593098955926374",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.33,
-        0.67
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-76-77f",
         "condition_id": "0xbf9ebb796f423933d6f487bf090535845cb2afa66ffd37136ef838090f3ab153"
@@ -137,21 +137,21 @@
       "bucket_low": 78.0,
       "bucket_high": 79.0,
       "unit": "F",
-      "yes_price": 0.31,
-      "no_price": 0.69,
-      "volume": 120.568797,
-      "liquidity": 67.075,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5063.949867,
+      "liquidity": null,
       "token_id": "54723061367262386352643493205744412458684199006431316864402084331199927071594",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.31,
-        0.69
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-78-79f",
         "condition_id": "0x79ded28c95732467758ef6aae20517bcf8936ed3e0588666e325278442cdea57"
@@ -163,21 +163,21 @@
       "bucket_low": 80.0,
       "bucket_high": 81.0,
       "unit": "F",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 836.442137,
-      "liquidity": 1900.41958,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1068.192137,
+      "liquidity": null,
       "token_id": "41904008179830580924120055172619082909915072643070895249244661465996698717531",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-80-81f",
         "condition_id": "0xbe70fa1b50f32ec99f1751bc45f6f2fa26837a7a3688fa451038fc06a65b73be"
@@ -189,21 +189,21 @@
       "bucket_low": 82.0,
       "bucket_high": 83.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 4047.193572000003,
-      "liquidity": 2420.24596,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4662.198587000003,
+      "liquidity": null,
       "token_id": "106580523854578914849548838931865135913442311567362726070424056207944595159732",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-82-83f",
         "condition_id": "0x8aa76b607dfae8c17da254265c9fd8139f12b5349a6770c0d1af0c1421fa3427"
@@ -215,21 +215,21 @@
       "bucket_low": 84.0,
       "bucket_high": 85.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 478.12,
-      "liquidity": 3992.66061,
+      "liquidity": 0.0,
       "token_id": "26722512035110643122880603036514493029601983808481721348112622380729847548983",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-84-85f",
         "condition_id": "0x043f92ae835de53404c5e7916e5fabe759335eb6a60364dccc0e7b216aa8151d"
@@ -241,21 +241,21 @@
       "bucket_low": 86.0,
       "bucket_high": 87.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 220.946,
-      "liquidity": 4157.43984,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 320.946,
+      "liquidity": null,
       "token_id": "54222363941824391780700667417468144789350420950831656363475261025596838933053",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-86-87f",
         "condition_id": "0xc3d107a8cbc8778b4102ccf40bb008649422ccc721c2aaf2eeabc6050a860318"
@@ -267,21 +267,21 @@
       "bucket_low": 88.0,
       "bucket_high": 89.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 510.63285700000006,
-      "liquidity": 5724.60283,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 671.6328570000001,
+      "liquidity": null,
       "token_id": "35004874644132086850796198346959176409687127579078667046027270119112181082114",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-88-89f",
         "condition_id": "0xde4aba7c2d0ab3458cbfa2ec53059959902db825dc9c15eadf4b3f6883ca37c7"
@@ -293,21 +293,21 @@
       "bucket_low": 90.0,
       "bucket_high": 999.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 463.913,
-      "liquidity": 4559.31549,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 624.913,
+      "liquidity": null,
       "token_id": "61819230540112962550388057955803843059431684176671101011239219002027198553908",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-miami-on-june-5-2026-90forhigher",
         "condition_id": "0xa7b09997b5afe829f3b84c408996a2505a81a6ac162388fb7b3b2ad06eb3d653"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.451047+00:00",
+      "ts": "2026-06-07T16:05:37.691815+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 23084.59007,
-      "volume": 9406.626252,
+      "liquidity": null,
+      "volume": 20333.135786000003,
       "outcomes_count": 11,
-      "top_bucket": "74.0-75.0F",
-      "top_price": 0.34,
+      "top_bucket": "78.0-79.0F",
+      "top_price": 1.0,
       "event_title": "Lowest temperature in Miami on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "lowest-temperature-in-miami-on-june-5-2026",
     "event_id": "554005",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 04:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.845219+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.451047+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.451047+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.691815+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.691815+00:00",
   "created_at": "2026-06-04T16:52:28.845219+00:00",
-  "updated_at": "2026-06-05T06:36:19.451047+00:00",
+  "updated_at": "2026-06-08T11:40:35.713600+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "78-79F",
+      "resolved_value": "78-79F",
+      "resolution_source": null,
+      "winning_market_id": "2425084",
+      "winning_question": "Will the lowest temperature in Miami be between 78-79°F on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.693801+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T04:00:00+00:00",
+  "hours_to_settle": -36.1
 }

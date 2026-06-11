@@ -1,0 +1,351 @@
+{
+  "storage_key": "tokyo_2026-06-10_low",
+  "event_id": "571516",
+  "event_slug": "lowest-temperature-in-tokyo-on-june-10-2026",
+  "event_title": "Lowest temperature in Tokyo on June 10?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-06-10",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Tokyo",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-10T12:00:00Z",
+  "event_end_date": "2026-06-10T12:00:00Z",
+  "liquidity": 23342.80314,
+  "volume": 8673.373094,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2468212",
+      "question": "Will the lowest temperature in Tokyo be 13°C or below on June 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 702.4830000000001,
+      "liquidity": 2115.01133,
+      "token_id": "18145801549342384909952838912860719458162117414557301328564660032535529861974",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-13corbelow",
+        "condition_id": "0x623eaccc675851ad62fd8e30e33d391ad84b5ccdd7daec2822f0dd7b6ed6ab43"
+      }
+    },
+    {
+      "market_id": "2468213",
+      "question": "Will the lowest temperature in Tokyo be 14°C on June 10?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 888.6612,
+      "liquidity": 1318.92001,
+      "token_id": "25897676019392291994556458747313197263378982563687594031900717334696818484616",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-14c",
+        "condition_id": "0x6a406dcba33c93c6fb979e84d40a83e5ba512d5044b6a25906a8970cc56914ec"
+      }
+    },
+    {
+      "market_id": "2468214",
+      "question": "Will the lowest temperature in Tokyo be 15°C on June 10?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 361.0095,
+      "liquidity": 696.85717,
+      "token_id": "52364973020242792589363002064752443137277729262759533936412547167372760510375",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-15c",
+        "condition_id": "0x1d8554dcd0ffd8040d74181183b52371e4f7db54e794cde057ba8fc1a6b184f7"
+      }
+    },
+    {
+      "market_id": "2468215",
+      "question": "Will the lowest temperature in Tokyo be 16°C on June 10?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "volume": 290.39,
+      "liquidity": 949.10283,
+      "token_id": "50006145732454229287663909701473708998137719463328483408370612664832270998851",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0055,
+        0.9945
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-16c",
+        "condition_id": "0x1c53755a93690d7fd0ff4fb4edd496e57632c8a7050e294a73f348b393a5c85e"
+      }
+    },
+    {
+      "market_id": "2468216",
+      "question": "Will the lowest temperature in Tokyo be 17°C on June 10?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.025,
+      "no_price": 0.975,
+      "volume": 308.7726579999999,
+      "liquidity": 115.83361,
+      "token_id": "60398890873849589129540277629144791354763665956970315072304044275902553301011",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.025,
+        0.975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-17c",
+        "condition_id": "0x8fe39045699e6c45f693cd2a8d057adcca7613d30ab1ef3082a2e36e35b80892"
+      }
+    },
+    {
+      "market_id": "2468217",
+      "question": "Will the lowest temperature in Tokyo be 18°C on June 10?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.195,
+      "no_price": 0.805,
+      "volume": 292.93205299999994,
+      "liquidity": 95.4386,
+      "token_id": "101707304685841669348874871717474606779186601362772507872335347504328106117145",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.195,
+        0.805
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-18c",
+        "condition_id": "0xd90e57c9623eebaacdc13c52beb96a24a82886f11d1278596465ec84624a6bcf"
+      }
+    },
+    {
+      "market_id": "2468218",
+      "question": "Will the lowest temperature in Tokyo be 19°C on June 10?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.175,
+      "no_price": 0.825,
+      "volume": 332.24963800000006,
+      "liquidity": 138.3625,
+      "token_id": "70422768578841813449593931513322374263572474580684956988815047260178113011289",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.175,
+        0.825
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-19c",
+        "condition_id": "0xd04cd58e2b04e4040b1f391dd16b7fe72e7f7916c524a38a9282ac251ff16425"
+      }
+    },
+    {
+      "market_id": "2468219",
+      "question": "Will the lowest temperature in Tokyo be 20°C on June 10?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.594,
+      "no_price": 0.406,
+      "volume": 650.424624,
+      "liquidity": 52.99156,
+      "token_id": "71769227633550016925807480749492886309220302177443713062291514042091235565376",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.594,
+        0.406
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-20c",
+        "condition_id": "0x40b24cc76c6060bd3ecd95b5b888d106c7769eaf364171c076579d57eb29d039"
+      }
+    },
+    {
+      "market_id": "2468220",
+      "question": "Will the lowest temperature in Tokyo be 21°C on June 10?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 2320.9552409999997,
+      "liquidity": 3182.61719,
+      "token_id": "88917824179280140406227433120462495390048985048035442271964587625051769593797",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-21c",
+        "condition_id": "0x68aa67da32b0e43e0ee63fd88edb6c6fd565c0e60a75df36d537f06ba269dae4"
+      }
+    },
+    {
+      "market_id": "2468221",
+      "question": "Will the lowest temperature in Tokyo be 22°C on June 10?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 836.976,
+      "liquidity": 6549.39761,
+      "token_id": "92543665152620927982721038638856609683848548708949160006512417420454648874500",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-22c",
+        "condition_id": "0xf47f7db3c3d42c9deab66f8ff4ad49c4b2ab7478fd9f2132e94e9887585b045e"
+      }
+    },
+    {
+      "market_id": "2468222",
+      "question": "Will the lowest temperature in Tokyo be 23°C or higher on June 10?",
+      "bucket_low": 23.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1717.9279000000001,
+      "liquidity": 7136.51434,
+      "token_id": "69587865031791795809868572709732235729818921351697100504606823273830907844474",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-june-10-2026-23corhigher",
+        "condition_id": "0xffa982428668b8c8ffcd90e032461a4da854cccdbe05add540db87b2292ea05c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-09T18:59:59.193718+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-10T12:00:00Z",
+      "liquidity": 23342.80314,
+      "volume": 8673.373094,
+      "outcomes_count": 11,
+      "top_bucket": "20.0-20.0C",
+      "top_price": 0.594,
+      "event_title": "Lowest temperature in Tokyo on June 10?"
+    }
+  ],
+  "settle_at": "2026-06-10T15:00:00+00:00",
+  "hours_to_settle": 20.0,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-tokyo-on-june-10-2026",
+    "event_id": "571516",
+    "markets_count": 11,
+    "game_start_time": "2026-06-09 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 17.0,
+  "first_seen_at": "2026-06-08T09:41:19.256120+00:00",
+  "last_seen_at": "2026-06-09T18:59:59.193718+00:00",
+  "last_refreshed_at": "2026-06-09T18:59:59.193718+00:00",
+  "created_at": "2026-06-08T09:41:19.256120+00:00",
+  "updated_at": "2026-06-10T17:17:31.149093+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

@@ -1,0 +1,360 @@
+{
+  "storage_key": "denver_2026-04-20_high",
+  "event_id": "390838",
+  "event_slug": "highest-temperature-in-denver-on-april-20-2026",
+  "event_title": "Highest temperature in Denver on April 20?",
+  "city_slug": "denver",
+  "city_name": "Denver",
+  "date": "2026-04-20",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Denver",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-20T12:00:00Z",
+  "event_end_date": "2026-04-20T12:00:00Z",
+  "liquidity": null,
+  "volume": 85358.57322099998,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2011387",
+      "question": "Will the highest temperature in Denver be 21°F or below on April 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 21.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11818.350799999998,
+      "liquidity": null,
+      "token_id": "42498262170161446299394918779087494004425542509355084090766455149866131121837",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-21forbelow",
+        "condition_id": "0x521eca1df8c3765e7c3751647c48b719fdfed499461b11714a14c706c759cbda"
+      }
+    },
+    {
+      "market_id": "2011388",
+      "question": "Will the highest temperature in Denver be between 22-23°F on April 20?",
+      "bucket_low": 22.0,
+      "bucket_high": 23.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5516.789799999999,
+      "liquidity": 0.0,
+      "token_id": "6764602087991203595728042979391184005582216016463809049014103178005225492815",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-22-23f",
+        "condition_id": "0x7320015da267c38334c58a0e6f990a04b703842ef67092dc35702db362f4f91c"
+      }
+    },
+    {
+      "market_id": "2011389",
+      "question": "Will the highest temperature in Denver be between 24-25°F on April 20?",
+      "bucket_low": 24.0,
+      "bucket_high": 25.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5361.989749999999,
+      "liquidity": 0.0,
+      "token_id": "39330350021499338578939639159791029398750248439868754954795448049602797107092",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-24-25f",
+        "condition_id": "0x1fcf3068365c945c8feaadb4a23c6f0d57addb60b5e5e8e26ce53a84125aa792"
+      }
+    },
+    {
+      "market_id": "2011390",
+      "question": "Will the highest temperature in Denver be between 26-27°F on April 20?",
+      "bucket_low": 26.0,
+      "bucket_high": 27.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5482.5695000000005,
+      "liquidity": 0.0,
+      "token_id": "80193494707262798223844668513205420841542931992150641872187422354781987991977",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-26-27f",
+        "condition_id": "0x6ef10c0c43d8a9fe778586ac1c1fe487ae888e77e99793c573b783a50d74fe7b"
+      }
+    },
+    {
+      "market_id": "2011391",
+      "question": "Will the highest temperature in Denver be between 28-29°F on April 20?",
+      "bucket_low": 28.0,
+      "bucket_high": 29.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5604.999999999999,
+      "liquidity": 0.0,
+      "token_id": "48745154899427979115757654458826179934300651946638744692493655180472692874926",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-28-29f",
+        "condition_id": "0x150ce439f4e861968f35ed14979be38bd5ee886348df5088404452be9ccf06a2"
+      }
+    },
+    {
+      "market_id": "2011392",
+      "question": "Will the highest temperature in Denver be between 30-31°F on April 20?",
+      "bucket_low": 30.0,
+      "bucket_high": 31.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5439.399999999998,
+      "liquidity": 0.0,
+      "token_id": "8194003546633292062439434084534142458758401173632549625214975383946096761124",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-30-31f",
+        "condition_id": "0x66c8e8216a6921db94aba94d849186287077c1565a30627508d33ca73554ade0"
+      }
+    },
+    {
+      "market_id": "2011393",
+      "question": "Will the highest temperature in Denver be between 32-33°F on April 20?",
+      "bucket_low": 32.0,
+      "bucket_high": 33.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5374.98,
+      "liquidity": 0.0,
+      "token_id": "7024772630329917884110276339808052639151013612655094119984292499733486312176",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-32-33f",
+        "condition_id": "0x926f283e68a008638a4149d43a40efca11c31e3445b44352fe8ee341416bfd43"
+      }
+    },
+    {
+      "market_id": "2011394",
+      "question": "Will the highest temperature in Denver be between 34-35°F on April 20?",
+      "bucket_low": 34.0,
+      "bucket_high": 35.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5384.919999999998,
+      "liquidity": 0.0,
+      "token_id": "68967106515132034302013331372666168819003076274004419790354972519247506016886",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-34-35f",
+        "condition_id": "0xc0047159d77b64d8db635426a5342985fab5cc1b43b9263deaeaa39a533117a5"
+      }
+    },
+    {
+      "market_id": "2011395",
+      "question": "Will the highest temperature in Denver be between 36-37°F on April 20?",
+      "bucket_low": 36.0,
+      "bucket_high": 37.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6013.700498000001,
+      "liquidity": 0.0,
+      "token_id": "1508729796858144526014426025891065096371350915265484950705120634316183716852",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-36-37f",
+        "condition_id": "0x260a0750b79fd1382db07e87fa804edd238df9432095acb4db27cef5129f5577"
+      }
+    },
+    {
+      "market_id": "2011396",
+      "question": "Will the highest temperature in Denver be between 38-39°F on April 20?",
+      "bucket_low": 38.0,
+      "bucket_high": 39.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9589.027520000001,
+      "liquidity": 0.0,
+      "token_id": "100188766268546043318118035049153210528612833863113190025283578143584185771887",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-38-39f",
+        "condition_id": "0x874f2e363bc1f562eda38fdc828e237e330f5017bf60469ce358bd23e4a3eff1"
+      }
+    },
+    {
+      "market_id": "2011397",
+      "question": "Will the highest temperature in Denver be 40°F or higher on April 20?",
+      "bucket_low": 40.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 19771.845352999997,
+      "liquidity": null,
+      "token_id": "5330892399533036532919010254041196422678822549341600636769453052112056746215",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-april-20-2026-40forhigher",
+        "condition_id": "0x9a30dc069389cb896c6c220aa4980cc27ae875bdc4553dba7cc44f5bd60c3b47"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:05.045626+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-20T12:00:00Z",
+      "liquidity": null,
+      "volume": 85358.57322099998,
+      "outcomes_count": 11,
+      "top_bucket": ">=40.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Denver on April 20?"
+    }
+  ],
+  "settle_at": "2026-04-21T06:00:00+00:00",
+  "hours_to_settle": -1138.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-denver-on-april-20-2026",
+    "event_id": "390838",
+    "markets_count": 11,
+    "game_start_time": "2026-04-20 06:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:05.045626+00:00",
+  "last_seen_at": "2026-06-07T16:06:05.045626+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:05.045626+00:00",
+  "created_at": "2026-06-07T16:06:05.045626+00:00",
+  "updated_at": "2026-06-10T17:17:28.972394+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=40F",
+      "resolved_value": ">=40F",
+      "resolution_source": null,
+      "winning_market_id": "2011397",
+      "winning_question": "Will the highest temperature in Denver be 40°F or higher on April 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:05.046626+00:00"
+  },
+  "legacy": null
+}

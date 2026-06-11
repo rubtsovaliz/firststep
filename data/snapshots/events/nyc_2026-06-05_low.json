@@ -19,11 +19,11 @@
     "Lowest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 13947.93001,
-  "volume": 17425.357679999997,
+  "liquidity": null,
+  "volume": 101333.52589100008,
   "market_type": "min_temperature",
   "temperature_metric": "low",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 59.0,
       "unit": "F",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 2444.350817,
-      "liquidity": 998.10483,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2739.4260109999996,
+      "liquidity": null,
       "token_id": "14192289819327483193987798718803569336588765411660884054066435077732291017114",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-59forbelow",
         "condition_id": "0x0ce1f9352694754825d97338a73fd8ee602bcb9ef9f2243eb5306fa97f4a4b75"
@@ -59,21 +59,21 @@
       "bucket_low": 60.0,
       "bucket_high": 61.0,
       "unit": "F",
-      "yes_price": 0.002,
-      "no_price": 0.998,
-      "volume": 886.4499149999999,
-      "liquidity": 2374.17365,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1300.7409149999999,
+      "liquidity": null,
       "token_id": "56945180057000474287626367920219907581277660819943010224384959396623595500842",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.002,
-        0.998
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-60-61f",
         "condition_id": "0x4697a83c349afe26fa9dc62f2aca9b1e5bb3370201bca207cec9e8e20131580f"
@@ -85,21 +85,21 @@
       "bucket_low": 62.0,
       "bucket_high": 63.0,
       "unit": "F",
-      "yes_price": 0.004,
-      "no_price": 0.996,
-      "volume": 1882.1238309999999,
-      "liquidity": 647.71566,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4853.89037,
+      "liquidity": null,
       "token_id": "73921907038354640423820898015856983831591893488535419991579829630118726404720",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.004,
-        0.996
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-62-63f",
         "condition_id": "0xeb03e3f7868c94de9e3f85c005bc217a7026602b6a24f559e6866b8fad97dd77"
@@ -111,21 +111,21 @@
       "bucket_low": 64.0,
       "bucket_high": 65.0,
       "unit": "F",
-      "yes_price": 0.01,
-      "no_price": 0.99,
-      "volume": 790.6384529999998,
-      "liquidity": 177.29696,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7633.843389,
+      "liquidity": null,
       "token_id": "55243833680036644766651218004171950627546527143779631384783405529831792443589",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.01,
-        0.99
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-64-65f",
         "condition_id": "0x6fef9546bb71f03d1c7239d32b5b4e5e376fe86c04fbf25b8da3dff72f484b67"
@@ -137,21 +137,21 @@
       "bucket_low": 66.0,
       "bucket_high": 67.0,
       "unit": "F",
-      "yes_price": 0.41,
-      "no_price": 0.59,
-      "volume": 212.68287300000003,
-      "liquidity": 99.2856,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2448.510132,
+      "liquidity": null,
       "token_id": "8905078051669865148142410264972509303891706561742349158283659484531440589626",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.41,
-        0.59
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-66-67f",
         "condition_id": "0x53290552eb7b7cd8f17460fe92674448426a9c425038d2e98e1621ff4b70716d"
@@ -163,21 +163,21 @@
       "bucket_low": 68.0,
       "bucket_high": 69.0,
       "unit": "F",
-      "yes_price": 0.51,
-      "no_price": 0.49,
-      "volume": 278.24877200000003,
-      "liquidity": 123.8454,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2739.269776000001,
+      "liquidity": null,
       "token_id": "5703045986993158342902436782293369054050023824156755133888695967041427240971",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.51,
-        0.49
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-68-69f",
         "condition_id": "0xf6392aedc21c735e82f3ca719345ade08f47f1b7dd75fe4300d7129ea747bf4b"
@@ -189,21 +189,21 @@
       "bucket_low": 70.0,
       "bucket_high": 71.0,
       "unit": "F",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 2383.136294000001,
-      "liquidity": 2546.40271,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18686.762321000006,
+      "liquidity": null,
       "token_id": "13738618854463508313942797361215799961990610427608957554152871601523035461947",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-70-71f",
         "condition_id": "0x6322195caf9338d3b95ab6dec05671550e5a42451205956313d6ca6803f5673f"
@@ -215,21 +215,21 @@
       "bucket_low": 72.0,
       "bucket_high": 73.0,
       "unit": "F",
-      "yes_price": 0.0165,
-      "no_price": 0.9835,
-      "volume": 25566.76802,
-      "liquidity": 4467.94924,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 54902.97173300008,
+      "liquidity": null,
       "token_id": "18116352206796161042188006814084620099992603569681097893343178407359523308141",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0165,
-        0.9835
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-72-73f",
         "condition_id": "0x7302a6cd332ad4f942dced22e349373cd67cc4aad9d11e845fef139ce31a6442"
@@ -241,21 +241,21 @@
       "bucket_low": 74.0,
       "bucket_high": 75.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 1576.87125,
-      "liquidity": 1752.36963,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2873.2862640000003,
+      "liquidity": null,
       "token_id": "95545208027307859061976158605733508829162276779838067027756557734741893280177",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-74-75f",
         "condition_id": "0xda0db1ccdef83737ec395d68948047a98f3898974b158b51ee9d482a80c12ec5"
@@ -267,21 +267,21 @@
       "bucket_low": 76.0,
       "bucket_high": 77.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 1087.655964,
-      "liquidity": 2136.13536,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1093.485964,
+      "liquidity": null,
       "token_id": "72078404258684558010281003799463519304737131388279884092520339156722155193786",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-76-77f",
         "condition_id": "0x3464ad69832a0fdf0bd7c467b86fb02cdb701cb40e8531eedbf37033da77a6c5"
@@ -293,21 +293,21 @@
       "bucket_low": 78.0,
       "bucket_high": 999.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 2061.339016,
-      "liquidity": 2497.86716,
+      "liquidity": 0.0,
       "token_id": "77848686433200053048748708709300407989108574633394809292693542319551032633666",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "lowest-temperature-in-nyc-on-june-5-2026-78forhigher",
         "condition_id": "0x4a5fc5a62a4fdf35b15ac8c09786dd8a550e7208143921718863ffc9381fd9c8"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.453408+00:00",
+      "ts": "2026-06-07T16:05:37.695807+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 13947.93001,
-      "volume": 17425.357679999997,
+      "liquidity": null,
+      "volume": 101333.52589100008,
       "outcomes_count": 11,
-      "top_bucket": "68.0-69.0F",
-      "top_price": 0.51,
+      "top_bucket": "64.0-65.0F",
+      "top_price": 1.0,
       "event_title": "Lowest temperature in NYC on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "lowest-temperature-in-nyc-on-june-5-2026",
     "event_id": "554004",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 04:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.853504+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.453408+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.453408+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.695807+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.695807+00:00",
   "created_at": "2026-06-04T16:52:28.853504+00:00",
-  "updated_at": "2026-06-05T06:36:19.453408+00:00",
+  "updated_at": "2026-06-08T11:32:19.854401+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "64-65F",
+      "resolved_value": "64-65F",
+      "resolution_source": null,
+      "winning_market_id": "2425071",
+      "winning_question": "Will the lowest temperature in New York City be between 64-65°F on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.696810+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T04:00:00+00:00",
+  "hours_to_settle": -36.1
 }

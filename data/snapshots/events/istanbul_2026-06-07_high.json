@@ -1,0 +1,378 @@
+{
+  "storage_key": "istanbul_2026-06-07_high",
+  "event_id": "564445",
+  "event_slug": "highest-temperature-in-istanbul-on-june-7-2026",
+  "event_title": "Highest temperature in Istanbul on June 7?",
+  "city_slug": "istanbul",
+  "city_name": "Istanbul",
+  "date": "2026-06-07",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "istanbul",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-07T12:00:00Z",
+  "event_end_date": "2026-06-07T12:00:00Z",
+  "liquidity": 96840.91269,
+  "volume": 54227.328347,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2450420",
+      "question": "Will the highest temperature in Istanbul be 20°C or below on June 7?",
+      "bucket_low": -999.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 936.812715,
+      "liquidity": 11315.99925,
+      "token_id": "92755295983196577448521484047708582350752831324286511627144799381901091229316",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-20corbelow",
+        "condition_id": "0x7e00eecc17e48c145ca4837598c13d5bf391a1a982a6a1ade484f309b84e25c4"
+      }
+    },
+    {
+      "market_id": "2450421",
+      "question": "Will the highest temperature in Istanbul be 21°C on June 7?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 8274.333314999998,
+      "liquidity": 8365.68185,
+      "token_id": "41043116512013862526014592955402499023723463959520294258162631390703293095345",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-21c",
+        "condition_id": "0x6ba5c146fa221bd423140a661bd711297bb7cf3fbff19425b5cfb90378c89694"
+      }
+    },
+    {
+      "market_id": "2450422",
+      "question": "Will the highest temperature in Istanbul be 22°C on June 7?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 11046.463481000006,
+      "liquidity": 11603.55309,
+      "token_id": "20144463209160666196361654495828379419066607416242833952794412809154913355045",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-22c",
+        "condition_id": "0xd88194bdcb6b32560077329f71d41d070fb9b154e78ff60a6a6e6470ad410cb3"
+      }
+    },
+    {
+      "market_id": "2450423",
+      "question": "Will the highest temperature in Istanbul be 23°C on June 7?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4668.305088000001,
+      "liquidity": 10299.14257,
+      "token_id": "16271447391940484412411669692436173246041759623965585482194276906375269824674",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-23c",
+        "condition_id": "0xfb9d20410534f0afe37a777093382d9756278f8d482fa14bb9f9cb443094a20d"
+      }
+    },
+    {
+      "market_id": "2450424",
+      "question": "Will the highest temperature in Istanbul be 24°C on June 7?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.998,
+      "no_price": 0.002,
+      "volume": 7621.4095449999995,
+      "liquidity": 2815.40077,
+      "token_id": "11292818214574105292001644885270734815311396838225849562748458615841637168948",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.998,
+        0.002
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-24c",
+        "condition_id": "0x23fbd40fddc7fa47bd2b02c47eee83603bbb202f294fca8795631c4010f845d9"
+      }
+    },
+    {
+      "market_id": "2450425",
+      "question": "Will the highest temperature in Istanbul be 25°C on June 7?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5313.071988999999,
+      "liquidity": 8807.58907,
+      "token_id": "95049960226216460548362191147039194558449307314965077227997379035072883813758",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-25c",
+        "condition_id": "0xd677415308861ed096b37dde76370b560932c82691a7c5db6a09060529a0eb29"
+      }
+    },
+    {
+      "market_id": "2450426",
+      "question": "Will the highest temperature in Istanbul be 26°C on June 7?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3641.7073610000007,
+      "liquidity": 9713.09983,
+      "token_id": "48315924797153488189235631340806713223760143444682883321388581054496808981882",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-26c",
+        "condition_id": "0x2163d2f15e8c101c04a973500957bb028b23012c0e6cdfa9975079c7de196ac2"
+      }
+    },
+    {
+      "market_id": "2450427",
+      "question": "Will the highest temperature in Istanbul be 27°C on June 7?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 7453.2042759999995,
+      "liquidity": 6124.58417,
+      "token_id": "59994123244938347784770441617144103651405678555475575129357686895457452885050",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-27c",
+        "condition_id": "0xa386141304240ecd32a4c91826c60a63d50f23fbdc1b73a4f4cc62156692079d"
+      }
+    },
+    {
+      "market_id": "2450428",
+      "question": "Will the highest temperature in Istanbul be 28°C on June 7?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2674.566866999999,
+      "liquidity": 6558.17394,
+      "token_id": "39770295781549213734882142573641376706443532625999004798901118676076881179039",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-28c",
+        "condition_id": "0x8ed161c9b953ee367b28354bfb3b2cfe0f49025cf62b2fba9097a9b49961e414"
+      }
+    },
+    {
+      "market_id": "2450429",
+      "question": "Will the highest temperature in Istanbul be 29°C on June 7?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1342.4036,
+      "liquidity": 9554.90338,
+      "token_id": "19084304669744056368476287080205868232039865186630058219283269111629064908861",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-29c",
+        "condition_id": "0x058d144a7602090d61d9fe3ee8a7c0ac68e48252d1ec1cc6e97741829b751000"
+      }
+    },
+    {
+      "market_id": "2450430",
+      "question": "Will the highest temperature in Istanbul be 30°C or higher on June 7?",
+      "bucket_low": 30.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1255.0501100000001,
+      "liquidity": 10550.17481,
+      "token_id": "29679146158406047250000746590336164203098464132521585355290203335068912940557",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-istanbul-on-june-7-2026-30corhigher",
+        "condition_id": "0xe741762a87a5280c19fc214d4b9103bd757b463fdb7eb613f3ae703f4b2db338"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T19:18:22.270880+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-07T12:00:00Z",
+      "liquidity": 96840.91269,
+      "volume": 54227.328347,
+      "outcomes_count": 11,
+      "top_bucket": "24.0-24.0C",
+      "top_price": 0.998,
+      "event_title": "Highest temperature in Istanbul on June 7?"
+    }
+  ],
+  "settle_at": "2026-06-07T21:00:00+00:00",
+  "hours_to_settle": 1.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-istanbul-on-june-7-2026",
+    "event_id": "564445",
+    "markets_count": 11,
+    "game_start_time": "2026-06-06 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-06T16:12:35.475224+00:00",
+  "last_seen_at": "2026-06-07T19:18:22.270880+00:00",
+  "last_refreshed_at": "2026-06-07T19:18:22.270880+00:00",
+  "created_at": "2026-06-06T16:12:35.475224+00:00",
+  "updated_at": "2026-06-10T17:17:29.254182+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 24.9,
+        "unit": "C",
+        "model": "ecmwf_ifs",
+        "requested_model": "ecmwf_ifs",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": null,
+        "unit": null,
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "error": "forecast_unavailable"
+      },
+      "fetched_at": "2026-06-07T18:47:34.144178+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null
+}

@@ -1,0 +1,351 @@
+{
+  "storage_key": "denver_2026-06-08_high",
+  "event_id": "567589",
+  "event_slug": "highest-temperature-in-denver-on-june-8-2026",
+  "event_title": "Highest temperature in Denver on June 8?",
+  "city_slug": "denver",
+  "city_name": "Denver",
+  "date": "2026-06-08",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Denver",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-08T12:00:00Z",
+  "event_end_date": "2026-06-08T12:00:00Z",
+  "liquidity": 155095.47015,
+  "volume": 81940.22664600001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2458970",
+      "question": "Will the highest temperature in Denver be 75°F or below on June 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 19368.562293,
+      "liquidity": 21278.26028,
+      "token_id": "15581934401658241996835297648163252016579629226134088192738223900957019026357",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-75forbelow",
+        "condition_id": "0xf193e092c3e01a4da715d2b1108c0159a12852f67c20a8f2177bf6932c28819f"
+      }
+    },
+    {
+      "market_id": "2458971",
+      "question": "Will the highest temperature in Denver be between 76-77°F on June 8?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5415.91314,
+      "liquidity": 21489.85619,
+      "token_id": "19665736517395167416671220273920220229910472737247792009961021393725477862890",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-76-77f",
+        "condition_id": "0xd332ff3d063597b79b3b72123afe4c2bd6292d3e57c3ee4bf9b7a1e4b304fc9d"
+      }
+    },
+    {
+      "market_id": "2458972",
+      "question": "Will the highest temperature in Denver be between 78-79°F on June 8?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 11365.856456,
+      "liquidity": 32389.12225,
+      "token_id": "53064427132483297539716559605469001363163382659279897846463134801325749640776",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-78-79f",
+        "condition_id": "0xd54fcdd5300e3f51532f9f333db20e607ace485b90644cc3762bbbb7b5644f5f"
+      }
+    },
+    {
+      "market_id": "2458973",
+      "question": "Will the highest temperature in Denver be between 80-81°F on June 8?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 6426.174907000003,
+      "liquidity": 12477.88774,
+      "token_id": "72520710505015936403958819003586280526807196191416077856250591753721295487314",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-80-81f",
+        "condition_id": "0x4bf55a5b759a1e1910bb9082fc71bcff250c81d53b6f7bca60daa7415621d243"
+      }
+    },
+    {
+      "market_id": "2458974",
+      "question": "Will the highest temperature in Denver be between 82-83°F on June 8?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.9995,
+      "no_price": 0.0005,
+      "volume": 8436.392069,
+      "liquidity": 7063.05964,
+      "token_id": "94714855157816550279091642317791526674632057222794658905498591006951902622505",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.9995,
+        0.0005
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-82-83f",
+        "condition_id": "0x176e4aa6d1ae7d39e365ecad9e4361b5c1300ddbb6633cb6b1d67209a206b9b0"
+      }
+    },
+    {
+      "market_id": "2458975",
+      "question": "Will the highest temperature in Denver be between 84-85°F on June 8?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5802.578420000002,
+      "liquidity": 6788.4616,
+      "token_id": "97044715276766032469175643235152187698173457426416675484862163869635204388013",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-84-85f",
+        "condition_id": "0xe5f7295f515c6fd6b69f29151d6a84f90ef8cb0d86807afa3d84022eb1a794ab"
+      }
+    },
+    {
+      "market_id": "2458976",
+      "question": "Will the highest temperature in Denver be between 86-87°F on June 8?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4307.435152,
+      "liquidity": 8589.02064,
+      "token_id": "80066978822128503872483343655978719748814855484876018961934525508108796393649",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-86-87f",
+        "condition_id": "0x94e570dc7a0ae6b444bfca3555b2b874441907b7ab35263516922a4bdeecbd44"
+      }
+    },
+    {
+      "market_id": "2458977",
+      "question": "Will the highest temperature in Denver be between 88-89°F on June 8?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4581.175779,
+      "liquidity": 10492.07616,
+      "token_id": "78811844611664372096608017385713495995498378889415372785467644000409306055110",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-88-89f",
+        "condition_id": "0x786c47f0509b51520f1413e9040441d0f019d76d3eb5e54bdbfc79007cea98fa"
+      }
+    },
+    {
+      "market_id": "2458978",
+      "question": "Will the highest temperature in Denver be between 90-91°F on June 8?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4905.442236000001,
+      "liquidity": 15702.95015,
+      "token_id": "15426965728446774982955111247195676820824817897241151125585677924888230886186",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-90-91f",
+        "condition_id": "0xd6ba9dab5c17b13377dfc61294c5863b6311ed2bb883bc79e6a6cf76f394b709"
+      }
+    },
+    {
+      "market_id": "2458979",
+      "question": "Will the highest temperature in Denver be between 92-93°F on June 8?",
+      "bucket_low": 92.0,
+      "bucket_high": 93.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 7430.2928740000025,
+      "liquidity": 17494.34324,
+      "token_id": "39325019452498881030667988403792695904818201692704950359156461330293992102437",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-92-93f",
+        "condition_id": "0x1df5ff3c2ed16b609a062e722a7bcdc4185cb53fd71bea667d29b6a6bd3c6a28"
+      }
+    },
+    {
+      "market_id": "2458980",
+      "question": "Will the highest temperature in Denver be 94°F or higher on June 8?",
+      "bucket_low": 94.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4004.7333200000007,
+      "liquidity": 11898.15386,
+      "token_id": "109169891117842201811953508332295283638661371311432626951012259443935839621783",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-denver-on-june-8-2026-94forhigher",
+        "condition_id": "0x7deeca8fa924566ae0706989eedbdefe8f7af25b8e7bb5a5754445b2a63c986f"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-09T07:53:26.721652+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-08T12:00:00Z",
+      "liquidity": 155095.47015,
+      "volume": 81940.22664600001,
+      "outcomes_count": 11,
+      "top_bucket": "82.0-83.0F",
+      "top_price": 0.9995,
+      "event_title": "Highest temperature in Denver on June 8?"
+    }
+  ],
+  "settle_at": "2026-06-09T06:00:00+00:00",
+  "hours_to_settle": -1.9,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-denver-on-june-8-2026",
+    "event_id": "567589",
+    "markets_count": 11,
+    "game_start_time": "2026-06-08 06:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T13:13:01.101646+00:00",
+  "last_seen_at": "2026-06-09T07:53:26.721652+00:00",
+  "last_refreshed_at": "2026-06-09T07:53:26.721652+00:00",
+  "created_at": "2026-06-07T13:13:01.101646+00:00",
+  "updated_at": "2026-06-10T17:17:29.001226+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

@@ -1,0 +1,360 @@
+{
+  "storage_key": "tokyo_2026-05-02_high",
+  "event_id": "433185",
+  "event_slug": "highest-temperature-in-tokyo-on-may-2-2026",
+  "event_title": "Highest temperature in Tokyo on May 2?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-05-02",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Tokyo",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-02T12:00:00Z",
+  "event_end_date": "2026-05-02T12:00:00Z",
+  "liquidity": null,
+  "volume": 61683.94624699999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2122347",
+      "question": "Will the highest temperature in Tokyo be 15°C or below on May 2?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2351.401433,
+      "liquidity": null,
+      "token_id": "51979498871891453452924078804308502384088650512425626683701630045587258464510",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-15corbelow",
+        "condition_id": "0x54a69878f2095a6b115c4d82a73932af69d552c80ab50e513ff3e2a341e0e9c4"
+      }
+    },
+    {
+      "market_id": "2122348",
+      "question": "Will the highest temperature in Tokyo be 16°C on May 2?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1646.8959839999998,
+      "liquidity": null,
+      "token_id": "36145254724631223202071511655035347424971853000109903158630987603084440744591",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-16c",
+        "condition_id": "0x5560de111d400ff083cf7f5608862609ccbf737b332ed83e1ac0c9ade04fbb1b"
+      }
+    },
+    {
+      "market_id": "2122349",
+      "question": "Will the highest temperature in Tokyo be 17°C on May 2?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1199.001203,
+      "liquidity": null,
+      "token_id": "19234332360594756309698417741925792489647624163131365450829287243920668562494",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-17c",
+        "condition_id": "0x527b32c10ec0ae797090318b5dd49e8669c546f8f50f89611464560c2aee4f4d"
+      }
+    },
+    {
+      "market_id": "2122350",
+      "question": "Will the highest temperature in Tokyo be 18°C on May 2?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2058.7689280000004,
+      "liquidity": null,
+      "token_id": "92483580880552002833665618966843958269116844541737156694018760017605201189266",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-18c",
+        "condition_id": "0x8b7a3ef2e9073e67714b204b22ec2dd03b966c95aeb7374d512800c0015c6e2e"
+      }
+    },
+    {
+      "market_id": "2122351",
+      "question": "Will the highest temperature in Tokyo be 19°C on May 2?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1891.9014329999998,
+      "liquidity": null,
+      "token_id": "87713572485111767562901924300480926567775901967992022999164349763092656131035",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-19c",
+        "condition_id": "0x38c908efe6ca7d9fd32f4d0a28efd2d1eae6e45ec95259169ebb8897f19eb673"
+      }
+    },
+    {
+      "market_id": "2122352",
+      "question": "Will the highest temperature in Tokyo be 20°C on May 2?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4266.642983999999,
+      "liquidity": null,
+      "token_id": "56894431317335596226222791994224924386726550695449366465714715174108436250972",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-20c",
+        "condition_id": "0x21667d81cde367d16f16d01c28c40227694a043eeb75652808dd452c6e462f2a"
+      }
+    },
+    {
+      "market_id": "2122353",
+      "question": "Will the highest temperature in Tokyo be 21°C on May 2?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7712.972998,
+      "liquidity": null,
+      "token_id": "69007381566109817019955610303648334301250013577680274504266903614892082350672",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-21c",
+        "condition_id": "0x29064bb4e681ffbe0cb9550c027fceed6fdb9ecd881d7a5912bd46e8454a66ae"
+      }
+    },
+    {
+      "market_id": "2122354",
+      "question": "Will the highest temperature in Tokyo be 22°C on May 2?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9321.136121999996,
+      "liquidity": null,
+      "token_id": "66719627765542649365585554297459713593023676531678322889182406961531918939571",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-22c",
+        "condition_id": "0x5b772496efb1485575420f3c3e12d96d940b832d55c21429b09013109fdfa1fe"
+      }
+    },
+    {
+      "market_id": "2122355",
+      "question": "Will the highest temperature in Tokyo be 23°C on May 2?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8064.398545000002,
+      "liquidity": null,
+      "token_id": "68523871796994762325280790205698328641540412067760190377184155878803416807141",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-23c",
+        "condition_id": "0x3cd453e60b83fba6426b90b3da5be3cf2737d3482ccc19cfc384d985468611e6"
+      }
+    },
+    {
+      "market_id": "2122356",
+      "question": "Will the highest temperature in Tokyo be 24°C on May 2?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10057.587709000001,
+      "liquidity": null,
+      "token_id": "91804136716424602816689202294485612835206832673831150365618031783993746453168",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-24c",
+        "condition_id": "0xeb7120b40e1c6ae134c8a1f9bb3376353587e07227eb1cb14494e15f27a1ae36"
+      }
+    },
+    {
+      "market_id": "2122357",
+      "question": "Will the highest temperature in Tokyo be 25°C or higher on May 2?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 13113.238907999996,
+      "liquidity": null,
+      "token_id": "9835490355357481013204731821907370551478094195651923297081467953249115885043",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-may-2-2026-25corhigher",
+        "condition_id": "0x6d2210f2d3e93190905494e6c15103618767644fb78733554f494c976817a049"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.514144+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-02T12:00:00Z",
+      "liquidity": null,
+      "volume": 61683.94624699999,
+      "outcomes_count": 11,
+      "top_bucket": ">=25.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Tokyo on May 2?"
+    }
+  ],
+  "settle_at": "2026-05-02T15:00:00+00:00",
+  "hours_to_settle": -865.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-tokyo-on-may-2-2026",
+    "event_id": "433185",
+    "markets_count": 11,
+    "game_start_time": "2026-05-01 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.514144+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.514144+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.514144+00:00",
+  "created_at": "2026-06-07T16:06:02.514144+00:00",
+  "updated_at": "2026-06-10T17:17:31.103974+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=25C",
+      "resolved_value": ">=25C",
+      "resolution_source": null,
+      "winning_market_id": "2122357",
+      "winning_question": "Will the highest temperature in Tokyo be 25°C or higher on May 2?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.515147+00:00"
+  },
+  "legacy": null
+}

@@ -1,0 +1,359 @@
+{
+  "storage_key": "nyc_2026-03-19_high",
+  "event_id": "272248",
+  "event_slug": "highest-temperature-in-nyc-on-march-19-2026",
+  "event_title": "Highest temperature in NYC on March 19?",
+  "city_slug": "nyc",
+  "city_name": "Nyc",
+  "date": "2026-03-19",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "New York City",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-19T12:00:00Z",
+  "event_end_date": "2026-03-19T12:00:00Z",
+  "liquidity": null,
+  "volume": 124464.9233139999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1596562",
+      "question": "Will the highest temperature in New York City be 35°F or below on March 19?",
+      "bucket_low": -999.0,
+      "bucket_high": 35.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "1399416930437112133880607588508059747334910928357949704345637277677133510774",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-35forbelow",
+        "condition_id": "0x6481fbc744732fea36d2e8841b3f0da9feb143132a3c2ef89ce8b39c2c00d93c"
+      }
+    },
+    {
+      "market_id": "1596563",
+      "question": "Will the highest temperature in New York City be between 36-37°F on March 19?",
+      "bucket_low": 36.0,
+      "bucket_high": 37.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 32102.827467000006,
+      "liquidity": null,
+      "token_id": "94567692450196744548138335419085267752769057301880643101823091150824324326667",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-36-37f",
+        "condition_id": "0x8203e69b96ec5d4bbfa167af4c5641ebd36882d7f6b274db6b53e265f42b6f11"
+      }
+    },
+    {
+      "market_id": "1596564",
+      "question": "Will the highest temperature in New York City be between 38-39°F on March 19?",
+      "bucket_low": 38.0,
+      "bucket_high": 39.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "74857287740787654639911794275897974012270179090679112594878863301131743195782",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-38-39f",
+        "condition_id": "0xc721038eb3f54dcf1024fe41b6d4f81b1f5f0a4219693c66a7b145125092be92"
+      }
+    },
+    {
+      "market_id": "1596565",
+      "question": "Will the highest temperature in New York City be between 40-41°F on March 19?",
+      "bucket_low": 40.0,
+      "bucket_high": 41.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "32447610421859684254929731741091230579681821673266182879875363938874122891239",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-40-41f",
+        "condition_id": "0xdea5064aaacb20160e93e8857b3303d3f691852aa345b766e6c6dec7fd3bea88"
+      }
+    },
+    {
+      "market_id": "1596566",
+      "question": "Will the highest temperature in New York City be between 42-43°F on March 19?",
+      "bucket_low": 42.0,
+      "bucket_high": 43.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 42734.729370999914,
+      "liquidity": null,
+      "token_id": "32227085020992914411084619545296550601481037023457104161084949338823255656973",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-42-43f",
+        "condition_id": "0x88605708848a95968e585b071334e5208be963ac513ed43517d0283469846801"
+      }
+    },
+    {
+      "market_id": "1596567",
+      "question": "Will the highest temperature in New York City be between 44-45°F on March 19?",
+      "bucket_low": 44.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 32916.19707599998,
+      "liquidity": null,
+      "token_id": "55705103376281496222498840912025199297352448253420993824192572103779837704891",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-44-45f",
+        "condition_id": "0x404bb6f89608a223a705fa8e855f307401a8866753b20a40e150847d41047e54"
+      }
+    },
+    {
+      "market_id": "1596568",
+      "question": "Will the highest temperature in New York City be between 46-47°F on March 19?",
+      "bucket_low": 46.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "680150058772015176074652632868123651286704531592928188349853443866827787030",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-46-47f",
+        "condition_id": "0x0581bda2e817b5942f73d29e79d41e6f550f69a0bb00befe1ef7bec2b5427f75"
+      }
+    },
+    {
+      "market_id": "1596569",
+      "question": "Will the highest temperature in New York City be between 48-49°F on March 19?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "28517604870081613285791509736282459008115897662455967783606991011775103091747",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-48-49f",
+        "condition_id": "0x811b571ceea50ebab95be40ac7613b3d1a3a6f1349a14d6d4cc12199cdb7e095"
+      }
+    },
+    {
+      "market_id": "1596570",
+      "question": "Will the highest temperature in New York City be between 50-51°F on March 19?",
+      "bucket_low": 50.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "45119456829512116760766796137705183067928100648179735839656733036416727768043",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-50-51f",
+        "condition_id": "0xc6b41f777377d704e47662334b562565fc66f198843284ce0e188f0622a943d5"
+      }
+    },
+    {
+      "market_id": "1596571",
+      "question": "Will the highest temperature in New York City be between 52-53°F on March 19?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16711.169399999995,
+      "liquidity": null,
+      "token_id": "95227426713332838364310014599304031996136800626498553680016449369823793934710",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-52-53f",
+        "condition_id": "0x88175d58069dc927d48c35dc7102b93efde92f134d882929af055f14a832dbe0"
+      }
+    },
+    {
+      "market_id": "1596572",
+      "question": "Will the highest temperature in New York City be 54°F or higher on March 19?",
+      "bucket_low": 54.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "19396775756583338772156664070099074459681942608953938270115823735185315135696",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-march-19-2026-54forhigher",
+        "condition_id": "0xa7cad8f1fb022dfabd0f02fb68f67fd5784983bf06e0be1dd346594d7c6d2a4d"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:09.929792+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-19T12:00:00Z",
+      "liquidity": null,
+      "volume": 124464.9233139999,
+      "outcomes_count": 11,
+      "top_bucket": "40.0-41.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in NYC on March 19?"
+    }
+  ],
+  "settle_at": "2026-03-20T04:00:00+00:00",
+  "hours_to_settle": -1908.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-nyc-on-march-19-2026",
+    "event_id": "272248",
+    "markets_count": 11,
+    "game_start_time": "2026-03-19 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:09.929792+00:00",
+  "last_seen_at": "2026-06-07T16:06:09.929792+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:09.929792+00:00",
+  "created_at": "2026-06-07T16:06:09.929792+00:00",
+  "updated_at": "2026-06-10T17:17:30.177934+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "40-41F",
+      "resolved_value": "40-41F",
+      "resolution_source": null,
+      "winning_market_id": "1596565",
+      "winning_question": "Will the highest temperature in New York City be between 40-41°F on March 19?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:09.930794+00:00"
+  },
+  "legacy": null
+}

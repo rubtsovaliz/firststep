@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 38129.8285,
-  "volume": 63703.52416700002,
+  "liquidity": null,
+  "volume": 99838.35715400001,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 24.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 2282.002,
-      "liquidity": 10726.13831,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3381.992,
+      "liquidity": null,
       "token_id": "61716350916691800219371371373643837665934269655678606740083457732692504938033",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-24corbelow",
         "condition_id": "0x1d39950101f951bf6c0bcd368daa0f933ec52fec4050b9fa788dd0556df114c7"
@@ -59,21 +59,21 @@
       "bucket_low": 25.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 4450.448076,
-      "liquidity": 10092.85581,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9704.533076,
+      "liquidity": null,
       "token_id": "39821248569887788895221510363291480229437651005752389505145877627173605787507",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-25c",
         "condition_id": "0x257ac9628036def17bd4218cb49f12b0de69a6ef7d26d934ba03cfd2f1eaa79f"
@@ -85,21 +85,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
+      "yes_price": 0.0,
+      "no_price": 1.0,
       "volume": 2371.9125830000003,
-      "liquidity": 5408.43975,
+      "liquidity": null,
       "token_id": "107279907437770893968024314821389478848126081927744013057247845190511368848056",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-26c",
         "condition_id": "0x7ad5488f495b83c9e64656ff2e647d87e1a5622c1bc095bc0d0b9a0b6520c86c"
@@ -111,21 +111,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 5574.572594,
-      "liquidity": 4342.05538,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5941.842594,
+      "liquidity": null,
       "token_id": "31126620334759813183145663691743628659615758993367227416938246782140917388047",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-27c",
         "condition_id": "0xe0521b7f92f77e6c67b1c3428e206e34a9f79211be41975d0e80fab08d05942e"
@@ -137,21 +137,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.875,
-      "no_price": 0.125,
-      "volume": 18524.15295900003,
-      "liquidity": 992.67914,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 34527.01319800002,
+      "liquidity": null,
       "token_id": "43590546103432513171716202160352367052221128903726997416463168866242915289739",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.875,
-        0.125
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-28c",
         "condition_id": "0x07a9ad04a3d17ec4738b876f24b4a421ab23724a2a2bd81fe2554062af867ad8"
@@ -163,21 +163,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.11,
-      "no_price": 0.89,
-      "volume": 3985.558325,
-      "liquidity": 811.8096,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8787.290977999999,
+      "liquidity": null,
       "token_id": "115221235618687255398469066072684566685385103735908788142787663549042866458606",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.11,
-        0.89
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-29c",
         "condition_id": "0xf17913c7efaaeef5f1b71bb3533c4f247a49911fa9d7865df49b26391333fb91"
@@ -189,21 +189,21 @@
       "bucket_low": 30.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.0305,
-      "no_price": 0.9695,
-      "volume": 6613.6114019999995,
-      "liquidity": 1265.20141,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9490.453552999998,
+      "liquidity": null,
       "token_id": "62914412072879158847655787445490516361052569658259652778425779495576040036064",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0305,
-        0.9695
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-30c",
         "condition_id": "0xf3d4c27b4ce7d4a960bd3f25a2b1f96acebf3bd81e93f03cf651efb08ad3d472"
@@ -215,21 +215,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 4935.008946000001,
-      "liquidity": 847.04734,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6479.284573999999,
+      "liquidity": null,
       "token_id": "4200160744935660846250467848856248457151595344970753914766147217602625523060",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-31c",
         "condition_id": "0x80b01ed5635a00322234eb7a83c6462c60a8023de887c70a819a3eb1eb0c97d0"
@@ -241,21 +241,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 4409.637502999998,
-      "liquidity": 1270.91926,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4698.567502999998,
+      "liquidity": null,
       "token_id": "62602964688799877418968478664129307150000978585821523734851174824860083746496",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-32c",
         "condition_id": "0x6dcdb36f9c8a2b9c37ef8712f06963a10307de2d75b113ac58eac006f280098b"
@@ -267,21 +267,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "volume": 5274.447935999997,
-      "liquidity": 2060.60491,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5939.488935999996,
+      "liquidity": null,
       "token_id": "51473012179046438987182608279343769369924174286895051394485929677264072412599",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0015,
-        0.9985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-33c",
         "condition_id": "0x85ee5505d0de804c916213bec74673ee90c3e26c94878260a8568583dc4e834f"
@@ -293,21 +293,21 @@
       "bucket_low": 34.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 6453.7419569999975,
-      "liquidity": 1463.46784,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8515.978158999997,
+      "liquidity": null,
       "token_id": "10779695684856242777175639346718538881126266314107299371374306439033230507129",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-taipei-on-june-5-2026-34corhigher",
         "condition_id": "0xd9587b6df417006843e48ade9bc8f2af116c1077ceb8406256e388d81d8c3e84"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.532713+00:00",
+      "ts": "2026-06-07T16:05:37.814114+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 38129.8285,
-      "volume": 63703.52416700002,
+      "liquidity": null,
+      "volume": 99838.35715400001,
       "outcomes_count": 11,
       "top_bucket": "28.0-28.0C",
-      "top_price": 0.875,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Taipei on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-taipei-on-june-5-2026",
     "event_id": "553916",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.882936+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.532713+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.532713+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.814114+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.814114+00:00",
   "created_at": "2026-06-04T16:52:28.882936+00:00",
-  "updated_at": "2026-06-05T06:36:19.532713+00:00",
+  "updated_at": "2026-06-08T11:27:15.930614+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "28C",
+      "resolved_value": "28C",
+      "resolution_source": null,
+      "winning_market_id": "2424661",
+      "winning_question": "Will the highest temperature in Taipei be 28°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.815117+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T16:00:00+00:00",
+  "hours_to_settle": -48.1
 }

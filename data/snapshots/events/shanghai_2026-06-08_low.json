@@ -1,0 +1,351 @@
+{
+  "storage_key": "shanghai_2026-06-08_low",
+  "event_id": "566748",
+  "event_slug": "lowest-temperature-in-shanghai-on-june-8-2026",
+  "event_title": "Lowest temperature in Shanghai on June 8?",
+  "city_slug": "shanghai",
+  "city_name": "Shanghai",
+  "date": "2026-06-08",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Shanghai",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-08T12:00:00Z",
+  "event_end_date": "2026-06-08T12:00:00Z",
+  "liquidity": 30767.89381,
+  "volume": 25578.477351,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2456705",
+      "question": "Will the lowest temperature in Shanghai be 15°C or below on June 8?",
+      "bucket_low": -999.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 308.0,
+      "liquidity": 2216.8734,
+      "token_id": "9479261188421137397089829576117897579101683138954212834536102056383328587276",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-15corbelow",
+        "condition_id": "0x9b40b983af4daeb615d2b636cfeea0061229597c8749d50c69b9f884694f0290"
+      }
+    },
+    {
+      "market_id": "2456706",
+      "question": "Will the lowest temperature in Shanghai be 16°C on June 8?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 698.0,
+      "liquidity": 1992.6444,
+      "token_id": "34896606100023871018886713838648701834836795016592931933404445040941336909281",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-16c",
+        "condition_id": "0x474a0684acaff9a501b60e629818e3b9549873f51ec27f85b8901c82ce9688e4"
+      }
+    },
+    {
+      "market_id": "2456707",
+      "question": "Will the lowest temperature in Shanghai be 17°C on June 8?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1259.195,
+      "liquidity": 1166.63267,
+      "token_id": "46021179720552931730430659974997064714486934431799368595479631705893279954065",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-17c",
+        "condition_id": "0xbfbb60d7a2a8af4aa747913b47da03bfb50e867e1cf956b081ec56f249936ebc"
+      }
+    },
+    {
+      "market_id": "2456708",
+      "question": "Will the lowest temperature in Shanghai be 18°C on June 8?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5629.185077000002,
+      "liquidity": 660.58694,
+      "token_id": "53667914557481370470390573912511726966588354337305865040296806618701789782864",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-18c",
+        "condition_id": "0xd81cf07dc37b68e6dbadb552824b07954800a91a1781bcfe4d8572eadd8a1094"
+      }
+    },
+    {
+      "market_id": "2456709",
+      "question": "Will the lowest temperature in Shanghai be 19°C on June 8?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 2283.041393,
+      "liquidity": 799.9867,
+      "token_id": "7443265842937238804866740945859680710570177347592921968309485056101591113225",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-19c",
+        "condition_id": "0x38b7ef23177c651cd596e465aa4503ad062e05e993cde220899a8cfbbe7956bc"
+      }
+    },
+    {
+      "market_id": "2456710",
+      "question": "Will the lowest temperature in Shanghai be 20°C on June 8?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.995,
+      "no_price": 0.005,
+      "volume": 3398.00554,
+      "liquidity": 611.78384,
+      "token_id": "103106793382686518686295933997709495436335667678584560214645484658550846785197",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.995,
+        0.005
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-20c",
+        "condition_id": "0x07c03dc2f1de26275c05aaa52e7e44a805760d78493c7c2810cd7639b95208f4"
+      }
+    },
+    {
+      "market_id": "2456711",
+      "question": "Will the lowest temperature in Shanghai be 21°C on June 8?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 6224.582015,
+      "liquidity": 2964.21336,
+      "token_id": "68064431817321705739892058333189008548789454696666603174458700168742031855170",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-21c",
+        "condition_id": "0x2f6a3424ee7a08ccde9d6a896409ef79a481619cf361c38e61f7c69844c08a8f"
+      }
+    },
+    {
+      "market_id": "2456712",
+      "question": "Will the lowest temperature in Shanghai be 22°C on June 8?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1065.230736,
+      "liquidity": 4902.16353,
+      "token_id": "86586577710480568295969242711725887561359087437516863900913363836558443004602",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-22c",
+        "condition_id": "0xd18614a8b3e7be4209a8f0628b809285f6b0e9f682cc1ffdb433aaedc9a174e8"
+      }
+    },
+    {
+      "market_id": "2456713",
+      "question": "Will the lowest temperature in Shanghai be 23°C on June 8?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2941.142576,
+      "liquidity": 5246.8408,
+      "token_id": "102462025516727782447942590198360224298250129303960943126717895749591567614405",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-23c",
+        "condition_id": "0x18057d8362cb2991634a1cba4087d99210d8606fe919f2506d6f11aa4beca42c"
+      }
+    },
+    {
+      "market_id": "2456714",
+      "question": "Will the lowest temperature in Shanghai be 24°C on June 8?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1259.1050139999998,
+      "liquidity": 5502.88012,
+      "token_id": "52568832016711178952830376002620932332354527819659397882915505367387877514916",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-24c",
+        "condition_id": "0x5bbcbf760c3ab9d6877493f47e91dddaba3e6060e5be0bad881c7351cc2aafe9"
+      }
+    },
+    {
+      "market_id": "2456715",
+      "question": "Will the lowest temperature in Shanghai be 25°C or higher on June 8?",
+      "bucket_low": 25.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 512.99,
+      "liquidity": 4570.5174,
+      "token_id": "104980093063672261063252874946666162686066880691061801518741238760130308965911",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-shanghai-on-june-8-2026-25corhigher",
+        "condition_id": "0x054e3db5f878b924738855cacccd79aa1a8d993492657f0e28dd9ce9eb88839b"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-08T15:48:39.141488+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-08T12:00:00Z",
+      "liquidity": 30767.89381,
+      "volume": 25578.477351,
+      "outcomes_count": 11,
+      "top_bucket": "20.0-20.0C",
+      "top_price": 0.995,
+      "event_title": "Lowest temperature in Shanghai on June 8?"
+    }
+  ],
+  "settle_at": "2026-06-08T16:00:00+00:00",
+  "hours_to_settle": 0.2,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-shanghai-on-june-8-2026",
+    "event_id": "566748",
+    "markets_count": 11,
+    "game_start_time": "2026-06-07 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T13:13:01.155788+00:00",
+  "last_seen_at": "2026-06-08T15:48:39.141488+00:00",
+  "last_refreshed_at": "2026-06-08T15:48:39.141488+00:00",
+  "created_at": "2026-06-07T13:13:01.155788+00:00",
+  "updated_at": "2026-06-10T17:17:30.849835+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

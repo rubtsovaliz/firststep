@@ -1,0 +1,360 @@
+{
+  "storage_key": "seattle_2026-03-28_high",
+  "event_id": "302798",
+  "event_slug": "highest-temperature-in-seattle-on-march-28-2026",
+  "event_title": "Highest temperature in Seattle on March 28?",
+  "city_slug": "seattle",
+  "city_name": "Seattle",
+  "date": "2026-03-28",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seattle",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-28T12:00:00Z",
+  "event_end_date": "2026-03-28T12:00:00Z",
+  "liquidity": null,
+  "volume": 163169.37213399998,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1701745",
+      "question": "Will the highest temperature in Seattle be 51°F or below on March 28?",
+      "bucket_low": -999.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18134.411330999978,
+      "liquidity": null,
+      "token_id": "91833456005436934521384537852052666064166846609127018032869339890025064371654",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-51forbelow",
+        "condition_id": "0x1ebb155a9c2b5868c5f9d7e33f29bf0f9debe8b6d36ea8bf592299ddef95791c"
+      }
+    },
+    {
+      "market_id": "1701746",
+      "question": "Will the highest temperature in Seattle be between 52-53°F on March 28?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18771.49626900001,
+      "liquidity": null,
+      "token_id": "94049181052372056352178278915696451130302814836203376347954385819346076113298",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-52-53f",
+        "condition_id": "0x5f22a89a0cf24a6d628cc9e92998869ce97dc25fe4c548706dee6306c70bcb92"
+      }
+    },
+    {
+      "market_id": "1701747",
+      "question": "Will the highest temperature in Seattle be between 54-55°F on March 28?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 24857.86385499998,
+      "liquidity": null,
+      "token_id": "34791685908675620386136239714134103412568680521464507909431954280907173278256",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-54-55f",
+        "condition_id": "0xc184eaa362d87e060aa2958dacba796ae138d971c57c35e56e8f5843057014d7"
+      }
+    },
+    {
+      "market_id": "1701748",
+      "question": "Will the highest temperature in Seattle be between 56-57°F on March 28?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15330.53437300001,
+      "liquidity": null,
+      "token_id": "33799809185100421722575008993825330598535891082842046483579673051397613824965",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-56-57f",
+        "condition_id": "0x1c8fb49d526e5ed861e77d98d8deb935a1cea2498cba5aae13b0f533c4861d8b"
+      }
+    },
+    {
+      "market_id": "1701749",
+      "question": "Will the highest temperature in Seattle be between 58-59°F on March 28?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15616.104297000007,
+      "liquidity": null,
+      "token_id": "36962975127178749411269858603101717666327312874053774775566158631390705454578",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-58-59f",
+        "condition_id": "0x6d2604e910c3ff739a667a80d2f2b18dc747b8ee69c01b60e0adabdcf6964c03"
+      }
+    },
+    {
+      "market_id": "1701750",
+      "question": "Will the highest temperature in Seattle be between 60-61°F on March 28?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9596.715548000002,
+      "liquidity": null,
+      "token_id": "2855091390066834149271610527226112155464592146038887574474711799899112435760",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-60-61f",
+        "condition_id": "0x973cea94a2f58e7c8d7fdb759680107ea0beadd4b039d4ea07a364be1879d97a"
+      }
+    },
+    {
+      "market_id": "1701751",
+      "question": "Will the highest temperature in Seattle be between 62-63°F on March 28?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7631.874654000007,
+      "liquidity": null,
+      "token_id": "55665927037406418422496148518883561559615171406662159817702133999480406157043",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-62-63f",
+        "condition_id": "0xf769ff2954d665f552239dddf0325d1ba9c5aea7ee142749abc78ee78b929635"
+      }
+    },
+    {
+      "market_id": "1701752",
+      "question": "Will the highest temperature in Seattle be between 64-65°F on March 28?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4733.662814000005,
+      "liquidity": null,
+      "token_id": "20644130942037669383549073132844089511310165735978228649907446232255777049859",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-64-65f",
+        "condition_id": "0x4f38612b2016fce7dcb2919dae33573bd284a48d43e3098fd4553c5364a33ecf"
+      }
+    },
+    {
+      "market_id": "1701753",
+      "question": "Will the highest temperature in Seattle be between 66-67°F on March 28?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 22545.351828999977,
+      "liquidity": null,
+      "token_id": "37755739040846081044546716343353874835590417345104507829833343316774026596751",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-66-67f",
+        "condition_id": "0xe11554fdd23f9d17edd508e2f2fb13acca43c2e1dbf0bcb1e9219d6148f768dd"
+      }
+    },
+    {
+      "market_id": "1701754",
+      "question": "Will the highest temperature in Seattle be between 68-69°F on March 28?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3788.983998,
+      "liquidity": null,
+      "token_id": "110920530662344297759985453529344558573752777082272082975731431707474152209157",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-68-69f",
+        "condition_id": "0x63d5af4311e82a56e036c4427f2101c7370abe0e0f4dd187cb8732f30a47b279"
+      }
+    },
+    {
+      "market_id": "1701755",
+      "question": "Will the highest temperature in Seattle be 70°F or higher on March 28?",
+      "bucket_low": 70.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 22162.373165999998,
+      "liquidity": null,
+      "token_id": "94124828052197333069625678899204285672484432985415023917699930791834867253763",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-march-28-2026-70forhigher",
+        "condition_id": "0x712d9f0f4230226bf7d07c658eb5e08ec609299e6b380244519983e27c7dc68d"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.807727+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-28T12:00:00Z",
+      "liquidity": null,
+      "volume": 163169.37213399998,
+      "outcomes_count": 11,
+      "top_bucket": "54.0-55.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seattle on March 28?"
+    }
+  ],
+  "settle_at": "2026-03-29T07:00:00+00:00",
+  "hours_to_settle": -1689.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seattle-on-march-28-2026",
+    "event_id": "302798",
+    "markets_count": 11,
+    "game_start_time": "2026-03-28 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.807727+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.807727+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.807727+00:00",
+  "created_at": "2026-06-07T16:06:08.807727+00:00",
+  "updated_at": "2026-06-10T17:17:30.595286+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "54-55F",
+      "resolved_value": "54-55F",
+      "resolution_source": null,
+      "winning_market_id": "1701747",
+      "winning_question": "Will the highest temperature in Seattle be between 54-55°F on March 28?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.809733+00:00"
+  },
+  "legacy": null
+}

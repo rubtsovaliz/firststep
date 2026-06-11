@@ -1,0 +1,253 @@
+{
+  "storage_key": "toronto_2026-01-21_high",
+  "event_id": "174260",
+  "event_slug": "highest-temperature-in-toronto-on-january-21",
+  "event_title": "Highest temperature in Toronto on January 21?",
+  "city_slug": "toronto",
+  "city_name": "Toronto",
+  "date": "2026-01-21",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Toronto"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-01-21T12:00:00Z",
+  "event_end_date": "2026-01-21T12:00:00Z",
+  "liquidity": null,
+  "volume": 105422.721332,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1219272",
+      "question": "Will the highest temperature in Toronto be -3°C or below on January 21?",
+      "bucket_low": -999.0,
+      "bucket_high": -3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 59425.301022,
+      "liquidity": null,
+      "token_id": "79009290913837325517057885180206985714433157911857096418887177344711301576146",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-january-21-neg-3corbelow",
+        "condition_id": "0x4eb788c4701368fd43e4b58a29fd6fc9827e857c7ba406ef89ba7a62325179a8"
+      }
+    },
+    {
+      "market_id": "1219273",
+      "question": "Will the highest temperature in Toronto be -2°C on January 21?",
+      "bucket_low": -2.0,
+      "bucket_high": -2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17493.559092,
+      "liquidity": null,
+      "token_id": "27975780589431756476901623598632588648648436550191544132223750762060161584795",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-january-21-neg-2c",
+        "condition_id": "0xe04ebb529fc5a443dcbdd0da9013714ba5ff30bdba8283763fec033371fff835"
+      }
+    },
+    {
+      "market_id": "1219274",
+      "question": "Will the highest temperature in Toronto be -1°C on January 21?",
+      "bucket_low": -1.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7673.046334,
+      "liquidity": null,
+      "token_id": "47209033887422211776680818848521107338800991201850413589816008654723980442321",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-january-21-neg-1c",
+        "condition_id": "0xfa549195ef0c840f581db765bce9b85aa3e866f86be463cf79d0256c2bcab8e4"
+      }
+    },
+    {
+      "market_id": "1219275",
+      "question": "Will the highest temperature in Toronto be 0°C on January 21?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6238.515611,
+      "liquidity": null,
+      "token_id": "87283273161124014376630792805644498885482512541544893569346466343196256019265",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-january-21-0c",
+        "condition_id": "0x75d4e43a36ff9c4c92f7567e40d6b431f37eacb2f0ea1150b1312cee52b0684d"
+      }
+    },
+    {
+      "market_id": "1219276",
+      "question": "Will the highest temperature in Toronto be 1°C on January 21?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5060.305217,
+      "liquidity": null,
+      "token_id": "35771476396480303015810551095978641710448433404712213126081130518081279820241",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-january-21-1c",
+        "condition_id": "0x64ff9996cccd03a151e7adcf3be250385513113feeae8789318b9f443c5ce41b"
+      }
+    },
+    {
+      "market_id": "1219277",
+      "question": "Will the highest temperature in Toronto be 2°C on January 21?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4796.253184,
+      "liquidity": null,
+      "token_id": "90294171314582460411448508903407801513216024305710879618808528124689203012531",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-january-21-2c",
+        "condition_id": "0x671f2de3297925b229cc74cb12d22afd258fe9a12c160ed8bf374b42dd3e76ce"
+      }
+    },
+    {
+      "market_id": "1219278",
+      "question": "Will the highest temperature in Toronto be 3°C or higher on January 21?",
+      "bucket_low": 3.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4735.740872,
+      "liquidity": null,
+      "token_id": "38040861961973786376502675778749744901567335391201887525155312560157833725501",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-january-21-3corhigher",
+        "condition_id": "0xbcf432f1d83d9d3fd76279b29940465d407e9f3e4a18396cd85fda0f42840ae5"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:12.638630+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-01-21T12:00:00Z",
+      "liquidity": null,
+      "volume": 105422.721332,
+      "outcomes_count": 7,
+      "top_bucket": "-1.0--1.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Toronto on January 21?"
+    }
+  ],
+  "settle_at": "2026-01-22T05:00:00+00:00",
+  "hours_to_settle": -3275.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-toronto-on-january-21",
+    "event_id": "174260",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:12.638630+00:00",
+  "last_seen_at": "2026-06-07T16:06:12.638630+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:12.638630+00:00",
+  "created_at": "2026-06-07T16:06:12.638630+00:00",
+  "updated_at": "2026-06-10T17:17:31.149093+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "-1C",
+      "resolved_value": "-1C",
+      "resolution_source": null,
+      "winning_market_id": "1219274",
+      "winning_question": "Will the highest temperature in Toronto be -1°C on January 21?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:12.639633+00:00"
+  },
+  "legacy": null
+}

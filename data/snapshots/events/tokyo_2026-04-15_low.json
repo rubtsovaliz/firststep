@@ -1,0 +1,361 @@
+{
+  "storage_key": "tokyo_2026-04-15_low",
+  "event_id": "376652",
+  "event_slug": "lowest-temperature-in-tokyo-on-april-15-2026",
+  "event_title": "Lowest temperature in Tokyo on April 15?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-04-15",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Hide From New",
+    "Daily Temperature",
+    "Weather",
+    "Tokyo",
+    "Recurring",
+    "Rewards Automation 50 4.5 50",
+    "Lowest temperature",
+    "temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-16T12:00:00Z",
+  "event_end_date": "2026-04-16T12:00:00Z",
+  "liquidity": null,
+  "volume": 82853.231855,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "1975915",
+      "question": "Will the lowest temperature in Tokyo be 10°C or below on April 15?",
+      "bucket_low": -999.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5566.4561589999985,
+      "liquidity": null,
+      "token_id": "24433918199640492381555254619984294258423127974882883010144757695673132881574",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-10corbelow",
+        "condition_id": "0x4cf8926b3db1520916838261011b703f6ec808361534ecbea027ca58e649e768"
+      }
+    },
+    {
+      "market_id": "1975916",
+      "question": "Will the lowest temperature in Tokyo be 11°C on April 15?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2240.4524440000005,
+      "liquidity": null,
+      "token_id": "50483049994586316374922694649539748329324341563564047658226577086922043499713",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-11c",
+        "condition_id": "0xae6f22f6466c754a6ac831e2b97e5420dc74e39c42dd822bb4fe2e868e657dba"
+      }
+    },
+    {
+      "market_id": "1975917",
+      "question": "Will the lowest temperature in Tokyo be 12°C on April 15?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3898.6306159999986,
+      "liquidity": null,
+      "token_id": "62856080774967762078877411816660497242864117896497476578552237524834149491724",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-12c",
+        "condition_id": "0x3736ce4e943cda74f3329442d0d15c589bef1eae269129237ed04f0a528ee850"
+      }
+    },
+    {
+      "market_id": "1975918",
+      "question": "Will the lowest temperature in Tokyo be 13°C on April 15?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8165.1278680000005,
+      "liquidity": null,
+      "token_id": "88890785359342069203219494823213450884078407237530383421927312972022736553366",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-13c",
+        "condition_id": "0x1037fe11510f7d5562fe04aba012d0ad4fd416b429a92766f0c4cd4a8584b077"
+      }
+    },
+    {
+      "market_id": "1975919",
+      "question": "Will the lowest temperature in Tokyo be 14°C on April 15?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13749.447212,
+      "liquidity": null,
+      "token_id": "21471095316566596569107214281205050867432907582812158250749462168369845737232",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-14c",
+        "condition_id": "0x113692951cd1dba1622dae8cbf6235bfe6d940abd77264157ff66bb6056cc44f"
+      }
+    },
+    {
+      "market_id": "1975920",
+      "question": "Will the lowest temperature in Tokyo be 15°C on April 15?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 10921.597822000002,
+      "liquidity": null,
+      "token_id": "92268691539543532497067892261140599533786658832887908482725220514416635658924",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-15c",
+        "condition_id": "0xcd8b7fb9262ba1da74090ee615fc73702ea3f6ed579e295cf7700bb125bcc22e"
+      }
+    },
+    {
+      "market_id": "1975921",
+      "question": "Will the lowest temperature in Tokyo be 16°C on April 15?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4665.114925,
+      "liquidity": null,
+      "token_id": "20740565720567472788560699560713126662733796600252889671466865583886857444077",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-16c",
+        "condition_id": "0x73961673ec7cd44a3b41a84b9ace51e338203212ed57db5eb97db87b13a05047"
+      }
+    },
+    {
+      "market_id": "1975922",
+      "question": "Will the lowest temperature in Tokyo be 17°C on April 15?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4384.444687,
+      "liquidity": null,
+      "token_id": "95377216577496845731737353058786663853475719144287524454200254405529809861136",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-17c",
+        "condition_id": "0xfdbbd28f69f2c6e83452e4112dd3febb98ed3cc3916042c7ab4f0a5bd711813b"
+      }
+    },
+    {
+      "market_id": "1975923",
+      "question": "Will the lowest temperature in Tokyo be 18°C on April 15?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4004.8857129999997,
+      "liquidity": null,
+      "token_id": "112286234459199520272151173600386212166698351227781481394959809108963167224533",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-18c",
+        "condition_id": "0x99858b3ea2581101d00705e1bcf2b7e13e1036a6dd477e18b2f4dc705f9b19d2"
+      }
+    },
+    {
+      "market_id": "1975924",
+      "question": "Will the lowest temperature in Tokyo be 19°C on April 15?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7728.384154000002,
+      "liquidity": null,
+      "token_id": "36989813523681929919572296893610038756426110487979934881928151867381609167355",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-19c",
+        "condition_id": "0x39373f8a37ccebfd5383742f7d389d86ad1923871218426e398e9d27ecab6eaa"
+      }
+    },
+    {
+      "market_id": "1975925",
+      "question": "Will the lowest temperature in Tokyo be 20°C or higher on April 15?",
+      "bucket_low": 20.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17528.690255,
+      "liquidity": null,
+      "token_id": "14796151198179711266620153720413250107874484759852185430288740272209648220126",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-april-15-2026-20corhigher",
+        "condition_id": "0xa05b7d964459a66140907d3faa894755c9ed0cd68dcd7c59c5dd5847b95e6ad1"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:05.929448+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-16T12:00:00Z",
+      "liquidity": null,
+      "volume": 82853.231855,
+      "outcomes_count": 11,
+      "top_bucket": "15.0-15.0C",
+      "top_price": 1.0,
+      "event_title": "Lowest temperature in Tokyo on April 15?"
+    }
+  ],
+  "settle_at": "2026-04-16T15:00:00+00:00",
+  "hours_to_settle": -1249.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-tokyo-on-april-15-2026",
+    "event_id": "376652",
+    "markets_count": 11,
+    "game_start_time": "2026-04-15 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:05.929448+00:00",
+  "last_seen_at": "2026-06-07T16:06:05.929448+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:05.929448+00:00",
+  "created_at": "2026-06-07T16:06:05.929448+00:00",
+  "updated_at": "2026-06-10T17:17:31.087932+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "15C",
+      "resolved_value": "15C",
+      "resolution_source": null,
+      "winning_market_id": "1975920",
+      "winning_question": "Will the lowest temperature in Tokyo be 15°C on April 15?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:05.930449+00:00"
+  },
+  "legacy": null
+}

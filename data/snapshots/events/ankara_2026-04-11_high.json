@@ -1,0 +1,397 @@
+{
+  "storage_key": "ankara_2026-04-11_high",
+  "event_id": "352617",
+  "event_slug": "highest-temperature-in-ankara-on-april-11-2026",
+  "event_title": "Highest temperature in Ankara on April 11?",
+  "city_slug": "ankara",
+  "city_name": "Ankara",
+  "date": "2026-04-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Ankara",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-11T12:00:00Z",
+  "event_end_date": "2026-04-11T12:00:00Z",
+  "liquidity": null,
+  "volume": 48266.77132400001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1901784",
+      "question": "Will the highest temperature in Ankara be -2°C or below on April 11?",
+      "bucket_low": -999.0,
+      "bucket_high": -2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 876.1771000000001,
+      "liquidity": 0.0,
+      "token_id": "53731611883452667817730525087004775043251392472393452578846169298918711228573",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-neg-2corbelow",
+        "condition_id": "0x21622648aa3e6ecc79b6d3042f77dc13be4dbd3259948b34699dc4e050638770"
+      }
+    },
+    {
+      "market_id": "1901785",
+      "question": "Will the highest temperature in Ankara be -1°C on April 11?",
+      "bucket_low": -1.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 607.0698659999999,
+      "liquidity": 0.0,
+      "token_id": "88686092654373877222261672723777727168097490120450463382985795664621216172370",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-neg-1c",
+        "condition_id": "0x596193db653ed4eb8a09ee5839c342eba8d521f325c52d348cb1bb62312f3934"
+      }
+    },
+    {
+      "market_id": "1901786",
+      "question": "Will the highest temperature in Ankara be 0°C on April 11?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 837.617265,
+      "liquidity": null,
+      "token_id": "110201561502273368792671916453602341521558581783613548503139730486160535174638",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-0c",
+        "condition_id": "0x4bac018ac919158b650b85b8b8bd94a894585ab9774d42b6afd51d6f5f5a4ce2"
+      }
+    },
+    {
+      "market_id": "1901787",
+      "question": "Will the highest temperature in Ankara be 1°C on April 11?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1012.3439000000002,
+      "liquidity": 0.0,
+      "token_id": "101053646352115196802144300155320792898095003878170593723365766174788783204896",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-1c",
+        "condition_id": "0xc13d99e98a0991f21f02d5d7329e99005ee60e4e2d6e5dfc3f99de4d5b76a817"
+      }
+    },
+    {
+      "market_id": "1901788",
+      "question": "Will the highest temperature in Ankara be 2°C on April 11?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1346.9663470000003,
+      "liquidity": null,
+      "token_id": "37781054822509506484984912046058538325076419493430677211827651625568529111633",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-2c",
+        "condition_id": "0x8c1d99f8a8ff936ec1a8b9c47aa43f23360d9629968473af82e3cd8bb9ac9f57"
+      }
+    },
+    {
+      "market_id": "1901789",
+      "question": "Will the highest temperature in Ankara be 3°C on April 11?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1870.002835,
+      "liquidity": null,
+      "token_id": "67608798500734313113093722533219382848892140719409324944318202149754525532958",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-3c",
+        "condition_id": "0xeaf765be15b965001b871b4315b64035cd32843b3a3f2bbbd49cdec67149ab99"
+      }
+    },
+    {
+      "market_id": "1901790",
+      "question": "Will the highest temperature in Ankara be 4°C on April 11?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1748.422834,
+      "liquidity": null,
+      "token_id": "83687277069061017291240934727383765236690787925201575220567628978004204468150",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-4c",
+        "condition_id": "0xa6b6f0c9e143fd528d5efb97a0307540b45d0d8de3f63c2050dab94671e38383"
+      }
+    },
+    {
+      "market_id": "1901791",
+      "question": "Will the highest temperature in Ankara be 5°C on April 11?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5836.709524000001,
+      "liquidity": null,
+      "token_id": "19747110323120917873413264675400107233569921374487765223098996795267548208757",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-5c",
+        "condition_id": "0xb4a588eed6099fd09849762ff87465c58fa2624891a4a38c4464dcbee7955b0b"
+      }
+    },
+    {
+      "market_id": "1901792",
+      "question": "Will the highest temperature in Ankara be 6°C on April 11?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10981.539706000001,
+      "liquidity": null,
+      "token_id": "2246995332676361938449909721918275600472033310462510815522222572896225093841",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-6c",
+        "condition_id": "0xbe0f73a680b3ea03c242b79d9193e21357181d4c2d01ca465d98a4c1ddb7ae92"
+      }
+    },
+    {
+      "market_id": "1901793",
+      "question": "Will the highest temperature in Ankara be 7°C on April 11?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10833.806899000007,
+      "liquidity": null,
+      "token_id": "85934071656694214628475392630572527211176469572821192904600393642341041770858",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-7c",
+        "condition_id": "0xabd91c229153e8eda216f40868f4d7fccf89e2d142480ca9f288743d4c617ab1"
+      }
+    },
+    {
+      "market_id": "1901794",
+      "question": "Will the highest temperature in Ankara be 8°C or higher on April 11?",
+      "bucket_low": 8.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 12316.115048000001,
+      "liquidity": null,
+      "token_id": "20206408595916618299144502543484844420394312042139392572294259215858969225598",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-april-11-2026-8corhigher",
+        "condition_id": "0x436a7ace2e3d3942b9c0690cf9c4b0a1309026012c61713558e91bfdb038d363"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:06.817003+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-11T12:00:00Z",
+      "liquidity": null,
+      "volume": 48266.77132400001,
+      "outcomes_count": 11,
+      "top_bucket": ">=8.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Ankara on April 11?"
+    }
+  ],
+  "settle_at": "2026-04-11T21:00:00+00:00",
+  "hours_to_settle": -1363.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-ankara-on-april-11-2026",
+    "event_id": "352617",
+    "markets_count": 11,
+    "game_start_time": "2026-04-10 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:06.817003+00:00",
+  "last_seen_at": "2026-06-07T16:06:06.817003+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:06.817003+00:00",
+  "created_at": "2026-06-07T16:06:06.817003+00:00",
+  "updated_at": "2026-06-10T18:47:48.897997+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=8C",
+      "resolved_value": ">=8C",
+      "resolution_source": null,
+      "winning_market_id": "1901794",
+      "winning_question": "Will the highest temperature in Ankara be 8°C or higher on April 11?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:06.818009+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T18:47:48.897997+00:00",
+      "single": {
+        "city_slug": "ankara",
+        "date": "2026-04-11",
+        "metric": "high",
+        "model": "ecmwf_ifs",
+        "requested_model": null,
+        "model_fallback": false,
+        "unit": null,
+        "temp": null,
+        "error": "forecast_unavailable"
+      },
+      "ensemble": {
+        "city_slug": "ankara",
+        "date": "2026-04-11",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 6.9,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 6.9,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 5.5,
+            "error": null
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null
+}

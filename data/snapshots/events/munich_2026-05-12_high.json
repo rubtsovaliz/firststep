@@ -1,0 +1,360 @@
+{
+  "storage_key": "munich_2026-05-12_high",
+  "event_id": "469202",
+  "event_slug": "highest-temperature-in-munich-on-may-12-2026",
+  "event_title": "Highest temperature in Munich on May 12?",
+  "city_slug": "munich",
+  "city_name": "Munich",
+  "date": "2026-05-12",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Munich",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-12T12:00:00Z",
+  "event_end_date": "2026-05-12T12:00:00Z",
+  "liquidity": null,
+  "volume": 102301.65663100003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2219800",
+      "question": "Will the highest temperature in Munich be 5°C or below on May 12?",
+      "bucket_low": -999.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1421.245465,
+      "liquidity": null,
+      "token_id": "44419458365149968329390392969326027263651248975117081440466416578403065841972",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-5corbelow",
+        "condition_id": "0x5f871ce2f0824242acdb98dfd8a0f2cd22631589c274e70cd6e15045e33e8d35"
+      }
+    },
+    {
+      "market_id": "2219801",
+      "question": "Will the highest temperature in Munich be 6°C on May 12?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1434.9,
+      "liquidity": null,
+      "token_id": "108887404921878490314109659285267426444496825276153228419179530168478370860142",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-6c",
+        "condition_id": "0xe282a137ff37e7d7b42aa0df70cd10757331c2d693a64bb1732b277695e66c1f"
+      }
+    },
+    {
+      "market_id": "2219802",
+      "question": "Will the highest temperature in Munich be 7°C on May 12?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3402.5680649999995,
+      "liquidity": null,
+      "token_id": "15704252353545838614950272570501576820792198455296019148630320198843901794452",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-7c",
+        "condition_id": "0xc92d3a4af912fe163c14e2d928878a6a7db711bf7f2398551d47a8d824d977ed"
+      }
+    },
+    {
+      "market_id": "2219803",
+      "question": "Will the highest temperature in Munich be 8°C on May 12?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6789.647523999997,
+      "liquidity": null,
+      "token_id": "71290245377037123321016892489891496818792165383842256629862021026134323953411",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-8c",
+        "condition_id": "0xdab9d0ebb4853f65d04c43b7de2619e5eaf131939c7cfdc97086fe14b75fd4b4"
+      }
+    },
+    {
+      "market_id": "2219804",
+      "question": "Will the highest temperature in Munich be 9°C on May 12?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 26875.167081000018,
+      "liquidity": null,
+      "token_id": "104690409804462732863498129255151255512425984504900642505554262962748063044534",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-9c",
+        "condition_id": "0x013e992013a319a559e6502f1ac9b573122165cebe2a9b5ffd78b233d31fed0e"
+      }
+    },
+    {
+      "market_id": "2219805",
+      "question": "Will the highest temperature in Munich be 10°C on May 12?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 13092.828871000002,
+      "liquidity": null,
+      "token_id": "39428061706733878533789660974214123168506382232487800474714880738648279723877",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-10c",
+        "condition_id": "0x24c7fe9bc8be88c4ba5789760454dbd106f397839482368aedd1e21a1bf7e89d"
+      }
+    },
+    {
+      "market_id": "2219806",
+      "question": "Will the highest temperature in Munich be 11°C on May 12?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11466.945767,
+      "liquidity": null,
+      "token_id": "47931822019442574512114583124846704325177255279287022363926190492948529244960",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-11c",
+        "condition_id": "0x09d46b83a21762ead44af70ff684adc407967e0f81c386ce0fac6adedad1eadd"
+      }
+    },
+    {
+      "market_id": "2219807",
+      "question": "Will the highest temperature in Munich be 12°C on May 12?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11079.310358,
+      "liquidity": null,
+      "token_id": "47362171308911847436937617371357676358343511919275854143982894769172580011670",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-12c",
+        "condition_id": "0xac60e38a11a5c3875d87e64ef3bf41b4692c086abdee70a3c15b317a0b862515"
+      }
+    },
+    {
+      "market_id": "2219808",
+      "question": "Will the highest temperature in Munich be 13°C on May 12?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10590.483631000005,
+      "liquidity": null,
+      "token_id": "23984150997480319798226564647339509740221639407773792376188858438408472686311",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-13c",
+        "condition_id": "0x6424274a157b51868b3ae80503e923ea04f24681e4f144de25e91d485db7afaa"
+      }
+    },
+    {
+      "market_id": "2219809",
+      "question": "Will the highest temperature in Munich be 14°C on May 12?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7229.407142000002,
+      "liquidity": null,
+      "token_id": "63639618853806036787890021075611846792263261844199556446588954560408571066247",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-14c",
+        "condition_id": "0x3b41628a9e05815419a99a7eb6126a2d967388c27a110bdcc742643a8c07d7ba"
+      }
+    },
+    {
+      "market_id": "2219810",
+      "question": "Will the highest temperature in Munich be 15°C or higher on May 12?",
+      "bucket_low": 15.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8919.152727000004,
+      "liquidity": null,
+      "token_id": "48263433669541501352543121440667599686843760902656787900965341227858956590363",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-may-12-2026-15corhigher",
+        "condition_id": "0x66f3cab3bee5a12298d5564876a2af6409cbe8218e0bfcc292aeddf5918db87c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:00.308814+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-12T12:00:00Z",
+      "liquidity": null,
+      "volume": 102301.65663100003,
+      "outcomes_count": 11,
+      "top_bucket": "10.0-10.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Munich on May 12?"
+    }
+  ],
+  "settle_at": "2026-05-12T22:00:00+00:00",
+  "hours_to_settle": -618.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-munich-on-may-12-2026",
+    "event_id": "469202",
+    "markets_count": 11,
+    "game_start_time": "2026-05-11 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:00.308814+00:00",
+  "last_seen_at": "2026-06-07T16:06:00.308814+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:00.308814+00:00",
+  "created_at": "2026-06-07T16:06:00.308814+00:00",
+  "updated_at": "2026-06-10T17:17:30.113766+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "10C",
+      "resolved_value": "10C",
+      "resolution_source": null,
+      "winning_market_id": "2219805",
+      "winning_question": "Will the highest temperature in Munich be 10°C on May 12?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:00.309817+00:00"
+  },
+  "legacy": null
+}

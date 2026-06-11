@@ -1,0 +1,305 @@
+{
+  "storage_key": "toronto_2026-02-14_high",
+  "event_id": "206161",
+  "event_slug": "highest-temperature-in-toronto-on-february-14-2026",
+  "event_title": "Highest temperature in Toronto on February 14?",
+  "city_slug": "toronto",
+  "city_name": "Toronto",
+  "date": "2026-02-14",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Toronto"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-14T12:00:00Z",
+  "event_end_date": "2026-02-14T12:00:00Z",
+  "liquidity": null,
+  "volume": 80717.544869,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1368955",
+      "question": "Will the highest temperature in Toronto be -3°C or below on February 14?",
+      "bucket_low": -999.0,
+      "bucket_high": -3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16311.506861,
+      "liquidity": null,
+      "token_id": "48350233035471488941886048676225483471816125295833961142071869482913553279672",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-neg-3corbelow",
+        "condition_id": "0xb2b34215bd53d634d46f4203fe84d4622094affbdc5928eec89d576dfdc7d693"
+      }
+    },
+    {
+      "market_id": "1368956",
+      "question": "Will the highest temperature in Toronto be -2°C on February 14?",
+      "bucket_low": -2.0,
+      "bucket_high": -2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 17075.260569,
+      "liquidity": null,
+      "token_id": "18786205906910871781305511705095148535408167112998769030359212752407347520934",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-neg-2c",
+        "condition_id": "0x60017ccfd1a2f747df337ce4746d9998c8b8cd6a4809cf90e21ce0698ff61a08"
+      }
+    },
+    {
+      "market_id": "1368957",
+      "question": "Will the highest temperature in Toronto be -1°C on February 14?",
+      "bucket_low": -1.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7941.035201,
+      "liquidity": null,
+      "token_id": "16031899837019081550343785085512844121105237984275315063876210111669746628821",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-neg-1c",
+        "condition_id": "0xe23844d1280655260180cffdd2f9670fcd2108da5830d8fa86dd31d21851ed15"
+      }
+    },
+    {
+      "market_id": "1368958",
+      "question": "Will the highest temperature in Toronto be 0°C on February 14?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9270.655762,
+      "liquidity": null,
+      "token_id": "83400299419896768596646184490089290495310388716191286029246788097859761834752",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-0c",
+        "condition_id": "0x091c24c238d681798ee8a86cbeebe4058870b97a4a2e37c7f54a5b8c41452645"
+      }
+    },
+    {
+      "market_id": "1368959",
+      "question": "Will the highest temperature in Toronto be 1°C on February 14?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5247.817263,
+      "liquidity": null,
+      "token_id": "107478782462391569481679327226933504776592412988445137481751538487926552604159",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-1c",
+        "condition_id": "0x67ec150510a4a5c4ccc645f5b6ab34d55efb9bbd0114b3a42484d03d595ab43d"
+      }
+    },
+    {
+      "market_id": "1368960",
+      "question": "Will the highest temperature in Toronto be 2°C on February 14?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8723.784294,
+      "liquidity": null,
+      "token_id": "59515649912991282144398942059143421744961771744669230673603149852493327166536",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-2c",
+        "condition_id": "0x31264e4b455916e0e741583a7338f27d29523c954f3d6f3c171d17602cf17027"
+      }
+    },
+    {
+      "market_id": "1368961",
+      "question": "Will the highest temperature in Toronto be 3°C on February 14?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5783.516577,
+      "liquidity": null,
+      "token_id": "76929713832623484246362526446270842116249623981612864574829090357173062117151",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-3c",
+        "condition_id": "0xf63199848ce9239a477f10dae064c25d40ff01c96e4746154aea3cffbb235eb4"
+      }
+    },
+    {
+      "market_id": "1368963",
+      "question": "Will the highest temperature in Toronto be 4°C on February 14?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4283.014675,
+      "liquidity": null,
+      "token_id": "51359363150498543908573953328532492845361758696426396902876799502873570333208",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-4c",
+        "condition_id": "0x081c3c920c173219a9f01962c208277702717fab9422b0909006d317c54259d2"
+      }
+    },
+    {
+      "market_id": "1368965",
+      "question": "Will the highest temperature in Toronto be 5°C or higher on February 14?",
+      "bucket_low": 5.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6080.953667,
+      "liquidity": null,
+      "token_id": "69866684824803991403295542590438602047283025037498233584498646457273488575563",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-february-14-2026-5corhigher",
+        "condition_id": "0xa242948aa5ee499fc16d7001e1254c96453959a5afcf662bdcfc3eff176d8b63"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.793171+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-14T12:00:00Z",
+      "liquidity": null,
+      "volume": 80717.544869,
+      "outcomes_count": 9,
+      "top_bucket": "2.0-2.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Toronto on February 14?"
+    }
+  ],
+  "settle_at": "2026-02-15T05:00:00+00:00",
+  "hours_to_settle": -2699.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-toronto-on-february-14-2026",
+    "event_id": "206161",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.793171+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.793171+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.793171+00:00",
+  "created_at": "2026-06-07T16:06:11.793171+00:00",
+  "updated_at": "2026-06-10T17:17:31.161124+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "2C",
+      "resolved_value": "2C",
+      "resolution_source": null,
+      "winning_market_id": "1368960",
+      "winning_question": "Will the highest temperature in Toronto be 2°C on February 14?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.794191+00:00"
+  },
+  "legacy": null
+}

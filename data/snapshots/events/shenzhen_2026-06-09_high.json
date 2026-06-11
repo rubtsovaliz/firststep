@@ -1,0 +1,351 @@
+{
+  "storage_key": "shenzhen_2026-06-09_high",
+  "event_id": "568055",
+  "event_slug": "highest-temperature-in-shenzhen-on-june-9-2026",
+  "event_title": "Highest temperature in Shenzhen on June 9?",
+  "city_slug": "shenzhen",
+  "city_name": "Shenzhen",
+  "date": "2026-06-09",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Shenzhen",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-09T12:00:00Z",
+  "event_end_date": "2026-06-09T12:00:00Z",
+  "liquidity": 81101.59781,
+  "volume": 122702.66459299992,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2459960",
+      "question": "Will the highest temperature in Shenzhen be 22°C or below on June 9?",
+      "bucket_low": -999.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 374.88916600000005,
+      "liquidity": 15694.48712,
+      "token_id": "48821280783711263619853097193489389877526661979898925617988239678716726599822",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-22corbelow",
+        "condition_id": "0x5a8952e3661bb5c40c55bf12f4c0d1205d20aaea6f4b1d419fc4d72c60ee02e1"
+      }
+    },
+    {
+      "market_id": "2459961",
+      "question": "Will the highest temperature in Shenzhen be 23°C on June 9?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 610.474012,
+      "liquidity": 22823.98879,
+      "token_id": "104157268448395719732587216688782355280971990841607260431287982241202244518543",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-23c",
+        "condition_id": "0xc20f3cc6796e2b62c94fc9ea6217f03fd062527965c216c4bc5130e563911272"
+      }
+    },
+    {
+      "market_id": "2459962",
+      "question": "Will the highest temperature in Shenzhen be 24°C on June 9?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 3329.397,
+      "liquidity": 13721.3078,
+      "token_id": "72507600064925306680084043353297941533391514067702574587121342515956105723795",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-24c",
+        "condition_id": "0x4b768f4c486767db2a0b5762eb9f93f652aafe7a0ae2826d420f7d2a19777f93"
+      }
+    },
+    {
+      "market_id": "2459963",
+      "question": "Will the highest temperature in Shenzhen be 25°C on June 9?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 8531.618997000001,
+      "liquidity": 18695.07249,
+      "token_id": "55881318464772822809848387787223447031969582195662250410044047607989249811850",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-25c",
+        "condition_id": "0x9afaf53079f1cae8f1bd3268ceae97aea52d22e61275d9768a5f4244a8dd2720"
+      }
+    },
+    {
+      "market_id": "2459964",
+      "question": "Will the highest temperature in Shenzhen be 26°C on June 9?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 84248.60293499992,
+      "liquidity": 12580.37176,
+      "token_id": "14357993999587151654391442294390440781215773495067294761990323131405432501528",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-26c",
+        "condition_id": "0xb266045b02253aee54aa85e4632460ac7fa66323315408e71c298f678f22bf47"
+      }
+    },
+    {
+      "market_id": "2459965",
+      "question": "Will the highest temperature in Shenzhen be 27°C on June 9?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.405,
+      "no_price": 0.595,
+      "volume": 4262.279494,
+      "liquidity": 315.8848,
+      "token_id": "63938326564513969628468621656354545060926916960787784964033035125708737962574",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.405,
+        0.595
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-27c",
+        "condition_id": "0xe6fab98cb1dd93fb2f0304255c8354a1a3ee79437fddcf981f30d3fbb281b17d"
+      }
+    },
+    {
+      "market_id": "2459966",
+      "question": "Will the highest temperature in Shenzhen be 28°C on June 9?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.29,
+      "no_price": 0.71,
+      "volume": 2788.1100000000006,
+      "liquidity": 258.8718,
+      "token_id": "25930383508631016292330205246563742720174014979373777144408611613287862457340",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.29,
+        0.71
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-28c",
+        "condition_id": "0x50b1a185a2a1854875386a0c67ac8e06cfab370f4dbacbd982e20f9cc45a402a"
+      }
+    },
+    {
+      "market_id": "2459967",
+      "question": "Will the highest temperature in Shenzhen be 29°C on June 9?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.045,
+      "no_price": 0.955,
+      "volume": 3667.733810000002,
+      "liquidity": 685.0207,
+      "token_id": "49779879124422254286790442640461300109005857929332463960998477131914160643528",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.045,
+        0.955
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-29c",
+        "condition_id": "0x1f61599f28fb93f784c5327e94d15c06c15f9b29da07d1d4f64148054e1c76c4"
+      }
+    },
+    {
+      "market_id": "2459968",
+      "question": "Will the highest temperature in Shenzhen be 30°C on June 9?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.005,
+      "no_price": 0.995,
+      "volume": 4871.412407000001,
+      "liquidity": 1048.58504,
+      "token_id": "58135752242818731857727146571261708023286101559289164582309769276701559395456",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.005,
+        0.995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-30c",
+        "condition_id": "0x5a5c6655b8c58076b11bcc7b3e65fe50b75a8d69fc273a4e9c93d5d29230ffcb"
+      }
+    },
+    {
+      "market_id": "2459969",
+      "question": "Will the highest temperature in Shenzhen be 31°C on June 9?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 7113.632409,
+      "liquidity": 1442.41377,
+      "token_id": "32958966557422507688881839671181736843631600671483239189884955522050525189022",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-31c",
+        "condition_id": "0x60b5194744d20d4170f7d89f7c8fdc4c06d5a1915552e6ce069dbd41c98e75e5"
+      }
+    },
+    {
+      "market_id": "2459970",
+      "question": "Will the highest temperature in Shenzhen be 32°C or higher on June 9?",
+      "bucket_low": 32.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 8633.367403,
+      "liquidity": 1903.15007,
+      "token_id": "115088202691698854653841837592720801764352943179901915934803412753071484260012",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-shenzhen-on-june-9-2026-32corhigher",
+        "condition_id": "0xc4f9052b6dcc1be2e9bd763cd5fa27df10083fc27e9aeefd57d843c555ae2629"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-09T07:53:26.678539+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-09T12:00:00Z",
+      "liquidity": 81101.59781,
+      "volume": 122702.66459299992,
+      "outcomes_count": 11,
+      "top_bucket": "27.0-27.0C",
+      "top_price": 0.405,
+      "event_title": "Highest temperature in Shenzhen on June 9?"
+    }
+  ],
+  "settle_at": "2026-06-09T16:00:00+00:00",
+  "hours_to_settle": 8.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-shenzhen-on-june-9-2026",
+    "event_id": "568055",
+    "markets_count": 11,
+    "game_start_time": "2026-06-08 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 4.1,
+  "first_seen_at": "2026-06-07T13:13:01.022423+00:00",
+  "last_seen_at": "2026-06-09T07:53:26.678539+00:00",
+  "last_refreshed_at": "2026-06-09T07:53:26.678539+00:00",
+  "created_at": "2026-06-07T13:13:01.022423+00:00",
+  "updated_at": "2026-06-10T17:17:30.900970+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 33060.92843,
-  "volume": 4241.645853,
+  "liquidity": null,
+  "volume": 45528.425993,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 59.0,
       "unit": "F",
-      "yes_price": 0.0195,
-      "no_price": 0.9805,
-      "volume": 109.0,
-      "liquidity": 402.79837,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4012.258862999999,
+      "liquidity": null,
       "token_id": "115165612290788906218025721594627289989863695699385920767490885966084922498935",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0195,
-        0.9805
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-59forbelow",
         "condition_id": "0x18e39bf34228ba4306db755f93eec32bab4d309872f7d3605987fa5f96afa552"
@@ -59,21 +59,21 @@
       "bucket_low": 60.0,
       "bucket_high": 61.0,
       "unit": "F",
-      "yes_price": 0.09,
-      "no_price": 0.91,
-      "volume": 320.82095200000003,
-      "liquidity": 1319.0228,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5022.349006999999,
+      "liquidity": null,
       "token_id": "92994479025186488176048422280610448613449666556900206473482221018209169260623",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.09,
-        0.91
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-60-61f",
         "condition_id": "0x207fca0539d4bc9960e26e7b0d71cd358e201d2f39ee468b4a92deb1af849a1e"
@@ -85,21 +85,21 @@
       "bucket_low": 62.0,
       "bucket_high": 63.0,
       "unit": "F",
-      "yes_price": 0.315,
-      "no_price": 0.685,
-      "volume": 89.500283,
-      "liquidity": 1077.2667,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5512.096680000003,
+      "liquidity": null,
       "token_id": "98340158274584832012338280200940633541682897840963644027225201176663364456566",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.315,
-        0.685
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-62-63f",
         "condition_id": "0x50f67dee7ea46645f23021fb451c627ff93f4b31dbdbd227a144e9654556bfff"
@@ -111,21 +111,21 @@
       "bucket_low": 64.0,
       "bucket_high": 65.0,
       "unit": "F",
-      "yes_price": 0.295,
-      "no_price": 0.705,
-      "volume": 117.04070000000002,
-      "liquidity": 1050.6694,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3471.977395000001,
+      "liquidity": null,
       "token_id": "15416690262057813074142591654377454260775778057118208519408240203881267787356",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.295,
-        0.705
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-64-65f",
         "condition_id": "0x125702176190114e865058ee58a57025ceb46ba8056315710f1fd5f756c18d1d"
@@ -137,21 +137,21 @@
       "bucket_low": 66.0,
       "bucket_high": 67.0,
       "unit": "F",
-      "yes_price": 0.165,
-      "no_price": 0.835,
-      "volume": 109.69805300000002,
-      "liquidity": 1244.1734,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2798.474110000001,
+      "liquidity": null,
       "token_id": "38207682083473647085348074185281429555386061230547740425217844630916194710389",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.165,
-        0.835
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-66-67f",
         "condition_id": "0xa519e0862069f4bbd57168890ff91ce8f993e46b1ea58ba2ae8ed05380e40d01"
@@ -163,21 +163,21 @@
       "bucket_low": 68.0,
       "bucket_high": 69.0,
       "unit": "F",
-      "yes_price": 0.0305,
-      "no_price": 0.9695,
-      "volume": 368.96874299999996,
-      "liquidity": 1239.43623,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4844.505099,
+      "liquidity": null,
       "token_id": "19848777251255974825137999295613843677517333182963248387700215931582719216164",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0305,
-        0.9695
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-68-69f",
         "condition_id": "0x7412d0ae8f758e438c9b4ef9702d3e11e9e39d7dd2063ee34b8a385c9a5e54cb"
@@ -189,21 +189,21 @@
       "bucket_low": 70.0,
       "bucket_high": 71.0,
       "unit": "F",
-      "yes_price": 0.004,
-      "no_price": 0.996,
-      "volume": 1382.56326,
-      "liquidity": 5667.78,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6487.140302999998,
+      "liquidity": null,
       "token_id": "51837486827815904640928288785565567935971436777701773742969391527405275552083",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.004,
-        0.996
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-70-71f",
         "condition_id": "0x836a8d044b31268445ebf59d9f4ba1eedc3701b7e4dcad73b675cf26d8672c92"
@@ -215,21 +215,21 @@
       "bucket_low": 72.0,
       "bucket_high": 73.0,
       "unit": "F",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 714.491862,
-      "liquidity": 6449.83426,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4526.697829999999,
+      "liquidity": null,
       "token_id": "112276934839930289470653919601725776763328822996923558467811850620935679122166",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-72-73f",
         "condition_id": "0xea94cc19ff52d5b8c6bbf2da9eec6649f74920f16b6d1afcaad49ab0bb6c8a29"
@@ -241,21 +241,21 @@
       "bucket_low": 74.0,
       "bucket_high": 75.0,
       "unit": "F",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 907.9159999999999,
-      "liquidity": 6969.07165,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4848.875916,
+      "liquidity": null,
       "token_id": "106506156625860907179744080505841084885127640789297670181694864180369050114733",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-74-75f",
         "condition_id": "0xfbda3afd674af06ae60cd84ccea8a25a6a6b6800c116627d0ba9e379bc0410a3"
@@ -267,21 +267,21 @@
       "bucket_low": 76.0,
       "bucket_high": 77.0,
       "unit": "F",
-      "yes_price": 0.004,
-      "no_price": 0.996,
-      "volume": 82.0,
-      "liquidity": 7254.73834,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3699.212695,
+      "liquidity": null,
       "token_id": "31352564578412686494206508690335580293982911985328938886594023394407627276720",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.004,
-        0.996
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-76-77f",
         "condition_id": "0xfdc807c243d73fd720822da88eb85fe64f5c7deb54b8b1172d5590c510c694b7"
@@ -293,21 +293,21 @@
       "bucket_low": 78.0,
       "bucket_high": 999.0,
       "unit": "F",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 82.0,
-      "liquidity": 6917.78211,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 304.838095,
+      "liquidity": null,
       "token_id": "36123291485641144109832040091041101009401974756271740875828901709188743964724",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-san-francisco-on-june-6-2026-78forhigher",
         "condition_id": "0x3507c4a121827a3ef8f265395001f5ed120aeaed60f3543684fa189933d96114"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.004753+00:00",
+      "ts": "2026-06-07T16:05:37.557443+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 33060.92843,
-      "volume": 4241.645853,
+      "liquidity": null,
+      "volume": 45528.425993,
       "outcomes_count": 11,
       "top_bucket": "62.0-63.0F",
-      "top_price": 0.315,
+      "top_price": 1.0,
       "event_title": "Highest temperature in San Francisco on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-san-francisco-on-june-6-2026",
     "event_id": "560857",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-06 07:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.439896+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.004753+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.004753+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.557443+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.557443+00:00",
   "created_at": "2026-06-05T06:08:46.439896+00:00",
-  "updated_at": "2026-06-05T06:36:19.004753+00:00",
+  "updated_at": "2026-06-08T11:19:30.288626+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "62-63F",
+      "resolved_value": "62-63F",
+      "resolution_source": null,
+      "winning_market_id": "2441099",
+      "winning_question": "Will the highest temperature in San Francisco be between 62-63°F on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.558445+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 62.0,
+        "unit": "F",
+        "model": "gfs_seamless",
+        "requested_model": "gfs_seamless",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 60.0,
+        "unit": "F",
+        "model": "ncep_gefs_seamless+ecmwf_ifs025_ensemble+archive",
+        "requested_model": "ncep_gefs_seamless+ecmwf_ifs025_ensemble",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 60.0,
+            "error": null
+          },
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 60.0,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:16:48.188944+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-07T07:00:00+00:00",
+  "hours_to_settle": -9.1
 }

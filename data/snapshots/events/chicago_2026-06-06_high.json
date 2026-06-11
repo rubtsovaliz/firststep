@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 24935.35514,
-  "volume": 1428.276563,
+  "liquidity": null,
+  "volume": 52621.607086,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 71.0,
       "unit": "F",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": null,
-      "liquidity": 4997.4787,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2704.138428,
+      "liquidity": null,
       "token_id": "59141757803431915727037645088244448072997124898997334115097543993989059944133",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-71forbelow",
         "condition_id": "0x06aa8007001615c49714f468832760ca82737a342da6701a6cc8169ec1785cea"
@@ -59,21 +59,21 @@
       "bucket_low": 72.0,
       "bucket_high": 73.0,
       "unit": "F",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": null,
-      "liquidity": 4787.59006,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 96.98338999999999,
+      "liquidity": 0.0,
       "token_id": "93335392880709550141955000033149387962242027486477044387884328091013900866593",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-72-73f",
         "condition_id": "0x9b3ce0c0f5815dad058c1408eb344b3b8a0a4a4ea0e0a1b6e04ea20c27b420cc"
@@ -85,21 +85,21 @@
       "bucket_low": 74.0,
       "bucket_high": 75.0,
       "unit": "F",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 20.0,
-      "liquidity": 4189.16604,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7333.640282,
+      "liquidity": 0.0,
       "token_id": "25873683063968541211789603963059624891820693578325717706528134637918770861365",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-74-75f",
         "condition_id": "0x443a0dc5e5bc85d0fbab4253449c2ae694caaf591b074a159e3bfab451d2e067"
@@ -111,21 +111,21 @@
       "bucket_low": 76.0,
       "bucket_high": 77.0,
       "unit": "F",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 35.045,
-      "liquidity": 3503.05801,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2635.7083350000003,
+      "liquidity": null,
       "token_id": "77054974744949518193792437634708197301326353201742721429740359429736549059622",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-76-77f",
         "condition_id": "0x00f2d5f0b9917140e4bee6026090f858cef6fb51bc8f477167f002d63e2ef4da"
@@ -137,21 +137,21 @@
       "bucket_low": 78.0,
       "bucket_high": 79.0,
       "unit": "F",
-      "yes_price": 0.0255,
-      "no_price": 0.9745,
-      "volume": 17.0,
-      "liquidity": 1459.82946,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1376.5704749999998,
+      "liquidity": null,
       "token_id": "8449606535865584540860792195290533750988958740759386343786945668074436268353",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0255,
-        0.9745
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-78-79f",
         "condition_id": "0x53fe8d5e14011da9e8c85d3a27ca1c17622e700a1f782801877471901f709fe7"
@@ -163,21 +163,21 @@
       "bucket_low": 80.0,
       "bucket_high": 81.0,
       "unit": "F",
-      "yes_price": 0.065,
-      "no_price": 0.935,
-      "volume": 197.07149900000002,
-      "liquidity": 1447.9786,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4071.5009090000035,
+      "liquidity": null,
       "token_id": "30407029347039425231831468967053246306519741556660511742302117721758839897298",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.065,
-        0.935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-80-81f",
         "condition_id": "0x83b23045a5e42807b420916e3d2536b970710708335576fa06bdb19b2382fd48"
@@ -189,21 +189,21 @@
       "bucket_low": 82.0,
       "bucket_high": 83.0,
       "unit": "F",
-      "yes_price": 0.225,
-      "no_price": 0.775,
-      "volume": 231.44732899999994,
-      "liquidity": 1130.3411,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6144.4206380000005,
+      "liquidity": null,
       "token_id": "52036993312633883957881357305239900606011729216451488998090045361677620480715",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.225,
-        0.775
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-82-83f",
         "condition_id": "0x9a725e665f84eb0089f41b5de5cef2eb06b0cc96352f2222ce33d9a6d80bf2e4"
@@ -215,21 +215,21 @@
       "bucket_low": 84.0,
       "bucket_high": 85.0,
       "unit": "F",
-      "yes_price": 0.345,
-      "no_price": 0.655,
-      "volume": 64.684783,
-      "liquidity": 1008.6073,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 10016.151489,
+      "liquidity": null,
       "token_id": "10493511592542144487206009792341425135008450083846732734861402504610722363658",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.345,
-        0.655
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-84-85f",
         "condition_id": "0xf46b05b4caec04eec1db0e7a9227a3d1465f42cf761963ad2f921fd0e8155a52"
@@ -241,21 +241,21 @@
       "bucket_low": 86.0,
       "bucket_high": 87.0,
       "unit": "F",
-      "yes_price": 0.175,
-      "no_price": 0.825,
-      "volume": 215.76750099999998,
-      "liquidity": 1095.2718,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5417.697520999999,
+      "liquidity": null,
       "token_id": "93098608279919711910381697261709262234529650107412010657219888106414564634367",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.175,
-        0.825
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-86-87f",
         "condition_id": "0x845e4484fe7f3fe0b4393170622433306761f6e1dc51ef853e5137d0a0a3bdfd"
@@ -267,21 +267,21 @@
       "bucket_low": 88.0,
       "bucket_high": 89.0,
       "unit": "F",
-      "yes_price": 0.0355,
-      "no_price": 0.9645,
-      "volume": 297.23755,
-      "liquidity": 1452.00835,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5285.339151,
+      "liquidity": null,
       "token_id": "105555096727623030712172470343457564262865040874998249214779335291156588520172",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0355,
-        0.9645
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-88-89f",
         "condition_id": "0x9ead434426db987c18231741a397814332e1d1071e78ad7055d9ea27609a8d11"
@@ -293,21 +293,21 @@
       "bucket_low": 90.0,
       "bucket_high": 999.0,
       "unit": "F",
-      "yes_price": 0.016,
-      "no_price": 0.984,
-      "volume": 412.54189999999994,
-      "liquidity": 866.45825,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7539.456468000001,
+      "liquidity": null,
       "token_id": "8107137335903850226606589427836878900686796854783990759110563358293206601792",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.016,
-        0.984
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chicago-on-june-6-2026-90forhigher",
         "condition_id": "0x9b46d2c0b24330f05aeec916262a99262c5f8ea4e02bbc50f2babdad3368c3c6"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.139202+00:00",
+      "ts": "2026-06-07T16:05:37.634663+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 24935.35514,
-      "volume": 1428.276563,
+      "liquidity": null,
+      "volume": 52621.607086,
       "outcomes_count": 11,
       "top_bucket": "84.0-85.0F",
-      "top_price": 0.345,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Chicago on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-chicago-on-june-6-2026",
     "event_id": "560834",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-06 05:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.480414+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.139202+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.139202+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.634663+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.634663+00:00",
   "created_at": "2026-06-05T06:08:46.480414+00:00",
-  "updated_at": "2026-06-05T06:36:19.139202+00:00",
+  "updated_at": "2026-06-08T11:24:44.974060+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "84-85F",
+      "resolved_value": "84-85F",
+      "resolution_source": null,
+      "winning_market_id": "2440851",
+      "winning_question": "Will the highest temperature in Chicago be between 84-85°F on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.636651+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-07T05:00:00+00:00",
+  "hours_to_settle": -11.1
 }

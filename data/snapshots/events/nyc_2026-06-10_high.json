@@ -1,0 +1,351 @@
+{
+  "storage_key": "nyc_2026-06-10_high",
+  "event_id": "574812",
+  "event_slug": "highest-temperature-in-nyc-on-june-10-2026",
+  "event_title": "Highest temperature in NYC on June 10?",
+  "city_slug": "nyc",
+  "city_name": "Nyc",
+  "date": "2026-06-10",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "New York City",
+    "Daily Temperature",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-10T12:00:00Z",
+  "event_end_date": "2026-06-10T12:00:00Z",
+  "liquidity": 101939.68979,
+  "volume": 84134.5744,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2475647",
+      "question": "Will the highest temperature in New York City be 71°F or below on June 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1610.3080000000002,
+      "liquidity": 25594.07919,
+      "token_id": "19769837694226561573977479371025147763035555979417954821123389679569664995452",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-71forbelow",
+        "condition_id": "0x6618423ac8a00f2ab41d29cb9c01d4706559116e9894b1c7b037732886e71abd"
+      }
+    },
+    {
+      "market_id": "2475648",
+      "question": "Will the highest temperature in New York City be between 72-73°F on June 10?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4985.228656000002,
+      "liquidity": 28064.13874,
+      "token_id": "2637845347641333414137280834227603724021134910134311436633377605334110960743",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-72-73f",
+        "condition_id": "0x316c5efc1a0158aad22192ec84a5ae0cead9f94bb4fb50526c66553f329d5537"
+      }
+    },
+    {
+      "market_id": "2475649",
+      "question": "Will the highest temperature in New York City be between 74-75°F on June 10?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 5332.914306999999,
+      "liquidity": 19738.38943,
+      "token_id": "114244014426982029573868262235742134245279267466649775894845234669911341083749",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-74-75f",
+        "condition_id": "0x7e5bb14d6d4adad39642fa6a0d30b0af9515628ce86bd4f10da59675cd3e7842"
+      }
+    },
+    {
+      "market_id": "2475650",
+      "question": "Will the highest temperature in New York City be between 76-77°F on June 10?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 11269.685166000003,
+      "liquidity": 16611.07965,
+      "token_id": "112913601862746566829862127576865813728029949848543979201604612461381134960759",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-76-77f",
+        "condition_id": "0x2c463e74298b1f56a4b7d8e3ee22b4c5bc8c391b6f3a5170a9530a519050d486"
+      }
+    },
+    {
+      "market_id": "2475651",
+      "question": "Will the highest temperature in New York City be between 78-79°F on June 10?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 12907.647429999992,
+      "liquidity": 15820.72502,
+      "token_id": "60684662860579869693407014140299389727717158913158569458725373616260891545308",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-78-79f",
+        "condition_id": "0xf264a048595307cf9bfe2de95958609bacd8c9238449a51a29342bb13858eb3a"
+      }
+    },
+    {
+      "market_id": "2475652",
+      "question": "Will the highest temperature in New York City be between 80-81°F on June 10?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.19,
+      "no_price": 0.81,
+      "volume": 8100.972841000005,
+      "liquidity": 782.6544,
+      "token_id": "75368478749071369922607973436383561387615846634928292472918588261417874674289",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.19,
+        0.81
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-80-81f",
+        "condition_id": "0x2908d4b71ca0dc88c76e253e32acc55ffbab4781010a92aacd33bccc6ee3e8d2"
+      }
+    },
+    {
+      "market_id": "2475653",
+      "question": "Will the highest temperature in New York City be between 82-83°F on June 10?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.7,
+      "no_price": 0.3,
+      "volume": 8892.573058000004,
+      "liquidity": 410.236,
+      "token_id": "50619474651670612814505797421950850895864022082202590223167905657878737053409",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.7,
+        0.3
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-82-83f",
+        "condition_id": "0xa4dfb0b5297b65e7d05a0f5d1d5c90ca1fa8559c30bb357a83c2238b064abab9"
+      }
+    },
+    {
+      "market_id": "2475654",
+      "question": "Will the highest temperature in New York City be between 84-85°F on June 10?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.105,
+      "no_price": 0.895,
+      "volume": 7714.135920999999,
+      "liquidity": 805.22105,
+      "token_id": "55745187148966220862435723990170120881739652753709885185454745859122431325071",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.105,
+        0.895
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-84-85f",
+        "condition_id": "0x71de19bf808fd231f9c404f15d96b12f71a3ad5a101c543e128b9089a24e19b2"
+      }
+    },
+    {
+      "market_id": "2475655",
+      "question": "Will the highest temperature in New York City be between 86-87°F on June 10?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.007,
+      "no_price": 0.993,
+      "volume": 11906.038994999999,
+      "liquidity": 959.09115,
+      "token_id": "42889425288376131391832400870493486454178870634248515877679930497933157773556",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.007,
+        0.993
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-86-87f",
+        "condition_id": "0x7c98fb77e851b19f5219b2e506552cd6b3b17c817f966dc3a162ae90dfd573cb"
+      }
+    },
+    {
+      "market_id": "2475656",
+      "question": "Will the highest temperature in New York City be between 88-89°F on June 10?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 7229.847472999998,
+      "liquidity": 1816.0777,
+      "token_id": "52788284980105213632044747525666250609012833361659942200346807455428359679266",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-88-89f",
+        "condition_id": "0x66ab392e9f0ca69a2f50f1a9e98217b126503f60930ec67ee240903b19a29ae5"
+      }
+    },
+    {
+      "market_id": "2475657",
+      "question": "Will the highest temperature in New York City be 90°F or higher on June 10?",
+      "bucket_low": 90.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 5937.090861,
+      "liquidity": 2090.15344,
+      "token_id": "76978646509016458592735283422710431323278960386207830373574702405863314098401",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-nyc-on-june-10-2026-90forhigher",
+        "condition_id": "0xd7c0fabdbcff8b33792e6f087e9ea3adec836571c6e05a10ab50f91aced4e0a4"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.720811+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-10T12:00:00Z",
+      "liquidity": 101939.68979,
+      "volume": 84134.5744,
+      "outcomes_count": 11,
+      "top_bucket": "82.0-83.0F",
+      "top_price": 0.7,
+      "event_title": "Highest temperature in NYC on June 10?"
+    }
+  ],
+  "settle_at": "2026-06-11T04:00:00+00:00",
+  "hours_to_settle": 10.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-nyc-on-june-10-2026",
+    "event_id": "574812",
+    "markets_count": 11,
+    "game_start_time": "2026-06-10 04:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-09T07:53:26.428650+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.720811+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.720811+00:00",
+  "created_at": "2026-06-09T07:53:26.428650+00:00",
+  "updated_at": "2026-06-10T17:17:26.720811+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

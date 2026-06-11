@@ -1,0 +1,353 @@
+{
+  "storage_key": "tokyo_2026-05-23_low",
+  "event_id": "500781",
+  "event_slug": "lowest-temperature-in-tokyo-on-may-23-2026",
+  "event_title": "Lowest temperature in Tokyo on May 23?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-05-23",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Tokyo",
+    "Rewards Automation 50 4.5 50",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-23T12:00:00Z",
+  "event_end_date": "2026-05-23T12:00:00Z",
+  "liquidity": 5466.4902,
+  "volume": 99.9391,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2300052",
+      "question": "Will the lowest temperature in Tokyo be 9°C or below on May 23?",
+      "bucket_low": -999.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.24,
+      "no_price": 0.76,
+      "volume": 99.9391,
+      "liquidity": 15.6402,
+      "token_id": "1454443629316622257091184388515564286226127052328252931120691713292471375055",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.24,
+        0.76
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-9corbelow",
+        "condition_id": "0x4148751333e35cf8ee99c550deaba4a331da6a19d12b3e54f90700745533921d"
+      }
+    },
+    {
+      "market_id": "2300053",
+      "question": "Will the lowest temperature in Tokyo be 10°C on May 23?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.18,
+      "no_price": 0.82,
+      "volume": null,
+      "liquidity": 604.87,
+      "token_id": "9065981998544898595565103502585637030550634909180361139230932448186428112574",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.18,
+        0.82
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-10c",
+        "condition_id": "0x02f0b432282c298a6c562b59f6e27494d4944b78bfe67bb01f052f1a9f40d457"
+      }
+    },
+    {
+      "market_id": "2300054",
+      "question": "Will the lowest temperature in Tokyo be 11°C on May 23?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.195,
+      "no_price": 0.805,
+      "volume": null,
+      "liquidity": 603.72,
+      "token_id": "101680895468010392412357553852857018030107454943051378010830657804748906517305",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.195,
+        0.805
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-11c",
+        "condition_id": "0xaa9658e15a791380eb99318541b97b40929113a957806dacb3776d3337f52d88"
+      }
+    },
+    {
+      "market_id": "2300055",
+      "question": "Will the lowest temperature in Tokyo be 12°C on May 23?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.195,
+      "no_price": 0.805,
+      "volume": null,
+      "liquidity": 603.72,
+      "token_id": "78202255067751869862227661841121274431393593046367292767326793498433155564690",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.195,
+        0.805
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-12c",
+        "condition_id": "0x5c7c31e195f90b6df49f0e521ccce8672eb96cc31db9506e333de59f7587882d"
+      }
+    },
+    {
+      "market_id": "2300056",
+      "question": "Will the lowest temperature in Tokyo be 13°C on May 23?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.195,
+      "no_price": 0.805,
+      "volume": null,
+      "liquidity": 603.72,
+      "token_id": "77321139915823937337302247421485253998371030625927553740020248374583212540860",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.195,
+        0.805
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-13c",
+        "condition_id": "0xfd6bb6db83fedcd81f2c224f1b797977d027c52769edff12d61c0b6fe3816403"
+      }
+    },
+    {
+      "market_id": "2300057",
+      "question": "Will the lowest temperature in Tokyo be 14°C on May 23?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.18,
+      "no_price": 0.82,
+      "volume": null,
+      "liquidity": 604.55,
+      "token_id": "80897259131658415202826178324172585861811713597379924580636312048297885674362",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.18,
+        0.82
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-14c",
+        "condition_id": "0xd9181769ca02f366678b0649760c88139283a2154791a3af7a74607dc1adc1c9"
+      }
+    },
+    {
+      "market_id": "2300058",
+      "question": "Will the lowest temperature in Tokyo be 15°C on May 23?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.165,
+      "no_price": 0.835,
+      "volume": null,
+      "liquidity": 604.25,
+      "token_id": "11154477540183807584915889285809406522340531918284856236707412221362305655297",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.165,
+        0.835
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-15c",
+        "condition_id": "0x50ca5679ad9f33a7ab4dbb9bb0a2233f9cdb683a58988038453505922107ee53"
+      }
+    },
+    {
+      "market_id": "2300059",
+      "question": "Will the lowest temperature in Tokyo be 16°C on May 23?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.145,
+      "no_price": 0.855,
+      "volume": null,
+      "liquidity": 604.4,
+      "token_id": "83556300242238590074737250645576865336665726019755210944335819275305567577843",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.145,
+        0.855
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-16c",
+        "condition_id": "0xcd45c244d5cfed1ea2bb817a0331ace22250661ecedf7df27b786567cc7e4061"
+      }
+    },
+    {
+      "market_id": "2300060",
+      "question": "Will the lowest temperature in Tokyo be 17°C on May 23?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.13,
+      "no_price": 0.87,
+      "volume": null,
+      "liquidity": 605.54,
+      "token_id": "105564560817785081188770414331477638055332137707787969455540270499883531985494",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.13,
+        0.87
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-17c",
+        "condition_id": "0xeb6d812463d4d0bc48a374259083d2625c3aea35b80f017a59a38dd719d63057"
+      }
+    },
+    {
+      "market_id": "2300061",
+      "question": "Will the lowest temperature in Tokyo be 18°C on May 23?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.115,
+      "no_price": 0.885,
+      "volume": null,
+      "liquidity": 602.84,
+      "token_id": "63508362740139896180696630249322338933119265593090370184723120213602651897624",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.115,
+        0.885
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-18c",
+        "condition_id": "0x2ad547f8a2073bcba044dcdc13383595286bf64c7c585994996259b4c53906db"
+      }
+    },
+    {
+      "market_id": "2300062",
+      "question": "Will the lowest temperature in Tokyo be 19°C or higher on May 23?",
+      "bucket_low": 19.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.245,
+      "no_price": 0.755,
+      "volume": null,
+      "liquidity": 13.24,
+      "token_id": "83062115856197231510877348471468927664351820891984464616160464439681907823003",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.245,
+        0.755
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-tokyo-on-may-23-2026-19corhigher",
+        "condition_id": "0x2a38969922b3b60f23d0c1195adef6a2aab2926ce62a36b8e597bd29994c4f2f"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:44.928109+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-23T12:00:00Z",
+      "liquidity": 5466.4902,
+      "volume": 99.9391,
+      "outcomes_count": 11,
+      "top_bucket": ">=19.0C",
+      "top_price": 0.245,
+      "event_title": "Lowest temperature in Tokyo on May 23?"
+    }
+  ],
+  "settle_at": "2026-05-23T15:00:00+00:00",
+  "hours_to_settle": -361.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-tokyo-on-may-23-2026",
+    "event_id": "500781",
+    "markets_count": 11,
+    "game_start_time": "2026-05-22 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:44.928109+00:00",
+  "last_seen_at": "2026-06-07T16:05:44.928109+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:44.928109+00:00",
+  "created_at": "2026-06-07T16:05:44.928109+00:00",
+  "updated_at": "2026-06-10T17:17:31.129039+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "gamma_enriched_at": "2026-06-07T16:05:46.230505+00:00"
+  },
+  "legacy": null
+}

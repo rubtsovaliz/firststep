@@ -1,0 +1,360 @@
+{
+  "storage_key": "paris_2026-05-04_high",
+  "event_id": "439941",
+  "event_slug": "highest-temperature-in-paris-on-may-4-2026",
+  "event_title": "Highest temperature in Paris on May 4?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-05-04",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-04T12:00:00Z",
+  "event_end_date": "2026-05-04T12:00:00Z",
+  "liquidity": null,
+  "volume": 157938.75690999994,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2137151",
+      "question": "Will the highest temperature in Paris be 14°C or below on May 4?",
+      "bucket_low": -999.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4260.9231,
+      "liquidity": null,
+      "token_id": "70776808125888862861989662320685513948385225678883259633283768625477735301095",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-14corbelow",
+        "condition_id": "0xf44ee57ab21692167caa58d46e3dc5fc5628e2c8c3821104f565a46ff6882efd"
+      }
+    },
+    {
+      "market_id": "2137152",
+      "question": "Will the highest temperature in Paris be 15°C on May 4?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5655.285637999999,
+      "liquidity": null,
+      "token_id": "100084022462957732677185322569637673723304927582608844921433016233229039749039",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-15c",
+        "condition_id": "0x675215eccf2c30456ce232a0c79b449df02ecce976cee5255f0a1006c9b6c6e7"
+      }
+    },
+    {
+      "market_id": "2137153",
+      "question": "Will the highest temperature in Paris be 16°C on May 4?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18513.677401999987,
+      "liquidity": null,
+      "token_id": "10519726342688151992642695284771485569364156898498515076953399174547337422203",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-16c",
+        "condition_id": "0xa524c7bba0c9a0f6a6fee7cceac5ef311073b7e0448bb4388999820cf3f374ef"
+      }
+    },
+    {
+      "market_id": "2137154",
+      "question": "Will the highest temperature in Paris be 17°C on May 4?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 22341.099957,
+      "liquidity": null,
+      "token_id": "53818922231624722118804579467127000296750992156635269142097983681545850387335",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-17c",
+        "condition_id": "0x01c076d673d1fd43d04540c80ec0a2e2d5f7f9a331431301ee6aed8d9910621b"
+      }
+    },
+    {
+      "market_id": "2137155",
+      "question": "Will the highest temperature in Paris be 18°C on May 4?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 24533.98048099998,
+      "liquidity": null,
+      "token_id": "75151475013215312478141164753069491976096334002261845627733396125467721301687",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-18c",
+        "condition_id": "0x1eaf782b96ad0ba896d9ccaab5dc4b2ea03be8552e90060a499d20a7b3aa1cc0"
+      }
+    },
+    {
+      "market_id": "2137156",
+      "question": "Will the highest temperature in Paris be 19°C on May 4?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 22408.379571999973,
+      "liquidity": null,
+      "token_id": "52336694497408361906195095968603997232138771926954167031468558954810421216702",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-19c",
+        "condition_id": "0x3c9fc4bbd62abdeafc6156a57b2a11438895a3d875d4f3abd11bc992412af55d"
+      }
+    },
+    {
+      "market_id": "2137157",
+      "question": "Will the highest temperature in Paris be 20°C on May 4?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 26222.180226000004,
+      "liquidity": null,
+      "token_id": "94949042257860292783494961395348601183466359553902930564587119210414826835500",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-20c",
+        "condition_id": "0x4dbd8d2d72ee4a22ac1f39cee30789a56fe875911a6dcb967d6105d46c61da0d"
+      }
+    },
+    {
+      "market_id": "2137158",
+      "question": "Will the highest temperature in Paris be 21°C on May 4?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15545.440018999994,
+      "liquidity": null,
+      "token_id": "14190371484241590715678897944463588989915094707236093878861981105931392320984",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-21c",
+        "condition_id": "0x1dd486b3541c436d44ecfcc6d2ba645235ad656e94346de499c70cc57c56482a"
+      }
+    },
+    {
+      "market_id": "2137159",
+      "question": "Will the highest temperature in Paris be 22°C on May 4?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8618.584687999999,
+      "liquidity": null,
+      "token_id": "115086983718470193807920657254259361970573399715783815450823765233232176545913",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-22c",
+        "condition_id": "0xfc7550640f7d1f090dc034c5e8ea09862d557946beb1a63a2991c633c70f8274"
+      }
+    },
+    {
+      "market_id": "2137160",
+      "question": "Will the highest temperature in Paris be 23°C on May 4?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4237.323645999998,
+      "liquidity": null,
+      "token_id": "94549302023175103325707385933366832846701577565262561051453818169576446663698",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-23c",
+        "condition_id": "0x89604b6ec3adba6258a483dfa63b36f3aa51a93da970d9818a6faa20747971e3"
+      }
+    },
+    {
+      "market_id": "2137161",
+      "question": "Will the highest temperature in Paris be 24°C or higher on May 4?",
+      "bucket_low": 24.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5601.882181,
+      "liquidity": null,
+      "token_id": "19864572665440622944426192226867405560469685863109677796789170380376532634086",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-may-4-2026-24corhigher",
+        "condition_id": "0x7ad233a43a76731f6cb5c1a574bad18e51b102e8e6833820da9c446e8e06f770"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.096558+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-04T12:00:00Z",
+      "liquidity": null,
+      "volume": 157938.75690999994,
+      "outcomes_count": 11,
+      "top_bucket": "18.0-18.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Paris on May 4?"
+    }
+  ],
+  "settle_at": "2026-05-04T22:00:00+00:00",
+  "hours_to_settle": -810.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-paris-on-may-4-2026",
+    "event_id": "439941",
+    "markets_count": 11,
+    "game_start_time": "2026-05-03 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.096558+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.096558+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.096558+00:00",
+  "created_at": "2026-06-07T16:06:02.096558+00:00",
+  "updated_at": "2026-06-10T17:17:30.368604+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "18C",
+      "resolved_value": "18C",
+      "resolution_source": null,
+      "winning_market_id": "2137155",
+      "winning_question": "Will the highest temperature in Paris be 18°C on May 4?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.098590+00:00"
+  },
+  "legacy": null
+}

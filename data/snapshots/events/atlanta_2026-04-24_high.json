@@ -1,0 +1,360 @@
+{
+  "storage_key": "atlanta_2026-04-24_high",
+  "event_id": "405196",
+  "event_slug": "highest-temperature-in-atlanta-on-april-24-2026",
+  "event_title": "Highest temperature in Atlanta on April 24?",
+  "city_slug": "atlanta",
+  "city_name": "Atlanta",
+  "date": "2026-04-24",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Atlanta",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-24T12:00:00Z",
+  "event_end_date": "2026-04-24T12:00:00Z",
+  "liquidity": null,
+  "volume": 109629.102138,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2049465",
+      "question": "Will the highest temperature in Atlanta be 73°F or below on April 24?",
+      "bucket_low": -999.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7603.512815000001,
+      "liquidity": null,
+      "token_id": "50090202722745294292276688804063972541606050957270368664619079366217683999023",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-73forbelow",
+        "condition_id": "0x9751fdd7a8bb53d5d8e1396b59e7be50fdb28db245ede7a41bd56a9c46fce9ce"
+      }
+    },
+    {
+      "market_id": "2049466",
+      "question": "Will the highest temperature in Atlanta be between 74-75°F on April 24?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2013.8316090000008,
+      "liquidity": null,
+      "token_id": "86744127387314360513811453105607014299800437601508003911106564205888157376321",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-74-75f",
+        "condition_id": "0xe04ce1c7ce30783d11b130e06b7c9838dc5e9342459ec37a1cdc82b5dde299a3"
+      }
+    },
+    {
+      "market_id": "2049467",
+      "question": "Will the highest temperature in Atlanta be between 76-77°F on April 24?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5190.337020000002,
+      "liquidity": null,
+      "token_id": "67153942168339764362033030850539387174605629656879898467920717801884051445600",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-76-77f",
+        "condition_id": "0x66d29108a8b5be18d22cfce0569a51a82b7731bc86ba775cf7f5dd1d5a55c02d"
+      }
+    },
+    {
+      "market_id": "2049468",
+      "question": "Will the highest temperature in Atlanta be between 78-79°F on April 24?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9419.057771000005,
+      "liquidity": null,
+      "token_id": "1337793900272919659318977783475223538069826045023476610575127518437637868526",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-78-79f",
+        "condition_id": "0x003e6b5ea6e470ede27bcc7db282fff3724e7f1dc13667f670e084df1814603d"
+      }
+    },
+    {
+      "market_id": "2049469",
+      "question": "Will the highest temperature in Atlanta be between 80-81°F on April 24?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15134.109246000005,
+      "liquidity": null,
+      "token_id": "557254527053447864892246727150785383593658301120680444710903956727071722524",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-80-81f",
+        "condition_id": "0xcbb2d14a13030d45278187d122040af689d67a8c8e4797a7bced8311b95f6a95"
+      }
+    },
+    {
+      "market_id": "2049470",
+      "question": "Will the highest temperature in Atlanta be between 82-83°F on April 24?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 23223.419739000004,
+      "liquidity": null,
+      "token_id": "58635646854857240352966943612559860533084700104148290237920765520228922667537",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-82-83f",
+        "condition_id": "0x458997c344dd2085e602963e8a8b00efb73e4efe57084191b151fef9c1218d0c"
+      }
+    },
+    {
+      "market_id": "2049471",
+      "question": "Will the highest temperature in Atlanta be between 84-85°F on April 24?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 23852.776108999984,
+      "liquidity": null,
+      "token_id": "27767250555476033636430023085738075553040879813281281946528476447538795765001",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-84-85f",
+        "condition_id": "0xab65800679676a1d206da8b8133b46bd01186f8cd0b490a86fd8cd27572704d5"
+      }
+    },
+    {
+      "market_id": "2049472",
+      "question": "Will the highest temperature in Atlanta be between 86-87°F on April 24?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10253.322239999996,
+      "liquidity": null,
+      "token_id": "69364154953717552587570541220726158861979113340617037971326000119336084968354",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-86-87f",
+        "condition_id": "0x4b987fb294308cf9b8dc1cc5483a3b91e2c3b330daf720eee37241b5c33e6dde"
+      }
+    },
+    {
+      "market_id": "2049473",
+      "question": "Will the highest temperature in Atlanta be between 88-89°F on April 24?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5839.070752,
+      "liquidity": null,
+      "token_id": "102305014454939662525885116694832546489538731011934314692823176408839605575845",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-88-89f",
+        "condition_id": "0xe76bb7895dace933d67fcab7ae3d3da7f677d619ccdf68d3dcb908ea3a71d3e9"
+      }
+    },
+    {
+      "market_id": "2049474",
+      "question": "Will the highest temperature in Atlanta be between 90-91°F on April 24?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3453.4732639999997,
+      "liquidity": null,
+      "token_id": "113619908869304776711510857100256830101118979663168315954756924801772193834268",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-90-91f",
+        "condition_id": "0x243304cd4a5924a14357e6860c184544a69c56513287d755351d73122df5a265"
+      }
+    },
+    {
+      "market_id": "2049475",
+      "question": "Will the highest temperature in Atlanta be 92°F or higher on April 24?",
+      "bucket_low": 92.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3646.191573000001,
+      "liquidity": null,
+      "token_id": "102700116736426754156881979181567013503257245604408074399436388956238361986144",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-april-24-2026-92forhigher",
+        "condition_id": "0x33d2cd02b887e64676b5b909cd959da8578fead8e629e7043258034a77e29e48"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:04.278100+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-24T12:00:00Z",
+      "liquidity": null,
+      "volume": 109629.102138,
+      "outcomes_count": 11,
+      "top_bucket": "84.0-85.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Atlanta on April 24?"
+    }
+  ],
+  "settle_at": "2026-04-25T04:00:00+00:00",
+  "hours_to_settle": -1044.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-atlanta-on-april-24-2026",
+    "event_id": "405196",
+    "markets_count": 11,
+    "game_start_time": "2026-04-24 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:04.278100+00:00",
+  "last_seen_at": "2026-06-07T16:06:04.278100+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:04.278100+00:00",
+  "created_at": "2026-06-07T16:06:04.278100+00:00",
+  "updated_at": "2026-06-10T17:17:28.393655+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "84-85F",
+      "resolved_value": "84-85F",
+      "resolution_source": null,
+      "winning_market_id": "2049471",
+      "winning_question": "Will the highest temperature in Atlanta be between 84-85°F on April 24?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:04.280105+00:00"
+  },
+  "legacy": null
+}

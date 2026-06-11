@@ -1,0 +1,360 @@
+{
+  "storage_key": "beijing_2026-04-23_high",
+  "event_id": "401693",
+  "event_slug": "highest-temperature-in-beijing-on-april-23-2026",
+  "event_title": "Highest temperature in Beijing on April 23?",
+  "city_slug": "beijing",
+  "city_name": "Beijing",
+  "date": "2026-04-23",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Beijing",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-23T12:00:00Z",
+  "event_end_date": "2026-04-23T12:00:00Z",
+  "liquidity": null,
+  "volume": 113076.79334499998,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2040459",
+      "question": "Will the highest temperature in Beijing be 22°C or below on April 23?",
+      "bucket_low": -999.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15065.498727999999,
+      "liquidity": null,
+      "token_id": "32674786019912171705853099082017016364082162278131615091440939077125528544196",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-22corbelow",
+        "condition_id": "0x008d1d108adf0bad105d67ab0ff29278ade2e42a08e0280b7a1e6eff67d286cb"
+      }
+    },
+    {
+      "market_id": "2040460",
+      "question": "Will the highest temperature in Beijing be 23°C on April 23?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18298.562588,
+      "liquidity": null,
+      "token_id": "8431357715887922335909644548709407739447460978954925257664327098581538020739",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-23c",
+        "condition_id": "0xfc340731150e5452090f7ddecf4b587e33123eefe0bc2e5207dba2ecce958fc5"
+      }
+    },
+    {
+      "market_id": "2040461",
+      "question": "Will the highest temperature in Beijing be 24°C on April 23?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14880.46435299999,
+      "liquidity": null,
+      "token_id": "21566447027654051954463647479102067340566578824637319845242246500457092132358",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-24c",
+        "condition_id": "0x0c4871a3e1c3042aea49400e7c91c225a87dde20495d2e33ae0fa630adab3ad9"
+      }
+    },
+    {
+      "market_id": "2040462",
+      "question": "Will the highest temperature in Beijing be 25°C on April 23?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 19327.054224999985,
+      "liquidity": null,
+      "token_id": "72033450016899973341933790720082434570992368137658691590336749387513473497631",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-25c",
+        "condition_id": "0x2ac0be05d06a8fedc513d54ab1657b29907070a25e51c61cecdcf59f8bc3dc3b"
+      }
+    },
+    {
+      "market_id": "2040463",
+      "question": "Will the highest temperature in Beijing be 26°C on April 23?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13431.505531,
+      "liquidity": null,
+      "token_id": "37933563478902582162425195984476812400772440332875782415776656924802617667558",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-26c",
+        "condition_id": "0xb353b2242e555d9bc7c0b3cfc3ad72e500c7a434f4b4552bce50eb9af874859d"
+      }
+    },
+    {
+      "market_id": "2040464",
+      "question": "Will the highest temperature in Beijing be 27°C on April 23?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8239.785614,
+      "liquidity": null,
+      "token_id": "17809211048824649906972188277146605747755810969538471142767925463987772887139",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-27c",
+        "condition_id": "0x26bdd4778645192ac277c7495d19dee2cf15d0b2b6a2b195213be0ccf79ceb19"
+      }
+    },
+    {
+      "market_id": "2040465",
+      "question": "Will the highest temperature in Beijing be 28°C on April 23?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12250.345942000005,
+      "liquidity": null,
+      "token_id": "98845413422318989502790341677546777569805315046712949629442344037436882669131",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-28c",
+        "condition_id": "0x6f4b89d77480e1c40dc6093019adbd2bb6c92fb9bdfb8814930ed8e0f656712b"
+      }
+    },
+    {
+      "market_id": "2040466",
+      "question": "Will the highest temperature in Beijing be 29°C on April 23?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5278.876432999999,
+      "liquidity": null,
+      "token_id": "13809369871010208136588184303346524858383630445097356825735613280248355810064",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-29c",
+        "condition_id": "0xff60ac6c6634861834af461417ec1ca7f5c614fc6407ef62c4383b56b2340c39"
+      }
+    },
+    {
+      "market_id": "2040467",
+      "question": "Will the highest temperature in Beijing be 30°C on April 23?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1836.9339999999993,
+      "liquidity": null,
+      "token_id": "11401436555284219455860778407721597995327221756002592391336730515770882897339",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-30c",
+        "condition_id": "0x552e20348abcebd03dc4e04046cb76aa8e32f715944af9893b0257b13ef9efd7"
+      }
+    },
+    {
+      "market_id": "2040468",
+      "question": "Will the highest temperature in Beijing be 31°C on April 23?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1527.5670659999994,
+      "liquidity": null,
+      "token_id": "102758411778519030180806020077247122403180219928988915386640707962066673252494",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-31c",
+        "condition_id": "0xa5334f011583f2989c6418ba93c44ee91cd43031f99ed0cecf7562d2cb64ab90"
+      }
+    },
+    {
+      "market_id": "2040469",
+      "question": "Will the highest temperature in Beijing be 32°C or higher on April 23?",
+      "bucket_low": 32.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2940.198865000004,
+      "liquidity": null,
+      "token_id": "1918285006891543813563894283552143918293891631569974113869711081502921702599",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-april-23-2026-32corhigher",
+        "condition_id": "0x3afd3fcc2958cb127f4aec9ab7152f0507b353d95ff7bdb3fb80182e50d55fed"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:04.407730+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-23T12:00:00Z",
+      "liquidity": null,
+      "volume": 113076.79334499998,
+      "outcomes_count": 11,
+      "top_bucket": "25.0-25.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Beijing on April 23?"
+    }
+  ],
+  "settle_at": "2026-04-23T16:00:00+00:00",
+  "hours_to_settle": -1080.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-beijing-on-april-23-2026",
+    "event_id": "401693",
+    "markets_count": 11,
+    "game_start_time": "2026-04-22 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:04.407730+00:00",
+  "last_seen_at": "2026-06-07T16:06:04.407730+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:04.407730+00:00",
+  "created_at": "2026-06-07T16:06:04.407730+00:00",
+  "updated_at": "2026-06-10T17:17:28.486915+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "25C",
+      "resolved_value": "25C",
+      "resolution_source": null,
+      "winning_market_id": "2040462",
+      "winning_question": "Will the highest temperature in Beijing be 25°C on April 23?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:04.408768+00:00"
+  },
+  "legacy": null
+}

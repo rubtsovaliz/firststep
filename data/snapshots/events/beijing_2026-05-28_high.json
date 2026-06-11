@@ -1,0 +1,397 @@
+{
+  "storage_key": "beijing_2026-05-28_high",
+  "event_id": "525775",
+  "event_slug": "highest-temperature-in-beijing-on-may-28-2026",
+  "event_title": "Highest temperature in Beijing on May 28?",
+  "city_slug": "beijing",
+  "city_name": "Beijing",
+  "date": "2026-05-28",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Beijing",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-28T12:00:00Z",
+  "event_end_date": "2026-05-28T12:00:00Z",
+  "liquidity": null,
+  "volume": 97643.49293600001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2358742",
+      "question": "Will the highest temperature in Beijing be 27°C or below on May 28?",
+      "bucket_low": -999.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8469.164143,
+      "liquidity": null,
+      "token_id": "27623532049981944244333244003362738517555573248745085050312357926858530760293",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-27corbelow",
+        "condition_id": "0x9f88b2319efb74c3fa9a9f17006dcd491141c08e0003715136b1d0e5a3809f98"
+      }
+    },
+    {
+      "market_id": "2358743",
+      "question": "Will the highest temperature in Beijing be 28°C on May 28?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10843.442234,
+      "liquidity": null,
+      "token_id": "87083851437666088929729835402981972707367411564226195877890664197194591365002",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-28c",
+        "condition_id": "0x6511f61ecff30964afbef697dfcac81229e7108a895fb3eade9a01217443999f"
+      }
+    },
+    {
+      "market_id": "2358744",
+      "question": "Will the highest temperature in Beijing be 29°C on May 28?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 19745.71715,
+      "liquidity": null,
+      "token_id": "89710270600170215008144813450692232127817249042670395560275958257476674463499",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-29c",
+        "condition_id": "0x52071afd583b895b8d011df2c76d6ec41152c17efd77de108751c74c6375b838"
+      }
+    },
+    {
+      "market_id": "2358745",
+      "question": "Will the highest temperature in Beijing be 30°C on May 28?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 14525.378398000003,
+      "liquidity": null,
+      "token_id": "4942643844524716148816329188693993509464945823647287717161401841702007897438",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-30c",
+        "condition_id": "0x9fc45be48faa072bf58296160d779c240b5500c6d98a72d9878556a19340734b"
+      }
+    },
+    {
+      "market_id": "2358746",
+      "question": "Will the highest temperature in Beijing be 31°C on May 28?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16371.160992,
+      "liquidity": null,
+      "token_id": "25158169036697866687460549639045483431037756971762682489942183372530240252915",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-31c",
+        "condition_id": "0x6320d43bf61d91559b72b806027fc800b12a98588cb0052a9658e3373e488f75"
+      }
+    },
+    {
+      "market_id": "2358747",
+      "question": "Will the highest temperature in Beijing be 32°C on May 28?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11777.586543000009,
+      "liquidity": null,
+      "token_id": "110837535270876309969110375219328767468637782834269872962977808398027540939034",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-32c",
+        "condition_id": "0x96ac5d8a3f33a353cc1e488596f9e1dececa5b7d89d752e6a5ddf83c71bc9493"
+      }
+    },
+    {
+      "market_id": "2358748",
+      "question": "Will the highest temperature in Beijing be 33°C on May 28?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5438.119863999997,
+      "liquidity": null,
+      "token_id": "16563657233684005846004690536151057115735399251558706918803957722031450055738",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-33c",
+        "condition_id": "0xd52ec695b422ad050573edf953054784c00a3447009d29da86227cc3b04a3939"
+      }
+    },
+    {
+      "market_id": "2358749",
+      "question": "Will the highest temperature in Beijing be 34°C on May 28?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5461.106141000001,
+      "liquidity": null,
+      "token_id": "106950833157911124876683151353692758101400386788281501103575953112420682895591",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-34c",
+        "condition_id": "0x165b744a9594cf223247e6f3a32e0088889a318777ecb527764ed634f80b1062"
+      }
+    },
+    {
+      "market_id": "2358750",
+      "question": "Will the highest temperature in Beijing be 35°C on May 28?",
+      "bucket_low": 35.0,
+      "bucket_high": 35.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1222.923699,
+      "liquidity": null,
+      "token_id": "40901162068688386201684426796507251894742469170823595681714878323750117935665",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-35c",
+        "condition_id": "0x01634f1b94a7837b740025c342cb9266dac016e7123bde4570b1a063bb502525"
+      }
+    },
+    {
+      "market_id": "2358751",
+      "question": "Will the highest temperature in Beijing be 36°C on May 28?",
+      "bucket_low": 36.0,
+      "bucket_high": 36.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2108.7328319999997,
+      "liquidity": null,
+      "token_id": "63122489977622724051358001080940309228929592515716669191248416603080830516127",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-36c",
+        "condition_id": "0x45ccc4ac2bc325fbc46fee0c362e7392ebe4dd7c52c0ce9e0384604a9af0aac1"
+      }
+    },
+    {
+      "market_id": "2358752",
+      "question": "Will the highest temperature in Beijing be 37°C or higher on May 28?",
+      "bucket_low": 37.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1680.1609399999998,
+      "liquidity": null,
+      "token_id": "113724459086524112019620255170134315750102597214120715458441260797950729547621",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-may-28-2026-37corhigher",
+        "condition_id": "0x0a42c35f44c85d36d4f83bd557871e8ade306c6ac8b6bade66e5890843f86b3c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:39.614342+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-28T12:00:00Z",
+      "liquidity": null,
+      "volume": 97643.49293600001,
+      "outcomes_count": 11,
+      "top_bucket": "30.0-30.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Beijing on May 28?"
+    }
+  ],
+  "settle_at": "2026-05-28T16:00:00+00:00",
+  "hours_to_settle": -240.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-beijing-on-may-28-2026",
+    "event_id": "525775",
+    "markets_count": 11,
+    "game_start_time": "2026-05-27 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:39.614342+00:00",
+  "last_seen_at": "2026-06-07T16:05:39.614342+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:39.614342+00:00",
+  "created_at": "2026-06-07T16:05:39.614342+00:00",
+  "updated_at": "2026-06-10T17:55:40.099854+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "30C",
+      "resolved_value": "30C",
+      "resolution_source": null,
+      "winning_market_id": "2358745",
+      "winning_question": "Will the highest temperature in Beijing be 30°C on May 28?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:39.615344+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T17:55:40.099854+00:00",
+      "single": {
+        "city_slug": "beijing",
+        "date": "2026-05-28",
+        "metric": "high",
+        "model": "cma_grapes_global",
+        "requested_model": "cma_grapes_global",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 26.0,
+        "error": null
+      },
+      "ensemble": {
+        "city_slug": "beijing",
+        "date": "2026-05-28",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "unit": null,
+        "temp": null,
+        "error": "outside_ensemble_window",
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": null,
+            "error": "outside_ensemble_window"
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": null,
+            "error": "outside_ensemble_window"
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null
+}

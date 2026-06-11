@@ -1,0 +1,307 @@
+{
+  "storage_key": "toronto_2026-03-14_high",
+  "event_id": "262791",
+  "event_slug": "highest-temperature-in-toronto-on-march-14-2026",
+  "event_title": "Highest temperature in Toronto on March 14?",
+  "city_slug": "toronto",
+  "city_name": "Toronto",
+  "date": "2026-03-14",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Toronto",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-14T12:00:00Z",
+  "event_end_date": "2026-03-14T12:00:00Z",
+  "liquidity": null,
+  "volume": null,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1566169",
+      "question": "Will the highest temperature in Toronto be -4°C or below on March 14?",
+      "bucket_low": -999.0,
+      "bucket_high": -4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "92012039911225731551003614561608733510839044704844429230753967941015022727045",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-neg-4corbelow",
+        "condition_id": "0x78306e797309243e8d6ca880cf690b80045661e05ba93bf70b690df477210beb"
+      }
+    },
+    {
+      "market_id": "1566170",
+      "question": "Will the highest temperature in Toronto be -3°C on March 14?",
+      "bucket_low": -3.0,
+      "bucket_high": -3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "53075842181255867736521811994423313311875126321862519579983599026442659580755",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-neg-3c",
+        "condition_id": "0x879faceb6260ec85d5841530f77c02bd541f63c003f4c169c26e0230d62b97cd"
+      }
+    },
+    {
+      "market_id": "1566171",
+      "question": "Will the highest temperature in Toronto be -2°C on March 14?",
+      "bucket_low": -2.0,
+      "bucket_high": -2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "69739585909527674923387693218826286102928558675475806734375661943997805682948",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-neg-2c",
+        "condition_id": "0x14e891ccb2eeff9ff115e0296441dcd72df389703a999febcbf9e1875747f0b3"
+      }
+    },
+    {
+      "market_id": "1566172",
+      "question": "Will the highest temperature in Toronto be -1°C on March 14?",
+      "bucket_low": -1.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "83083669534153301504897737703299150616390384292227939182379329909717398711516",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-neg-1c",
+        "condition_id": "0x9b9c90341bd8e24f3cf47c656b85ce6429bd28436b238742bc26f23ecf33d0de"
+      }
+    },
+    {
+      "market_id": "1566173",
+      "question": "Will the highest temperature in Toronto be 0°C on March 14?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "24270316690204709911720541724879143706589621952629134504418595838852708821767",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-0c",
+        "condition_id": "0x839cd0c9df29932a1be4bc3a1b3a3a7a5dee4e0b8bd7e4ee44cb63d15eec218d"
+      }
+    },
+    {
+      "market_id": "1566174",
+      "question": "Will the highest temperature in Toronto be 1°C on March 14?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "75973742615192501557101856802031183584501163845017035277115758807976317927811",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-1c",
+        "condition_id": "0x9cf05733259d2c46a2321a31c28d0453a35311698b1616641ba261ba0e746ef4"
+      }
+    },
+    {
+      "market_id": "1566175",
+      "question": "Will the highest temperature in Toronto be 2°C on March 14?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "12558232707881829829504974243715924629867354417396156826266878202320537123999",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-2c",
+        "condition_id": "0x0f37de94749d1bc8c06f3ae30d4b5fd822c9547bd3b735cbd5fdacd0211650ca"
+      }
+    },
+    {
+      "market_id": "1566176",
+      "question": "Will the highest temperature in Toronto be 3°C on March 14?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "65999502350087817422304955451490327214806110037355631011465719819131297929092",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-3c",
+        "condition_id": "0xe383745ef0d86c2c2634cdef03b9aa721240f85d7ddd917ed764454af91704d8"
+      }
+    },
+    {
+      "market_id": "1566177",
+      "question": "Will the highest temperature in Toronto be 4°C or higher on March 14?",
+      "bucket_low": 4.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "22372438551634327020724782437261617068998844937911479151735295781873427869825",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-toronto-on-march-14-2026-4corhigher",
+        "condition_id": "0x351904fdf804f3e21e37c611fc767f2806e5900a28d296c13f1f879daf18c455"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.266877+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-14T12:00:00Z",
+      "liquidity": null,
+      "volume": null,
+      "outcomes_count": 9,
+      "top_bucket": "2.0-2.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Toronto on March 14?"
+    }
+  ],
+  "settle_at": "2026-03-15T04:00:00+00:00",
+  "hours_to_settle": -2028.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-toronto-on-march-14-2026",
+    "event_id": "262791",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.266877+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.266877+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.266877+00:00",
+  "created_at": "2026-06-07T16:06:10.266877+00:00",
+  "updated_at": "2026-06-10T17:17:31.177166+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "2C",
+      "resolved_value": "2C",
+      "resolution_source": null,
+      "winning_market_id": "1566175",
+      "winning_question": "Will the highest temperature in Toronto be 2°C on March 14?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.267880+00:00"
+  },
+  "legacy": null
+}

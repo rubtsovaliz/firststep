@@ -1,0 +1,359 @@
+{
+  "storage_key": "paris_2026-03-19_high",
+  "event_id": "272228",
+  "event_slug": "highest-temperature-in-paris-on-march-19-2026",
+  "event_title": "Highest temperature in Paris on March 19?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-03-19",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-19T12:00:00Z",
+  "event_end_date": "2026-03-19T12:00:00Z",
+  "liquidity": null,
+  "volume": 20789.187547000016,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1596356",
+      "question": "Will the highest temperature in Paris be 12°C or below on March 19?",
+      "bucket_low": -999.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "96931461185173770598532841763940210088788606456480913429120933067029427588622",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-12corbelow",
+        "condition_id": "0xa7b16fe5e08d540637fceca321bcb100907cded9f5b9d58d097f0ac349cfd03e"
+      }
+    },
+    {
+      "market_id": "1596359",
+      "question": "Will the highest temperature in Paris be 13°C on March 19?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "100864425117266653086477523813923664105384101704016733861957910792476888023371",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-13c",
+        "condition_id": "0xb108eea1d66d734f7c1783d4cc84dd71b8c3fdc6808b08abd4addce13afb3e5a"
+      }
+    },
+    {
+      "market_id": "1596363",
+      "question": "Will the highest temperature in Paris be 14°C on March 19?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20789.187547000016,
+      "liquidity": null,
+      "token_id": "31985639567462818497558562688050751736480076666401722498295341318323795568155",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-14c",
+        "condition_id": "0x163c2f7bc978042326c12c151386d714123f662670eeb65ec755688cfcb1a64f"
+      }
+    },
+    {
+      "market_id": "1596366",
+      "question": "Will the highest temperature in Paris be 15°C on March 19?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "48377367777934168757893861661412009493667117701915075427808249446691653227008",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-15c",
+        "condition_id": "0x94865551160e52f6750e4a157abd448598154a55d7b54fd175fb372c59083efd"
+      }
+    },
+    {
+      "market_id": "1596368",
+      "question": "Will the highest temperature in Paris be 16°C on March 19?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "8396529654751878734537296193375006983514550262464159148590757974414206646767",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-16c",
+        "condition_id": "0xb16c8a02b9b440b6498353683d0be5f16ca5768230711b46a16ddf8f6f3f1ea8"
+      }
+    },
+    {
+      "market_id": "1596372",
+      "question": "Will the highest temperature in Paris be 17°C on March 19?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "87281129413845312015082444611546739905193971180966848287438650596580446807456",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-17c",
+        "condition_id": "0x38127b2880db80b01c101157bdae9de5a05983897d0fed4dc3c94036b1500b66"
+      }
+    },
+    {
+      "market_id": "1596375",
+      "question": "Will the highest temperature in Paris be 18°C on March 19?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "15600544476028482133604247130133162031262162803970404221189666730168480703281",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-18c",
+        "condition_id": "0x5e171b33c5c78ff57ddea7f44d211fc239949e8d0792b0d148c732da747c548c"
+      }
+    },
+    {
+      "market_id": "1596377",
+      "question": "Will the highest temperature in Paris be 19°C on March 19?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "49507966426373421357650443459746889312328426022396755817068669587112494909482",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-19c",
+        "condition_id": "0x4e91da1ec2320506156b1ae4834008c912644d794a4a4e05e8b7f5a19a065b4d"
+      }
+    },
+    {
+      "market_id": "1596379",
+      "question": "Will the highest temperature in Paris be 20°C on March 19?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "76956549685044387367245793733221719555708367441730245079610233859637548615040",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-20c",
+        "condition_id": "0x5f1db3d54174332f6d4c94ce25cbd6bd98bb149de97b3143779e50577a5cd393"
+      }
+    },
+    {
+      "market_id": "1596381",
+      "question": "Will the highest temperature in Paris be 21°C on March 19?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "81992237585104353990687116407094696181306976269027460035935995219415414072118",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-21c",
+        "condition_id": "0x82eeb0a1badeec0c7ec40c8ea0dbea4c0c917529a81116cdaf9abd39e514db50"
+      }
+    },
+    {
+      "market_id": "1596383",
+      "question": "Will the highest temperature in Paris be 22°C or higher on March 19?",
+      "bucket_low": 22.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "31813995882351435801096161183857610182242385731835338372558014116894079333331",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-march-19-2026-22corhigher",
+        "condition_id": "0xbc3dfe4c4f54f153cdbb5af3812e5f52498b9e4a13974d9d5a1e2593d389f516"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:09.947839+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-19T12:00:00Z",
+      "liquidity": null,
+      "volume": 20789.187547000016,
+      "outcomes_count": 11,
+      "top_bucket": "17.0-17.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Paris on March 19?"
+    }
+  ],
+  "settle_at": "2026-03-19T23:00:00+00:00",
+  "hours_to_settle": -1913.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-paris-on-march-19-2026",
+    "event_id": "272228",
+    "markets_count": 11,
+    "game_start_time": "2026-03-18 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:09.947839+00:00",
+  "last_seen_at": "2026-06-07T16:06:09.947839+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:09.947839+00:00",
+  "created_at": "2026-06-07T16:06:09.947839+00:00",
+  "updated_at": "2026-06-10T17:17:30.333511+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "17C",
+      "resolved_value": "17C",
+      "resolution_source": null,
+      "winning_market_id": "1596372",
+      "winning_question": "Will the highest temperature in Paris be 17°C on March 19?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:09.949849+00:00"
+  },
+  "legacy": null
+}

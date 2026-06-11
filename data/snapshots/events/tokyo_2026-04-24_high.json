@@ -1,0 +1,360 @@
+{
+  "storage_key": "tokyo_2026-04-24_high",
+  "event_id": "405204",
+  "event_slug": "highest-temperature-in-tokyo-on-april-24-2026",
+  "event_title": "Highest temperature in Tokyo on April 24?",
+  "city_slug": "tokyo",
+  "city_name": "Tokyo",
+  "date": "2026-04-24",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Tokyo",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-24T12:00:00Z",
+  "event_end_date": "2026-04-24T12:00:00Z",
+  "liquidity": null,
+  "volume": 135369.344556,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2049553",
+      "question": "Will the highest temperature in Tokyo be 14°C or below on April 24?",
+      "bucket_low": -999.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12241.286393,
+      "liquidity": null,
+      "token_id": "11217418505294805840792298150785937794110633044936398461063399544677572992448",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-14corbelow",
+        "condition_id": "0x6611460f46611642fc682b2d37b31531e2e1b497fdb6534c48acc66ca65f537b"
+      }
+    },
+    {
+      "market_id": "2049554",
+      "question": "Will the highest temperature in Tokyo be 15°C on April 24?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13222.473085999996,
+      "liquidity": null,
+      "token_id": "58427588088058994614265109160394436224035067759098761580576644824314882676834",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-15c",
+        "condition_id": "0x394aea3b0e320dd9d3b6a8f15715110f140db71c8d0ca03debe19a2c222ac494"
+      }
+    },
+    {
+      "market_id": "2049555",
+      "question": "Will the highest temperature in Tokyo be 16°C on April 24?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12921.407867999997,
+      "liquidity": null,
+      "token_id": "88376505412305550087448952314457474379509639711860347155664321059705371492048",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-16c",
+        "condition_id": "0x1ad8dd496647db4cd6f82a2286a6ae7da28411771927f789b50baeb2e934be11"
+      }
+    },
+    {
+      "market_id": "2049556",
+      "question": "Will the highest temperature in Tokyo be 17°C on April 24?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18598.54251899999,
+      "liquidity": null,
+      "token_id": "35349894776250634106499253802934713096111784776227299644195479847942733543679",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-17c",
+        "condition_id": "0xf69e15a3d1f6974f6ff23d7ee70d36d696b3b4b23ad92ff43dec4ea971ad1e73"
+      }
+    },
+    {
+      "market_id": "2049557",
+      "question": "Will the highest temperature in Tokyo be 18°C on April 24?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 23385.155052999995,
+      "liquidity": null,
+      "token_id": "18514398611820522917425535493599534486361504675683215671768468849322863620592",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-18c",
+        "condition_id": "0x6558b6b54dafcea732515596cb0dbfa94c0c1e25ee46caf1bf304a8441dc8ad4"
+      }
+    },
+    {
+      "market_id": "2049558",
+      "question": "Will the highest temperature in Tokyo be 19°C on April 24?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11639.433568000004,
+      "liquidity": null,
+      "token_id": "51141297209378125331653232611838913496976554062056721871020808864834848120062",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-19c",
+        "condition_id": "0x4080759b69911283a2e96980958b8f15d4dc85f1676fcd85da97bd559a9acb40"
+      }
+    },
+    {
+      "market_id": "2049559",
+      "question": "Will the highest temperature in Tokyo be 20°C on April 24?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13767.918309,
+      "liquidity": null,
+      "token_id": "24265845930108354686837028421050658320000105677203599053086981420833283320473",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-20c",
+        "condition_id": "0xa1dbd219df075ec737ad8dafeab2a02951c0eb55eb50eb4b83171460d5debe9e"
+      }
+    },
+    {
+      "market_id": "2049560",
+      "question": "Will the highest temperature in Tokyo be 21°C on April 24?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8922.071284999998,
+      "liquidity": null,
+      "token_id": "96437900229778421344274892030074637714709355121156259014458002423250377630128",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-21c",
+        "condition_id": "0xe3322053e8eedec233d89e5fce6e145df44a92e0a7ceb7735380fa324e5043fd"
+      }
+    },
+    {
+      "market_id": "2049561",
+      "question": "Will the highest temperature in Tokyo be 22°C on April 24?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9792.193087000001,
+      "liquidity": null,
+      "token_id": "78623669566984611118461487899684346591774156934674533880300524669833785762576",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-22c",
+        "condition_id": "0x0b1ff4b25334823c4592dffd9d43295ed059f2f71b745d5365fb930a28007069"
+      }
+    },
+    {
+      "market_id": "2049562",
+      "question": "Will the highest temperature in Tokyo be 23°C on April 24?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7046.28624,
+      "liquidity": null,
+      "token_id": "60688752449847337674362067986326974344544393003551093952353406507029632724240",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-23c",
+        "condition_id": "0x77397fd3468d9631489d24b7e31b21f6b432fbdbbfb6e95a3a909880b7558e27"
+      }
+    },
+    {
+      "market_id": "2049563",
+      "question": "Will the highest temperature in Tokyo be 24°C or higher on April 24?",
+      "bucket_low": 24.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3832.577148000001,
+      "liquidity": null,
+      "token_id": "40349490198836667546913715577581653942355643612863309719414206707064506184699",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-tokyo-on-april-24-2026-24corhigher",
+        "condition_id": "0xb165d9f3fa64d937d77fa202f3ee02e027ce6b536d4de28fd1c22647cfd232d9"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:04.255039+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-24T12:00:00Z",
+      "liquidity": null,
+      "volume": 135369.344556,
+      "outcomes_count": 11,
+      "top_bucket": "18.0-18.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Tokyo on April 24?"
+    }
+  ],
+  "settle_at": "2026-04-24T15:00:00+00:00",
+  "hours_to_settle": -1057.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-tokyo-on-april-24-2026",
+    "event_id": "405204",
+    "markets_count": 11,
+    "game_start_time": "2026-04-23 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:04.255039+00:00",
+  "last_seen_at": "2026-06-07T16:06:04.255039+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:04.255039+00:00",
+  "created_at": "2026-06-07T16:06:04.255039+00:00",
+  "updated_at": "2026-06-10T17:17:31.094984+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "18C",
+      "resolved_value": "18C",
+      "resolution_source": null,
+      "winning_market_id": "2049557",
+      "winning_question": "Will the highest temperature in Tokyo be 18°C on April 24?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:04.256042+00:00"
+  },
+  "legacy": null
+}

@@ -1,0 +1,351 @@
+{
+  "storage_key": "atlanta_2026-06-09_high",
+  "event_id": "571027",
+  "event_slug": "highest-temperature-in-atlanta-on-june-9-2026",
+  "event_title": "Highest temperature in Atlanta on June 9?",
+  "city_slug": "atlanta",
+  "city_name": "Atlanta",
+  "date": "2026-06-09",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Atlanta",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-09T12:00:00Z",
+  "event_end_date": "2026-06-09T12:00:00Z",
+  "liquidity": 61105.39596,
+  "volume": 39793.720955000004,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2466880",
+      "question": "Will the highest temperature in Atlanta be 73°F or below on June 9?",
+      "bucket_low": -999.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 533.96604,
+      "liquidity": 14625.27187,
+      "token_id": "81126480848431625131152913580803304904889080092375329037100834306799017232141",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-73forbelow",
+        "condition_id": "0xbfcb2bce07aac4f0187aaac6b30f5ef607ebdcc3e218de2b8890f33d92de2595"
+      }
+    },
+    {
+      "market_id": "2466881",
+      "question": "Will the highest temperature in Atlanta be between 74-75°F on June 9?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1924.5869999999998,
+      "liquidity": 15758.31883,
+      "token_id": "41771150281953025591140834637490452749923218403116569525803784600655274026360",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-74-75f",
+        "condition_id": "0x40deb67da17453bfd3553821ba5c6759eaaadf430da87a90d4f27c5d72ed752f"
+      }
+    },
+    {
+      "market_id": "2466882",
+      "question": "Will the highest temperature in Atlanta be between 76-77°F on June 9?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 4535.577767000002,
+      "liquidity": 15276.3009,
+      "token_id": "31214268410220135679218573686628326588627037125950555394996897700390640227510",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-76-77f",
+        "condition_id": "0x09a94c6c2b01ba8eb598effe7107c5180c330127415ebc2a3d7b92c4000e17b3"
+      }
+    },
+    {
+      "market_id": "2466883",
+      "question": "Will the highest temperature in Atlanta be between 78-79°F on June 9?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 6980.496107999999,
+      "liquidity": 9723.9891,
+      "token_id": "114634643927822777345907476995016723185049429467314919331340093505044582092922",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-78-79f",
+        "condition_id": "0x53d70c08976be03b13f6120c48f9dbe894c37c2dee1d2d2f019a1b579df14b14"
+      }
+    },
+    {
+      "market_id": "2466884",
+      "question": "Will the highest temperature in Atlanta be between 80-81°F on June 9?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.17,
+      "no_price": 0.83,
+      "volume": 5916.826326000005,
+      "liquidity": 402.1355,
+      "token_id": "86899961893627750930693004762172057871216752799511184942378194925743708622288",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.17,
+        0.83
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-80-81f",
+        "condition_id": "0x121055b1b6ac156e7ef8797c64155f90f397dc5e1becaa56627438ee97b4bf67"
+      }
+    },
+    {
+      "market_id": "2466885",
+      "question": "Will the highest temperature in Atlanta be between 82-83°F on June 9?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.57,
+      "no_price": 0.43,
+      "volume": 3558.2051140000026,
+      "liquidity": 286.1448,
+      "token_id": "37640387570340111486425065509297991960046464614752736431610699572286014453179",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.57,
+        0.43
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-82-83f",
+        "condition_id": "0x0ebde7486925ccca5acce571c782b4444ee1d9590b0a8d7c56f8edfc9a755b68"
+      }
+    },
+    {
+      "market_id": "2466886",
+      "question": "Will the highest temperature in Atlanta be between 84-85°F on June 9?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": 4439.370666,
+      "liquidity": 269.5101,
+      "token_id": "4674036719954821673497210570446717083994288808230992323845773944610641806486",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-84-85f",
+        "condition_id": "0x7af4935c721a745283e61b30cc767c08b3f87c5e862e2045c86390a5d4f64eaa"
+      }
+    },
+    {
+      "market_id": "2466887",
+      "question": "Will the highest temperature in Atlanta be between 86-87°F on June 9?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.03,
+      "no_price": 0.97,
+      "volume": 6237.709085999997,
+      "liquidity": 697.13013,
+      "token_id": "46795912804003979294331805488395742627024854543740264145726774806476749756101",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.03,
+        0.97
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-86-87f",
+        "condition_id": "0x50b18087038c05598d1b942ac3da1fca21af0e1be186e7065558c38b5af289a7"
+      }
+    },
+    {
+      "market_id": "2466888",
+      "question": "Will the highest temperature in Atlanta be between 88-89°F on June 9?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.007,
+      "no_price": 0.993,
+      "volume": 3928.4493190000003,
+      "liquidity": 700.11076,
+      "token_id": "97180083443487256756897461072300912415392929821870101027902307594517353963345",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.007,
+        0.993
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-88-89f",
+        "condition_id": "0x80cc5020f1fcbbb46639d859ba520dbd90806c2268079392d3602d48b589e81e"
+      }
+    },
+    {
+      "market_id": "2466889",
+      "question": "Will the highest temperature in Atlanta be between 90-91°F on June 9?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 1392.5620020000001,
+      "liquidity": 1689.40555,
+      "token_id": "41553181120822880964988432606418777440975747613106207356676328437995061714500",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-90-91f",
+        "condition_id": "0xeab91b652b49c4cf72bd31a0c6b64375372ad07b20e966c4239ca8787d40b370"
+      }
+    },
+    {
+      "market_id": "2466890",
+      "question": "Will the highest temperature in Atlanta be 92°F or higher on June 9?",
+      "bucket_low": 92.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 847.14823,
+      "liquidity": 1997.11684,
+      "token_id": "74670674845813142071084288510230193880084062609912695813337126550949800056912",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-atlanta-on-june-9-2026-92forhigher",
+        "condition_id": "0x6c80f25d9ab0c7a9302dea7a10b40a10fe6c52b0919e6a1d15cb558dacd34a5a"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-09T18:59:59.306095+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-09T12:00:00Z",
+      "liquidity": 61105.39596,
+      "volume": 39793.720955000004,
+      "outcomes_count": 11,
+      "top_bucket": "82.0-83.0F",
+      "top_price": 0.57,
+      "event_title": "Highest temperature in Atlanta on June 9?"
+    }
+  ],
+  "settle_at": "2026-06-10T04:00:00+00:00",
+  "hours_to_settle": 9.0,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-atlanta-on-june-9-2026",
+    "event_id": "571027",
+    "markets_count": 11,
+    "game_start_time": "2026-06-09 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-08T09:41:19.384121+00:00",
+  "last_seen_at": "2026-06-09T18:59:59.306095+00:00",
+  "last_refreshed_at": "2026-06-09T18:59:59.306095+00:00",
+  "created_at": "2026-06-08T09:41:19.384121+00:00",
+  "updated_at": "2026-06-10T17:17:28.420725+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

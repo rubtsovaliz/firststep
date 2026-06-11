@@ -1,0 +1,396 @@
+{
+  "storage_key": "ankara_2026-03-20_high",
+  "event_id": "275654",
+  "event_slug": "highest-temperature-in-ankara-on-march-20-2026",
+  "event_title": "Highest temperature in Ankara on March 20?",
+  "city_slug": "ankara",
+  "city_name": "Ankara",
+  "date": "2026-03-20",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Ankara",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-20T12:00:00Z",
+  "event_end_date": "2026-03-20T12:00:00Z",
+  "liquidity": null,
+  "volume": 54851.269391,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1605737",
+      "question": "Will the highest temperature in Ankara be 2°C or below on March 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4179.844129000001,
+      "liquidity": null,
+      "token_id": "5280322185837117639577484525142021827688696437333945360913486465467384358972",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-2corbelow",
+        "condition_id": "0x946a02b95ddef7a1f43639b0d1b5c3113b4f8af83bc83d86ae9af2c8b875b453"
+      }
+    },
+    {
+      "market_id": "1605738",
+      "question": "Will the highest temperature in Ankara be 3°C on March 20?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 41714.897529999995,
+      "liquidity": null,
+      "token_id": "714775559021296611797388805513181343299084118123114932003292326439898741037",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-3c",
+        "condition_id": "0xf7509b6e4296463a5e67b92c9d8b1d05ef1e6e98b2103ece6a2667c2724eac90"
+      }
+    },
+    {
+      "market_id": "1605739",
+      "question": "Will the highest temperature in Ankara be 4°C on March 20?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "94234496993567131269093389685942655973000555419670993530023799914567031068651",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-4c",
+        "condition_id": "0x29a68f5c8ba89c01cab95e752a2b3c53ad35218518d855190e5327db943d740c"
+      }
+    },
+    {
+      "market_id": "1605740",
+      "question": "Will the highest temperature in Ankara be 5°C on March 20?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "7760959809345125054688162516563982981609037936002123867499852112207048239964",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-5c",
+        "condition_id": "0x7551e5705700f38ff33bdfcd9c0697cf316f4d634718cbe2d882be7a24fe5d86"
+      }
+    },
+    {
+      "market_id": "1605741",
+      "question": "Will the highest temperature in Ankara be 6°C on March 20?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "51007939557749928915421817712400291466037971732271435862773682472625526263191",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-6c",
+        "condition_id": "0xedeb8494d6c610c96fcfdab8de8b7ac2c911b9ec5cb03c94b931b865c5ee10b2"
+      }
+    },
+    {
+      "market_id": "1605742",
+      "question": "Will the highest temperature in Ankara be 7°C on March 20?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "109060842172137169027298713974887834940128642893448658604413797718615603551674",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-7c",
+        "condition_id": "0x89cdb294c15306d10cc7a108230d3f43fb0e45a1a771dc5bfd215f0f64742a9f"
+      }
+    },
+    {
+      "market_id": "1605743",
+      "question": "Will the highest temperature in Ankara be 8°C on March 20?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "35392162864384125186148583474599384731028333655691998798859499939553986053625",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-8c",
+        "condition_id": "0x75a50a89de969245bbb121ea57d0f2ebf1ef6228e73128a1321bf61f67bf92f3"
+      }
+    },
+    {
+      "market_id": "1605744",
+      "question": "Will the highest temperature in Ankara be 9°C on March 20?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "80962590117184788149932327862270741379244182361449248783159720324775786401038",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-9c",
+        "condition_id": "0x0207e18b6c6d1ba18f570acb682c5e38793c772e457457db1fc51e447ffa714b"
+      }
+    },
+    {
+      "market_id": "1605745",
+      "question": "Will the highest temperature in Ankara be 10°C on March 20?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "97970471940352867305709844565996657937840355884733345494070991820558335251731",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-10c",
+        "condition_id": "0x4df7a2c2571158fe65d4e66f7f01db88fd1325af0b77d6e0b29785bd4ba865fd"
+      }
+    },
+    {
+      "market_id": "1605746",
+      "question": "Will the highest temperature in Ankara be 11°C on March 20?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "76271235211576071714414047002465467864183775800389545370519105574456846291731",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-11c",
+        "condition_id": "0x129cfabe769629c11e441ae5e4e512f0adedf739ad49b2e27daa151aedb218a8"
+      }
+    },
+    {
+      "market_id": "1605747",
+      "question": "Will the highest temperature in Ankara be 12°C or higher on March 20?",
+      "bucket_low": 12.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8956.527732000004,
+      "liquidity": null,
+      "token_id": "82164997467175540426971771458795101900686254112568496211288405066818727005057",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-ankara-on-march-20-2026-12corhigher",
+        "condition_id": "0x19297bf49aaab505e7e2a5b120ea959135cca962d242f84d9747ed9b8d4ccb6a"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:09.856600+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-20T12:00:00Z",
+      "liquidity": null,
+      "volume": 54851.269391,
+      "outcomes_count": 11,
+      "top_bucket": "7.0-7.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Ankara on March 20?"
+    }
+  ],
+  "settle_at": "2026-03-20T21:00:00+00:00",
+  "hours_to_settle": -1891.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-ankara-on-march-20-2026",
+    "event_id": "275654",
+    "markets_count": 11,
+    "game_start_time": "2026-03-19 21:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:09.856600+00:00",
+  "last_seen_at": "2026-06-07T16:06:09.856600+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:09.856600+00:00",
+  "created_at": "2026-06-07T16:06:09.856600+00:00",
+  "updated_at": "2026-06-10T18:47:49.581809+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "7C",
+      "resolved_value": "7C",
+      "resolution_source": null,
+      "winning_market_id": "1605742",
+      "winning_question": "Will the highest temperature in Ankara be 7°C on March 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:09.857603+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T18:47:49.581809+00:00",
+      "single": {
+        "city_slug": "ankara",
+        "date": "2026-03-20",
+        "metric": "high",
+        "model": "ecmwf_ifs",
+        "requested_model": null,
+        "model_fallback": false,
+        "unit": null,
+        "temp": null,
+        "error": "forecast_unavailable"
+      },
+      "ensemble": {
+        "city_slug": "ankara",
+        "date": "2026-03-20",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 6.5,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 6.5,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 5.3,
+            "error": null
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null
+}

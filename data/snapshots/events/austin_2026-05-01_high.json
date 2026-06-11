@@ -1,0 +1,360 @@
+{
+  "storage_key": "austin_2026-05-01_high",
+  "event_id": "429727",
+  "event_slug": "highest-temperature-in-austin-on-may-1-2026",
+  "event_title": "Highest temperature in Austin on May 1?",
+  "city_slug": "austin",
+  "city_name": "Austin",
+  "date": "2026-05-01",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Austin",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-01T12:00:00Z",
+  "event_end_date": "2026-05-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 31188.76728099999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2112515",
+      "question": "Will the highest temperature in Austin be 73°F or below on May 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8215.970006,
+      "liquidity": null,
+      "token_id": "45458089185167479356515269782718439057813752020082953027110571329429781648508",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-73forbelow",
+        "condition_id": "0x236af7cb64fdbda2ae3150f4b1103faef2e3357f438d69a9db2f1ebc878b05f5"
+      }
+    },
+    {
+      "market_id": "2112516",
+      "question": "Will the highest temperature in Austin be between 74-75°F on May 1?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6314.934470999995,
+      "liquidity": null,
+      "token_id": "33451638747938860046866137696422771452512248914809856275047681963286813469299",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-74-75f",
+        "condition_id": "0xe2b7ff3e7ed9aa5da4626978992385006add0cbef24950347c6e2aa373e11429"
+      }
+    },
+    {
+      "market_id": "2112517",
+      "question": "Will the highest temperature in Austin be between 76-77°F on May 1?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8941.048790999996,
+      "liquidity": null,
+      "token_id": "22973151192863361531731953572003562424957571265739414530505416863111761902383",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-76-77f",
+        "condition_id": "0x2542a8b4d8ea012702ecd8adc62a04625eaa06a92bf95df9705b60d05b3b2eeb"
+      }
+    },
+    {
+      "market_id": "2112518",
+      "question": "Will the highest temperature in Austin be between 78-79°F on May 1?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2123.0199430000002,
+      "liquidity": null,
+      "token_id": "52636683347260364016929817896502408571690263189427426510029270764090862638433",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-78-79f",
+        "condition_id": "0x21c5f5a04baf860131bfac16d09736f4004b59fcedac1f9a4ffa3dc1cb2a5d7a"
+      }
+    },
+    {
+      "market_id": "2112519",
+      "question": "Will the highest temperature in Austin be between 80-81°F on May 1?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 663.1274999999999,
+      "liquidity": null,
+      "token_id": "113209500637569030990756647766980738796698650920218086727876624959112032600249",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-80-81f",
+        "condition_id": "0x38f0ca0945a3e704b54f33c6490450d9ca99c7edcc5c0f570808ec04107b9773"
+      }
+    },
+    {
+      "market_id": "2112520",
+      "question": "Will the highest temperature in Austin be between 82-83°F on May 1?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1655.094978,
+      "liquidity": null,
+      "token_id": "80662170953731528077314137263292681168215646178336589619825988819841944475053",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-82-83f",
+        "condition_id": "0x1b3cb6f24726704ff6d97641e95708b988d3eb23e97be81accb9f8f00103fd9a"
+      }
+    },
+    {
+      "market_id": "2112521",
+      "question": "Will the highest temperature in Austin be between 84-85°F on May 1?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 437.4443319999999,
+      "liquidity": null,
+      "token_id": "95428376087704717768873438162069954784104977605225433251591087586853362378843",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-84-85f",
+        "condition_id": "0xbaba867a3fa52df999c2ff039be90f9ffbc0ae73453fbaf30469b3ce84fc50fa"
+      }
+    },
+    {
+      "market_id": "2112522",
+      "question": "Will the highest temperature in Austin be between 86-87°F on May 1?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 376.2905,
+      "liquidity": 0.0,
+      "token_id": "58818243424875757032168237733837550449357449008998612119095127539435862669211",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-86-87f",
+        "condition_id": "0x11822f9da965a74133bf4efe1d93695c92f48857adf75632b8470f7b3c837ce2"
+      }
+    },
+    {
+      "market_id": "2112523",
+      "question": "Will the highest temperature in Austin be between 88-89°F on May 1?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 404.1657129999999,
+      "liquidity": 0.0,
+      "token_id": "86556507775073709457996440248003214915576776739312833727437668457769868832637",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-88-89f",
+        "condition_id": "0x65894a8715d91a18cab05e52d020347c39ae9c28de0324a4a7061dabc0b52775"
+      }
+    },
+    {
+      "market_id": "2112524",
+      "question": "Will the highest temperature in Austin be between 90-91°F on May 1?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 445.97856999999993,
+      "liquidity": 0.0,
+      "token_id": "73736594271936430763095949084404228962582264472200748571030324143564696262742",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-90-91f",
+        "condition_id": "0x1d3e01d69511c99dcc3521155e8cf3cda5bc8c7fd26f01cd2a26f6ca97005b5a"
+      }
+    },
+    {
+      "market_id": "2112525",
+      "question": "Will the highest temperature in Austin be 92°F or higher on May 1?",
+      "bucket_low": 92.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1611.6924769999996,
+      "liquidity": null,
+      "token_id": "8597867583177260956908982148164021384544626860293867247410859465944144309546",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-austin-on-may-1-2026-92forhigher",
+        "condition_id": "0x6e2be49b040ea1a1195bb044d39396d5083d51b05c1e40b06bf4044225af8139"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.656490+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 31188.76728099999,
+      "outcomes_count": 11,
+      "top_bucket": "<=73.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Austin on May 1?"
+    }
+  ],
+  "settle_at": "2026-05-02T05:00:00+00:00",
+  "hours_to_settle": -875.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-austin-on-may-1-2026",
+    "event_id": "429727",
+    "markets_count": 11,
+    "game_start_time": "2026-05-01 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.656490+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.656490+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.656490+00:00",
+  "created_at": "2026-06-07T16:06:02.656490+00:00",
+  "updated_at": "2026-06-10T17:17:28.443934+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=73F",
+      "resolved_value": "<=73F",
+      "resolution_source": null,
+      "winning_market_id": "2112515",
+      "winning_question": "Will the highest temperature in Austin be 73°F or below on May 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.657512+00:00"
+  },
+  "legacy": null
+}

@@ -1,0 +1,360 @@
+{
+  "storage_key": "chengdu_2026-05-03_high",
+  "event_id": "436632",
+  "event_slug": "highest-temperature-in-chengdu-on-may-3-2026",
+  "event_title": "Highest temperature in Chengdu on May 3?",
+  "city_slug": "chengdu",
+  "city_name": "Chengdu",
+  "date": "2026-05-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Chengdu",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-03T12:00:00Z",
+  "event_end_date": "2026-05-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 77312.181388,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2130108",
+      "question": "Will the highest temperature in Chengdu be 19°C or below on May 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5025.088528,
+      "liquidity": null,
+      "token_id": "57381042973194959074971061078191399408287746369390768877333450813793224474563",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-19corbelow",
+        "condition_id": "0x610b1e72864b109dafb53cf324c46d1c0f18035c3734f526ea7a9e90a9ba41e3"
+      }
+    },
+    {
+      "market_id": "2130109",
+      "question": "Will the highest temperature in Chengdu be 20°C on May 3?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7111.101899,
+      "liquidity": null,
+      "token_id": "47191551744376615933665167686149020013683904187639855957037089297331232474099",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-20c",
+        "condition_id": "0x55a6bd39fd38c56596b9c027cf99d4bd568ff0be735166809b02dc0cf8b301b4"
+      }
+    },
+    {
+      "market_id": "2130110",
+      "question": "Will the highest temperature in Chengdu be 21°C on May 3?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10680.505963000001,
+      "liquidity": null,
+      "token_id": "71730769691589915672145728643983218378815558339693482841302629827272317354803",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-21c",
+        "condition_id": "0xc97fefb6805f78044f64afc4c6e25bbf6f905ae7ad1e85b5fef8ecb9624fccd3"
+      }
+    },
+    {
+      "market_id": "2130111",
+      "question": "Will the highest temperature in Chengdu be 22°C on May 3?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16155.303593999999,
+      "liquidity": null,
+      "token_id": "54505520675968495289293101771712363329473248475682691799738794066878378403952",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-22c",
+        "condition_id": "0x4ca6c4d7cb097f7b0812d7d35277413cb8e2b1525b3095b65f394793b719fb21"
+      }
+    },
+    {
+      "market_id": "2130112",
+      "question": "Will the highest temperature in Chengdu be 23°C on May 3?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7185.774040999999,
+      "liquidity": null,
+      "token_id": "112960034954368509982303917835197267855430284303178595800973383774538199207836",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-23c",
+        "condition_id": "0x58aed09870eeaa77da8ed547455901fbc63d2cf048e86453dd4d82139bfdafe7"
+      }
+    },
+    {
+      "market_id": "2130113",
+      "question": "Will the highest temperature in Chengdu be 24°C on May 3?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5805.151001000001,
+      "liquidity": null,
+      "token_id": "3813472150589975886729253418162199734899681033749797298136853021964249733796",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-24c",
+        "condition_id": "0x6d46a5b0d271544b2583f6c3a192a4dc73ad4ae62efb7d9ce721d5b60385141a"
+      }
+    },
+    {
+      "market_id": "2130114",
+      "question": "Will the highest temperature in Chengdu be 25°C on May 3?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4290.503853,
+      "liquidity": null,
+      "token_id": "98591477784049849855639951097323914957772346619615187068823421539120762336018",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-25c",
+        "condition_id": "0xed1e4b79a7d10a1e6e834ba9f8080e9f32ab591a92715230ba8ac3ec322e8795"
+      }
+    },
+    {
+      "market_id": "2130115",
+      "question": "Will the highest temperature in Chengdu be 26°C on May 3?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7115.280265,
+      "liquidity": null,
+      "token_id": "50409277169395936297633535615445413311621286745414409520364625836017167286353",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-26c",
+        "condition_id": "0xe0fafaed6c507981b370646956519efac21d655ea27b4c34ffd733ffcbf00d04"
+      }
+    },
+    {
+      "market_id": "2130116",
+      "question": "Will the highest temperature in Chengdu be 27°C on May 3?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4489.858672999998,
+      "liquidity": null,
+      "token_id": "63336843243443429802140663431725756822195466930941298930447976175708854916059",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-27c",
+        "condition_id": "0xf4985152a0f197048bb3498d38bcc4559e4ea8cc68819b113a9364ed4cfd8f13"
+      }
+    },
+    {
+      "market_id": "2130117",
+      "question": "Will the highest temperature in Chengdu be 28°C on May 3?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5579.973538000001,
+      "liquidity": null,
+      "token_id": "63720429570332882974218770737283515440914379506202751902615553762442028592586",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-28c",
+        "condition_id": "0xcd61b56f0e2e967699ff139f8095d130a61cbc957f2ae4489712d79bcf2466b4"
+      }
+    },
+    {
+      "market_id": "2130118",
+      "question": "Will the highest temperature in Chengdu be 29°C or higher on May 3?",
+      "bucket_low": 29.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3873.640033000002,
+      "liquidity": null,
+      "token_id": "72542227932814592100596803009871959926895439322263128237911428746855625104649",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chengdu-on-may-3-2026-29corhigher",
+        "condition_id": "0x9873321c855b414fe18664d9cb64791860bb2416662bbcf09eafc700f0f355d9"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.238931+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 77312.181388,
+      "outcomes_count": 11,
+      "top_bucket": "23.0-23.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chengdu on May 3?"
+    }
+  ],
+  "settle_at": "2026-05-03T16:00:00+00:00",
+  "hours_to_settle": -840.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chengdu-on-may-3-2026",
+    "event_id": "436632",
+    "markets_count": 11,
+    "game_start_time": "2026-05-02 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.238931+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.238931+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.238931+00:00",
+  "created_at": "2026-06-07T16:06:02.238931+00:00",
+  "updated_at": "2026-06-10T17:17:28.708517+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "23C",
+      "resolved_value": "23C",
+      "resolution_source": null,
+      "winning_market_id": "2130112",
+      "winning_question": "Will the highest temperature in Chengdu be 23°C on May 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.240956+00:00"
+  },
+  "legacy": null
+}

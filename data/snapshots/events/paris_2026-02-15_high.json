@@ -1,0 +1,305 @@
+{
+  "storage_key": "paris_2026-02-15_high",
+  "event_id": "207429",
+  "event_slug": "highest-temperature-in-paris-on-february-15-2026",
+  "event_title": "Highest temperature in Paris on February 15?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-02-15",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-15T12:00:00Z",
+  "event_end_date": "2026-02-15T12:00:00Z",
+  "liquidity": null,
+  "volume": 69561.943525,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1371976",
+      "question": "Will the highest temperature in Paris be -1°C or below on February 15?",
+      "bucket_low": -999.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6037.838912,
+      "liquidity": null,
+      "token_id": "40187089777617817969279398123411992132975302465276119097193385667981756270072",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-neg-1corbelow",
+        "condition_id": "0xd7b1a399ebf1ce5c877e85a38140a00dc1ac57ae90b9c8fecf751d28e3447db8"
+      }
+    },
+    {
+      "market_id": "1371977",
+      "question": "Will the highest temperature in Paris be 0°C on February 15?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8802.468739,
+      "liquidity": null,
+      "token_id": "27727355118712186462243669207085667585238408926161400481904897806083127942657",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-0c",
+        "condition_id": "0xe8eb8b9c0e400c66ce23dc62dee8bc89c661eac3dcf7b6d4bfe5d96418ca644d"
+      }
+    },
+    {
+      "market_id": "1371979",
+      "question": "Will the highest temperature in Paris be 1°C on February 15?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10920.734807,
+      "liquidity": null,
+      "token_id": "29586430303006593969966819090274637416867918365692510611296706167952424848842",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-1c",
+        "condition_id": "0xb1aaf7f0e8f9fb0c4117171611d8be98127892a1296bff3f13534f76e824d2de"
+      }
+    },
+    {
+      "market_id": "1371981",
+      "question": "Will the highest temperature in Paris be 2°C on February 15?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6492.434068,
+      "liquidity": null,
+      "token_id": "17230134196572705428099665884370453175898858056763448567588392776206321175323",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-2c",
+        "condition_id": "0x08a4f3e34f80d0153adf4065e468b5ae8380fc1153f1d5003ab9328bb29aae38"
+      }
+    },
+    {
+      "market_id": "1371982",
+      "question": "Will the highest temperature in Paris be 3°C on February 15?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9501.658535,
+      "liquidity": null,
+      "token_id": "98854002759335081294843228443774304525449830381357461501278778201707650718833",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-3c",
+        "condition_id": "0x2bf1761d16caf1fd06fa95896e95e342d6eca063d69fe57d41a3537c48123ccf"
+      }
+    },
+    {
+      "market_id": "1371983",
+      "question": "Will the highest temperature in Paris be 4°C on February 15?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5561.920454,
+      "liquidity": null,
+      "token_id": "58522002459729014692491258635659256141137573530192149269424916522864494538825",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-4c",
+        "condition_id": "0x219e235f1d01416cc001d7d59cbfe883a6c27e385c96ab4aa28c4a8c4d18c4bd"
+      }
+    },
+    {
+      "market_id": "1371985",
+      "question": "Will the highest temperature in Paris be 5°C on February 15?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2790.498774,
+      "liquidity": null,
+      "token_id": "27296621362462515832041521343426851060081697665017426121050929726122906034063",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-5c",
+        "condition_id": "0x385b3f243210e748174e8c775959e4f91044bd14ab5e13388715c2af265f8b8d"
+      }
+    },
+    {
+      "market_id": "1371988",
+      "question": "Will the highest temperature in Paris be 6°C on February 15?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5639.516395,
+      "liquidity": null,
+      "token_id": "101134245287564628125710888091550763136810325167579098583849226373925762026284",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-6c",
+        "condition_id": "0xbdf2209edffd49b35a2fda65eb44d5ea3635dfa2f94949d3103e157123a48071"
+      }
+    },
+    {
+      "market_id": "1371991",
+      "question": "Will the highest temperature in Paris be 7°C or higher on February 15?",
+      "bucket_low": 7.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 13814.872841,
+      "liquidity": null,
+      "token_id": "53902545101645178599586596204465089328481255755598182116380305583918325516239",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-paris-on-february-15-2026-7corhigher",
+        "condition_id": "0x7d64256de41da1e94831caaff8f500d0195dd414ea0b61ffd628986297c99c7b"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.752063+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-15T12:00:00Z",
+      "liquidity": null,
+      "volume": 69561.943525,
+      "outcomes_count": 9,
+      "top_bucket": ">=7.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Paris on February 15?"
+    }
+  ],
+  "settle_at": "2026-02-15T23:00:00+00:00",
+  "hours_to_settle": -2681.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-paris-on-february-15-2026",
+    "event_id": "207429",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.752063+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.752063+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.752063+00:00",
+  "created_at": "2026-06-07T16:06:11.752063+00:00",
+  "updated_at": "2026-06-10T17:17:30.305438+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=7C",
+      "resolved_value": ">=7C",
+      "resolution_source": null,
+      "winning_market_id": "1371991",
+      "winning_question": "Will the highest temperature in Paris be 7°C or higher on February 15?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.753084+00:00"
+  },
+  "legacy": null
+}

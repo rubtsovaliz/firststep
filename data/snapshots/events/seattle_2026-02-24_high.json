@@ -1,0 +1,307 @@
+{
+  "storage_key": "seattle_2026-02-24_high",
+  "event_id": "223346",
+  "event_slug": "highest-temperature-in-seattle-on-february-24-2026",
+  "event_title": "Highest temperature in Seattle on February 24?",
+  "city_slug": "seattle",
+  "city_name": "Seattle",
+  "date": "2026-02-24",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seattle",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-24T12:00:00Z",
+  "event_end_date": "2026-02-24T12:00:00Z",
+  "liquidity": null,
+  "volume": 79638.25642,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1413688",
+      "question": "Will the highest temperature in Seattle be 35°F or below on February 24?",
+      "bucket_low": -999.0,
+      "bucket_high": 35.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8442.787675,
+      "liquidity": null,
+      "token_id": "2446078422451532407245739517857232128107312274269058499607462181374585623512",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-35forbelow",
+        "condition_id": "0x14d1a2de970dad87ee5171da3752defff6cb384983d80f038ab6bb56e887bd33"
+      }
+    },
+    {
+      "market_id": "1413689",
+      "question": "Will the highest temperature in Seattle be between 36-37°F on February 24?",
+      "bucket_low": 36.0,
+      "bucket_high": 37.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6330.491296,
+      "liquidity": null,
+      "token_id": "25936670786012907031316134211278233325367843905951646381114620860060942359406",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-36-37f",
+        "condition_id": "0x7f11735043aa37df359596aec0287d77cd8a325fbe637d18c183f8cc77f1d97a"
+      }
+    },
+    {
+      "market_id": "1413690",
+      "question": "Will the highest temperature in Seattle be between 38-39°F on February 24?",
+      "bucket_low": 38.0,
+      "bucket_high": 39.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12123.642013,
+      "liquidity": null,
+      "token_id": "45226517817295717356699960090732478064646031513456314523386564630467774618345",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-38-39f",
+        "condition_id": "0xa0bb085256f118f1ed9f5e8522b7dd9a29fc53a647d0aaed7ae32541829317a5"
+      }
+    },
+    {
+      "market_id": "1413691",
+      "question": "Will the highest temperature in Seattle be between 40-41°F on February 24?",
+      "bucket_low": 40.0,
+      "bucket_high": 41.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6372.299824,
+      "liquidity": null,
+      "token_id": "102853521813052208345987138704974781533339239965221489554211737035029733642042",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-40-41f",
+        "condition_id": "0xa6c44a35ed3608e95deb605dfea2628c5ae96fbac05ecf4b6e5e6d17b19e3b0f"
+      }
+    },
+    {
+      "market_id": "1413692",
+      "question": "Will the highest temperature in Seattle be between 42-43°F on February 24?",
+      "bucket_low": 42.0,
+      "bucket_high": 43.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9152.87407,
+      "liquidity": null,
+      "token_id": "109905644305166679127073563162241807044154561201421789585026201658734797764542",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-42-43f",
+        "condition_id": "0xf86144a03531af6c20995808563bf20f0f9ce86fc8b9860b102abc7e1ba6ad0d"
+      }
+    },
+    {
+      "market_id": "1413693",
+      "question": "Will the highest temperature in Seattle be between 44-45°F on February 24?",
+      "bucket_low": 44.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10047.265412,
+      "liquidity": null,
+      "token_id": "86677234800903922424658637094043522268169541553044234944620159084094861865063",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-44-45f",
+        "condition_id": "0x53f65fe7660f7786ccc28bdd8a6bedae76913b9941debc36df0f8423014eea86"
+      }
+    },
+    {
+      "market_id": "1413694",
+      "question": "Will the highest temperature in Seattle be between 46-47°F on February 24?",
+      "bucket_low": 46.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 9249.311141,
+      "liquidity": null,
+      "token_id": "87519569448838801999890414889582948458270346506768189717088625427230228442070",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-46-47f",
+        "condition_id": "0x54a4f9ff1327d51d359c16f8f71c217db566897a180890e270f86803efc3ffcb"
+      }
+    },
+    {
+      "market_id": "1413695",
+      "question": "Will the highest temperature in Seattle be between 48-49°F on February 24?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7478.524491,
+      "liquidity": null,
+      "token_id": "76081660452937838781255702956716567265951852589501314712681929255679692858036",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-48-49f",
+        "condition_id": "0x01da32e07b8a1fd13949ee1a0126f3ad75c7b6ef68b3b7ace2782ca8b1cf475f"
+      }
+    },
+    {
+      "market_id": "1413696",
+      "question": "Will the highest temperature in Seattle be 50°F or higher on February 24?",
+      "bucket_low": 50.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10441.060498,
+      "liquidity": null,
+      "token_id": "14602057672118034119093415868225846783601976475516678342778693456097429408335",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-february-24-2026-50forhigher",
+        "condition_id": "0x46bd9006502ea9cf4a5a4cb71d22ea24291718d0cf2bdc39179453c6bd8ca16f"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.214725+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-24T12:00:00Z",
+      "liquidity": null,
+      "volume": 79638.25642,
+      "outcomes_count": 9,
+      "top_bucket": "46.0-47.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seattle on February 24?"
+    }
+  ],
+  "settle_at": "2026-02-25T08:00:00+00:00",
+  "hours_to_settle": -2456.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seattle-on-february-24-2026",
+    "event_id": "223346",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.214725+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.214725+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.214725+00:00",
+  "created_at": "2026-06-07T16:06:11.214725+00:00",
+  "updated_at": "2026-06-10T17:17:30.576305+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "46-47F",
+      "resolved_value": "46-47F",
+      "resolution_source": null,
+      "winning_market_id": "1413694",
+      "winning_question": "Will the highest temperature in Seattle be between 46-47°F on February 24?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.215727+00:00"
+  },
+  "legacy": null
+}

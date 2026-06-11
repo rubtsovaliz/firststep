@@ -325,7 +325,7 @@
   "last_seen_at": "2026-06-04T16:40:05.834939+00:00",
   "last_refreshed_at": "2026-06-04T16:40:05.834939+00:00",
   "created_at": "2026-06-04T10:40:40.911903+00:00",
-  "updated_at": "2026-06-05T06:36:19.908879+00:00",
+  "updated_at": "2026-06-10T18:52:10.364321+00:00",
   "forecast_snapshots": [],
   "market_snapshots": [
     {
@@ -342,7 +342,45 @@
     }
   ],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
   "legacy": null,
-  "temperature_metric": "high"
+  "temperature_metric": "high",
+  "extensions": {
+    "history_forecasts": {
+      "saved_at": "2026-06-10T18:52:10.364321+00:00",
+      "single": {
+        "city_slug": "amsterdam",
+        "date": "2026-06-04",
+        "metric": "high",
+        "model": "knmi_seamless",
+        "requested_model": "knmi_seamless",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 18.1,
+        "error": null
+      },
+      "ensemble": {
+        "city_slug": "amsterdam",
+        "date": "2026-06-04",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble",
+        "requested_model": "ecmwf_ifs025_ensemble+icon_global_eps",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 17.4,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 17.4,
+            "error": null
+          },
+          {
+            "model": "icon_global_eps",
+            "temp": null,
+            "error": "forecast_unavailable"
+          }
+        ]
+      }
+    }
+  }
 }

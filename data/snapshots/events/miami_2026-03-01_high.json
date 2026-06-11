@@ -1,0 +1,307 @@
+{
+  "storage_key": "miami_2026-03-01_high",
+  "event_id": "234216",
+  "event_slug": "highest-temperature-in-miami-on-march-1-2026",
+  "event_title": "Highest temperature in Miami on March 1?",
+  "city_slug": "miami",
+  "city_name": "Miami",
+  "date": "2026-03-01",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Miami",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-01T12:00:00Z",
+  "event_end_date": "2026-03-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 243244.069838,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1453652",
+      "question": "Will the highest temperature in Miami be 75°F or below on March 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11711.129098,
+      "liquidity": null,
+      "token_id": "14580495142278328858823632468929511847753592533165144555716609094026050700578",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-75forbelow",
+        "condition_id": "0x67cf964ab99a640328ddab2e16a3dedd95c308d12a307cd82d86dcdc3b373f5b"
+      }
+    },
+    {
+      "market_id": "1453653",
+      "question": "Will the highest temperature in Miami be between 76-77°F on March 1?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12818.137745,
+      "liquidity": null,
+      "token_id": "30752389295631915322398123802257613116330543083988368925594118121684558562185",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-76-77f",
+        "condition_id": "0x0699977212a9a3084ae93f0ee36f157fc34e6fd4b896cbce99335d557f21d4fc"
+      }
+    },
+    {
+      "market_id": "1453654",
+      "question": "Will the highest temperature in Miami be between 78-79°F on March 1?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 62799.789861,
+      "liquidity": null,
+      "token_id": "32458974231145238296272688721863716844659389601627658309238293895520986260309",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-78-79f",
+        "condition_id": "0xd8c4bca49624b71ff7c1f76bf2b20041fdb9bf1f0ebf078f13924f8bab71cbdc"
+      }
+    },
+    {
+      "market_id": "1453655",
+      "question": "Will the highest temperature in Miami be between 80-81°F on March 1?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 86981.165894,
+      "liquidity": null,
+      "token_id": "15039928264093267233004645120124736016041360106044202859183359314824404675876",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-80-81f",
+        "condition_id": "0xa4e7b45df0a43a8aa6dc7142dfb17dbdcf9fdaa28370845a025c6e2e6873f80a"
+      }
+    },
+    {
+      "market_id": "1453656",
+      "question": "Will the highest temperature in Miami be between 82-83°F on March 1?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 23438.024256,
+      "liquidity": null,
+      "token_id": "15527563977703546587523598783665936717962061713765030628771940406095980004325",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-82-83f",
+        "condition_id": "0x540230ec0d93e35018e4d1f46f99b59bbd616362cddd4dd86ccfe085a3c40541"
+      }
+    },
+    {
+      "market_id": "1453657",
+      "question": "Will the highest temperature in Miami be between 84-85°F on March 1?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14828.202999,
+      "liquidity": null,
+      "token_id": "108636836786236563542472396963047286836824534396023128658532398760113958771590",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-84-85f",
+        "condition_id": "0xf3415670db51426fa85bca868bc28ad2b662d5c2d447b0be99e9a6dc7a4d5999"
+      }
+    },
+    {
+      "market_id": "1453658",
+      "question": "Will the highest temperature in Miami be between 86-87°F on March 1?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16714.097292,
+      "liquidity": null,
+      "token_id": "110027243869211593264896005927300030979238015040494757295313667924221954673768",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-86-87f",
+        "condition_id": "0x6b2f79e5f7bad3f56cd9261e3e263db759b8f69831892eab7579ba66b98aaf0b"
+      }
+    },
+    {
+      "market_id": "1453659",
+      "question": "Will the highest temperature in Miami be between 88-89°F on March 1?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5592.899937,
+      "liquidity": null,
+      "token_id": "66768173157051259731681343925988684627172233727663964887429553911500594470914",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-88-89f",
+        "condition_id": "0x539619291e4476cc15a52eb861688e6afa90ce79e5db455f62caa7963c78da21"
+      }
+    },
+    {
+      "market_id": "1453660",
+      "question": "Will the highest temperature in Miami be 90°F or higher on March 1?",
+      "bucket_low": 90.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8360.622756,
+      "liquidity": null,
+      "token_id": "107472459678489810719860343296469389568719454091684471038865160682866754081796",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-march-1-2026-90forhigher",
+        "condition_id": "0x045ad2763294f19aabea4ed9e7e24f8856db59ceb219ed8ad73cdb324c4d6b51"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.992632+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 243244.069838,
+      "outcomes_count": 9,
+      "top_bucket": "82.0-83.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Miami on March 1?"
+    }
+  ],
+  "settle_at": "2026-03-02T05:00:00+00:00",
+  "hours_to_settle": -2339.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-miami-on-march-1-2026",
+    "event_id": "234216",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.992632+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.992632+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.992632+00:00",
+  "created_at": "2026-06-07T16:06:10.992632+00:00",
+  "updated_at": "2026-06-10T17:17:29.812946+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "82-83F",
+      "resolved_value": "82-83F",
+      "resolution_source": null,
+      "winning_market_id": "1453656",
+      "winning_question": "Will the highest temperature in Miami be between 82-83°F on March 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.993635+00:00"
+  },
+  "legacy": null
+}

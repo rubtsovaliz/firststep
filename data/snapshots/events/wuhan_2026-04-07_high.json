@@ -1,0 +1,360 @@
+{
+  "storage_key": "wuhan_2026-04-07_high",
+  "event_id": "339103",
+  "event_slug": "highest-temperature-in-wuhan-on-april-7-2026",
+  "event_title": "Highest temperature in Wuhan on April 7?",
+  "city_slug": "wuhan",
+  "city_name": "Wuhan",
+  "date": "2026-04-07",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Wuhan",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-07T12:00:00Z",
+  "event_end_date": "2026-04-07T12:00:00Z",
+  "liquidity": null,
+  "volume": 73474.67122000002,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1843009",
+      "question": "Will the highest temperature in Wuhan be 21°C or below on April 7?",
+      "bucket_low": -999.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9138.434886000005,
+      "liquidity": null,
+      "token_id": "92380715905395526318996003135829961343164664884136127878938285308097315836129",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-21corbelow",
+        "condition_id": "0x84104df133b3aca11e67f529a1bf806ce31f5dba55af1ed3d3ff72769fa03fa6"
+      }
+    },
+    {
+      "market_id": "1843010",
+      "question": "Will the highest temperature in Wuhan be 22°C on April 7?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9271.241015999998,
+      "liquidity": null,
+      "token_id": "11011049004083416552400854637236191493807482613911553230760376505967126455396",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-22c",
+        "condition_id": "0x328e182f61eb41bb0b0ad1c2c49ba68aaf6904a409cfb4746f760606f0c8bb4e"
+      }
+    },
+    {
+      "market_id": "1843011",
+      "question": "Will the highest temperature in Wuhan be 23°C on April 7?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4141.116349000001,
+      "liquidity": null,
+      "token_id": "69458928677540122335511227698566754792272170605647441927378439227851976275420",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-23c",
+        "condition_id": "0x9ba67352b5e421cb74ed18d0a29c0a2185d9d4ab776884f2e7816804e49f85a3"
+      }
+    },
+    {
+      "market_id": "1843012",
+      "question": "Will the highest temperature in Wuhan be 24°C on April 7?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6904.753908000001,
+      "liquidity": null,
+      "token_id": "1016445376802699631770376183307543143534042717649060939604069131713921113076",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-24c",
+        "condition_id": "0x35b4738be4312b0f32a28368cbaa061ee50cc2a21f1c0a99673f6baa909f278b"
+      }
+    },
+    {
+      "market_id": "1843013",
+      "question": "Will the highest temperature in Wuhan be 25°C on April 7?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 12219.560651000009,
+      "liquidity": null,
+      "token_id": "8259007110971910654681537907018127327966408411813441771824087190727481284975",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-25c",
+        "condition_id": "0x42f7b519579f72292293345ddd2a22b88b7d1f775238ab122dc05dff82970bc1"
+      }
+    },
+    {
+      "market_id": "1843014",
+      "question": "Will the highest temperature in Wuhan be 26°C on April 7?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6957.837864999997,
+      "liquidity": null,
+      "token_id": "21917216441709927902906874306658485115910288692334619537353451530518351318019",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-26c",
+        "condition_id": "0x3c9b561c93eca54614039c2db1e5f0e1e0bd537bee445ab3993ae7b67b88fdf7"
+      }
+    },
+    {
+      "market_id": "1843015",
+      "question": "Will the highest temperature in Wuhan be 27°C on April 7?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5674.347417,
+      "liquidity": null,
+      "token_id": "102173044602102712868481157048987780197200685923388457776214444727543062259639",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-27c",
+        "condition_id": "0xa684f82fd9618ee250e841894fdaa68262b68faa388f503ba53bcde16957a461"
+      }
+    },
+    {
+      "market_id": "1843016",
+      "question": "Will the highest temperature in Wuhan be 28°C on April 7?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5057.764824999999,
+      "liquidity": null,
+      "token_id": "49134612602518962410745695183845743440743886367023383519364386649708296603793",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-28c",
+        "condition_id": "0x68d40b2b9a26797b181e83b621860d6b68e72762b9ec649932294d47a81b14bd"
+      }
+    },
+    {
+      "market_id": "1843017",
+      "question": "Will the highest temperature in Wuhan be 29°C on April 7?",
+      "bucket_low": 29.0,
+      "bucket_high": 29.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4200.870738,
+      "liquidity": null,
+      "token_id": "60160823044944157174758397865026446925265745585042831880897531489268184917704",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-29c",
+        "condition_id": "0x3b4a6f157c49df0919ad490029b9e38c86156cb26ff7bf085a3ab8a901a4ccb5"
+      }
+    },
+    {
+      "market_id": "1843018",
+      "question": "Will the highest temperature in Wuhan be 30°C on April 7?",
+      "bucket_low": 30.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5929.425065000002,
+      "liquidity": null,
+      "token_id": "108878370207355397680977408389688228775041050831253626800262223104794316626041",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-30c",
+        "condition_id": "0xde4bcfdf8eff10c1905a843711c30f47a215771802f34fb7591c2733f6deaeba"
+      }
+    },
+    {
+      "market_id": "1843019",
+      "question": "Will the highest temperature in Wuhan be 31°C or higher on April 7?",
+      "bucket_low": 31.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3979.3184999999994,
+      "liquidity": null,
+      "token_id": "64697308346839266528104159327216693296497971300285388993419206619125098682041",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wuhan-on-april-7-2026-31corhigher",
+        "condition_id": "0x742817d0c28d3bba6e4a9c26adb112370e5cc9178639b2daa1acbc04bc537f9b"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:07.386090+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-07T12:00:00Z",
+      "liquidity": null,
+      "volume": 73474.67122000002,
+      "outcomes_count": 11,
+      "top_bucket": "25.0-25.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Wuhan on April 7?"
+    }
+  ],
+  "settle_at": "2026-04-07T16:00:00+00:00",
+  "hours_to_settle": -1464.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-wuhan-on-april-7-2026",
+    "event_id": "339103",
+    "markets_count": 11,
+    "game_start_time": "2026-04-06 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:07.386090+00:00",
+  "last_seen_at": "2026-06-07T16:06:07.386090+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:07.386090+00:00",
+  "created_at": "2026-06-07T16:06:07.386090+00:00",
+  "updated_at": "2026-06-10T17:17:31.406190+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "25C",
+      "resolved_value": "25C",
+      "resolution_source": null,
+      "winning_market_id": "1843013",
+      "winning_question": "Will the highest temperature in Wuhan be 25°C on April 7?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:07.388097+00:00"
+  },
+  "legacy": null
+}

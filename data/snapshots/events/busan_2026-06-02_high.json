@@ -1,0 +1,360 @@
+{
+  "storage_key": "busan_2026-06-02_high",
+  "event_id": "543502",
+  "event_slug": "highest-temperature-in-busan-on-june-2-2026",
+  "event_title": "Highest temperature in Busan on June 2?",
+  "city_slug": "busan",
+  "city_name": "Busan",
+  "date": "2026-06-02",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Busan",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-06-02T12:00:00Z",
+  "event_end_date": "2026-06-02T12:00:00Z",
+  "liquidity": null,
+  "volume": 53760.897297,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2400057",
+      "question": "Will the highest temperature in Busan be 19°C or below on June 2?",
+      "bucket_low": -999.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1112.5395680000001,
+      "liquidity": 0.0,
+      "token_id": "23945085104187834870466364070902690548089224852434964736080153916716084874209",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-19corbelow",
+        "condition_id": "0x3d489c9e793f37e3ed664efaf57d174fc7cf4808c9c2981f162dda7483853664"
+      }
+    },
+    {
+      "market_id": "2400058",
+      "question": "Will the highest temperature in Busan be 20°C on June 2?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1419.1689999999999,
+      "liquidity": null,
+      "token_id": "797982107673084069015306045677389224635194511510102929041000636452575486019",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-20c",
+        "condition_id": "0xbf773d8ff371c59d5c860dd8fc08b17185c9d06629d70ac4ecc5f565e6db191d"
+      }
+    },
+    {
+      "market_id": "2400059",
+      "question": "Will the highest temperature in Busan be 21°C on June 2?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5439.273376,
+      "liquidity": null,
+      "token_id": "10311794666873547183086566881885328823528550164516083915683738478519252005679",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-21c",
+        "condition_id": "0x0295ab69c2c1fff06f4298f6a0685eec772868788bde9cf1576c3befb903719d"
+      }
+    },
+    {
+      "market_id": "2400060",
+      "question": "Will the highest temperature in Busan be 22°C on June 2?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7994.255394999999,
+      "liquidity": null,
+      "token_id": "21773859876284041235825914379006984532956689772303061583474756655031925171574",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-22c",
+        "condition_id": "0x475b976ca2dcc7336218ca2a81069d77c8dab491f463a089b7218058ece19757"
+      }
+    },
+    {
+      "market_id": "2400061",
+      "question": "Will the highest temperature in Busan be 23°C on June 2?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5587.297481999999,
+      "liquidity": null,
+      "token_id": "97758767751426660240189407097510106507720222209282803065055376029047478770444",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-23c",
+        "condition_id": "0xdf3cfbf02c5da216adc96204f5e93a33e2ad38ba9c97c95f725dfd457ba2a98c"
+      }
+    },
+    {
+      "market_id": "2400062",
+      "question": "Will the highest temperature in Busan be 24°C on June 2?",
+      "bucket_low": 24.0,
+      "bucket_high": 24.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5860.088173000003,
+      "liquidity": null,
+      "token_id": "7885068262704519872226758828580922746410748358470706071086304245271549101655",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-24c",
+        "condition_id": "0x0884629aa9c7aa68b9f22e1b6e4ae86ebc4a67788926efe646fd7e74ea5b4815"
+      }
+    },
+    {
+      "market_id": "2400063",
+      "question": "Will the highest temperature in Busan be 25°C on June 2?",
+      "bucket_low": 25.0,
+      "bucket_high": 25.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5296.516231,
+      "liquidity": null,
+      "token_id": "58008870906855675730915682364393771131403250882363466720391651075040174421953",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-25c",
+        "condition_id": "0xaab1facd56bf6c1603a7915f78219922bb649ebf317c5525dee98253e2e10d42"
+      }
+    },
+    {
+      "market_id": "2400064",
+      "question": "Will the highest temperature in Busan be 26°C on June 2?",
+      "bucket_low": 26.0,
+      "bucket_high": 26.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5615.663609000001,
+      "liquidity": null,
+      "token_id": "49249542819698798954126480652934520243087189672965883316367027034267153634442",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-26c",
+        "condition_id": "0xf9f71cccff851df08f9469d86932c92909afdabd366f2991d3bd020fa8720529"
+      }
+    },
+    {
+      "market_id": "2400065",
+      "question": "Will the highest temperature in Busan be 27°C on June 2?",
+      "bucket_low": 27.0,
+      "bucket_high": 27.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7838.432248999999,
+      "liquidity": null,
+      "token_id": "114079959920177883820023149390449762642414103734186453730258001307401829321444",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-27c",
+        "condition_id": "0x1ee2dce5632c30d1ceaf668b8fa07f71444cfc9e2af80df214f228ca3977c731"
+      }
+    },
+    {
+      "market_id": "2400066",
+      "question": "Will the highest temperature in Busan be 28°C on June 2?",
+      "bucket_low": 28.0,
+      "bucket_high": 28.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4444.948758,
+      "liquidity": null,
+      "token_id": "68686998210713967295326992672544449816774182543127721841599536703423392074387",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-28c",
+        "condition_id": "0x0d536f46b8ce708301587288353da95eca264dc17d1962d0a62e67cd202c2930"
+      }
+    },
+    {
+      "market_id": "2400067",
+      "question": "Will the highest temperature in Busan be 29°C or higher on June 2?",
+      "bucket_low": 29.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3152.713456,
+      "liquidity": null,
+      "token_id": "31869548910740401839308230391750980360928095487958688242314912956653239267803",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-busan-on-june-2-2026-29corhigher",
+        "condition_id": "0xa9e54c3941a57007bcdf58de9393d83eeea45884ca48b6a1dd283c2128fe53ec"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:38.523479+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-06-02T12:00:00Z",
+      "liquidity": null,
+      "volume": 53760.897297,
+      "outcomes_count": 11,
+      "top_bucket": "23.0-23.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Busan on June 2?"
+    }
+  ],
+  "settle_at": "2026-06-02T15:00:00+00:00",
+  "hours_to_settle": -121.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-busan-on-june-2-2026",
+    "event_id": "543502",
+    "markets_count": 11,
+    "game_start_time": "2026-06-01 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:38.523479+00:00",
+  "last_seen_at": "2026-06-07T16:05:38.523479+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:38.523479+00:00",
+  "created_at": "2026-06-07T16:05:38.523479+00:00",
+  "updated_at": "2026-06-10T17:17:28.639335+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "23C",
+      "resolved_value": "23C",
+      "resolution_source": null,
+      "winning_market_id": "2400061",
+      "winning_question": "Will the highest temperature in Busan be 23°C on June 2?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:38.525484+00:00"
+  },
+  "legacy": null
+}

@@ -1,0 +1,351 @@
+{
+  "storage_key": "madrid_2026-06-12_high",
+  "event_id": "578861",
+  "event_slug": "highest-temperature-in-madrid-on-june-12-2026",
+  "event_title": "Highest temperature in Madrid on June 12?",
+  "city_slug": "madrid",
+  "city_name": "Madrid",
+  "date": "2026-06-12",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Madrid",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-12T12:00:00Z",
+  "event_end_date": "2026-06-12T12:00:00Z",
+  "liquidity": 29784.39671,
+  "volume": 3572.644033,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2488606",
+      "question": "Will the highest temperature in Madrid be 30°C or below on June 12?",
+      "bucket_low": -999.0,
+      "bucket_high": 30.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 537.88,
+      "liquidity": 4326.75892,
+      "token_id": "98918473326473042226877009940754303366712074443318021587258710848985218468414",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-30corbelow",
+        "condition_id": "0x44dbef23506d38fec88f73eb40ef3b66dfb22f923b037556fadd15b08038ee26"
+      }
+    },
+    {
+      "market_id": "2488607",
+      "question": "Will the highest temperature in Madrid be 31°C on June 12?",
+      "bucket_low": 31.0,
+      "bucket_high": 31.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 582.8785,
+      "liquidity": 3824.88099,
+      "token_id": "11319981534672866211868951783523511312366119708363657529680250609587457438589",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-31c",
+        "condition_id": "0x1a6febe2ebb55298b3bdf7e8fcc66394b43851609af0a17bc1ae7952a5c68823"
+      }
+    },
+    {
+      "market_id": "2488608",
+      "question": "Will the highest temperature in Madrid be 32°C on June 12?",
+      "bucket_low": 32.0,
+      "bucket_high": 32.0,
+      "unit": "C",
+      "yes_price": 0.0495,
+      "no_price": 0.9505,
+      "volume": 277.949054,
+      "liquidity": 2318.21396,
+      "token_id": "64965202520803871699055725521530790649849581085626676384407256300561074407346",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0495,
+        0.9505
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-32c",
+        "condition_id": "0x02759a11662d65cd15b7cf687c66d76b5d2c3d0ccd02c486d4bac5282dd35215"
+      }
+    },
+    {
+      "market_id": "2488609",
+      "question": "Will the highest temperature in Madrid be 33°C on June 12?",
+      "bucket_low": 33.0,
+      "bucket_high": 33.0,
+      "unit": "C",
+      "yes_price": 0.155,
+      "no_price": 0.845,
+      "volume": 519.304567,
+      "liquidity": 2354.6589,
+      "token_id": "9658934341039431258673451706270955605633585200640337361810679151660536386704",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.155,
+        0.845
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-33c",
+        "condition_id": "0x407c408765b24531f87fa90414973fe7e5d6e6b9c204a9cbaf37fadeae06055c"
+      }
+    },
+    {
+      "market_id": "2488610",
+      "question": "Will the highest temperature in Madrid be 34°C on June 12?",
+      "bucket_low": 34.0,
+      "bucket_high": 34.0,
+      "unit": "C",
+      "yes_price": 0.5,
+      "no_price": 0.5,
+      "volume": 384.85856999999993,
+      "liquidity": 1282.5099,
+      "token_id": "19197360792454168889872959227871435265409417200207319970243910530850557832151",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.5,
+        0.5
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-34c",
+        "condition_id": "0x901c0dc38c7913f35cb8eea08fb2ab8f05567cb3937b7f0ce3b5c2056c96bb0e"
+      }
+    },
+    {
+      "market_id": "2488611",
+      "question": "Will the highest temperature in Madrid be 35°C on June 12?",
+      "bucket_low": 35.0,
+      "bucket_high": 35.0,
+      "unit": "C",
+      "yes_price": 0.295,
+      "no_price": 0.705,
+      "volume": 377.096156,
+      "liquidity": 1183.5126,
+      "token_id": "44600109843488639215797033618810452972888803814072563295505024214122566541306",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.295,
+        0.705
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-35c",
+        "condition_id": "0x0bba1d5cc1545c504f670fa4a4d98aba038bec6c027e56beedd12df34c92c2c6"
+      }
+    },
+    {
+      "market_id": "2488612",
+      "question": "Will the highest temperature in Madrid be 36°C on June 12?",
+      "bucket_low": 36.0,
+      "bucket_high": 36.0,
+      "unit": "C",
+      "yes_price": 0.041,
+      "no_price": 0.959,
+      "volume": 319.146326,
+      "liquidity": 1218.77443,
+      "token_id": "89219495398922276694048576985690300963718723543987324316382873080533409617455",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.041,
+        0.959
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-36c",
+        "condition_id": "0xa3ff92c2ff1f538500d3e057eb532cc62b0feb6c9322a4c6719ad7a4059280f2"
+      }
+    },
+    {
+      "market_id": "2488613",
+      "question": "Will the highest temperature in Madrid be 37°C on June 12?",
+      "bucket_low": 37.0,
+      "bucket_high": 37.0,
+      "unit": "C",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 168.887,
+      "liquidity": 2351.37493,
+      "token_id": "100871687010001032689015039467088579788970943965333125773300053233632604277557",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-37c",
+        "condition_id": "0xbb4abc280297aefe51ec2b06edeaa1403eff6dee4a7a4c23f819171e34794a59"
+      }
+    },
+    {
+      "market_id": "2488614",
+      "question": "Will the highest temperature in Madrid be 38°C on June 12?",
+      "bucket_low": 38.0,
+      "bucket_high": 38.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 240.89,
+      "liquidity": 3294.39746,
+      "token_id": "14933191924422458877084953497572560873982349362064808683082047960816246143690",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-38c",
+        "condition_id": "0x87a016016976d3587a55f3cf208eeb278b3531b610aebb061ca129425a06e770"
+      }
+    },
+    {
+      "market_id": "2488615",
+      "question": "Will the highest temperature in Madrid be 39°C on June 12?",
+      "bucket_low": 39.0,
+      "bucket_high": 39.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 144.892,
+      "liquidity": 4183.41117,
+      "token_id": "39101439702624354978089908758023561067649141929491954169731912676346296506204",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-39c",
+        "condition_id": "0x7b4364bb9d320ee920dbe672c58a56cf32af04700af640e33307deb787871b06"
+      }
+    },
+    {
+      "market_id": "2488616",
+      "question": "Will the highest temperature in Madrid be 40°C or higher on June 12?",
+      "bucket_low": 40.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 165.91899999999998,
+      "liquidity": 3752.37673,
+      "token_id": "104365276057384025068403081174214385788333251226126633621629813359932390179021",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-madrid-on-june-12-2026-40corhigher",
+        "condition_id": "0x2d9d680975517157422de1d26388965a4f78d1736be167729f9ee2eccdb41133"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.521568+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-12T12:00:00Z",
+      "liquidity": 29784.39671,
+      "volume": 3572.644033,
+      "outcomes_count": 11,
+      "top_bucket": "34.0-34.0C",
+      "top_price": 0.5,
+      "event_title": "Highest temperature in Madrid on June 12?"
+    }
+  ],
+  "settle_at": "2026-06-12T22:00:00+00:00",
+  "hours_to_settle": 52.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-madrid-on-june-12-2026",
+    "event_id": "578861",
+    "markets_count": 11,
+    "game_start_time": "2026-06-11 22:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 42.7,
+  "first_seen_at": "2026-06-10T16:07:43.762106+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.521568+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.521568+00:00",
+  "created_at": "2026-06-10T16:07:43.762106+00:00",
+  "updated_at": "2026-06-10T17:17:26.521568+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

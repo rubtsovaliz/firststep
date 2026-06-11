@@ -1,0 +1,307 @@
+{
+  "storage_key": "london_2026-03-03_high",
+  "event_id": "238970",
+  "event_slug": "highest-temperature-in-london-on-march-3-2026",
+  "event_title": "Highest temperature in London on March 3?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-03-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-03T12:00:00Z",
+  "event_end_date": "2026-03-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 386210.547803,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1475084",
+      "question": "Will the highest temperature in London be 12°C or below on March 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 67450.524045,
+      "liquidity": null,
+      "token_id": "58779027958068615736937344105762721727092210741452141491722865267240053492068",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-12corbelow",
+        "condition_id": "0x3833e82a6131e371c9029dd4ef82ce065f5df1c21deceb6df8aa62e6755c3232"
+      }
+    },
+    {
+      "market_id": "1475085",
+      "question": "Will the highest temperature in London be 13°C on March 3?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 60231.508037,
+      "liquidity": null,
+      "token_id": "60794603238105303501372411065629343407382748881999152432193479974493258022892",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-13c",
+        "condition_id": "0x93c27dc7e03e5edcc3196a33119865b15c4ac260806e477f3765cca35dfd735b"
+      }
+    },
+    {
+      "market_id": "1475087",
+      "question": "Will the highest temperature in London be 14°C on March 3?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 44418.54851,
+      "liquidity": null,
+      "token_id": "3957442813357245394038777725583021739472969715566768468937054971414709028771",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-14c",
+        "condition_id": "0x08a68b641adab57f3a354cb38341fbdef7cfa8fa8f2d31a20d6bee5ebfc181fd"
+      }
+    },
+    {
+      "market_id": "1475088",
+      "question": "Will the highest temperature in London be 15°C on March 3?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 31185.178415,
+      "liquidity": null,
+      "token_id": "114090431576937101757291473705201075178695054188766797364135753254597128453232",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-15c",
+        "condition_id": "0xf43a4003f7d86aa85bb43022c1315fc806e5de951092c64b182f87dff2bb91db"
+      }
+    },
+    {
+      "market_id": "1475089",
+      "question": "Will the highest temperature in London be 16°C on March 3?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 53829.896848,
+      "liquidity": null,
+      "token_id": "91266619362998311870116865781683882448872972570657742433803867787224911213135",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-16c",
+        "condition_id": "0x3fb92e2bf63d54b567e1277f9a2d8857d565c2e965acd651ea6535046a93c333"
+      }
+    },
+    {
+      "market_id": "1475090",
+      "question": "Will the highest temperature in London be 17°C on March 3?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 90908.774501,
+      "liquidity": null,
+      "token_id": "106116800992384497089058353414571657960938903173592488103828378291496241187238",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-17c",
+        "condition_id": "0x179c5e6233908310c078f77dd1741f78e38bbb6db6d629cb454c94f796eab1b8"
+      }
+    },
+    {
+      "market_id": "1475091",
+      "question": "Will the highest temperature in London be 18°C on March 3?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 11450.950548,
+      "liquidity": null,
+      "token_id": "104379349348972069125461190614140555022848815253344517839314649962690569369488",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-18c",
+        "condition_id": "0x17824462d6dee7767fdf42d1ab5e05bb651395761b836f6385ce348cbcd48ebf"
+      }
+    },
+    {
+      "market_id": "1475092",
+      "question": "Will the highest temperature in London be 19°C on March 3?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10986.907314,
+      "liquidity": null,
+      "token_id": "113110135888529463139696028526181549862790003374276673694113511405544106751296",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-19c",
+        "condition_id": "0x7b57a5565fd05d4170930237d46eec4ec4a6284c80e579513ff931dcbbf21e11"
+      }
+    },
+    {
+      "market_id": "1475094",
+      "question": "Will the highest temperature in London be 20°C or higher on March 3?",
+      "bucket_low": 20.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15748.259585,
+      "liquidity": null,
+      "token_id": "24479836409957369693409549845708215446997802840784190304203972772919591293147",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-3-2026-20corhigher",
+        "condition_id": "0x409dbb6b6d74c59235f39053a4dcea5e06534ea8b64a31b7927c9503883af8d4"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.941916+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 386210.547803,
+      "outcomes_count": 9,
+      "top_bucket": "14.0-14.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in London on March 3?"
+    }
+  ],
+  "settle_at": "2026-03-04T00:00:00+00:00",
+  "hours_to_settle": -2296.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-london-on-march-3-2026",
+    "event_id": "238970",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.941916+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.941916+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.941916+00:00",
+  "created_at": "2026-06-07T16:06:10.941916+00:00",
+  "updated_at": "2026-06-10T17:17:29.456570+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "14C",
+      "resolved_value": "14C",
+      "resolution_source": null,
+      "winning_market_id": "1475087",
+      "winning_question": "Will the highest temperature in London be 14°C on March 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.942919+00:00"
+  },
+  "legacy": null
+}

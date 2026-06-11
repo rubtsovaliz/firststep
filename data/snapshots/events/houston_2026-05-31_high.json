@@ -1,0 +1,360 @@
+{
+  "storage_key": "houston_2026-05-31_high",
+  "event_id": "536713",
+  "event_slug": "highest-temperature-in-houston-on-may-31-2026",
+  "event_title": "Highest temperature in Houston on May 31?",
+  "city_slug": "houston",
+  "city_name": "Houston",
+  "date": "2026-05-31",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Houston",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-31T12:00:00Z",
+  "event_end_date": "2026-05-31T12:00:00Z",
+  "liquidity": null,
+  "volume": 43030.311525,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2383961",
+      "question": "Will the highest temperature in Houston be 71°F or below on May 31?",
+      "bucket_low": -999.0,
+      "bucket_high": 71.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 428.6185,
+      "liquidity": 0.0,
+      "token_id": "54224541845888857095918140461852580007138322527040314166385708922650143417689",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-71forbelow",
+        "condition_id": "0x325c93105e851eee6deb8ad8ca4396b22c260831bd9223a660c0cfd98922179d"
+      }
+    },
+    {
+      "market_id": "2383962",
+      "question": "Will the highest temperature in Houston be between 72-73°F on May 31?",
+      "bucket_low": 72.0,
+      "bucket_high": 73.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4122.8886840000005,
+      "liquidity": 0.0,
+      "token_id": "55117059476911322879809920238865015881482618797145466568151237371233885436804",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-72-73f",
+        "condition_id": "0xe4cf02f03e4a4e2dcde9ad58ec66a72ee98a0f2aedfd024e2f1b1c0b9f41a8d7"
+      }
+    },
+    {
+      "market_id": "2383963",
+      "question": "Will the highest temperature in Houston be between 74-75°F on May 31?",
+      "bucket_low": 74.0,
+      "bucket_high": 75.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10237.759753,
+      "liquidity": null,
+      "token_id": "92634334757531120637146205632099729264214491071538227689918394405986631500080",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-74-75f",
+        "condition_id": "0xc33912d16d2d257cb76d46b792a0dfc6daf0ea68776067e0ec2b50fa04f72ae5"
+      }
+    },
+    {
+      "market_id": "2383964",
+      "question": "Will the highest temperature in Houston be between 76-77°F on May 31?",
+      "bucket_low": 76.0,
+      "bucket_high": 77.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3675.327225,
+      "liquidity": 0.0,
+      "token_id": "22385605742943927028775126785536472053906650623275135544905646583633568419249",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-76-77f",
+        "condition_id": "0xfff8c379845c17957169f47bd734687fae392c637ee7588f000872e2d11db13e"
+      }
+    },
+    {
+      "market_id": "2383965",
+      "question": "Will the highest temperature in Houston be between 78-79°F on May 31?",
+      "bucket_low": 78.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2616.563796999999,
+      "liquidity": null,
+      "token_id": "70441678775613850806448988577429747943593063784115704021689531922267842680498",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-78-79f",
+        "condition_id": "0x1495a37f5c1b14016647d46f150b8014e82ab9b001f21c5e0a559494db1f381a"
+      }
+    },
+    {
+      "market_id": "2383966",
+      "question": "Will the highest temperature in Houston be between 80-81°F on May 31?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 249.97973199999998,
+      "liquidity": null,
+      "token_id": "64963957391613123228526972040593146624211682205635079808333366738205352223627",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-80-81f",
+        "condition_id": "0x94fd1d09dea3a514918fde92a0c65b12032a41c049b1dbb28147ca67d414dcc2"
+      }
+    },
+    {
+      "market_id": "2383967",
+      "question": "Will the highest temperature in Houston be between 82-83°F on May 31?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2003.533261,
+      "liquidity": null,
+      "token_id": "96732438896020577575604948304378221348794548488787614195646386200082236034288",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-82-83f",
+        "condition_id": "0x241c1c72eafaaebd90f09762c7de7ab1d60f172707c187881ad2aa144f9e9f64"
+      }
+    },
+    {
+      "market_id": "2383968",
+      "question": "Will the highest temperature in Houston be between 84-85°F on May 31?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2332.092636,
+      "liquidity": null,
+      "token_id": "30713010145420212612965518017680752899509221624776983155509268993152971457128",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-84-85f",
+        "condition_id": "0x3f74b2d337189c38527140f721d2315e5268560e7cbfd1321116b219eb6c0cde"
+      }
+    },
+    {
+      "market_id": "2383969",
+      "question": "Will the highest temperature in Houston be between 86-87°F on May 31?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5253.903319000001,
+      "liquidity": null,
+      "token_id": "22376199343267122080203302186383262686349588741512133445588399459808516043977",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-86-87f",
+        "condition_id": "0x5ab1c49e3fb5eb98e9590f513647441718b9cfbf0b469f7891443c591cd84979"
+      }
+    },
+    {
+      "market_id": "2383970",
+      "question": "Will the highest temperature in Houston be between 88-89°F on May 31?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4914.028976999998,
+      "liquidity": null,
+      "token_id": "23801342408380174899594309974279072328658288939979484570601017812658710811382",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-88-89f",
+        "condition_id": "0x72662b914a4ffbccde58ad1e01bd3dfb3943a7f72994c400a0835e239c96a641"
+      }
+    },
+    {
+      "market_id": "2383971",
+      "question": "Will the highest temperature in Houston be 90°F or higher on May 31?",
+      "bucket_low": 90.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7195.615641000001,
+      "liquidity": null,
+      "token_id": "37295378406881141982878415138715154949247013122699108681841002451410058703886",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-houston-on-may-31-2026-90forhigher",
+        "condition_id": "0xf462e54801da8a8a744cdeee64b97c5a88faa649b505b63450fb3543f6f16b96"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:39.004490+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-31T12:00:00Z",
+      "liquidity": null,
+      "volume": 43030.311525,
+      "outcomes_count": 11,
+      "top_bucket": ">=90.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Houston on May 31?"
+    }
+  ],
+  "settle_at": "2026-06-01T05:00:00+00:00",
+  "hours_to_settle": -155.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-houston-on-may-31-2026",
+    "event_id": "536713",
+    "markets_count": 11,
+    "game_start_time": "2026-05-31 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:39.004490+00:00",
+  "last_seen_at": "2026-06-07T16:05:39.004490+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:39.004490+00:00",
+  "created_at": "2026-06-07T16:05:39.004490+00:00",
+  "updated_at": "2026-06-10T17:17:29.204631+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=90F",
+      "resolved_value": ">=90F",
+      "resolution_source": null,
+      "winning_market_id": "2383971",
+      "winning_question": "Will the highest temperature in Houston be 90°F or higher on May 31?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:39.006513+00:00"
+  },
+  "legacy": null
+}

@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 20309.77795,
-  "volume": 1165.068632,
+  "liquidity": null,
+  "volume": 75829.19350899999,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 13.0,
       "unit": "C",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 4.994,
-      "liquidity": 3969.88365,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15.994,
+      "liquidity": 0.0,
       "token_id": "108494938300940373138663766558171916224636311735637549869452145938889667729433",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-13corbelow",
         "condition_id": "0xd7c2cd43eac3ef2a5d5146580c87a3b542a1743623c86de5261c812762f7778a"
@@ -59,21 +59,21 @@
       "bucket_low": 14.0,
       "bucket_high": 14.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 4.994,
-      "liquidity": 3465.75328,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 90.988,
+      "liquidity": null,
       "token_id": "23839316035088884283021416463671275414237435680800070186239861371251966008563",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-14c",
         "condition_id": "0x818739f87a4a0ff8ef303a8d77a85149a7e483528281985430e099cc0776c868"
@@ -85,21 +85,21 @@
       "bucket_low": 15.0,
       "bucket_high": 15.0,
       "unit": "C",
-      "yes_price": 0.005,
-      "no_price": 0.995,
-      "volume": 4.994,
-      "liquidity": 1770.67516,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 104.822,
+      "liquidity": null,
       "token_id": "36473210259663833479943776367343869729313966797628413695191791968428141637812",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.005,
-        0.995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-15c",
         "condition_id": "0xc1140207e8404ac0b52fa48919ccd2a9e5b7f001e2930d584062b73cfebf4356"
@@ -111,21 +111,21 @@
       "bucket_low": 16.0,
       "bucket_high": 16.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 24.994666,
-      "liquidity": 2930.01589,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1751.732165,
+      "liquidity": null,
       "token_id": "6658846584734572190458000948691830305290061850475550190087098157506731806552",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-16c",
         "condition_id": "0x7f8ebfc8aa1d51196ba65d3523afc878de373268a8b1761ae49c2c7b5c2f51f1"
@@ -137,21 +137,21 @@
       "bucket_low": 17.0,
       "bucket_high": 17.0,
       "unit": "C",
-      "yes_price": 0.06,
-      "no_price": 0.94,
-      "volume": 668.8338219999999,
-      "liquidity": 2540.1812,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10012.208468000008,
+      "liquidity": null,
       "token_id": "65175086147235929260081248672638078797013079308020758558027096859849103359621",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.06,
-        0.94
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-17c",
         "condition_id": "0x123a86bef9af9f9ae891c8a9e2fedfae79ef0567dbb2577f99f77f4ad984c748"
@@ -163,21 +163,21 @@
       "bucket_low": 18.0,
       "bucket_high": 18.0,
       "unit": "C",
-      "yes_price": 0.285,
-      "no_price": 0.715,
-      "volume": 218.74577899999997,
-      "liquidity": 1120.5771,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10470.156353999999,
+      "liquidity": null,
       "token_id": "17259721161941933046451246145281002961924281010061761190899215363600726791932",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.285,
-        0.715
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-18c",
         "condition_id": "0xaebfd9df81c47c4565ce3a4dbb58b12a2fad24703bb1d8ee73eea31e2ad308c2"
@@ -189,21 +189,21 @@
       "bucket_low": 19.0,
       "bucket_high": 19.0,
       "unit": "C",
-      "yes_price": 0.385,
-      "no_price": 0.615,
-      "volume": 47.166664,
-      "liquidity": 1109.7498,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12790.973985999992,
+      "liquidity": null,
       "token_id": "99036806978057321148990704889270044401363588080805225348887718363141718823441",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.385,
-        0.615
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-19c",
         "condition_id": "0x713ec96de3ffd28352f641f8a7ef01ff99beb3307d55001c76c87c2a06f668f7"
@@ -215,21 +215,21 @@
       "bucket_low": 20.0,
       "bucket_high": 20.0,
       "unit": "C",
-      "yes_price": 0.235,
-      "no_price": 0.765,
-      "volume": 37.212123000000005,
-      "liquidity": 1082.4767,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 15703.620200999998,
+      "liquidity": null,
       "token_id": "48987402871263751457397178441849296380939525246762438336221381520723425044200",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.235,
-        0.765
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-20c",
         "condition_id": "0xa083f458b07b5adee324374209827ef341a6c18196f4c56f71ddf48dab7c3693"
@@ -241,21 +241,21 @@
       "bucket_low": 21.0,
       "bucket_high": 21.0,
       "unit": "C",
-      "yes_price": 0.044,
-      "no_price": 0.956,
-      "volume": 259.461338,
-      "liquidity": 1169.55063,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9657.075195,
+      "liquidity": null,
       "token_id": "86816229386674660969724635341575022789392188104915164264289821827378973446387",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.044,
-        0.956
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-21c",
         "condition_id": "0x028c7dcf0571c1c1ab95cf47be06832bfee15528dd83da1090ed808b1ddcb587"
@@ -267,21 +267,21 @@
       "bucket_low": 22.0,
       "bucket_high": 22.0,
       "unit": "C",
-      "yes_price": 0.006,
-      "no_price": 0.994,
-      "volume": 19.994,
-      "liquidity": 1799.08544,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9534.361320999997,
+      "liquidity": null,
       "token_id": "18959045235649419864372468058547702409123718841858963455615624379053879617503",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.006,
-        0.994
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-22c",
         "condition_id": "0x8f285a2a9c28de09ef2761ac81ccf7814dc9a3286f7b4316a34638b2314083e8"
@@ -293,21 +293,21 @@
       "bucket_low": 23.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0035,
-      "no_price": 0.9965,
-      "volume": 4.994,
-      "liquidity": 1756.18263,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5697.261818999999,
+      "liquidity": null,
       "token_id": "6341180388228110648325430214734955134210779327553512956372606353802009344968",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0035,
-        0.9965
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-amsterdam-on-june-6-2026-23corhigher",
         "condition_id": "0x996ee3f24b2b89ee85efaef2ffffafb55e1204821ead94e84fcd2c7e629a612d"
@@ -316,33 +316,82 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:18.985701+00:00",
+      "ts": "2026-06-07T16:05:37.537409+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 20309.77795,
-      "volume": 1165.068632,
+      "liquidity": null,
+      "volume": 75829.19350899999,
       "outcomes_count": 11,
-      "top_bucket": "19.0-19.0C",
-      "top_price": 0.385,
+      "top_bucket": "20.0-20.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Amsterdam on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-amsterdam-on-june-6-2026",
     "event_id": "560862",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 22:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.432673+00:00",
-  "last_seen_at": "2026-06-05T06:36:18.985701+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:18.985701+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.537409+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.537409+00:00",
   "created_at": "2026-06-05T06:08:46.432673+00:00",
-  "updated_at": "2026-06-05T06:36:18.985701+00:00",
+  "updated_at": "2026-06-10T18:24:32.249364+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "20C",
+      "resolved_value": "20C",
+      "resolution_source": null,
+      "winning_market_id": "2441159",
+      "winning_question": "Will the highest temperature in Amsterdam be 20°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.538421+00:00",
+    "history_forecasts": {
+      "saved_at": "2026-06-10T18:24:32.249364+00:00",
+      "single": {
+        "city_slug": "amsterdam",
+        "date": "2026-06-06",
+        "metric": "high",
+        "model": "knmi_seamless",
+        "requested_model": "knmi_seamless",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 21.5,
+        "error": null
+      },
+      "ensemble": {
+        "city_slug": "amsterdam",
+        "date": "2026-06-06",
+        "metric": "high",
+        "model": "ecmwf_ifs025_ensemble",
+        "requested_model": "ecmwf_ifs025_ensemble+icon_global_eps",
+        "model_fallback": false,
+        "unit": "C",
+        "temp": 17.8,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 17.8,
+            "error": null
+          },
+          {
+            "model": "icon_global_eps",
+            "temp": null,
+            "error": "forecast_unavailable"
+          }
+        ]
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T22:00:00+00:00",
+  "hours_to_settle": -18.1
 }

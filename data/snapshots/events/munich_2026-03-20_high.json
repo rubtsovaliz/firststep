@@ -1,0 +1,359 @@
+{
+  "storage_key": "munich_2026-03-20_high",
+  "event_id": "275657",
+  "event_slug": "highest-temperature-in-munich-on-march-20-2026",
+  "event_title": "Highest temperature in Munich on March 20?",
+  "city_slug": "munich",
+  "city_name": "Munich",
+  "date": "2026-03-20",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Munich",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-20T12:00:00Z",
+  "event_end_date": "2026-03-20T12:00:00Z",
+  "liquidity": null,
+  "volume": 7254.823754,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1605770",
+      "question": "Will the highest temperature in Munich be 3°C or below on March 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1949.0714180000004,
+      "liquidity": null,
+      "token_id": "78420592344233947142950373010484150277254250857144851100524674858873258265759",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-3corbelow",
+        "condition_id": "0x359240eb78ef420881d14738de695a95557027bb8caf4f324ade4fa4f0f1b962"
+      }
+    },
+    {
+      "market_id": "1605771",
+      "question": "Will the highest temperature in Munich be 4°C on March 20?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3018.816075999999,
+      "liquidity": null,
+      "token_id": "64934574233329522430433687275782172961761729446288186969013613326750253875543",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-4c",
+        "condition_id": "0xfee658e2bb2745dda22f853a68db5becd643343cbd0b97c1fc126e5d582a5ef4"
+      }
+    },
+    {
+      "market_id": "1605772",
+      "question": "Will the highest temperature in Munich be 5°C on March 20?",
+      "bucket_low": 5.0,
+      "bucket_high": 5.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2286.9362600000004,
+      "liquidity": null,
+      "token_id": "114374735498833504106503689274175592737167711944775741974192227930446165021496",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-5c",
+        "condition_id": "0x6e11347e4658343336fd42d5bf1dafaffa16c29e63401b23e3cc3bf9d003fe9e"
+      }
+    },
+    {
+      "market_id": "1605773",
+      "question": "Will the highest temperature in Munich be 6°C on March 20?",
+      "bucket_low": 6.0,
+      "bucket_high": 6.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "68368432550347343557854272688786232189616456507635563377736073037569034315216",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-6c",
+        "condition_id": "0x5a0e4741e217e19c7c6fdf76ad9328c49c6812b1513a5769e2ef55c7ae096e06"
+      }
+    },
+    {
+      "market_id": "1605774",
+      "question": "Will the highest temperature in Munich be 7°C on March 20?",
+      "bucket_low": 7.0,
+      "bucket_high": 7.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "35905505395954059603130430892506196566873588700333131040138274950475484812045",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-7c",
+        "condition_id": "0xdb372a79046f75fb9d53d466cbfc757cafa83790470365ef12ca562a8de16743"
+      }
+    },
+    {
+      "market_id": "1605775",
+      "question": "Will the highest temperature in Munich be 8°C on March 20?",
+      "bucket_low": 8.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "55646344430156479339692814983327997961490372093571200335772956054819531211717",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-8c",
+        "condition_id": "0xf3876f332771431902264da2891089d5f5829772807a6d5f6ffb7fafe3cef4a5"
+      }
+    },
+    {
+      "market_id": "1605776",
+      "question": "Will the highest temperature in Munich be 9°C on March 20?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "107854935697262795046631690031571151628226350472807022740128042003169434030359",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-9c",
+        "condition_id": "0x102dedbed8ba485a13e2953a006576902605afbc88f22dd7aec4c39925c0eb98"
+      }
+    },
+    {
+      "market_id": "1605777",
+      "question": "Will the highest temperature in Munich be 10°C on March 20?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "93717964665916372942434814478358203729448445113001506269290435086501247475739",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-10c",
+        "condition_id": "0x4ecb0a5a67507950800008bb6e1b4a936b1deee366f4b8371764dfde9b4fae90"
+      }
+    },
+    {
+      "market_id": "1605778",
+      "question": "Will the highest temperature in Munich be 11°C on March 20?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "102540719496721737659877729979482349223693932462434241651194088195827729928335",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-11c",
+        "condition_id": "0xd29e1ada81a73f8af4a554e05dc123092fdef343f309a58bed245b23c5d7005b"
+      }
+    },
+    {
+      "market_id": "1605779",
+      "question": "Will the highest temperature in Munich be 12°C on March 20?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "79097435475494888049159123527715030216914386202838963332816669699244918010913",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-12c",
+        "condition_id": "0x0f0ba5fbaea865db8871c3a47e16d56c5d0bffb5879c571d8b778e428edd129a"
+      }
+    },
+    {
+      "market_id": "1605780",
+      "question": "Will the highest temperature in Munich be 13°C or higher on March 20?",
+      "bucket_low": 13.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "75035689732254211439552152299447790986165176219507230434063872136052735355551",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-munich-on-march-20-2026-13corhigher",
+        "condition_id": "0x362d9eec87cfc0ba91c1fe4e31e684a800157dd7eb676efd83228a94b3681c9a"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:09.847577+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-20T12:00:00Z",
+      "liquidity": null,
+      "volume": 7254.823754,
+      "outcomes_count": 11,
+      "top_bucket": ">=13.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Munich on March 20?"
+    }
+  ],
+  "settle_at": "2026-03-20T23:00:00+00:00",
+  "hours_to_settle": -1889.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-munich-on-march-20-2026",
+    "event_id": "275657",
+    "markets_count": 11,
+    "game_start_time": "2026-03-19 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:09.847577+00:00",
+  "last_seen_at": "2026-06-07T16:06:09.847577+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:09.847577+00:00",
+  "created_at": "2026-06-07T16:06:09.847577+00:00",
+  "updated_at": "2026-06-10T17:17:30.042581+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=13C",
+      "resolved_value": ">=13C",
+      "resolution_source": null,
+      "winning_market_id": "1605780",
+      "winning_question": "Will the highest temperature in Munich be 13°C or higher on March 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:09.848691+00:00"
+  },
+  "legacy": null
+}

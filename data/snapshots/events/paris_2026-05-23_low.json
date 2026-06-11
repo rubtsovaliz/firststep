@@ -1,0 +1,354 @@
+{
+  "storage_key": "paris_2026-05-23_low",
+  "event_id": "500777",
+  "event_slug": "lowest-temperature-in-paris-on-may-23-2026",
+  "event_title": "Lowest temperature in Paris on May 23?",
+  "city_slug": "paris",
+  "city_name": "Paris",
+  "date": "2026-05-23",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Paris",
+    "France",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-23T12:00:00Z",
+  "event_end_date": "2026-05-23T12:00:00Z",
+  "liquidity": 5432.3461,
+  "volume": null,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2300008",
+      "question": "Will the lowest temperature in Paris be 10°C or below on May 23?",
+      "bucket_low": -999.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.255,
+      "no_price": 0.745,
+      "volume": null,
+      "liquidity": 18.8436,
+      "token_id": "71278183410407931127898526933953446773946498921262807588969276374851001476742",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.255,
+        0.745
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-10corbelow",
+        "condition_id": "0xe98be180c32159b9a1c405b79b05a2d235c66430d5fc291c64bbb48bb1505b05"
+      }
+    },
+    {
+      "market_id": "2300009",
+      "question": "Will the lowest temperature in Paris be 11°C on May 23?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": null,
+      "liquidity": 599.3023,
+      "token_id": "47659831730795853587796166090015389302494335360417018727360112190491220679455",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-11c",
+        "condition_id": "0xfbd07fd454e10d45aa083b9fe31ee5871f59a16bd1d435c9d9c267da484d8ef4"
+      }
+    },
+    {
+      "market_id": "2300010",
+      "question": "Will the lowest temperature in Paris be 12°C on May 23?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.25,
+      "no_price": 0.75,
+      "volume": null,
+      "liquidity": 599.6296,
+      "token_id": "60779819078883508898438196739862061987269212185925326376243279544077215229406",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.25,
+        0.75
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-12c",
+        "condition_id": "0xff41ea66942ece6f75ce1e1f163d9c5ac271852d8fbc075dc90740f77a8c3eb2"
+      }
+    },
+    {
+      "market_id": "2300011",
+      "question": "Will the lowest temperature in Paris be 13°C on May 23?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": null,
+      "liquidity": 599.3023,
+      "token_id": "466232200123120485755547823837763401463563751476973680967419285450468024723",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-13c",
+        "condition_id": "0xab11c48933f3ec68861a13906ee6b75ab4cbf87d48e81455c2782268d33b5010"
+      }
+    },
+    {
+      "market_id": "2300012",
+      "question": "Will the lowest temperature in Paris be 14°C on May 23?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": null,
+      "liquidity": 598.9068,
+      "token_id": "56800110614960525646054136127492586315138107847313991657866900621813605525813",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-14c",
+        "condition_id": "0x50e5af141bedb2e180d3ea70fd93f10e64bb7d89b32b7e7c222d1d5e0aab8aca"
+      }
+    },
+    {
+      "market_id": "2300013",
+      "question": "Will the lowest temperature in Paris be 15°C on May 23?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.27,
+      "no_price": 0.73,
+      "volume": null,
+      "liquidity": 600.0231,
+      "token_id": "24544789641898499113553354563104059929110128369250665899521024491636554036301",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.27,
+        0.73
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-15c",
+        "condition_id": "0x601bb65bef06b41b576bd593172cea3e682bcf8d7ea90797005c582d96078cd4"
+      }
+    },
+    {
+      "market_id": "2300014",
+      "question": "Will the lowest temperature in Paris be 16°C on May 23?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.275,
+      "no_price": 0.725,
+      "volume": null,
+      "liquidity": 599.8226,
+      "token_id": "10738432023258617795688718537592757506315896391027023008583590795579736633925",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.275,
+        0.725
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-16c",
+        "condition_id": "0x51c9e10fbea21f48387970fed0f889497eefdf552da8465694259cdf512bbb88"
+      }
+    },
+    {
+      "market_id": "2300015",
+      "question": "Will the lowest temperature in Paris be 17°C on May 23?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": null,
+      "liquidity": 598.8073,
+      "token_id": "16073310770709426773893593376130939036087048529055001738779675866317384867392",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-17c",
+        "condition_id": "0x1666b944ac4fadadeb6fa4865f083827e3310d9a21ab3ba3d895c64066ef5ae4"
+      }
+    },
+    {
+      "market_id": "2300016",
+      "question": "Will the lowest temperature in Paris be 18°C on May 23?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": null,
+      "liquidity": 599.3027,
+      "token_id": "25803850390357863646207900123562587455488807287994290809607513398559941582948",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-18c",
+        "condition_id": "0x0993e0a76ef2a5bedcf116279cf516ea56b40aed995175928641179734be3caf"
+      }
+    },
+    {
+      "market_id": "2300017",
+      "question": "Will the lowest temperature in Paris be 19°C on May 23?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.26,
+      "no_price": 0.74,
+      "volume": null,
+      "liquidity": 598.7026,
+      "token_id": "97577193888901932064823879973618135324998229941979437790720120460560724935115",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.26,
+        0.74
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-19c",
+        "condition_id": "0xb545b67678cda563f664c8cd71aacff28a41ae178769ce08cc67791798fc9c4b"
+      }
+    },
+    {
+      "market_id": "2300018",
+      "question": "Will the lowest temperature in Paris be 20°C or higher on May 23?",
+      "bucket_low": 20.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.25,
+      "no_price": 0.75,
+      "volume": null,
+      "liquidity": 19.7032,
+      "token_id": "54255809968055094559783577078509131008711870825585691362363957422706055903900",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.25,
+        0.75
+      ],
+      "active": false,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-paris-on-may-23-2026-20corhigher",
+        "condition_id": "0x93013ac0bc8a8831c35d2c9495d5ca81db1127b65e6e9fd5888bd4799e9f378b"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:49.877437+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-23T12:00:00Z",
+      "liquidity": 5432.3461,
+      "volume": null,
+      "outcomes_count": 11,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 0.275,
+      "event_title": "Lowest temperature in Paris on May 23?"
+    }
+  ],
+  "settle_at": "2026-05-23T22:00:00+00:00",
+  "hours_to_settle": -354.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-paris-on-may-23-2026",
+    "event_id": "500777",
+    "markets_count": 11,
+    "game_start_time": "2026-05-22 22:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:49.877437+00:00",
+  "last_seen_at": "2026-06-07T16:05:49.877437+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:49.877437+00:00",
+  "created_at": "2026-06-07T16:05:49.877437+00:00",
+  "updated_at": "2026-06-10T17:17:30.391758+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "gamma_enriched_at": "2026-06-07T16:05:51.067205+00:00"
+  },
+  "legacy": null
+}

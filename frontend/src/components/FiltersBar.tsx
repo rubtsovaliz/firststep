@@ -5,9 +5,13 @@ interface FiltersBarProps {
   onActiveOnlyChange: (value: boolean) => void;
   onRefreshDiscovery: () => void;
   onReloadData?: () => void;
+  onRefreshForecasts?: () => void;
   reloading?: boolean;
   refreshing: boolean;
+  forecastsLoading?: boolean;
   lastRefresh?: string | null;
+  lastForecastsAt?: string | null;
+  autoRefreshHint?: string;
 }
 
 export function FiltersBar({
@@ -17,9 +21,13 @@ export function FiltersBar({
   onActiveOnlyChange,
   onRefreshDiscovery,
   onReloadData,
+  onRefreshForecasts,
   reloading = false,
   refreshing,
+  forecastsLoading = false,
   lastRefresh,
+  lastForecastsAt,
+  autoRefreshHint,
 }: FiltersBarProps) {
   return (
     <div className="filters-bar">
@@ -56,8 +64,20 @@ export function FiltersBar({
           {reloading ? "Loading..." : "Reload prices"}
         </button>
       ) : null}
+      {onRefreshForecasts ? (
+        <button
+          type="button"
+          onClick={onRefreshForecasts}
+          disabled={refreshing || reloading || forecastsLoading}
+          className="filters-bar__button filters-bar__button--secondary"
+        >
+          {forecastsLoading ? "Loading..." : "Refresh temps"}
+        </button>
+      ) : null}
       <span className="filters-bar__meta">
-        Last refresh: {lastRefresh ?? "never"}
+        Discovery: {lastRefresh ?? "never"}
+        {lastForecastsAt ? ` · Temps: ${lastForecastsAt}` : ""}
+        {autoRefreshHint ? ` · ${autoRefreshHint}` : ""}
       </span>
     </div>
   );

@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 21936.17064,
-  "volume": 37029.510811,
+  "liquidity": null,
+  "volume": 74694.63153199998,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.5245,
-      "no_price": 0.4755,
-      "volume": 12343.184858000004,
-      "liquidity": 194.50982,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 20104.84365800001,
+      "liquidity": null,
       "token_id": "11886134737782225168293984632462772936208002139593969954303725996705543576376",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.5245,
-        0.4755
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-25corbelow",
         "condition_id": "0x0517b2da5899daca9b9b0af4f5b58b20e81a45a3bcd2b23ea22a25114e06d135"
@@ -59,21 +59,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.26,
-      "no_price": 0.74,
-      "volume": 2272.2931059999996,
-      "liquidity": 172.0908,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 26419.21549799998,
+      "liquidity": null,
       "token_id": "18601100477080818706406207522753879834278277708827477829623411535785587946016",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.26,
-        0.74
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-26c",
         "condition_id": "0x99949c5097d21959965b02a42a4e7ddd08a9aa713327e92f86df046f3336898a"
@@ -85,21 +85,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.0965,
-      "no_price": 0.9035,
-      "volume": 3171.5838410000006,
-      "liquidity": 194.07994,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3800.9633100000005,
+      "liquidity": null,
       "token_id": "96378689486590258232607531111311334414560669522473883487282747484689340633261",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0965,
-        0.9035
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-27c",
         "condition_id": "0x430b459e07f28065cc9a53d48b246b8a74b72a567e4e1ab91306665f63a78d5d"
@@ -111,21 +111,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.008,
-      "no_price": 0.992,
-      "volume": 3908.1405539999987,
-      "liquidity": 391.28847,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5036.630553999998,
+      "liquidity": null,
       "token_id": "50084202438807707026428665046024948404512480197467981284573239535066811254516",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.008,
-        0.992
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-28c",
         "condition_id": "0x8a82515af2a61037d36ab72b0fb8a279134d3235f19055f1d32b85628be05bfa"
@@ -137,21 +137,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.0105,
-      "no_price": 0.9895,
-      "volume": 3531.112947999999,
-      "liquidity": 705.71095,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4760.304947999999,
+      "liquidity": null,
       "token_id": "35320068297795017639552754767286187825304392200388387986300433035157308845649",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0105,
-        0.9895
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-29c",
         "condition_id": "0xd0e91fae43a8d23c83cff1676bfa06e91b16b551e1602d4932034fdf3ff8ab47"
@@ -163,21 +163,21 @@
       "bucket_low": 30.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 3765.155536,
-      "liquidity": 1997.95885,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4293.0825700000005,
+      "liquidity": null,
       "token_id": "114762403607209710789653727135554530218013884672868073334179468735319482518641",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-30c",
         "condition_id": "0xd01c4a150c1b1764e02135c12b30adeac66e90bd6de0b21e8c5fab4bdedbe5c7"
@@ -189,21 +189,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 692.3859160000001,
-      "liquidity": 2247.39746,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 705.4859160000001,
+      "liquidity": null,
       "token_id": "87493333423840786445464945842832956397834529435701581236600253047874163145508",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-31c",
         "condition_id": "0xa2e03ea59e4385375641cb40059c3d04a578074e87d810e12b431a20a599519e"
@@ -215,21 +215,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 786.8495230000001,
-      "liquidity": 3039.43797,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 799.9495230000001,
+      "liquidity": null,
       "token_id": "6620521294466562309111780566309645206218347030090649733798104397703912462615",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-32c",
         "condition_id": "0x876a7f100c685bebd40890ec7381efc91cea4ba1c3c2666989c55bf55fe21bd7"
@@ -241,21 +241,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 333.73600000000005,
-      "liquidity": 3571.51686,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 346.83600000000007,
+      "liquidity": null,
       "token_id": "44892131120692012530586330336369452920402771363979965901617531209494513428994",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-33c",
         "condition_id": "0xb56b65ec3a53157dec7321dd5f1029a8f4101e3f400e17724c33007ecddf0bc7"
@@ -267,21 +267,21 @@
       "bucket_low": 34.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 1213.0089999999996,
-      "liquidity": 3226.92062,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1226.1089999999995,
+      "liquidity": null,
       "token_id": "60528635246239597153887356995083526418911787583665920423684478421490897634863",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-34c",
         "condition_id": "0x235d3c3bb076b3b35f00e44cfa6334c557a259521783d9a9e0558ec5fbd4d35e"
@@ -293,21 +293,21 @@
       "bucket_low": 35.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.002,
-      "no_price": 0.998,
-      "volume": 7188.110555000002,
-      "liquidity": 3851.31807,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7201.210555000002,
+      "liquidity": null,
       "token_id": "71210272463659881392158652931915962660687821740855020075037331278641092968306",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.002,
-        0.998
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-qingdao-on-june-5-2026-35corhigher",
         "condition_id": "0xe6ba52f8b8df975d94e87b8deec653e501d75861e2a8c251be45e18ab04c2d1e"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.463264+00:00",
+      "ts": "2026-06-07T16:05:37.714873+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 21936.17064,
-      "volume": 37029.510811,
+      "liquidity": null,
+      "volume": 74694.63153199998,
       "outcomes_count": 11,
-      "top_bucket": "<=25.0C",
-      "top_price": 0.5245,
+      "top_bucket": "26.0-26.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Qingdao on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-qingdao-on-june-5-2026",
     "event_id": "553951",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.859426+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.463264+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.463264+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.714873+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.714873+00:00",
   "created_at": "2026-06-04T16:52:28.859426+00:00",
-  "updated_at": "2026-06-05T06:36:19.463264+00:00",
+  "updated_at": "2026-06-08T11:29:30.748057+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "26C",
+      "resolved_value": "26C",
+      "resolution_source": null,
+      "winning_market_id": "2424925",
+      "winning_question": "Will the highest temperature in Qingdao be 26°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.715876+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T16:00:00+00:00",
+  "hours_to_settle": -48.1
 }

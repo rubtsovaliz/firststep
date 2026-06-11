@@ -1,0 +1,360 @@
+{
+  "storage_key": "beijing_2026-03-20_high",
+  "event_id": "287676",
+  "event_slug": "highest-temperature-in-beijing-on-march-20-2026",
+  "event_title": "Highest temperature in Beijing on March 20?",
+  "city_slug": "beijing",
+  "city_name": "Beijing",
+  "date": "2026-03-20",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Beijing",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-21T12:00:00Z",
+  "event_end_date": "2026-03-21T12:00:00Z",
+  "liquidity": null,
+  "volume": null,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1655890",
+      "question": "Will the highest temperature in Beijing be 10°C or below on March 20?",
+      "bucket_low": -999.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "59412312123520455185896758440276285789401977865827401070392101857480417023212",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-10corbelow",
+        "condition_id": "0xa0c6074bfe5e6c1dbc2b53917c5a44081e48b4cf8efc2a13151f59e6c65ccb75"
+      }
+    },
+    {
+      "market_id": "1655891",
+      "question": "Will the highest temperature in Beijing be 11°C on March 20?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "37750842688564406210122018464943015264044457223024251339542633932069200090243",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-11c",
+        "condition_id": "0x1891d9658be166b5aab5228f5dad33c76fc09787471a8735296de2b761c5de5e"
+      }
+    },
+    {
+      "market_id": "1655892",
+      "question": "Will the highest temperature in Beijing be 12°C on March 20?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "82486595732415030951617789122337036268875978659212898650985084678041067166943",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-12c",
+        "condition_id": "0x53419e58096df920381ddb86de4b92bba57c4c9d403409c2a1f7727545121d02"
+      }
+    },
+    {
+      "market_id": "1655893",
+      "question": "Will the highest temperature in Beijing be 13°C on March 20?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "71014449989575189867670924883105035327617103459790867011930768187256163786329",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-13c",
+        "condition_id": "0x6ef8c7957ad05a4a4524f51c26300ae7ad1e0c7f7b73461d9541793075c5277c"
+      }
+    },
+    {
+      "market_id": "1655894",
+      "question": "Will the highest temperature in Beijing be 14°C on March 20?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "81407066029853483499303811835854898891039691225259921720651056749805077456469",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-14c",
+        "condition_id": "0x01857552324eff9f3f35d2492065dd2afc69987bee95833fe42f98ed9df96046"
+      }
+    },
+    {
+      "market_id": "1655895",
+      "question": "Will the highest temperature in Beijing be 15°C on March 20?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "36318036104235315508231664146384933565089978211387294819555964815264118804345",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-15c",
+        "condition_id": "0x01f3ec3171983c21cc3147d5a1bc66f1d2d53ecbedf82ab88b88279aedd12e82"
+      }
+    },
+    {
+      "market_id": "1655896",
+      "question": "Will the highest temperature in Beijing be 16°C on March 20?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "84024631781886006205530396787647203168771445704241737020934414004622412237040",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-16c",
+        "condition_id": "0x5af9730617bbb7779ffbbc8d12a1571b06a1421c94e8d13531df0f6f45208c27"
+      }
+    },
+    {
+      "market_id": "1655897",
+      "question": "Will the highest temperature in Beijing be 17°C on March 20?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "100931175878699381442994825001090713655332452690323456230789391387591644743513",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-17c",
+        "condition_id": "0x200b56aacbb5b3964212ccdde504c75a8ff6b0d1c0bd3e7075173ccc6540291d"
+      }
+    },
+    {
+      "market_id": "1655898",
+      "question": "Will the highest temperature in Beijing be 18°C on March 20?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "111417228087548190226105186097157979816554797563751072285521647282612453173436",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-18c",
+        "condition_id": "0x5acd3a06bed28e89a3acf3dfdda381f5d281be4550cf77b9e0655da18ff29370"
+      }
+    },
+    {
+      "market_id": "1655899",
+      "question": "Will the highest temperature in Beijing be 19°C on March 20?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "103717561473634742832494565912052338276608778277869365982645788219938663627848",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-19c",
+        "condition_id": "0x5b5b99e0bd4c386bcf30f875613a1ec5ff0795b6e34b2e8f3ff21f7327e0138e"
+      }
+    },
+    {
+      "market_id": "1655900",
+      "question": "Will the highest temperature in Beijing be 20°C or higher on March 20?",
+      "bucket_low": 20.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "70607884203658047032197819136506591622602583663928605802284867967775714662162",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-beijing-on-march-20-2026-20corhigher",
+        "condition_id": "0x0f393b38a2f1d13ebb4b6c9317f7ac8d5567a4f250d055ad64da30985c21f183"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:09.498050+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-21T12:00:00Z",
+      "liquidity": null,
+      "volume": null,
+      "outcomes_count": 11,
+      "top_bucket": "15.0-15.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Beijing on March 20?"
+    }
+  ],
+  "settle_at": "2026-03-21T16:00:00+00:00",
+  "hours_to_settle": -1872.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-beijing-on-march-20-2026",
+    "event_id": "287676",
+    "markets_count": 11,
+    "game_start_time": "2026-03-20 16:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:09.498050+00:00",
+  "last_seen_at": "2026-06-07T16:06:09.498050+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:09.498050+00:00",
+  "created_at": "2026-06-07T16:06:09.498050+00:00",
+  "updated_at": "2026-06-10T17:17:28.466862+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "15C",
+      "resolved_value": "15C",
+      "resolution_source": null,
+      "winning_market_id": "1655895",
+      "winning_question": "Will the highest temperature in Beijing be 15°C on March 20?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:09.499070+00:00"
+  },
+  "legacy": null
+}

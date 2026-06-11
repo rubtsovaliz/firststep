@@ -1,0 +1,360 @@
+{
+  "storage_key": "seattle_2026-05-01_high",
+  "event_id": "429703",
+  "event_slug": "highest-temperature-in-seattle-on-may-1-2026",
+  "event_title": "Highest temperature in Seattle on May 1?",
+  "city_slug": "seattle",
+  "city_name": "Seattle",
+  "date": "2026-05-01",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seattle",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-01T12:00:00Z",
+  "event_end_date": "2026-05-01T12:00:00Z",
+  "liquidity": null,
+  "volume": 36399.529182000006,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2112250",
+      "question": "Will the highest temperature in Seattle be 45°F or below on May 1?",
+      "bucket_low": -999.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 128.18,
+      "liquidity": 0.0,
+      "token_id": "28668153697316911900451341823419906610215837987522176064019223883500568113923",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-45forbelow",
+        "condition_id": "0x6b5423d5af5f9afeb59c39ad6e38bfc789cc3a6fa2feb24fb44ad98d33584fff"
+      }
+    },
+    {
+      "market_id": "2112251",
+      "question": "Will the highest temperature in Seattle be between 46-47°F on May 1?",
+      "bucket_low": 46.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 628.1800000000003,
+      "liquidity": 0.0,
+      "token_id": "69081168686268127722625699306349069752566495619271540002886440286496071016286",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-46-47f",
+        "condition_id": "0x03f2a5abd7a2a8bba18393c66a7e1dd4b7c42788c5c7a5a029d4c07178e1308e"
+      }
+    },
+    {
+      "market_id": "2112253",
+      "question": "Will the highest temperature in Seattle be between 48-49°F on May 1?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 421.6000000000001,
+      "liquidity": 0.0,
+      "token_id": "113785444436843273178528483916049424735179736801336389075029933691501639915299",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-48-49f",
+        "condition_id": "0xd3bf83cc1724c4fdabe657df73d290faa7e4fd11590c406efdc1ee3adfc4933f"
+      }
+    },
+    {
+      "market_id": "2112254",
+      "question": "Will the highest temperature in Seattle be between 50-51°F on May 1?",
+      "bucket_low": 50.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 638.1800000000004,
+      "liquidity": 0.0,
+      "token_id": "869690766252337381673778612870071019992394259842906908967461525240880650116",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-50-51f",
+        "condition_id": "0xb66378cd9a93d99d9974afd0358e095fe5057826258e6b6dd1d65996126eee1c"
+      }
+    },
+    {
+      "market_id": "2112255",
+      "question": "Will the highest temperature in Seattle be between 52-53°F on May 1?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 348.1585000000001,
+      "liquidity": null,
+      "token_id": "36205813383368476060690862621776132933933552115465204519793161871950077516979",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-52-53f",
+        "condition_id": "0xe89ae4a8c5aaa3b6b340e83d469074446450810abb7ad64a08767e237fb068e0"
+      }
+    },
+    {
+      "market_id": "2112256",
+      "question": "Will the highest temperature in Seattle be between 54-55°F on May 1?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 653.4764000000002,
+      "liquidity": 0.0,
+      "token_id": "67565858745106567934921448557004167881863936831107021725375538570930233852574",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-54-55f",
+        "condition_id": "0x62438304e0f97c1b9a8f20a726f28f015045ee0debc3a13926b0cb62b7ff864a"
+      }
+    },
+    {
+      "market_id": "2112257",
+      "question": "Will the highest temperature in Seattle be between 56-57°F on May 1?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 641.5800000000003,
+      "liquidity": 0.0,
+      "token_id": "113144154774825585331802421160159365962426931196229677965410405486324661692368",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-56-57f",
+        "condition_id": "0x781157e0023d0314a40fa96383a883fb2364fe3cb96ea1c17326921b6864f9e6"
+      }
+    },
+    {
+      "market_id": "2112258",
+      "question": "Will the highest temperature in Seattle be between 58-59°F on May 1?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 636.2600000000003,
+      "liquidity": 0.0,
+      "token_id": "93199066969916261757294096182421194274510652127526168881309538339971359401489",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-58-59f",
+        "condition_id": "0xea8c678d555e7c28a15321d8fdb3a020f6377344fe5cc189b572b6c9ecf6f240"
+      }
+    },
+    {
+      "market_id": "2112259",
+      "question": "Will the highest temperature in Seattle be between 60-61°F on May 1?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1765.6379990000003,
+      "liquidity": null,
+      "token_id": "58947374163066599919699653761934248021935319147062979380046711856511814124585",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-60-61f",
+        "condition_id": "0x19b3240f3a4235988d4b21e8ea00bd5a3cfff203e14082619b9b4fe098da482e"
+      }
+    },
+    {
+      "market_id": "2112260",
+      "question": "Will the highest temperature in Seattle be between 62-63°F on May 1?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5382.984748,
+      "liquidity": null,
+      "token_id": "90437880523797883187876892873305132026615718940297986678536864601737921268437",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-62-63f",
+        "condition_id": "0x2b3d29670d09068dede4735f9b7a9251b815e9eaee52582bcd5caf3a00f95d6e"
+      }
+    },
+    {
+      "market_id": "2112261",
+      "question": "Will the highest temperature in Seattle be 64°F or higher on May 1?",
+      "bucket_low": 64.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 25155.291535000004,
+      "liquidity": null,
+      "token_id": "95632053836624936086368025156897716994383878193639119802079172536549718008204",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-may-1-2026-64forhigher",
+        "condition_id": "0xceefe363534ed377e4e8fe28877b5a310debfa5be53b644209d3243421bb1fa2"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.736699+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-01T12:00:00Z",
+      "liquidity": null,
+      "volume": 36399.529182000006,
+      "outcomes_count": 11,
+      "top_bucket": ">=64.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seattle on May 1?"
+    }
+  ],
+  "settle_at": "2026-05-02T07:00:00+00:00",
+  "hours_to_settle": -873.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seattle-on-may-1-2026",
+    "event_id": "429703",
+    "markets_count": 11,
+    "game_start_time": "2026-05-01 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.736699+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.736699+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.736699+00:00",
+  "created_at": "2026-06-07T16:06:02.736699+00:00",
+  "updated_at": "2026-06-10T17:17:30.615085+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=64F",
+      "resolved_value": ">=64F",
+      "resolution_source": null,
+      "winning_market_id": "2112261",
+      "winning_question": "Will the highest temperature in Seattle be 64°F or higher on May 1?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.737701+00:00"
+  },
+  "legacy": null
+}

@@ -1,0 +1,253 @@
+{
+  "storage_key": "seoul_2026-02-09_high",
+  "event_id": "201200",
+  "event_slug": "highest-temperature-in-seoul-on-february-9-2026",
+  "event_title": "Highest temperature in Seoul on February 9?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-02-09",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-02-09T12:00:00Z",
+  "event_end_date": "2026-02-09T12:00:00Z",
+  "liquidity": null,
+  "volume": 193539.007306,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1351174",
+      "question": "Will the highest temperature in Seoul be -1°C or below on February 9?",
+      "bucket_low": -999.0,
+      "bucket_high": -1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 22342.11519,
+      "liquidity": null,
+      "token_id": "51996483617601823702787178688450214106918880776794609245265621525305273824289",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-9-2026-neg-1corbelow",
+        "condition_id": "0x0633e31429e94f942d712646b4a1bd2bb3d879fc52e7943413cbb3ead4a9c6fb"
+      }
+    },
+    {
+      "market_id": "1351176",
+      "question": "Will the highest temperature in Seoul be 0°C on February 9?",
+      "bucket_low": 0.0,
+      "bucket_high": 0.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 39878.943734,
+      "liquidity": null,
+      "token_id": "2794186728916503823021752887951396420623359384986086643186255901226096629464",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-9-2026-0c",
+        "condition_id": "0xb00dbab0bb72f76ffcb3f0bca08e0ed4f2a9c82697b6a2180bde5f6042c777a8"
+      }
+    },
+    {
+      "market_id": "1351178",
+      "question": "Will the highest temperature in Seoul be 1°C on February 9?",
+      "bucket_low": 1.0,
+      "bucket_high": 1.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 42807.493228,
+      "liquidity": null,
+      "token_id": "70467313834100148926038811633552742045492711870155527592452060173590745242447",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-9-2026-1c",
+        "condition_id": "0x47776f29cda18cc1c21b428cc95398bc7eaaf703c0aa19c9afba54fb2861bbe9"
+      }
+    },
+    {
+      "market_id": "1351180",
+      "question": "Will the highest temperature in Seoul be 2°C on February 9?",
+      "bucket_low": 2.0,
+      "bucket_high": 2.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 24634.843423,
+      "liquidity": null,
+      "token_id": "84763047843083500337518275188205851340579636873973786831337550964030927747022",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-9-2026-2c",
+        "condition_id": "0x300cae0d71e413a056165291933da6a66c7d88468285a04aafc9cb0253d23ca4"
+      }
+    },
+    {
+      "market_id": "1351182",
+      "question": "Will the highest temperature in Seoul be 3°C on February 9?",
+      "bucket_low": 3.0,
+      "bucket_high": 3.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 15298.548918,
+      "liquidity": null,
+      "token_id": "26487564805249116727143188936790895566002551064102996754145739517008231048953",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-9-2026-3c",
+        "condition_id": "0xa70d81a43c385bf21590a1f61569792f0ada77df501b66eb2be9f8d845d1ea6b"
+      }
+    },
+    {
+      "market_id": "1351184",
+      "question": "Will the highest temperature in Seoul be 4°C on February 9?",
+      "bucket_low": 4.0,
+      "bucket_high": 4.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 30521.061107,
+      "liquidity": null,
+      "token_id": "33420689017050346531175652074010480412054576610280746271909666312207874291555",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-9-2026-4c",
+        "condition_id": "0xce27d5a8b5f5e2cf0863e03bc925815162ea0973ac47ed293fde20bb34dc9ef2"
+      }
+    },
+    {
+      "market_id": "1351185",
+      "question": "Will the highest temperature in Seoul be 5°C or higher on February 9?",
+      "bucket_low": 5.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 18056.001706,
+      "liquidity": null,
+      "token_id": "85713471234631011280671289327582934536959221859718562007308371962964769984385",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seoul-on-february-9-2026-5corhigher",
+        "condition_id": "0x720cb161be9be94b63a85e1af4242fe0d637b880b5ca9f8a15c2326f384fc4a9"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:11.983435+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-02-09T12:00:00Z",
+      "liquidity": null,
+      "volume": 193539.007306,
+      "outcomes_count": 7,
+      "top_bucket": "2.0-2.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Seoul on February 9?"
+    }
+  ],
+  "settle_at": "2026-02-09T15:00:00+00:00",
+  "hours_to_settle": -2833.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seoul-on-february-9-2026",
+    "event_id": "201200",
+    "markets_count": 7,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:11.983435+00:00",
+  "last_seen_at": "2026-06-07T16:06:11.983435+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:11.983435+00:00",
+  "created_at": "2026-06-07T16:06:11.983435+00:00",
+  "updated_at": "2026-06-10T17:17:30.648172+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "2C",
+      "resolved_value": "2C",
+      "resolution_source": null,
+      "winning_market_id": "1351180",
+      "winning_question": "Will the highest temperature in Seoul be 2°C on February 9?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:11.984439+00:00"
+  },
+  "legacy": null
+}

@@ -1,0 +1,360 @@
+{
+  "storage_key": "miami_2026-05-16_high",
+  "event_id": "483452",
+  "event_slug": "highest-temperature-in-miami-on-may-16-2026",
+  "event_title": "Highest temperature in Miami on May 16?",
+  "city_slug": "miami",
+  "city_name": "Miami",
+  "date": "2026-05-16",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Miami",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-16T12:00:00Z",
+  "event_end_date": "2026-05-16T12:00:00Z",
+  "liquidity": null,
+  "volume": 85771.62866500003,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2257288",
+      "question": "Will the highest temperature in Miami be 79°F or below on May 16?",
+      "bucket_low": -999.0,
+      "bucket_high": 79.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 855.497,
+      "liquidity": null,
+      "token_id": "56335032200702716350748841215817149889448603227405760614975781008956700121976",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-79forbelow",
+        "condition_id": "0x1b04366aaf4a00f3a5afde5cae7aac54cac129e80dfb0c65ce41d452315d1e06"
+      }
+    },
+    {
+      "market_id": "2257289",
+      "question": "Will the highest temperature in Miami be between 80-81°F on May 16?",
+      "bucket_low": 80.0,
+      "bucket_high": 81.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1098.6554999999998,
+      "liquidity": 0.0,
+      "token_id": "24479875313640412794879944765694899649575555858833438403724783287551780445237",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-80-81f",
+        "condition_id": "0x7c076ea3ec7a5e2bcdbd4ea4265e8e8aacfc23e6053f1f5f99c2e3477c777160"
+      }
+    },
+    {
+      "market_id": "2257290",
+      "question": "Will the highest temperature in Miami be between 82-83°F on May 16?",
+      "bucket_low": 82.0,
+      "bucket_high": 83.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4045.423830000004,
+      "liquidity": null,
+      "token_id": "100452146399820841081392247101596713766924626258821254683318932218887237733365",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-82-83f",
+        "condition_id": "0x1cf96e9eff9eb7d80be381c1844975b3c64c86ae78f35d701812ead0021efd29"
+      }
+    },
+    {
+      "market_id": "2257291",
+      "question": "Will the highest temperature in Miami be between 84-85°F on May 16?",
+      "bucket_low": 84.0,
+      "bucket_high": 85.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8130.237500000014,
+      "liquidity": null,
+      "token_id": "75843088673074849868364919102326263871170355868701895160938409051999369375340",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-84-85f",
+        "condition_id": "0x2915e9581e43380cc3a3c4cea30f661a31821058af0b42d1c22293db66810d7b"
+      }
+    },
+    {
+      "market_id": "2257292",
+      "question": "Will the highest temperature in Miami be between 86-87°F on May 16?",
+      "bucket_low": 86.0,
+      "bucket_high": 87.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24283.184306,
+      "liquidity": null,
+      "token_id": "75708183245498688559394254880827401531031157653414150356994539895750219253054",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-86-87f",
+        "condition_id": "0xbe6c25fc149de19b66f254e547f8ac163ce44291f541547e5e367dabbe29c5b6"
+      }
+    },
+    {
+      "market_id": "2257293",
+      "question": "Will the highest temperature in Miami be between 88-89°F on May 16?",
+      "bucket_low": 88.0,
+      "bucket_high": 89.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 19596.189756000003,
+      "liquidity": null,
+      "token_id": "84187736040337304225979409472140961480915074079804907258010257104646243166362",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-88-89f",
+        "condition_id": "0xd465e97345efaa8c22944f505ee84006394714bc78861bf98b6bfb20d27c52f9"
+      }
+    },
+    {
+      "market_id": "2257294",
+      "question": "Will the highest temperature in Miami be between 90-91°F on May 16?",
+      "bucket_low": 90.0,
+      "bucket_high": 91.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10806.833657000005,
+      "liquidity": null,
+      "token_id": "5772269725550326810877088454077609190624779809920452568464035850982012179394",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-90-91f",
+        "condition_id": "0xa16a9c38a2efcd9c68521aea8cee8e80be78ef10427c62f1df485418935b93d7"
+      }
+    },
+    {
+      "market_id": "2257295",
+      "question": "Will the highest temperature in Miami be between 92-93°F on May 16?",
+      "bucket_low": 92.0,
+      "bucket_high": 93.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8046.289666,
+      "liquidity": null,
+      "token_id": "32727391595157326408043162391439315480661975935742277613390081911751874255217",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-92-93f",
+        "condition_id": "0x9d70d9226b6074579ba52483e3ff707cd873befac1b73e29440247e1e3286811"
+      }
+    },
+    {
+      "market_id": "2257296",
+      "question": "Will the highest temperature in Miami be between 94-95°F on May 16?",
+      "bucket_low": 94.0,
+      "bucket_high": 95.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5801.400907000001,
+      "liquidity": null,
+      "token_id": "49058547392780396529975095985771130559395438193122334813075943820874543091529",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-94-95f",
+        "condition_id": "0x2d2ace58a42842090eb4802ec6551075e4680e3334105538147478cfa88fddd1"
+      }
+    },
+    {
+      "market_id": "2257297",
+      "question": "Will the highest temperature in Miami be between 96-97°F on May 16?",
+      "bucket_low": 96.0,
+      "bucket_high": 97.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1085.0662849999999,
+      "liquidity": null,
+      "token_id": "56666632866172000741916281933033330609150857137952285042046523875684564372276",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-96-97f",
+        "condition_id": "0x35fe5e97d1ba20343c6282f9b4626b946977a422ef8b58365a5e6f1a94a68e71"
+      }
+    },
+    {
+      "market_id": "2257298",
+      "question": "Will the highest temperature in Miami be 98°F or higher on May 16?",
+      "bucket_low": 98.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2022.8502580000002,
+      "liquidity": null,
+      "token_id": "78257290485459628319577588615134029007195757141582680125049553972844951564881",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-miami-on-may-16-2026-98forhigher",
+        "condition_id": "0x88b246b0618fe3329e40a2055ef47c095f31f4f6c8bac30785321136b2044e70"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:05:59.424231+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-16T12:00:00Z",
+      "liquidity": null,
+      "volume": 85771.62866500003,
+      "outcomes_count": 11,
+      "top_bucket": "88.0-89.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Miami on May 16?"
+    }
+  ],
+  "settle_at": "2026-05-17T04:00:00+00:00",
+  "hours_to_settle": -516.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-miami-on-may-16-2026",
+    "event_id": "483452",
+    "markets_count": 11,
+    "game_start_time": "2026-05-16 04:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:05:59.424231+00:00",
+  "last_seen_at": "2026-06-07T16:05:59.424231+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:59.424231+00:00",
+  "created_at": "2026-06-07T16:05:59.424231+00:00",
+  "updated_at": "2026-06-10T17:17:29.887173+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "88-89F",
+      "resolved_value": "88-89F",
+      "resolution_source": null,
+      "winning_market_id": "2257293",
+      "winning_question": "Will the highest temperature in Miami be between 88-89°F on May 16?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:59.425233+00:00"
+  },
+  "legacy": null
+}

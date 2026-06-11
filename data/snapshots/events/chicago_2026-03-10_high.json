@@ -1,0 +1,307 @@
+{
+  "storage_key": "chicago_2026-03-10_high",
+  "event_id": "256678",
+  "event_slug": "highest-temperature-in-chicago-on-march-10-2026",
+  "event_title": "Highest temperature in Chicago on March 10?",
+  "city_slug": "chicago",
+  "city_name": "Chicago",
+  "date": "2026-03-10",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Chicago",
+    "Weather",
+    "Daily Temperature",
+    "Hide From New",
+    "Recurring",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-10T12:00:00Z",
+  "event_end_date": "2026-03-10T12:00:00Z",
+  "liquidity": null,
+  "volume": 71159.11322700001,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1540233",
+      "question": "Will the highest temperature in Chicago be 55°F or below on March 10?",
+      "bucket_low": -999.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 27140.184815,
+      "liquidity": null,
+      "token_id": "84790419038360059507056526294827090553383278584765311919493862738730915350604",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-55forbelow",
+        "condition_id": "0x7309f1e999e4d2a2104440da997c3f287ad69539c82227d9234ca55fc80962fb"
+      }
+    },
+    {
+      "market_id": "1540234",
+      "question": "Will the highest temperature in Chicago be between 56-57°F on March 10?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 21121.404107,
+      "liquidity": null,
+      "token_id": "39997226428095605804220665599952794071675629020710000960393445418683678360758",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-56-57f",
+        "condition_id": "0xce0a0500bb2feea2e77703d9f15ef4da9ee533170e0da38f163e2a87c6f9c24e"
+      }
+    },
+    {
+      "market_id": "1540235",
+      "question": "Will the highest temperature in Chicago be between 58-59°F on March 10?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10072.990140000002,
+      "liquidity": null,
+      "token_id": "70859148221776891105812986187566094020238399732393565424193075051243454513760",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-58-59f",
+        "condition_id": "0x5b0ae9a54c75ef962bdbeb84495657f74808bb4738b3c9435e1f0f9e4f73b516"
+      }
+    },
+    {
+      "market_id": "1540236",
+      "question": "Will the highest temperature in Chicago be between 60-61°F on March 10?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "27812638264032003613132445223898303782688547871351931784119648675286330043260",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-60-61f",
+        "condition_id": "0xe2ba40714250e9deb29ab3c54399a2b039182e810bed381c4f006caca0ab62e1"
+      }
+    },
+    {
+      "market_id": "1540237",
+      "question": "Will the highest temperature in Chicago be between 62-63°F on March 10?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "98066973929396165327590589224777251912501356616563685020798268540481521501455",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-62-63f",
+        "condition_id": "0xe2adee40df85bc4d3620c89f68e0af1b44ecf1e27f740bc6e2331a4c621651d9"
+      }
+    },
+    {
+      "market_id": "1540238",
+      "question": "Will the highest temperature in Chicago be between 64-65°F on March 10?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12824.534165000003,
+      "liquidity": null,
+      "token_id": "59070486283829346852886537835766724724369016126455853790772688367557632572506",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-64-65f",
+        "condition_id": "0xc8110fb29a7b711ef027d403eb975c4905e727d2005a7b3decd6c5933650d3eb"
+      }
+    },
+    {
+      "market_id": "1540239",
+      "question": "Will the highest temperature in Chicago be between 66-67°F on March 10?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "30129618234043645097820500728842427004204570348710582469577526136454085802063",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-66-67f",
+        "condition_id": "0x2e1720454749270ba84befd70b06584c3901226d9800b1b2ce4460196eedf46d"
+      }
+    },
+    {
+      "market_id": "1540240",
+      "question": "Will the highest temperature in Chicago be between 68-69°F on March 10?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "32310251701051522513318593589817130280526186023106038502072159367352337474495",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-68-69f",
+        "condition_id": "0x1609639964d20d36b131ac7fac5e6c1b8838c4e18781dd1dfb90a2a9445aca35"
+      }
+    },
+    {
+      "market_id": "1540241",
+      "question": "Will the highest temperature in Chicago be 70°F or higher on March 10?",
+      "bucket_low": 70.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": null,
+      "liquidity": null,
+      "token_id": "9714024998697811915672220641202232403866626631353526541742071459731907910552",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-march-10-2026-70forhigher",
+        "condition_id": "0xdc6acd1964146a5a0d571432ee811cc396bf4640ebdbb12b23c66664a6c1aed8"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:10.467612+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-10T12:00:00Z",
+      "liquidity": null,
+      "volume": 71159.11322700001,
+      "outcomes_count": 9,
+      "top_bucket": "60.0-61.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chicago on March 10?"
+    }
+  ],
+  "settle_at": "2026-03-11T05:00:00+00:00",
+  "hours_to_settle": -2123.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chicago-on-march-10-2026",
+    "event_id": "256678",
+    "markets_count": 9,
+    "game_start_time": null
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:10.467612+00:00",
+  "last_seen_at": "2026-06-07T16:06:10.467612+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:10.467612+00:00",
+  "created_at": "2026-06-07T16:06:10.467612+00:00",
+  "updated_at": "2026-06-10T17:17:28.758949+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "60-61F",
+      "resolved_value": "60-61F",
+      "resolution_source": null,
+      "winning_market_id": "1540236",
+      "winning_question": "Will the highest temperature in Chicago be between 60-61°F on March 10?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:10.468625+00:00"
+  },
+  "legacy": null
+}

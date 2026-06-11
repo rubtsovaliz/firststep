@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 33659.0427,
-  "volume": 18724.620623,
+  "liquidity": null,
+  "volume": 53882.42095900001,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 69.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 2152.418,
-      "liquidity": 7664.66796,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2182.418,
+      "liquidity": null,
       "token_id": "74160344451002708554290638632716083750905395336927016509859827143169044463972",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-69forbelow",
         "condition_id": "0x12869de9194661153afb5ceb3d9c9c24c3a2322f510f131e3aaac28527e33219"
@@ -59,21 +59,21 @@
       "bucket_low": 70.0,
       "bucket_high": 71.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 348.9865,
-      "liquidity": 9348.33036,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 378.9865,
+      "liquidity": null,
       "token_id": "110766402193993272995084356373730513264947063249041674682636898142117279826112",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-70-71f",
         "condition_id": "0x3d3a14dc8a12c558e6a2a0b07b876bc45a312442ddd78cb7e2cb128c89c0f331"
@@ -85,21 +85,21 @@
       "bucket_low": 72.0,
       "bucket_high": 73.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 4018.22825,
-      "liquidity": 7518.04516,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4048.22825,
+      "liquidity": null,
       "token_id": "69026418373750289433075159622650231407939399976024747294224729942554872514415",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-72-73f",
         "condition_id": "0x39ef918e022c6202e2647ec2e48cd437e868e2e42924081ee59fd417f15777bb"
@@ -111,21 +111,21 @@
       "bucket_low": 74.0,
       "bucket_high": 75.0,
       "unit": "F",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 1863.7642580000002,
-      "liquidity": 3093.61258,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1893.7642580000002,
+      "liquidity": null,
       "token_id": "114470621082092648692461928902604349454791180686351396331590282126375343595184",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-74-75f",
         "condition_id": "0x722f7bf565ca33401033d923a51ff4ff09d1306947e5d7059692ae301938dab8"
@@ -137,21 +137,21 @@
       "bucket_low": 76.0,
       "bucket_high": 77.0,
       "unit": "F",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "volume": 244.089943,
-      "liquidity": 1518.46904,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 648.1999430000001,
+      "liquidity": null,
       "token_id": "44281260007304014638692188907496639897715596784843315055148640338276906196799",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0025,
-        0.9975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-76-77f",
         "condition_id": "0xc9f2c19d0b01e207d8463a32b3f28cd7bab27ee272b6771c9f18df60fdb6e793"
@@ -163,21 +163,21 @@
       "bucket_low": 78.0,
       "bucket_high": 79.0,
       "unit": "F",
-      "yes_price": 0.0075,
-      "no_price": 0.9925,
-      "volume": 1383.1628089999997,
-      "liquidity": 1040.96062,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2589.1351660000005,
+      "liquidity": null,
       "token_id": "100883340443969080452646376685392749041003030713103884747747795923307093790989",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0075,
-        0.9925
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-78-79f",
         "condition_id": "0xa10c999846988f0e2fcca06180c02ac73ab580e7c01901be1bbd08d6d7f3f4bf"
@@ -189,21 +189,21 @@
       "bucket_low": 80.0,
       "bucket_high": 81.0,
       "unit": "F",
-      "yes_price": 0.058,
-      "no_price": 0.942,
-      "volume": 3112.2873400000003,
-      "liquidity": 1152.12538,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9907.158389,
+      "liquidity": null,
       "token_id": "46851699913417196450493290784538549665683034114330096533096490476869615171658",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.058,
-        0.942
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-80-81f",
         "condition_id": "0x8e90200c3981a66f27a45a6f6ccb60b3c19a333703b975d4c913f5a3d30a4155"
@@ -215,21 +215,21 @@
       "bucket_low": 82.0,
       "bucket_high": 83.0,
       "unit": "F",
-      "yes_price": 0.205,
-      "no_price": 0.795,
-      "volume": 1471.7769300000002,
-      "liquidity": 665.9777,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4397.153089000001,
+      "liquidity": null,
       "token_id": "48656941645196691967725724657508717823394481644036232916651814133319575644603",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.205,
-        0.795
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-82-83f",
         "condition_id": "0x97f1e058c2efd0cb8fd2f107b6919a54167233c53f309ef6317995664498e3df"
@@ -241,21 +241,21 @@
       "bucket_low": 84.0,
       "bucket_high": 85.0,
       "unit": "F",
-      "yes_price": 0.415,
-      "no_price": 0.585,
-      "volume": 1494.8731669999988,
-      "liquidity": 436.9333,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8726.667261999999,
+      "liquidity": null,
       "token_id": "2025218491370307005472713413951742498428813537274219387402784233511679990488",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.415,
-        0.585
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-84-85f",
         "condition_id": "0x7609681c220dfd4fcbbbe7842f134eaf930d0a770f3d9a2bf8f3398b929cb954"
@@ -267,21 +267,21 @@
       "bucket_low": 86.0,
       "bucket_high": 87.0,
       "unit": "F",
-      "yes_price": 0.205,
-      "no_price": 0.795,
-      "volume": 1574.5273930000003,
-      "liquidity": 624.9168,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 8902.745537000003,
+      "liquidity": null,
       "token_id": "62856529260851180800521018869568967844403071756440855907941995259640337522651",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.205,
-        0.795
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-86-87f",
         "condition_id": "0xc5c40d00548f27f8740824a03170005aff0607e33ac462a49ad32216f667c316"
@@ -293,21 +293,21 @@
       "bucket_low": 88.0,
       "bucket_high": 999.0,
       "unit": "F",
-      "yes_price": 0.09,
-      "no_price": 0.91,
-      "volume": 1430.046254,
-      "liquidity": 645.2759,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10207.964565000004,
+      "liquidity": null,
       "token_id": "51152850999218271424324079934642311099796556540675626255514877899116959418158",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.09,
-        0.91
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-austin-on-june-5-2026-88forhigher",
         "condition_id": "0x2d05b3be14657131ef2871392c38e671ba83f5a9f0e518bd32b0acd431e6a5b3"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.512396+00:00",
+      "ts": "2026-06-07T16:05:37.795064+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 33659.0427,
-      "volume": 18724.620623,
+      "liquidity": null,
+      "volume": 53882.42095900001,
       "outcomes_count": 11,
-      "top_bucket": "84.0-85.0F",
-      "top_price": 0.415,
+      "top_bucket": "86.0-87.0F",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Austin on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-austin-on-june-5-2026",
     "event_id": "553922",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 05:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.875732+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.512396+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.512396+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.795064+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.795064+00:00",
   "created_at": "2026-06-04T16:52:28.875732+00:00",
-  "updated_at": "2026-06-05T06:36:19.512396+00:00",
+  "updated_at": "2026-06-07T16:05:37.795064+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "86-87F",
+      "resolved_value": "86-87F",
+      "resolution_source": null,
+      "winning_market_id": "2424732",
+      "winning_question": "Will the highest temperature in Austin be between 86-87°F on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.797069+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T05:00:00+00:00",
+  "hours_to_settle": -35.1
 }

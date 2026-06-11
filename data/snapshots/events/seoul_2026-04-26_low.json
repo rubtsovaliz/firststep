@@ -1,0 +1,360 @@
+{
+  "storage_key": "seoul_2026-04-26_low",
+  "event_id": "411953",
+  "event_slug": "lowest-temperature-in-seoul-on-april-26-2026",
+  "event_title": "Lowest temperature in Seoul on April 26?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-04-26",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-26T12:00:00Z",
+  "event_end_date": "2026-04-26T12:00:00Z",
+  "liquidity": null,
+  "volume": 82179.21274800002,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2064723",
+      "question": "Will the lowest temperature in Seoul be 8°C or below on April 26?",
+      "bucket_low": -999.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 34201.949023000016,
+      "liquidity": null,
+      "token_id": "111180132799486627220893946053870335032731109266165437277283977529733865913012",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-8corbelow",
+        "condition_id": "0x3589072fb93f5680bfdcb8ddb47586d883b977db01c03fbf0dd5e95f792fd516"
+      }
+    },
+    {
+      "market_id": "2064724",
+      "question": "Will the lowest temperature in Seoul be 9°C on April 26?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 33064.298375,
+      "liquidity": null,
+      "token_id": "83966469531956519378457175872446588006912501026237448088148421788460951827543",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-9c",
+        "condition_id": "0x549c66ba38a0942b9cce437168e2b3e0d0c5ff52400f5ba0ae8238ff546c8cc4"
+      }
+    },
+    {
+      "market_id": "2064725",
+      "question": "Will the lowest temperature in Seoul be 10°C on April 26?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3105.568308,
+      "liquidity": null,
+      "token_id": "20512982657730325007464057649667292546127953266639007214133061625919755957408",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-10c",
+        "condition_id": "0x09af4d5e173273a00831bb8874aa8d1bd9345392754e26d85e236642bd412ad8"
+      }
+    },
+    {
+      "market_id": "2064726",
+      "question": "Will the lowest temperature in Seoul be 11°C on April 26?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1096.5086,
+      "liquidity": null,
+      "token_id": "71262541587441416209274118632151148961814713785795244157884642931179056241540",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-11c",
+        "condition_id": "0xd1858ad19f9bbd19a8ce42d506c0b71dcb7c3c6bc47af092e8617b81aab11c1a"
+      }
+    },
+    {
+      "market_id": "2064727",
+      "question": "Will the lowest temperature in Seoul be 12°C on April 26?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 708.29,
+      "liquidity": null,
+      "token_id": "7028285390460615531022892031093932287034466990852951215537297908640669520176",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-12c",
+        "condition_id": "0x610120cf11e4d07270822ec08586783fcbe47b80c0572c4fbdfce1a6c8397f71"
+      }
+    },
+    {
+      "market_id": "2064728",
+      "question": "Will the lowest temperature in Seoul be 13°C on April 26?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1400.6276329999998,
+      "liquidity": null,
+      "token_id": "78756194017947039640992866630329453452264945533950469902004448719829651850600",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-13c",
+        "condition_id": "0xc59666903672c8a7a0d447fc20db9a19f4274f5c06e016d6640b743981bb36cc"
+      }
+    },
+    {
+      "market_id": "2064729",
+      "question": "Will the lowest temperature in Seoul be 14°C on April 26?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 944.3605,
+      "liquidity": null,
+      "token_id": "99769957679766338406314352312810042842195208567209454658867670717325673820080",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-14c",
+        "condition_id": "0xb6d628f130f6333c0ba9f7c629dec741d377e1a6416bc73f1467641019193002"
+      }
+    },
+    {
+      "market_id": "2064730",
+      "question": "Will the lowest temperature in Seoul be 15°C on April 26?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2465.61,
+      "liquidity": null,
+      "token_id": "50455983055336896979678193617157692393154983121356586124525939569339865875060",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-15c",
+        "condition_id": "0x8cff6eb7fb0557b5e30fb602b5fa1d9f82734e3c772ed99c47386360139c9cc1"
+      }
+    },
+    {
+      "market_id": "2064731",
+      "question": "Will the lowest temperature in Seoul be 16°C on April 26?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1162.8362739999998,
+      "liquidity": null,
+      "token_id": "22895742192946462467342672453002766708907865287716419506723706537867469185284",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-16c",
+        "condition_id": "0x1d3347a8aa824cdb77bad0ddb21bf4c28d4ea766806464c0c5cf986bdea09910"
+      }
+    },
+    {
+      "market_id": "2064732",
+      "question": "Will the lowest temperature in Seoul be 17°C on April 26?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2045.2023350000004,
+      "liquidity": null,
+      "token_id": "55139761119337235138149152451374400593361417033127017441224804929614354686570",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-17c",
+        "condition_id": "0x1ba9db723ae30ca2282e7828f19e4e832354f513adb81acd36f856b971368989"
+      }
+    },
+    {
+      "market_id": "2064733",
+      "question": "Will the lowest temperature in Seoul be 18°C or higher on April 26?",
+      "bucket_low": 18.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1983.9617,
+      "liquidity": null,
+      "token_id": "11799462378901886098480816991714728600396677016524782044451358956306989443467",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-april-26-2026-18corhigher",
+        "condition_id": "0x3159b0f6944c734fb152efc0b41c1246e9061853183403eecf4fd4fbe40e59cf"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:03.939249+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-26T12:00:00Z",
+      "liquidity": null,
+      "volume": 82179.21274800002,
+      "outcomes_count": 11,
+      "top_bucket": "<=8.0C",
+      "top_price": 1.0,
+      "event_title": "Lowest temperature in Seoul on April 26?"
+    }
+  ],
+  "settle_at": "2026-04-26T15:00:00+00:00",
+  "hours_to_settle": -1009.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-seoul-on-april-26-2026",
+    "event_id": "411953",
+    "markets_count": 11,
+    "game_start_time": "2026-04-25 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:03.939249+00:00",
+  "last_seen_at": "2026-06-07T16:06:03.939249+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:03.939249+00:00",
+  "created_at": "2026-06-07T16:06:03.939249+00:00",
+  "updated_at": "2026-06-10T17:17:30.697396+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "<=8C",
+      "resolved_value": "<=8C",
+      "resolution_source": null,
+      "winning_market_id": "2064723",
+      "winning_question": "Will the lowest temperature in Seoul be 8°C or below on April 26?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:03.941237+00:00"
+  },
+  "legacy": null
+}

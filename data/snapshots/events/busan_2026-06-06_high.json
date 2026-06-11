@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 24243.03673,
-  "volume": 1335.776465,
+  "liquidity": null,
+  "volume": 40254.410938,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 23.0,
       "unit": "C",
-      "yes_price": 0.0105,
-      "no_price": 0.9895,
-      "volume": 32.82,
-      "liquidity": 1962.80421,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3629.7652219999995,
+      "liquidity": null,
       "token_id": "9240623362032232402210121631897629934803161391074671828803872173952662674475",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0105,
-        0.9895
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-23corbelow",
         "condition_id": "0xf23093d2c98a00802c4ac6e8698c750ddb7ec059baf69c111effd8432561e42f"
@@ -59,21 +59,21 @@
       "bucket_low": 24.0,
       "bucket_high": 24.0,
       "unit": "C",
-      "yes_price": 0.0145,
-      "no_price": 0.9855,
-      "volume": 101.191,
-      "liquidity": 1824.04368,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3923.4679080000005,
+      "liquidity": null,
       "token_id": "103340811079680109104163214421891175852528773825726489725745707860192402990251",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0145,
-        0.9855
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-24c",
         "condition_id": "0x2d96f66057a404c9d492d597c0a65e2fd58340417b69954af2a4129194cb3e68"
@@ -85,21 +85,21 @@
       "bucket_low": 25.0,
       "bucket_high": 25.0,
       "unit": "C",
-      "yes_price": 0.085,
-      "no_price": 0.915,
-      "volume": 146.914617,
-      "liquidity": 1420.5333,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4903.627213999998,
+      "liquidity": null,
       "token_id": "42131479452771174452734651970980678998744861425723702313108406384374737523614",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.085,
-        0.915
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-25c",
         "condition_id": "0xfa7d44b4d52b631cc382e38c453d83fdd83e3210fce71b3379fc3c1ef9387312"
@@ -111,21 +111,21 @@
       "bucket_low": 26.0,
       "bucket_high": 26.0,
       "unit": "C",
-      "yes_price": 0.25,
-      "no_price": 0.75,
-      "volume": 344.65687099999997,
-      "liquidity": 1217.5147,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3632.927514000001,
+      "liquidity": null,
       "token_id": "66173946712642627581693841475041958318768566932010878185227907218255965480677",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.25,
-        0.75
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-26c",
         "condition_id": "0x31e9c2251f3224fc1913bcee5e2a5f754471f94bc1a7eedec7daaf6c36d61a1e"
@@ -137,21 +137,21 @@
       "bucket_low": 27.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.375,
-      "no_price": 0.625,
-      "volume": 68.748082,
-      "liquidity": 1199.1275,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5355.810657999997,
+      "liquidity": null,
       "token_id": "5946654694367117579209871483906193420241553296738637495164320772548997179790",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.375,
-        0.625
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-27c",
         "condition_id": "0xbfadb6ac52f201dc22b53896c3f0a6b519d83f1817048503e1e3448adbeedf97"
@@ -163,21 +163,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.169,
-      "no_price": 0.831,
-      "volume": 86.928009,
-      "liquidity": 1250.51439,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4549.572737000003,
+      "liquidity": null,
       "token_id": "71861574094915050859081629312453198484810430469432718791570974826816890472365",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.169,
-        0.831
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-28c",
         "condition_id": "0x2ea54964ac165dfdd36284c3f04e05f72f57456f138e85b083239397e0c4f024"
@@ -189,21 +189,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.066,
-      "no_price": 0.934,
-      "volume": 54.557704,
-      "liquidity": 1299.69628,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4563.975270999999,
+      "liquidity": null,
       "token_id": "79219314270855014123329557752993172019574958997623090135483761078279745666163",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.066,
-        0.934
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-29c",
         "condition_id": "0xdec4974a5ab915a0d22626a8c7e70f13be83decf4729288780882c864fe17649"
@@ -215,21 +215,21 @@
       "bucket_low": 30.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.025,
-      "no_price": 0.975,
-      "volume": null,
-      "liquidity": 1592.49366,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3249.8928720000004,
+      "liquidity": null,
       "token_id": "47813525806827130185427369018439903669542940256973617045619380727320498724172",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.025,
-        0.975
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-30c",
         "condition_id": "0x63af9847d37cb15d21728e97e147689a656eaf8d759210bab2dec26292c1fd31"
@@ -241,21 +241,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.012,
-      "no_price": 0.988,
-      "volume": 254.858307,
-      "liquidity": 3294.13506,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2498.8992200000002,
+      "liquidity": null,
       "token_id": "108253263139351184001314148626348579104882415346239097336412906816434403767151",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.012,
-        0.988
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-31c",
         "condition_id": "0x255a82345bad5bc26860627d59e390aa73183fbaa15b2d9d7bea139b2d6dd851"
@@ -267,21 +267,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.0055,
-      "no_price": 0.9945,
-      "volume": 234.4856,
-      "liquidity": 4602.42856,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1498.6416,
+      "liquidity": null,
       "token_id": "7267560323757674951533643166109210943909554467447136821522289088810524192305",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0055,
-        0.9945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-32c",
         "condition_id": "0x57a3ab8846240a3940366a9abeedd1d5dce0d5280bd8374d00dfd7685662a010"
@@ -293,21 +293,21 @@
       "bucket_low": 33.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.004,
-      "no_price": 0.996,
-      "volume": 16.05105,
-      "liquidity": 5370.52717,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2447.8307220000006,
+      "liquidity": null,
       "token_id": "60615396667089590646389624718689709651781009762206075704390466280247586922530",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.004,
-        0.996
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-busan-on-june-6-2026-33corhigher",
         "condition_id": "0x598d6ce87c6aa2c96bfb2f4c849f6a47026a6ccfcfaa936248e7e7790ac02e59"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:18.987973+00:00",
+      "ts": "2026-06-07T16:05:37.541419+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 24243.03673,
-      "volume": 1335.776465,
+      "liquidity": null,
+      "volume": 40254.410938,
       "outcomes_count": 11,
       "top_bucket": "27.0-27.0C",
-      "top_price": 0.375,
+      "top_price": 1.0,
       "event_title": "Highest temperature in Busan on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-busan-on-june-6-2026",
     "event_id": "560861",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 15:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.433864+00:00",
-  "last_seen_at": "2026-06-05T06:36:18.987973+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:18.987973+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.541419+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.541419+00:00",
   "created_at": "2026-06-05T06:08:46.433864+00:00",
-  "updated_at": "2026-06-05T06:36:18.987973+00:00",
+  "updated_at": "2026-06-08T11:25:10.736204+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "27C",
+      "resolved_value": "27C",
+      "resolution_source": null,
+      "winning_market_id": "2441145",
+      "winning_question": "Will the highest temperature in Busan be 27°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.542431+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T15:00:00+00:00",
+  "hours_to_settle": -25.1
 }

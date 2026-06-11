@@ -1,0 +1,351 @@
+{
+  "storage_key": "seoul_2026-06-09_low",
+  "event_id": "568128",
+  "event_slug": "lowest-temperature-in-seoul-on-june-9-2026",
+  "event_title": "Lowest temperature in Seoul on June 9?",
+  "city_slug": "seoul",
+  "city_name": "Seoul",
+  "date": "2026-06-09",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seoul",
+    "Daily Temperature",
+    "Rewards Automation 400, 4.5, 50 (2)",
+    "Lowest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-09T12:00:00Z",
+  "event_end_date": "2026-06-09T12:00:00Z",
+  "liquidity": 31156.05098,
+  "volume": 15364.805512,
+  "market_type": "min_temperature",
+  "temperature_metric": "low",
+  "all_outcomes": [
+    {
+      "market_id": "2460221",
+      "question": "Will the lowest temperature in Seoul be 10°C or below on June 9?",
+      "bucket_low": -999.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 683.3197,
+      "liquidity": 2136.4051,
+      "token_id": "27570626484491633793428959094308650688507011532567621891554430050979570832143",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-10corbelow",
+        "condition_id": "0x0b8c86dccd078b95b215de5a900c10a1eb735b755770fe6a47198ff4b51fc9fc"
+      }
+    },
+    {
+      "market_id": "2460222",
+      "question": "Will the lowest temperature in Seoul be 11°C on June 9?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 864.5592660000001,
+      "liquidity": 2688.16592,
+      "token_id": "91221116936660731324557192519323862659017356762903064804560106650517443160389",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-11c",
+        "condition_id": "0xbf77b30c19fbf0563ca4500a16680331c04ba6e828cc9adf97ac672adb9fb1c8"
+      }
+    },
+    {
+      "market_id": "2460223",
+      "question": "Will the lowest temperature in Seoul be 12°C on June 9?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 536.0,
+      "liquidity": 2377.04122,
+      "token_id": "5604836797848817995750507860906981743491830456810996550441801977751863063408",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-12c",
+        "condition_id": "0xd62a218fd4192204d99e49a2b72277e93eff0de7de22ca85b5127e9fce056e84"
+      }
+    },
+    {
+      "market_id": "2460224",
+      "question": "Will the lowest temperature in Seoul be 13°C on June 9?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 637.0,
+      "liquidity": 2469.30911,
+      "token_id": "98940854748140133162084625384064988434359271035912507001613867310580328983201",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-13c",
+        "condition_id": "0x74f319e4639f9de88736f1441ffff1a616011485cc59ebd911bd366189b8b8c6"
+      }
+    },
+    {
+      "market_id": "2460225",
+      "question": "Will the lowest temperature in Seoul be 14°C on June 9?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 683.2948519999999,
+      "liquidity": 2127.99383,
+      "token_id": "12600858752423465470356267968922107950060203780110113206979704247575311673319",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-14c",
+        "condition_id": "0xb402ab4b0c1170d60861dec9e86999f25d4d6c682d08e3d9f0b60ee24a7deed6"
+      }
+    },
+    {
+      "market_id": "2460226",
+      "question": "Will the lowest temperature in Seoul be 15°C on June 9?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0275,
+      "no_price": 0.9725,
+      "volume": 1447.1377080000002,
+      "liquidity": 4406.27132,
+      "token_id": "110546143939594616963354869007079463041646369438796145648524486412691190059660",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0275,
+        0.9725
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-15c",
+        "condition_id": "0xe34350c6abcdba255035e75c33abf30b7183bda19925b1338eeeca87521fec50"
+      }
+    },
+    {
+      "market_id": "2460227",
+      "question": "Will the lowest temperature in Seoul be 16°C on June 9?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.9735,
+      "no_price": 0.0265,
+      "volume": 3080.2590520000003,
+      "liquidity": 2631.08752,
+      "token_id": "44934708743133143296363785871045523148343822193947690652065038043095009144995",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.9735,
+        0.0265
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-16c",
+        "condition_id": "0x8b7060e205df1b59b34a88b335180451186eea744126ef813c02861a90aa92f2"
+      }
+    },
+    {
+      "market_id": "2460228",
+      "question": "Will the lowest temperature in Seoul be 17°C on June 9?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "volume": 1657.8247200000005,
+      "liquidity": 1624.99183,
+      "token_id": "113425153393576240675196717668293250666081542821711880373170603338807375435059",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.001,
+        0.999
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-17c",
+        "condition_id": "0x23cf8e8aa1bc36be1450e3b252525bc316ad670bf4ffbbdd33643fde8ef79181"
+      }
+    },
+    {
+      "market_id": "2460229",
+      "question": "Will the lowest temperature in Seoul be 18°C on June 9?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 1788.971214,
+      "liquidity": 3554.56993,
+      "token_id": "83641569246372196283680920086415236643963504597540182425086174357317479106290",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-18c",
+        "condition_id": "0xe0877befd759e37d30fad07babed7a10b5e4085e59382512064af1a0c7b0721b"
+      }
+    },
+    {
+      "market_id": "2460230",
+      "question": "Will the lowest temperature in Seoul be 19°C on June 9?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 2190.0389999999998,
+      "liquidity": 3713.45042,
+      "token_id": "107004770101043690050633689782310075258823847032707470837206257940519592274250",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-19c",
+        "condition_id": "0x596ebcb4536da7a4837a4a4278dd60d51bee858bba944c4da50e7a894237937c"
+      }
+    },
+    {
+      "market_id": "2460231",
+      "question": "Will the lowest temperature in Seoul be 20°C or higher on June 9?",
+      "bucket_low": 20.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 1796.3999999999999,
+      "liquidity": 3620.85486,
+      "token_id": "58757054867879664613467639277690643937697022143450538063080316018836257626148",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "lowest-temperature-in-seoul-on-june-9-2026-20corhigher",
+        "condition_id": "0x28bc08b01a7744b44192bf2e9d03c618c3dfdbd726ff579dfd263923179c125f"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-09T07:53:26.651261+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-09T12:00:00Z",
+      "liquidity": 31156.05098,
+      "volume": 15364.805512,
+      "outcomes_count": 11,
+      "top_bucket": "16.0-16.0C",
+      "top_price": 0.9735,
+      "event_title": "Lowest temperature in Seoul on June 9?"
+    }
+  ],
+  "settle_at": "2026-06-09T15:00:00+00:00",
+  "hours_to_settle": 7.1,
+  "raw_source": {
+    "event_slug": "lowest-temperature-in-seoul-on-june-9-2026",
+    "event_id": "568128",
+    "markets_count": 11,
+    "game_start_time": "2026-06-08 15:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 4.1,
+  "first_seen_at": "2026-06-07T13:13:00.979311+00:00",
+  "last_seen_at": "2026-06-09T07:53:26.651261+00:00",
+  "last_refreshed_at": "2026-06-09T07:53:26.651261+00:00",
+  "created_at": "2026-06-07T13:13:00.979311+00:00",
+  "updated_at": "2026-06-10T17:17:30.753583+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

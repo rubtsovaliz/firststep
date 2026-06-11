@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-05T12:00:00Z",
   "event_end_date": "2026-06-05T12:00:00Z",
-  "liquidity": 17588.20272,
-  "volume": 34651.878292,
+  "liquidity": null,
+  "volume": 67529.87066,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.138,
-      "no_price": 0.862,
-      "volume": 7959.000511000002,
-      "liquidity": 361.44575,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 13730.215190999998,
+      "liquidity": null,
       "token_id": "58042987656388433843225602759949906784301283037616032628529029158085438649981",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.138,
-        0.862
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-31corbelow",
         "condition_id": "0xc27633ab4dd6dc9e2d3a82e4de81fc830743f8134a47d8454b345c0c1602ed32"
@@ -59,21 +59,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.45,
-      "no_price": 0.55,
-      "volume": 2829.5346909999985,
-      "liquidity": 303.8395,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6839.573690999999,
+      "liquidity": null,
       "token_id": "69967339927100991786293075114960471696118354304273065500811365868526142832749",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.45,
-        0.55
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-32c",
         "condition_id": "0xd37507840e4cffaa947bdf9d57ae55f13d8088fbd1088851c30afdf05d1b4699"
@@ -85,21 +85,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.285,
-      "no_price": 0.715,
-      "volume": 1756.978881000001,
-      "liquidity": 296.0921,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7472.611048000003,
+      "liquidity": null,
       "token_id": "90046883163940106432998495899882582322963750439858032050474758066671803118445",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.285,
-        0.715
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-33c",
         "condition_id": "0x3b1c5a68d2ae4b4fff2832779494a31e70aea6e04018382fcb4968ad424ed185"
@@ -111,21 +111,21 @@
       "bucket_low": 34.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.13,
-      "no_price": 0.87,
-      "volume": 1582.2563600000008,
-      "liquidity": 429.4415,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 7536.848764000003,
+      "liquidity": null,
       "token_id": "12470343537024714327747466761989452820400000526462074375282950157049448675958",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.13,
-        0.87
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-34c",
         "condition_id": "0xead8ef33933fd689e29ea25a3e00c236ecd434b542fabbe33b76b51ac63fbbfe"
@@ -137,21 +137,21 @@
       "bucket_low": 35.0,
       "bucket_high": 35.0,
       "unit": "C",
-      "yes_price": 0.055,
-      "no_price": 0.945,
-      "volume": 2856.145491,
-      "liquidity": 906.2039,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6762.377012000001,
+      "liquidity": null,
       "token_id": "25347081222528361560687360000281529002419904126124706841404031393401176810934",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.055,
-        0.945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-35c",
         "condition_id": "0xf9d77d6a6a383f3f265501b4a5d1a573a900299971174d68e115724744e7baf2"
@@ -163,21 +163,21 @@
       "bucket_low": 36.0,
       "bucket_high": 36.0,
       "unit": "C",
-      "yes_price": 0.011,
-      "no_price": 0.989,
-      "volume": 3981.587140999999,
-      "liquidity": 1447.84929,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7314.417921999999,
+      "liquidity": null,
       "token_id": "77642957607653864214145070026268158310567199086187244853216318361564388289631",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.011,
-        0.989
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-36c",
         "condition_id": "0x1283374034e259c1f6352be17047a42651deff09d50d641eda48e60c558e3141"
@@ -189,21 +189,21 @@
       "bucket_low": 37.0,
       "bucket_high": 37.0,
       "unit": "C",
-      "yes_price": 0.0065,
-      "no_price": 0.9935,
-      "volume": 2967.1833879999995,
-      "liquidity": 1220.25759,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4067.198480999999,
+      "liquidity": null,
       "token_id": "80208108569664844093641835553378340954910615079619151862824833521601964034743",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0065,
-        0.9935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-37c",
         "condition_id": "0xbce11d248d7358f2f3a61a4e84d0258ddfc69e53456d993de8db9a4c1bc5ebce"
@@ -215,21 +215,21 @@
       "bucket_low": 38.0,
       "bucket_high": 38.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 5840.846196000001,
-      "liquidity": 4281.25562,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7429.463726000003,
+      "liquidity": null,
       "token_id": "77238129160437864611056326703195109884426077068666120583793518817035211634920",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-38c",
         "condition_id": "0x717720b16a10bae244a631103ba509e4efbc18f941775274be56ad50b821593a"
@@ -241,21 +241,21 @@
       "bucket_low": 39.0,
       "bucket_high": 39.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 2651.206231999999,
-      "liquidity": 4038.04079,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3464.0531249999995,
+      "liquidity": null,
       "token_id": "21619119946000624764501573610048733341697253969702204393618561668118525825802",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-39c",
         "condition_id": "0x89b52f8aaea48ea607d7acb45b3f3b7f1555c69ee6a812882ffeb6286dab54d0"
@@ -267,21 +267,21 @@
       "bucket_low": 40.0,
       "bucket_high": 40.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 2591.165,
-      "liquidity": 3980.55379,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2601.165,
+      "liquidity": null,
       "token_id": "36273374384212946859167979510545749741171908345628609487729325433209359625649",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-40c",
         "condition_id": "0xf76476cf6284bd1db19df4a478dd837294bdd15b58727ec71209354b6b9534cb"
@@ -293,21 +293,21 @@
       "bucket_low": 41.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "volume": 301.9467,
-      "liquidity": 4073.22859,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 311.9467,
+      "liquidity": null,
       "token_id": "25599286792390087648780171404328581371439238007094726359744145379485381398775",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0005,
-        0.9995
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-chengdu-on-june-5-2026-41corhigher",
         "condition_id": "0x8ec24d4f18820a58b051c7bda856c95cf9704145397ef0e55ad591d494360164"
@@ -316,33 +316,45 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:19.520471+00:00",
+      "ts": "2026-06-07T16:05:37.801080+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-05T12:00:00Z",
-      "liquidity": 17588.20272,
-      "volume": 34651.878292,
+      "liquidity": null,
+      "volume": 67529.87066,
       "outcomes_count": 11,
-      "top_bucket": "32.0-32.0C",
-      "top_price": 0.45,
+      "top_bucket": "34.0-34.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Chengdu on June 5?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-chengdu-on-june-5-2026",
     "event_id": "553920",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-04 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 5.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-04T16:52:28.879147+00:00",
-  "last_seen_at": "2026-06-05T06:36:19.520471+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:19.520471+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.801080+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.801080+00:00",
   "created_at": "2026-06-04T16:52:28.879147+00:00",
-  "updated_at": "2026-06-05T06:36:19.520471+00:00",
+  "updated_at": "2026-06-07T16:05:37.801080+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "34C",
+      "resolved_value": "34C",
+      "resolution_source": null,
+      "winning_market_id": "2424704",
+      "winning_question": "Will the highest temperature in Chengdu be 34°C on June 5?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.803085+00:00"
+  },
+  "legacy": null,
+  "settle_at": "2026-06-05T16:00:00+00:00",
+  "hours_to_settle": -48.1
 }

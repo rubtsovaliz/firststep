@@ -1,0 +1,360 @@
+{
+  "storage_key": "chicago_2026-04-19_high",
+  "event_id": "387429",
+  "event_slug": "highest-temperature-in-chicago-on-april-19-2026",
+  "event_title": "Highest temperature in Chicago on April 19?",
+  "city_slug": "chicago",
+  "city_name": "Chicago",
+  "date": "2026-04-19",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Chicago",
+    "Daily Temperature",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-19T12:00:00Z",
+  "event_end_date": "2026-04-19T12:00:00Z",
+  "liquidity": null,
+  "volume": 121142.97918599997,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2003755",
+      "question": "Will the highest temperature in Chicago be 43°F or below on April 19?",
+      "bucket_low": -999.0,
+      "bucket_high": 43.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12042.050815000004,
+      "liquidity": null,
+      "token_id": "58961821189233525738716934485841764186089762356478044677040391706144834014030",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-43forbelow",
+        "condition_id": "0x1f80f3ce819442248864b13839527f4ca8c4ca1c1448f6788ae1e1791a87fec7"
+      }
+    },
+    {
+      "market_id": "2003756",
+      "question": "Will the highest temperature in Chicago be between 44-45°F on April 19?",
+      "bucket_low": 44.0,
+      "bucket_high": 45.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6457.645510000001,
+      "liquidity": null,
+      "token_id": "16897459077567559919532177211736406550779481719980775058801270304099423459076",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-44-45f",
+        "condition_id": "0x14bdee51c379bf830b6064c68a2a22a81b1e8b7fc8a5003939a36f179b0ab3d0"
+      }
+    },
+    {
+      "market_id": "2003757",
+      "question": "Will the highest temperature in Chicago be between 46-47°F on April 19?",
+      "bucket_low": 46.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10324.308178000003,
+      "liquidity": null,
+      "token_id": "50392090186330261049255720427175906011281724262960093673060135868669871370373",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-46-47f",
+        "condition_id": "0x7eaafeaf6e19e93cd38f304ae216dd2a01e05fc2cbcb86641acf61ad929430a7"
+      }
+    },
+    {
+      "market_id": "2003758",
+      "question": "Will the highest temperature in Chicago be between 48-49°F on April 19?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 28314.07740899996,
+      "liquidity": null,
+      "token_id": "43716241294836609455838456887056067924998848690741910149646307304027070819890",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-48-49f",
+        "condition_id": "0x0a4ad36b50fddd3c560459577825ea31cd9bdfd44c9e5d95613323fdcb06cecd"
+      }
+    },
+    {
+      "market_id": "2003759",
+      "question": "Will the highest temperature in Chicago be between 50-51°F on April 19?",
+      "bucket_low": 50.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16897.843298000014,
+      "liquidity": null,
+      "token_id": "64279059087287233318820027510058842692881859546803230928639560892897089874223",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-50-51f",
+        "condition_id": "0x220db903e9259fac221ec96e1b7e2b6c7a0e3d7eb62682f03873e61aff22c1b9"
+      }
+    },
+    {
+      "market_id": "2003760",
+      "question": "Will the highest temperature in Chicago be between 52-53°F on April 19?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16586.821947999993,
+      "liquidity": null,
+      "token_id": "52594361475112072476634613087800242687700718183964090928736463648479063930058",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-52-53f",
+        "condition_id": "0xf8458cc3b55ea93a746cfee897f15a450d1918e1011f24669b11e8616433083e"
+      }
+    },
+    {
+      "market_id": "2003761",
+      "question": "Will the highest temperature in Chicago be between 54-55°F on April 19?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9533.275259,
+      "liquidity": null,
+      "token_id": "105014679851110143217385179190074145983427593259875481049779297941994402122219",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-54-55f",
+        "condition_id": "0x6ac82687b22e8148561ca35cc90b180352ed37cfca4afacd3c3e8ad37702af9b"
+      }
+    },
+    {
+      "market_id": "2003762",
+      "question": "Will the highest temperature in Chicago be between 56-57°F on April 19?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6239.878876000005,
+      "liquidity": null,
+      "token_id": "21781571783616155738093213494383016872169557208611801460926801509272181273006",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-56-57f",
+        "condition_id": "0x503730f52f8d907f7853c56e64454341e11d78af61ace00399b4a048a646fda7"
+      }
+    },
+    {
+      "market_id": "2003763",
+      "question": "Will the highest temperature in Chicago be between 58-59°F on April 19?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3475.300564000001,
+      "liquidity": null,
+      "token_id": "113999268999711977363306203098987942669274518842009556959367422767449611428917",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-58-59f",
+        "condition_id": "0x65a2078041060029bec522da2c8c329702392274228016c657d34051ac281548"
+      }
+    },
+    {
+      "market_id": "2003764",
+      "question": "Will the highest temperature in Chicago be between 60-61°F on April 19?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3740.546952,
+      "liquidity": null,
+      "token_id": "46713001925038451535292961894657309787086855193194164974948135294988334225954",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-60-61f",
+        "condition_id": "0xf3bfcded460a25af1c76bf1a8bd1140cb00d25970db637e1dbb738ea4d15240a"
+      }
+    },
+    {
+      "market_id": "2003765",
+      "question": "Will the highest temperature in Chicago be 62°F or higher on April 19?",
+      "bucket_low": 62.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 7531.230376999993,
+      "liquidity": null,
+      "token_id": "6483699298287792912124439053238423620016577394827369144932365784807939809791",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-chicago-on-april-19-2026-62forhigher",
+        "condition_id": "0xaae52a61bcaff56ce249e82337d3faae7f30377e95d9f6f9cde3a1e96e54e7fd"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:05.340911+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-19T12:00:00Z",
+      "liquidity": null,
+      "volume": 121142.97918599997,
+      "outcomes_count": 11,
+      "top_bucket": "48.0-49.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in Chicago on April 19?"
+    }
+  ],
+  "settle_at": "2026-04-20T05:00:00+00:00",
+  "hours_to_settle": -1163.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-chicago-on-april-19-2026",
+    "event_id": "387429",
+    "markets_count": 11,
+    "game_start_time": "2026-04-19 05:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:05.340911+00:00",
+  "last_seen_at": "2026-06-07T16:06:05.340911+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:05.340911+00:00",
+  "created_at": "2026-06-07T16:06:05.340911+00:00",
+  "updated_at": "2026-06-10T17:17:28.783012+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "48-49F",
+      "resolved_value": "48-49F",
+      "resolution_source": null,
+      "winning_market_id": "2003758",
+      "winning_question": "Will the highest temperature in Chicago be between 48-49°F on April 19?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:05.342916+00:00"
+  },
+  "legacy": null
+}

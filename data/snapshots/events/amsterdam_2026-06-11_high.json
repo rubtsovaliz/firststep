@@ -1,0 +1,351 @@
+{
+  "storage_key": "amsterdam_2026-06-11_high",
+  "event_id": "575226",
+  "event_slug": "highest-temperature-in-amsterdam-on-june-11-2026",
+  "event_title": "Highest temperature in Amsterdam on June 11?",
+  "city_slug": "amsterdam",
+  "city_name": "Amsterdam",
+  "date": "2026-06-11",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "Amsterdam",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-11T12:00:00Z",
+  "event_end_date": "2026-06-11T12:00:00Z",
+  "liquidity": 43645.51563,
+  "volume": 5406.460591999999,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2476990",
+      "question": "Will the highest temperature in Amsterdam be 12°C or below on June 11?",
+      "bucket_low": -999.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 190.913,
+      "liquidity": 10082.21007,
+      "token_id": "31336353324082447531685267408487895107750553174290028426285103989104163923363",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-12corbelow",
+        "condition_id": "0x2b31c880ad782cdab183790b6055dc53ae1558ababdb0b366cce3356ea124491"
+      }
+    },
+    {
+      "market_id": "2476991",
+      "question": "Will the highest temperature in Amsterdam be 13°C on June 11?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 266.17600000000004,
+      "liquidity": 9143.85985,
+      "token_id": "108062211841934078894130133228518857567542368784312015016397803232330288945903",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-13c",
+        "condition_id": "0x4f14673f40969a2c138cb5d06a250b6fa5a840b73ceb3cf643cd0b1a8393f51d"
+      }
+    },
+    {
+      "market_id": "2476992",
+      "question": "Will the highest temperature in Amsterdam be 14°C on June 11?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 275.94280000000003,
+      "liquidity": 2964.62764,
+      "token_id": "7688690760544592990149371814808856936877812472292134580116205713549068728416",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-14c",
+        "condition_id": "0x28fb90cd8699fd5d89bb748dd2fef66ff7e3e8808536df2c383dd768f72af3ae"
+      }
+    },
+    {
+      "market_id": "2476993",
+      "question": "Will the highest temperature in Amsterdam be 15°C on June 11?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.039,
+      "no_price": 0.961,
+      "volume": 955.3193679999999,
+      "liquidity": 2334.83094,
+      "token_id": "44701194015935069791970070073498679118709128934809718559650740948825559138511",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.039,
+        0.961
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-15c",
+        "condition_id": "0xd5cb07330d1199ad5a268126fabc7d752461d0d4685c01108447589ad805bb2f"
+      }
+    },
+    {
+      "market_id": "2476994",
+      "question": "Will the highest temperature in Amsterdam be 16°C on June 11?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.15,
+      "no_price": 0.85,
+      "volume": 1037.8895089999999,
+      "liquidity": 1660.1115,
+      "token_id": "90103079979970103091910281346515364577405351533288677122274153351052191674512",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.15,
+        0.85
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-16c",
+        "condition_id": "0x04e5016b07e026d226e156d6904324c85e50436d6a30205440fe850aa3bd606e"
+      }
+    },
+    {
+      "market_id": "2476995",
+      "question": "Will the highest temperature in Amsterdam be 17°C on June 11?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.45,
+      "no_price": 0.55,
+      "volume": 755.909175,
+      "liquidity": 1548.1576,
+      "token_id": "88047150285448232027158544906223186768497585073881932116040470573082907795685",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.45,
+        0.55
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-17c",
+        "condition_id": "0x7a21a9fe17c1d551193761d7fb7e9bb3dbe5d69affc7c575f7034a258ff4aeb6"
+      }
+    },
+    {
+      "market_id": "2476996",
+      "question": "Will the highest temperature in Amsterdam be 18°C on June 11?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.325,
+      "no_price": 0.675,
+      "volume": 487.455429,
+      "liquidity": 1219.2609,
+      "token_id": "67073150118523988307867206219613329679841865274997846817390700831781012722556",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.325,
+        0.675
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-18c",
+        "condition_id": "0xb48b1e10ddd05597f194fff4f4904c140120b63b9db9b6d676c5515bc5417aab"
+      }
+    },
+    {
+      "market_id": "2476997",
+      "question": "Will the highest temperature in Amsterdam be 19°C on June 11?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0595,
+      "no_price": 0.9405,
+      "volume": 852.755397,
+      "liquidity": 2272.45355,
+      "token_id": "96651492211514551531441200587556232977734565400771898218770700510010192363374",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0595,
+        0.9405
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-19c",
+        "condition_id": "0xd639f4c265c4c309bb5470dd54719ff6cc756aea67539c8682054b966e417b1e"
+      }
+    },
+    {
+      "market_id": "2476998",
+      "question": "Will the highest temperature in Amsterdam be 20°C on June 11?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "volume": 317.35579900000005,
+      "liquidity": 2478.9798,
+      "token_id": "30820021118162236105001981836906124340852395014361536662562179998009507601258",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0055,
+        0.9945
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-20c",
+        "condition_id": "0x5d012f8f0184c74292d1c0a3979e9f359286a3538e7e6d86ca1833ede733d280"
+      }
+    },
+    {
+      "market_id": "2476999",
+      "question": "Will the highest temperature in Amsterdam be 21°C on June 11?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.002,
+      "no_price": 0.998,
+      "volume": 258.777,
+      "liquidity": 3677.98624,
+      "token_id": "64085300276814047287126029449501745323722028361810980789675764277305805927679",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.002,
+        0.998
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-21c",
+        "condition_id": "0x34ed3ccacfdb3783890c2a56ada495ec066f441fd990b446b244c6f7626646b0"
+      }
+    },
+    {
+      "market_id": "2477000",
+      "question": "Will the highest temperature in Amsterdam be 22°C or higher on June 11?",
+      "bucket_low": 22.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 260.744,
+      "liquidity": 3507.30726,
+      "token_id": "14845805875899785589595929016596812314189577321817739187004326678234771108818",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-amsterdam-on-june-11-2026-22corhigher",
+        "condition_id": "0xeefaa06b0d781be1d1708429ffeb1c470cc4f1af636a9f62205204c0af80335c"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.662636+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-11T12:00:00Z",
+      "liquidity": 43645.51563,
+      "volume": 5406.460591999999,
+      "outcomes_count": 11,
+      "top_bucket": "17.0-17.0C",
+      "top_price": 0.45,
+      "event_title": "Highest temperature in Amsterdam on June 11?"
+    }
+  ],
+  "settle_at": "2026-06-11T22:00:00+00:00",
+  "hours_to_settle": 28.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-amsterdam-on-june-11-2026",
+    "event_id": "575226",
+    "markets_count": 11,
+    "game_start_time": "2026-06-10 22:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 18.7,
+  "first_seen_at": "2026-06-09T07:53:26.351735+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.662636+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.662636+00:00",
+  "created_at": "2026-06-09T07:53:26.351735+00:00",
+  "updated_at": "2026-06-10T17:17:26.662636+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

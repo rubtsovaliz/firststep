@@ -1,0 +1,351 @@
+{
+  "storage_key": "wellington_2026-06-12_high",
+  "event_id": "578704",
+  "event_slug": "highest-temperature-in-wellington-on-june-12-2026",
+  "event_title": "Highest temperature in Wellington on June 12?",
+  "city_slug": "wellington",
+  "city_name": "Wellington",
+  "date": "2026-06-12",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Auckland",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-12T12:00:00Z",
+  "event_end_date": "2026-06-12T12:00:00Z",
+  "liquidity": 37409.73555,
+  "volume": 4745.125026,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2488064",
+      "question": "Will the highest temperature in Wellington be 8°C or below on June 12?",
+      "bucket_low": -999.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 431.99199999999996,
+      "liquidity": 7764.89674,
+      "token_id": "38717310630521627731562468578556073606074714163759097836399833983557722177460",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-8corbelow",
+        "condition_id": "0x3667032923d6bc9ba20fad769a5d672a952075c0d18a50f6984e9acdde9d140f"
+      }
+    },
+    {
+      "market_id": "2488065",
+      "question": "Will the highest temperature in Wellington be 9°C on June 12?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 322.994,
+      "liquidity": 6885.30264,
+      "token_id": "74158467212786790440796978212847464877252525212611811364939809414809224840334",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-9c",
+        "condition_id": "0xa9a0cf2c70c4fc941b06634ef34e045e3a3f07fbbb7cd66a79c756bac47318a5"
+      }
+    },
+    {
+      "market_id": "2488066",
+      "question": "Will the highest temperature in Wellington be 10°C on June 12?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 136.666,
+      "liquidity": 3702.85356,
+      "token_id": "52480294417497440190968033331620336565565736420792540514269912906722851821150",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-10c",
+        "condition_id": "0xee2827ba8fc438c4b5f4393797336ea6042d7bb32ab11308aec31fe5555fce2c"
+      }
+    },
+    {
+      "market_id": "2488067",
+      "question": "Will the highest temperature in Wellington be 11°C on June 12?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.011,
+      "no_price": 0.989,
+      "volume": 971.539835,
+      "liquidity": 3008.21416,
+      "token_id": "45563812551541173329016516873224919880496999640057135458050236895092335938586",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.011,
+        0.989
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-11c",
+        "condition_id": "0x550481ecf60adf92fc848b0f4f5eba6df34757e1942587e09560a319e008a0c3"
+      }
+    },
+    {
+      "market_id": "2488068",
+      "question": "Will the highest temperature in Wellington be 12°C on June 12?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 0.023,
+      "no_price": 0.977,
+      "volume": 647.019292,
+      "liquidity": 2348.46694,
+      "token_id": "55656479865464592594544687126232071345467596060206312147032587439095502680039",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.023,
+        0.977
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-12c",
+        "condition_id": "0xe188903fb02ffb43082c40dfaca31d9a1bde4fe01f8a1f9c3543b84678fa3cc2"
+      }
+    },
+    {
+      "market_id": "2488069",
+      "question": "Will the highest temperature in Wellington be 13°C on June 12?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.13,
+      "no_price": 0.87,
+      "volume": 488.173883,
+      "liquidity": 1291.8604,
+      "token_id": "39788042923413660823064174217307923042021519852729756420131269682969181642936",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.13,
+        0.87
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-13c",
+        "condition_id": "0xe353e377d5a38045a1c5b6c21f088b04bcf497c4e466c87e2b473f9b1a2830a1"
+      }
+    },
+    {
+      "market_id": "2488070",
+      "question": "Will the highest temperature in Wellington be 14°C on June 12?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.41,
+      "no_price": 0.59,
+      "volume": 363.52083799999997,
+      "liquidity": 946.3516,
+      "token_id": "39709446423403866220960819872621489443562089722147158191884015609422338869796",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.41,
+        0.59
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-14c",
+        "condition_id": "0x8557184ee1b4b1a0e7d25f1834d6108aaf5657e7477858428b83a78b4e84d916"
+      }
+    },
+    {
+      "market_id": "2488071",
+      "question": "Will the highest temperature in Wellington be 15°C on June 12?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.32,
+      "no_price": 0.68,
+      "volume": 467.591424,
+      "liquidity": 1114.1004,
+      "token_id": "62177842912376131660350668658474772216845028456379239824014774497185921482210",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.32,
+        0.68
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-15c",
+        "condition_id": "0x5f183840e6a293ff03bee0637fc72faf7f70554c31420504dce305d0a3e32da6"
+      }
+    },
+    {
+      "market_id": "2488072",
+      "question": "Will the highest temperature in Wellington be 16°C on June 12?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.07,
+      "no_price": 0.93,
+      "volume": 553.5254180000001,
+      "liquidity": 3070.2834,
+      "token_id": "107062914632280894480126947735194021196834217576828281481827464766666116551943",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.07,
+        0.93
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-16c",
+        "condition_id": "0xceac98a6204e783766f0bf7f761bfd459b5a5a858a37488c09bd121ffbf4d1ed"
+      }
+    },
+    {
+      "market_id": "2488073",
+      "question": "Will the highest temperature in Wellington be 17°C on June 12?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0095,
+      "no_price": 0.9905,
+      "volume": 190.44833599999998,
+      "liquidity": 1621.74806,
+      "token_id": "106942374562702490043131339374378983524095875001972769679903552307941035044003",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0095,
+        0.9905
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-17c",
+        "condition_id": "0xb5689380562c1c655f3b0b92afd6b7199413b9b30ea72df839b3b68eeb77bca1"
+      }
+    },
+    {
+      "market_id": "2488074",
+      "question": "Will the highest temperature in Wellington be 18°C or higher on June 12?",
+      "bucket_low": 18.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.003,
+      "no_price": 0.997,
+      "volume": 185.654,
+      "liquidity": 4504.87592,
+      "token_id": "52058987768952568616465664544365378507426757371738168685552038613198711219785",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.003,
+        0.997
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-wellington-on-june-12-2026-18corhigher",
+        "condition_id": "0x2efaf47c97cf21746eedb8c497781217a117372c40cbb19b7803b29e0537d1fd"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-10T17:17:26.581435+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-12T12:00:00Z",
+      "liquidity": 37409.73555,
+      "volume": 4745.125026,
+      "outcomes_count": 11,
+      "top_bucket": "14.0-14.0C",
+      "top_price": 0.41,
+      "event_title": "Highest temperature in Wellington on June 12?"
+    }
+  ],
+  "settle_at": "2026-06-12T12:00:00+00:00",
+  "hours_to_settle": 42.7,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-wellington-on-june-12-2026",
+    "event_id": "578704",
+    "markets_count": 11,
+    "game_start_time": "2026-06-11 12:00:00+00"
+  },
+  "status": "discovered",
+  "discovery_source": "combined",
+  "hours_at_discovery": 42.7,
+  "first_seen_at": "2026-06-10T16:07:43.849384+00:00",
+  "last_seen_at": "2026-06-10T17:17:26.581435+00:00",
+  "last_refreshed_at": "2026-06-10T17:17:26.581435+00:00",
+  "created_at": "2026-06-10T16:07:43.849384+00:00",
+  "updated_at": "2026-06-10T17:17:26.581435+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

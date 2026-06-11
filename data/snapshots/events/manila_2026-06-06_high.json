@@ -19,11 +19,11 @@
     "Highest temperature"
   ],
   "active": true,
-  "closed": false,
+  "closed": true,
   "end_date": "2026-06-06T12:00:00Z",
   "event_end_date": "2026-06-06T12:00:00Z",
-  "liquidity": 22520.18265,
-  "volume": 1856.0575279999998,
+  "liquidity": null,
+  "volume": 52842.236167,
   "market_type": "max_temperature",
   "temperature_metric": "high",
   "all_outcomes": [
@@ -33,21 +33,21 @@
       "bucket_low": -999.0,
       "bucket_high": 27.0,
       "unit": "C",
-      "yes_price": 0.0055,
-      "no_price": 0.9945,
-      "volume": 288.6,
-      "liquidity": 2879.42408,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8607.930263,
+      "liquidity": null,
       "token_id": "78608546520125348698884140749170405345504083054445063550064764640486514983160",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0055,
-        0.9945
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-27corbelow",
         "condition_id": "0x202eeff15b6411b98b1254940f2a7434cc3cf4259b974695d8dc84fd0e56c0ca"
@@ -59,21 +59,21 @@
       "bucket_low": 28.0,
       "bucket_high": 28.0,
       "unit": "C",
-      "yes_price": 0.0085,
-      "no_price": 0.9915,
-      "volume": 298.94,
-      "liquidity": 1621.34256,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5570.791228999998,
+      "liquidity": null,
       "token_id": "105784643896344402350264135600532945470796329148724736217835987056481959014836",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0085,
-        0.9915
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-28c",
         "condition_id": "0x6b3e7d7d7f94ac67efa0ce265c6b9c71736e97c01bf280942bdb34e18e06fad2"
@@ -85,21 +85,21 @@
       "bucket_low": 29.0,
       "bucket_high": 29.0,
       "unit": "C",
-      "yes_price": 0.07,
-      "no_price": 0.93,
-      "volume": 479.846433,
-      "liquidity": 923.9081,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6539.134922000002,
+      "liquidity": null,
       "token_id": "49246446165780526532369154235979205760355561536284394680631587280028777250067",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.07,
-        0.93
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-29c",
         "condition_id": "0x4c4421fde1fc206c5e488beb4c748b282704836687e2a34ba5f751b2dc3b3e4b"
@@ -111,21 +111,21 @@
       "bucket_low": 30.0,
       "bucket_high": 30.0,
       "unit": "C",
-      "yes_price": 0.235,
-      "no_price": 0.765,
-      "volume": 345.5363099999999,
-      "liquidity": 1000.4673,
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 5922.665694999998,
+      "liquidity": null,
       "token_id": "42975783497307966612694512808413378683331675965055448950840949630168520862536",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.235,
-        0.765
+        1.0,
+        0.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-30c",
         "condition_id": "0x54e5d42570a36836a655cfbe7813025a1b046bacb3e0e8aa3ec7d3d6143361a3"
@@ -137,21 +137,21 @@
       "bucket_low": 31.0,
       "bucket_high": 31.0,
       "unit": "C",
-      "yes_price": 0.365,
-      "no_price": 0.635,
-      "volume": 141.63616499999998,
-      "liquidity": 1006.1213,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3734.680982000001,
+      "liquidity": null,
       "token_id": "82934501495703353025983669969657601513942838980520220465657570388266966252007",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.365,
-        0.635
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-31c",
         "condition_id": "0xc2a6cab08678d8a6e9e7deccd211f1d2bab0bc6d44aa8d9d516d8a2b935a23b1"
@@ -163,21 +163,21 @@
       "bucket_low": 32.0,
       "bucket_high": 32.0,
       "unit": "C",
-      "yes_price": 0.215,
-      "no_price": 0.785,
-      "volume": 125.91428399999998,
-      "liquidity": 1159.4967,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5441.954018000007,
+      "liquidity": null,
       "token_id": "19899878939904713214823826437391076512734682447470345865723647587253625241473",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.215,
-        0.785
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-32c",
         "condition_id": "0x1cf287c6f298ed07f9800a0360e94164418b21875b90f0d3d147225cafe10860"
@@ -189,21 +189,21 @@
       "bucket_low": 33.0,
       "bucket_high": 33.0,
       "unit": "C",
-      "yes_price": 0.065,
-      "no_price": 0.935,
-      "volume": 364.534956,
-      "liquidity": 1282.8797,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5172.037199999999,
+      "liquidity": null,
       "token_id": "54325278191645208893773485294410143199916328215772204721645057356671204437587",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.065,
-        0.935
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-33c",
         "condition_id": "0x789900b556a6736a9ab960147adb71a90e538edd11e9d1d7c3f15817bdba6634"
@@ -215,21 +215,21 @@
       "bucket_low": 34.0,
       "bucket_high": 34.0,
       "unit": "C",
-      "yes_price": 0.015,
-      "no_price": 0.985,
-      "volume": 297.33354299999996,
-      "liquidity": 1368.63209,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3009.5899680000007,
+      "liquidity": null,
       "token_id": "102267347065335286524856932285257066432778445795888531152651684657409516160165",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.015,
-        0.985
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-34c",
         "condition_id": "0xa1e0a2a2880b39831b5ab4628c27c08997a3a788d6ee94737180cc9b3bd40595"
@@ -241,21 +241,21 @@
       "bucket_low": 35.0,
       "bucket_high": 35.0,
       "unit": "C",
-      "yes_price": 0.0045,
-      "no_price": 0.9955,
-      "volume": 252.982,
-      "liquidity": 3434.33144,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1098.5650000000003,
+      "liquidity": null,
       "token_id": "99297259352710574156148548684397982561339792314824168377479243103749679254945",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0045,
-        0.9955
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-35c",
         "condition_id": "0x5f235624d5b76fdc28dc0a9fd0e9ae28b4c74c2ba253c3cee4884b2a2416577a"
@@ -267,21 +267,21 @@
       "bucket_low": 36.0,
       "bucket_high": 36.0,
       "unit": "C",
-      "yes_price": 0.003,
-      "no_price": 0.997,
-      "volume": 321.233,
-      "liquidity": 4439.97693,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5525.519499,
+      "liquidity": null,
       "token_id": "81229549162693652347414856210556059300078504351645380561649690490271363116188",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.003,
-        0.997
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-36c",
         "condition_id": "0xd0faa1fbcbfca190b7cf159a6d18bceeaa0daf239c9d77f94abd53ff0d2cd862"
@@ -293,21 +293,21 @@
       "bucket_low": 37.0,
       "bucket_high": 999.0,
       "unit": "C",
-      "yes_price": 0.0045,
-      "no_price": 0.9955,
-      "volume": 261.169524,
-      "liquidity": 4738.52524,
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2219.3673909999998,
+      "liquidity": null,
       "token_id": "98624075115780894276902342861602783030952190182190291801745630729596815556129",
       "outcomes": [
         "Yes",
         "No"
       ],
       "outcome_prices": [
-        0.0045,
-        0.9955
+        0.0,
+        1.0
       ],
       "active": true,
-      "closed": false,
+      "closed": true,
       "raw_source": {
         "market_slug": "highest-temperature-in-manila-on-june-6-2026-37corhigher",
         "condition_id": "0x791b2faf3aa1260f34a4aa62fc3449170b4db8c97b64426f7d49e3310e101ddc"
@@ -316,33 +316,83 @@
   ],
   "market_snapshots": [
     {
-      "ts": "2026-06-05T06:36:18.930550+00:00",
+      "ts": "2026-06-07T16:05:37.504306+00:00",
       "active": true,
-      "closed": false,
+      "closed": true,
       "end_date": "2026-06-06T12:00:00Z",
-      "liquidity": 22520.18265,
-      "volume": 1856.0575279999998,
+      "liquidity": null,
+      "volume": 52842.236167,
       "outcomes_count": 11,
-      "top_bucket": "31.0-31.0C",
-      "top_price": 0.365,
+      "top_bucket": "30.0-30.0C",
+      "top_price": 1.0,
       "event_title": "Highest temperature in Manila on June 6?"
     }
   ],
   "raw_source": {
     "event_slug": "highest-temperature-in-manila-on-june-6-2026",
     "event_id": "560873",
-    "markets_count": 11
+    "markets_count": 11,
+    "game_start_time": "2026-06-05 16:00:00+00"
   },
-  "status": "discovered",
-  "discovery_source": "combined",
-  "hours_at_discovery": 29.4,
+  "status": "closed",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
   "first_seen_at": "2026-06-05T06:08:46.420611+00:00",
-  "last_seen_at": "2026-06-05T06:36:18.930550+00:00",
-  "last_refreshed_at": "2026-06-05T06:36:18.930550+00:00",
+  "last_seen_at": "2026-06-07T16:05:37.504306+00:00",
+  "last_refreshed_at": "2026-06-07T16:05:37.504306+00:00",
   "created_at": "2026-06-05T06:08:46.420611+00:00",
-  "updated_at": "2026-06-05T06:36:18.930550+00:00",
+  "updated_at": "2026-06-08T11:21:02.929667+00:00",
   "forecast_snapshots": [],
   "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
-  "extensions": {},
-  "legacy": null
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "30C",
+      "resolved_value": "30C",
+      "resolution_source": null,
+      "winning_market_id": "2441276",
+      "winning_question": "Will the highest temperature in Manila be 30°C on June 6?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:05:37.505308+00:00",
+    "history_temps": {
+      "metric": "high",
+      "single": {
+        "temp": 29.5,
+        "unit": "C",
+        "model": "ecmwf_ifs",
+        "requested_model": "ecmwf_ifs",
+        "model_fallback": false,
+        "error": null
+      },
+      "ensemble": {
+        "temp": 29.5,
+        "unit": "C",
+        "model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless+archive",
+        "requested_model": "ecmwf_ifs025_ensemble+ncep_gefs_seamless",
+        "model_fallback": false,
+        "error": null,
+        "models_temps": [
+          {
+            "model": "ecmwf_ifs025_ensemble",
+            "temp": 29.5,
+            "error": null
+          },
+          {
+            "model": "ncep_gefs_seamless",
+            "temp": 29.5,
+            "error": null
+          }
+        ]
+      },
+      "fetched_at": "2026-06-07T16:18:49.178307+00:00",
+      "source": "open_meteo",
+      "params": {
+        "single_past_days": 92,
+        "ensemble_past_days": 3,
+        "forecast_days": 1
+      }
+    }
+  },
+  "legacy": null,
+  "settle_at": "2026-06-06T16:00:00+00:00",
+  "hours_to_settle": -24.1
 }

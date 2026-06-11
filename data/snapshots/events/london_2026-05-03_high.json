@@ -1,0 +1,360 @@
+{
+  "storage_key": "london_2026-05-03_high",
+  "event_id": "436604",
+  "event_slug": "highest-temperature-in-london-on-may-3-2026",
+  "event_title": "Highest temperature in London on May 3?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-05-03",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-05-03T12:00:00Z",
+  "event_end_date": "2026-05-03T12:00:00Z",
+  "liquidity": null,
+  "volume": 204129.456424,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2129800",
+      "question": "Will the highest temperature in London be 14°C or below on May 3?",
+      "bucket_low": -999.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 4443.736291,
+      "liquidity": null,
+      "token_id": "83640067630483709682552888345174616427464343064594979520937145912933406852359",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-14corbelow",
+        "condition_id": "0xa149add276c053fd24c3e4b2e373e996103022707e87f79d412b1f0fe0e4492b"
+      }
+    },
+    {
+      "market_id": "2129801",
+      "question": "Will the highest temperature in London be 15°C on May 3?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5067.085317000001,
+      "liquidity": null,
+      "token_id": "15584004066896021222169022096428845510215021199607598289989272915468250133972",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-15c",
+        "condition_id": "0x7fe38c23db979f7673c3a87fd12adcaaff0578135a388dfe560285b76abed433"
+      }
+    },
+    {
+      "market_id": "2129802",
+      "question": "Will the highest temperature in London be 16°C on May 3?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5101.409910000003,
+      "liquidity": null,
+      "token_id": "102230912156300193050361295856551168556341505684332867624878812890277169257655",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-16c",
+        "condition_id": "0xddd282985dad10debaa14ccd3bf71ed5fd4f1631338b1680a29e0c2949f2d29b"
+      }
+    },
+    {
+      "market_id": "2129803",
+      "question": "Will the highest temperature in London be 17°C on May 3?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 16328.234265000006,
+      "liquidity": null,
+      "token_id": "109082275148825785729365332337207493124864609562709532709507056509262479935146",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-17c",
+        "condition_id": "0xa298c8550e6a8411be05a274fb09b48547c1d96b49a663a1938004757cb4e84f"
+      }
+    },
+    {
+      "market_id": "2129804",
+      "question": "Will the highest temperature in London be 18°C on May 3?",
+      "bucket_low": 18.0,
+      "bucket_high": 18.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 24460.744205,
+      "liquidity": null,
+      "token_id": "78604544123992331734312725690662921776862929985583358454851645001147317024858",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-18c",
+        "condition_id": "0xa4629c68ab2fe85bfa295a4488ea58cdc5add3be06e59d4c0c5fcedc1ecbc1d8"
+      }
+    },
+    {
+      "market_id": "2129805",
+      "question": "Will the highest temperature in London be 19°C on May 3?",
+      "bucket_low": 19.0,
+      "bucket_high": 19.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 36314.610986,
+      "liquidity": null,
+      "token_id": "35177774162872877882072351912409335566162442139000493840800580766957262939871",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-19c",
+        "condition_id": "0xe37aef0027fc5d184a839e1f6dc59129e7b0aaf1ef040639f06cd4f337d3be89"
+      }
+    },
+    {
+      "market_id": "2129806",
+      "question": "Will the highest temperature in London be 20°C on May 3?",
+      "bucket_low": 20.0,
+      "bucket_high": 20.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 31919.547632999987,
+      "liquidity": null,
+      "token_id": "73465701653829868839958698247276325433968655085454549664039496504027877628843",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-20c",
+        "condition_id": "0x829496d500183b58db651a8754e434fb7f95ef15e5893917ce54c74ee817986a"
+      }
+    },
+    {
+      "market_id": "2129807",
+      "question": "Will the highest temperature in London be 21°C on May 3?",
+      "bucket_low": 21.0,
+      "bucket_high": 21.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 32274.067064000003,
+      "liquidity": null,
+      "token_id": "102744792603605276992162730442792066218854631892356032934593482130155854916355",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-21c",
+        "condition_id": "0xcbc35cc2975774d9d1638a660562dde8a49a860f70b9c0be40aab57d33601f42"
+      }
+    },
+    {
+      "market_id": "2129808",
+      "question": "Will the highest temperature in London be 22°C on May 3?",
+      "bucket_low": 22.0,
+      "bucket_high": 22.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 27814.54954399999,
+      "liquidity": null,
+      "token_id": "113581491192033345165917677652826971980678688953116649056790908983470782533085",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-22c",
+        "condition_id": "0x8710669a2df9576e3df7fa1bb9e46d524607fcc43b946e31d7ad7aabceee2d18"
+      }
+    },
+    {
+      "market_id": "2129809",
+      "question": "Will the highest temperature in London be 23°C on May 3?",
+      "bucket_low": 23.0,
+      "bucket_high": 23.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 14301.593495000003,
+      "liquidity": null,
+      "token_id": "75936325395494914136779083871228090197168883555752553490511526130587650827929",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-23c",
+        "condition_id": "0x05d871e5e86d16c6a6de2b7a4c5b31522d2d2e5f23d234e9f3303480a28d8707"
+      }
+    },
+    {
+      "market_id": "2129810",
+      "question": "Will the highest temperature in London be 24°C or higher on May 3?",
+      "bucket_low": 24.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 6103.877714000001,
+      "liquidity": null,
+      "token_id": "85228851705815846891450788733761407322440441654297721613009417757917794891173",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-may-3-2026-24corhigher",
+        "condition_id": "0x1e74abed38740a9cc927bffb288fb8ed8b33e30ace69afca89d34f0d7516c998"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.362255+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-05-03T12:00:00Z",
+      "liquidity": null,
+      "volume": 204129.456424,
+      "outcomes_count": 11,
+      "top_bucket": "20.0-20.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in London on May 3?"
+    }
+  ],
+  "settle_at": "2026-05-03T23:00:00+00:00",
+  "hours_to_settle": -833.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-london-on-may-3-2026",
+    "event_id": "436604",
+    "markets_count": 11,
+    "game_start_time": "2026-05-02 23:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.362255+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.362255+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.362255+00:00",
+  "created_at": "2026-06-07T16:06:02.362255+00:00",
+  "updated_at": "2026-06-10T17:17:29.501688+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "20C",
+      "resolved_value": "20C",
+      "resolution_source": null,
+      "winning_market_id": "2129806",
+      "winning_question": "Will the highest temperature in London be 20°C on May 3?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.364258+00:00"
+  },
+  "legacy": null
+}

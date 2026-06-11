@@ -1,0 +1,351 @@
+{
+  "storage_key": "seattle_2026-06-09_high",
+  "event_id": "571025",
+  "event_slug": "highest-temperature-in-seattle-on-june-9-2026",
+  "event_title": "Highest temperature in Seattle on June 9?",
+  "city_slug": "seattle",
+  "city_name": "Seattle",
+  "date": "2026-06-09",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Seattle",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (2)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": false,
+  "end_date": "2026-06-09T12:00:00Z",
+  "event_end_date": "2026-06-09T12:00:00Z",
+  "liquidity": 61862.82638,
+  "volume": 32013.739019000004,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2466858",
+      "question": "Will the highest temperature in Seattle be 51°F or below on June 9?",
+      "bucket_low": -999.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 519.9709330000001,
+      "liquidity": 18784.9157,
+      "token_id": "98539702807518243750377454937896347040699516934659307983703671444379771419150",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-51forbelow",
+        "condition_id": "0x50c1c68f7e313c768197fe63a723479954da8f5de1d3b8c9cce03c9c18db1b7b"
+      }
+    },
+    {
+      "market_id": "2466859",
+      "question": "Will the highest temperature in Seattle be between 52-53°F on June 9?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 2068.5425999999998,
+      "liquidity": 13480.33625,
+      "token_id": "93883476146361255701175684351038989234115632395544067361714016012278883377774",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-52-53f",
+        "condition_id": "0x50dc663836eb68ca8e2450ed070028cbd1337a4442ea38fea3bf1b3416b5123b"
+      }
+    },
+    {
+      "market_id": "2466860",
+      "question": "Will the highest temperature in Seattle be between 54-55°F on June 9?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 1707.943775,
+      "liquidity": 11757.04774,
+      "token_id": "556684336171664388582806410675992982186663707368529203737396901575545229201",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-54-55f",
+        "condition_id": "0x85ba398cd8419e0fba79188402df84f37e1eefe39082d9fd784334a811ebc7f5"
+      }
+    },
+    {
+      "market_id": "2466861",
+      "question": "Will the highest temperature in Seattle be between 56-57°F on June 9?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "volume": 10330.062022000004,
+      "liquidity": 9358.40557,
+      "token_id": "60512844785899288019162129942684620603174443199973733554247644115038785386330",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0005,
+        0.9995
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-56-57f",
+        "condition_id": "0x8efeff4e23ee179a3338dc56309d054b8dd4c1209e159f8d5a2bc879bce2615e"
+      }
+    },
+    {
+      "market_id": "2466862",
+      "question": "Will the highest temperature in Seattle be between 58-59°F on June 9?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.11,
+      "no_price": 0.89,
+      "volume": 1667.2995149999995,
+      "liquidity": 369.7819,
+      "token_id": "42869489501679424960118866477355442669947640040711387662796011818650458105287",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.11,
+        0.89
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-58-59f",
+        "condition_id": "0x363f41441ddd0b8e37f1eb0a4c74c8410f40bcb12d176363e95488aafef35586"
+      }
+    },
+    {
+      "market_id": "2466863",
+      "question": "Will the highest temperature in Seattle be between 60-61°F on June 9?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.465,
+      "no_price": 0.535,
+      "volume": 2910.4576650000004,
+      "liquidity": 358.6248,
+      "token_id": "62036593737863597881600248928480688083427929814016183981044892384852849868289",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.465,
+        0.535
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-60-61f",
+        "condition_id": "0x8498cc443a82def03b48111a8be2ad0e4953805905fe2144de6756c10a384adb"
+      }
+    },
+    {
+      "market_id": "2466864",
+      "question": "Will the highest temperature in Seattle be between 62-63°F on June 9?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.37,
+      "no_price": 0.63,
+      "volume": 2548.904566000001,
+      "liquidity": 333.9903,
+      "token_id": "86730385802315980185254855010430382951372906483101202361016127584012037325766",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.37,
+        0.63
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-62-63f",
+        "condition_id": "0xd877f3c4e444323aca25d4c3ea84544a9bc0a90036bb50a773e4e419770f696b"
+      }
+    },
+    {
+      "market_id": "2466865",
+      "question": "Will the highest temperature in Seattle be between 64-65°F on June 9?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.095,
+      "no_price": 0.905,
+      "volume": 2704.4366809999997,
+      "liquidity": 377.1568,
+      "token_id": "106034890305460518268421422867934379467969502591852758130890144674189219804932",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.095,
+        0.905
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-64-65f",
+        "condition_id": "0xfa1f5ed97a60e88617d4c92f72dffac2998f69defbfd2ffb05fbd94a1d20e8bf"
+      }
+    },
+    {
+      "market_id": "2466866",
+      "question": "Will the highest temperature in Seattle be between 66-67°F on June 9?",
+      "bucket_low": 66.0,
+      "bucket_high": 67.0,
+      "unit": "F",
+      "yes_price": 0.0075,
+      "no_price": 0.9925,
+      "volume": 1833.873142,
+      "liquidity": 781.9077,
+      "token_id": "14152283091577199115024065436384910883324478495719796483327865108049424874222",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0075,
+        0.9925
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-66-67f",
+        "condition_id": "0x79bc14e2ae8154cac3d3d6ae265d81492a6ae84b005e860c5abe8b22ddb308eb"
+      }
+    },
+    {
+      "market_id": "2466867",
+      "question": "Will the highest temperature in Seattle be between 68-69°F on June 9?",
+      "bucket_low": 68.0,
+      "bucket_high": 69.0,
+      "unit": "F",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "volume": 3499.048462,
+      "liquidity": 2807.14597,
+      "token_id": "45653819193851108767044384963154633486413953366657642650665265517731115683397",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0025,
+        0.9975
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-68-69f",
+        "condition_id": "0xf9f5e9b4d9be548984e8d3e6ae4f856b477b5c3cacdb0d278f17d20ab195c566"
+      }
+    },
+    {
+      "market_id": "2466868",
+      "question": "Will the highest temperature in Seattle be 70°F or higher on June 9?",
+      "bucket_low": 70.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "volume": 2260.1232999999997,
+      "liquidity": 2524.5646,
+      "token_id": "89945304739716562170289306578784638917490361957667978085500098338138330157245",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0015,
+        0.9985
+      ],
+      "active": true,
+      "closed": false,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-seattle-on-june-9-2026-70forhigher",
+        "condition_id": "0x8469e3bbb416c61344cd54db852807c48cc7b04c05a1382194d52e7a50f2690f"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-09T18:59:59.310105+00:00",
+      "active": true,
+      "closed": false,
+      "end_date": "2026-06-09T12:00:00Z",
+      "liquidity": 61862.82638,
+      "volume": 32013.739019000004,
+      "outcomes_count": 11,
+      "top_bucket": "60.0-61.0F",
+      "top_price": 0.465,
+      "event_title": "Highest temperature in Seattle on June 9?"
+    }
+  ],
+  "settle_at": "2026-06-10T07:00:00+00:00",
+  "hours_to_settle": 12.0,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-seattle-on-june-9-2026",
+    "event_id": "571025",
+    "markets_count": 11,
+    "game_start_time": "2026-06-09 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "combined",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-08T09:41:19.388131+00:00",
+  "last_seen_at": "2026-06-09T18:59:59.310105+00:00",
+  "last_refreshed_at": "2026-06-09T18:59:59.310105+00:00",
+  "created_at": "2026-06-08T09:41:19.388131+00:00",
+  "updated_at": "2026-06-10T17:17:30.638758+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {},
+  "legacy": null
+}

@@ -1,0 +1,360 @@
+{
+  "storage_key": "london_2026-03-27_high",
+  "event_id": "299398",
+  "event_slug": "highest-temperature-in-london-on-march-27-2026",
+  "event_title": "Highest temperature in London on March 27?",
+  "city_slug": "london",
+  "city_name": "London",
+  "date": "2026-03-27",
+  "unit": "C",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "London",
+    "Daily Temperature",
+    "Rewards Automation 100 4.5 50 (1)",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-03-27T12:00:00Z",
+  "event_end_date": "2026-03-27T12:00:00Z",
+  "liquidity": null,
+  "volume": 328187.37169700017,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "1690018",
+      "question": "Will the highest temperature in London be 8°C or below on March 27?",
+      "bucket_low": -999.0,
+      "bucket_high": 8.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 22545.258944999994,
+      "liquidity": null,
+      "token_id": "58693198621599346914826759749825789786832433460144030728093332620953114352942",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-8corbelow",
+        "condition_id": "0xdbb8c6a521b24eef9e9cdb296aa19e79d2f8ff9486f4088110b805789f15965e"
+      }
+    },
+    {
+      "market_id": "1690019",
+      "question": "Will the highest temperature in London be 9°C on March 27?",
+      "bucket_low": 9.0,
+      "bucket_high": 9.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 29563.148955000004,
+      "liquidity": null,
+      "token_id": "101466542137750667471608606127630946686968424972132881729988172248508285493580",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-9c",
+        "condition_id": "0x04cb774dcdfedac64a9abfeb8b6a26d0d4fb36fb41247f54e5a7969e3c73355b"
+      }
+    },
+    {
+      "market_id": "1690020",
+      "question": "Will the highest temperature in London be 10°C on March 27?",
+      "bucket_low": 10.0,
+      "bucket_high": 10.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 25456.485728000014,
+      "liquidity": null,
+      "token_id": "93502530279011174511029059972584544571324708125152617873416540254519432746350",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-10c",
+        "condition_id": "0xcb20b941a24bebaf307a2f416dedfaef6723ef963515b7f2d656f00f3f3d67b4"
+      }
+    },
+    {
+      "market_id": "1690021",
+      "question": "Will the highest temperature in London be 11°C on March 27?",
+      "bucket_low": 11.0,
+      "bucket_high": 11.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 43292.81132700002,
+      "liquidity": null,
+      "token_id": "16271868294079659763309574936930755832768609150856132599761233186105874489950",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-11c",
+        "condition_id": "0x9707d6a97d70bd423eacb8e9b07d8aac75558692fea8531837ad0f0de744f864"
+      }
+    },
+    {
+      "market_id": "1690022",
+      "question": "Will the highest temperature in London be 12°C on March 27?",
+      "bucket_low": 12.0,
+      "bucket_high": 12.0,
+      "unit": "C",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 60784.34632000007,
+      "liquidity": null,
+      "token_id": "65702009337816687601875340881504183338277834346789195472336341205649176147607",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-12c",
+        "condition_id": "0x2bf1383415cbac0b2859862a86adf161cd2afc1941556ba83b40825c8921d59d"
+      }
+    },
+    {
+      "market_id": "1690023",
+      "question": "Will the highest temperature in London be 13°C on March 27?",
+      "bucket_low": 13.0,
+      "bucket_high": 13.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 54845.11326700002,
+      "liquidity": null,
+      "token_id": "109217602045754054038112983574171923735144311077911511858952428565650121525086",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-13c",
+        "condition_id": "0x57ffd9022bb895deb91f1c2abb79fdd704272256a80326f31d9dfbacd0485354"
+      }
+    },
+    {
+      "market_id": "1690024",
+      "question": "Will the highest temperature in London be 14°C on March 27?",
+      "bucket_low": 14.0,
+      "bucket_high": 14.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 33470.24020300002,
+      "liquidity": null,
+      "token_id": "77036151414063533585641350956083064269230403947612463624044576762736079163980",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-14c",
+        "condition_id": "0x5f4debcea3be2d1f701d7e22829ec1079428230eefb58b70e672541e8fe2ecde"
+      }
+    },
+    {
+      "market_id": "1690025",
+      "question": "Will the highest temperature in London be 15°C on March 27?",
+      "bucket_low": 15.0,
+      "bucket_high": 15.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 25278.368548000028,
+      "liquidity": null,
+      "token_id": "97680622448976699801119968400214191059906986722065151693663780988508426502512",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-15c",
+        "condition_id": "0xcd482e376a57747ec4ecfa4bacbea67651e7a80cd35bc7c949ea21a4e08cf298"
+      }
+    },
+    {
+      "market_id": "1690026",
+      "question": "Will the highest temperature in London be 16°C on March 27?",
+      "bucket_low": 16.0,
+      "bucket_high": 16.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9109.544663000006,
+      "liquidity": null,
+      "token_id": "57526818646326301180530567073327620289849845783012281816354420578200141770706",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-16c",
+        "condition_id": "0x3dacdfc34dbf6f69c9a1ffa1f00cc9697402c9d3e4c830b7eac808cbbb973413"
+      }
+    },
+    {
+      "market_id": "1690028",
+      "question": "Will the highest temperature in London be 17°C on March 27?",
+      "bucket_low": 17.0,
+      "bucket_high": 17.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 10876.841317000004,
+      "liquidity": null,
+      "token_id": "88514868769660100427596561327299878803049909564986432641407739389744170269359",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-17c",
+        "condition_id": "0x4bef6630f22ff1fb87a0bf94fb00273ed2cd920d0442f950d330eeeb9448fba0"
+      }
+    },
+    {
+      "market_id": "1690029",
+      "question": "Will the highest temperature in London be 18°C or higher on March 27?",
+      "bucket_low": 18.0,
+      "bucket_high": 999.0,
+      "unit": "C",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 12965.212424000005,
+      "liquidity": null,
+      "token_id": "72696649789371676855077182994487481293910037331921178796611792404770819860555",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-london-on-march-27-2026-18corhigher",
+        "condition_id": "0x30d160e0f2f18761153234d46783a2f8b98f406fb6a5b09ffa1bf2c399f73bb7"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:08.940047+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-03-27T12:00:00Z",
+      "liquidity": null,
+      "volume": 328187.37169700017,
+      "outcomes_count": 11,
+      "top_bucket": "12.0-12.0C",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in London on March 27?"
+    }
+  ],
+  "settle_at": "2026-03-28T00:00:00+00:00",
+  "hours_to_settle": -1720.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-london-on-march-27-2026",
+    "event_id": "299398",
+    "markets_count": 11,
+    "game_start_time": "2026-03-27 00:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:08.940047+00:00",
+  "last_seen_at": "2026-06-07T16:06:08.940047+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:08.940047+00:00",
+  "created_at": "2026-06-07T16:06:08.940047+00:00",
+  "updated_at": "2026-06-10T17:17:29.470606+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": "12C",
+      "resolved_value": "12C",
+      "resolution_source": null,
+      "winning_market_id": "1690022",
+      "winning_question": "Will the highest temperature in London be 12°C on March 27?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:08.942052+00:00"
+  },
+  "legacy": null
+}

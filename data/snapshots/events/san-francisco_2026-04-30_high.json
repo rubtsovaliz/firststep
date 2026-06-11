@@ -1,0 +1,360 @@
+{
+  "storage_key": "san-francisco_2026-04-30_high",
+  "event_id": "426260",
+  "event_slug": "highest-temperature-in-san-francisco-on-april-30-2026",
+  "event_title": "Highest temperature in San Francisco on April 30?",
+  "city_slug": "san-francisco",
+  "city_name": "San Francisco",
+  "date": "2026-04-30",
+  "unit": "F",
+  "station": null,
+  "category": null,
+  "tags": [
+    "Weather",
+    "Recurring",
+    "Hide From New",
+    "Daily Temperature",
+    "San Fransisco",
+    "Rewards Automation 50 4.5 50",
+    "Highest temperature"
+  ],
+  "active": true,
+  "closed": true,
+  "end_date": "2026-04-30T12:00:00Z",
+  "event_end_date": "2026-04-30T12:00:00Z",
+  "liquidity": null,
+  "volume": 56297.725848,
+  "market_type": "max_temperature",
+  "temperature_metric": "high",
+  "all_outcomes": [
+    {
+      "market_id": "2102456",
+      "question": "Will the highest temperature in San Francisco be 47°F or below on April 30?",
+      "bucket_low": -999.0,
+      "bucket_high": 47.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 3360.952439,
+      "liquidity": null,
+      "token_id": "58597477104541256912562475669922289174421572191648331256712570368985262582863",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-47forbelow",
+        "condition_id": "0x4f29e70bf7810079760e015430c9c09d61cbce82287c069dff0d17a2970d82a7"
+      }
+    },
+    {
+      "market_id": "2102457",
+      "question": "Will the highest temperature in San Francisco be between 48-49°F on April 30?",
+      "bucket_low": 48.0,
+      "bucket_high": 49.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1471.105127,
+      "liquidity": null,
+      "token_id": "24404535942451063080220038765344813900454606315190871094390582790084096465579",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-48-49f",
+        "condition_id": "0x96a4fbba42b5c3f008efa0f811cc352408daa7fedc087c68de72fceb43baf05e"
+      }
+    },
+    {
+      "market_id": "2102458",
+      "question": "Will the highest temperature in San Francisco be between 50-51°F on April 30?",
+      "bucket_low": 50.0,
+      "bucket_high": 51.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2859.26011,
+      "liquidity": null,
+      "token_id": "49917780181616830573166178824566743168810551185580944563483013827896508757101",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-50-51f",
+        "condition_id": "0xc547d50e699bc5a243f1071ec2ebf9e12cead95085458ba01956fe85f6fdfa1d"
+      }
+    },
+    {
+      "market_id": "2102459",
+      "question": "Will the highest temperature in San Francisco be between 52-53°F on April 30?",
+      "bucket_low": 52.0,
+      "bucket_high": 53.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1941.5823000000003,
+      "liquidity": null,
+      "token_id": "71491961979959181661377800168025221344822324509260167082769873438525355080332",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-52-53f",
+        "condition_id": "0x00f48493a4adb9d846245229cfd840be93592559d849d53f2a019cd1f7e2e5ae"
+      }
+    },
+    {
+      "market_id": "2102460",
+      "question": "Will the highest temperature in San Francisco be between 54-55°F on April 30?",
+      "bucket_low": 54.0,
+      "bucket_high": 55.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1282.0407650000002,
+      "liquidity": null,
+      "token_id": "78080848666657456453428027066416520106166368773568935812523055383157163005498",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-54-55f",
+        "condition_id": "0xb5ce8271f685505aec087ac8396d5c15409d6f45593150bd91a64fb037ff9e7b"
+      }
+    },
+    {
+      "market_id": "2102461",
+      "question": "Will the highest temperature in San Francisco be between 56-57°F on April 30?",
+      "bucket_low": 56.0,
+      "bucket_high": 57.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 1568.8044020000002,
+      "liquidity": null,
+      "token_id": "56481802573443872599041039761029644077611089956601560502861250881599625734726",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-56-57f",
+        "condition_id": "0xf2d9d45ab9c53a60f49516a212f9be4232d6e55fc6d8c1668fae8e68b3006845"
+      }
+    },
+    {
+      "market_id": "2102462",
+      "question": "Will the highest temperature in San Francisco be between 58-59°F on April 30?",
+      "bucket_low": 58.0,
+      "bucket_high": 59.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 2174.672149,
+      "liquidity": null,
+      "token_id": "102810746539408454298177449454654676728028208776720935204847343289699205942159",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-58-59f",
+        "condition_id": "0xbf3b45d6581a9d7f6114aab2709e543ceaf343bfb9cfaaed8469eb6a083884f3"
+      }
+    },
+    {
+      "market_id": "2102463",
+      "question": "Will the highest temperature in San Francisco be between 60-61°F on April 30?",
+      "bucket_low": 60.0,
+      "bucket_high": 61.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 5595.365217999999,
+      "liquidity": null,
+      "token_id": "80904616203083937151373424529008262396465705819165497653700411139247118968849",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-60-61f",
+        "condition_id": "0xd47824a80985250d4c33a3c113905a1aafddb4b65f6ea0daf78dc3b3c53120d5"
+      }
+    },
+    {
+      "market_id": "2102464",
+      "question": "Will the highest temperature in San Francisco be between 62-63°F on April 30?",
+      "bucket_low": 62.0,
+      "bucket_high": 63.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 9942.836400999997,
+      "liquidity": null,
+      "token_id": "42010173639395372164762176677744666945205398008146384075749435763837231782706",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-62-63f",
+        "condition_id": "0x18c2af79040ca4b386d061a2e5edf1801265217469ee134a99b932d252e96f6c"
+      }
+    },
+    {
+      "market_id": "2102465",
+      "question": "Will the highest temperature in San Francisco be between 64-65°F on April 30?",
+      "bucket_low": 64.0,
+      "bucket_high": 65.0,
+      "unit": "F",
+      "yes_price": 0.0,
+      "no_price": 1.0,
+      "volume": 8575.313113999999,
+      "liquidity": null,
+      "token_id": "101744147711914404890439317889677478410807832263049130348862326394501220475844",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        0.0,
+        1.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-64-65f",
+        "condition_id": "0xd968596a544a4bab79b431ae0aa8ed7fdc916cea5f73f21011947a378a5cb569"
+      }
+    },
+    {
+      "market_id": "2102466",
+      "question": "Will the highest temperature in San Francisco be 66°F or higher on April 30?",
+      "bucket_low": 66.0,
+      "bucket_high": 999.0,
+      "unit": "F",
+      "yes_price": 1.0,
+      "no_price": 0.0,
+      "volume": 17525.793823000004,
+      "liquidity": null,
+      "token_id": "43652249148640575892992054024607477822372941598949263779360478573424830131790",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "outcome_prices": [
+        1.0,
+        0.0
+      ],
+      "active": true,
+      "closed": true,
+      "raw_source": {
+        "market_slug": "highest-temperature-in-san-francisco-on-april-30-2026-66forhigher",
+        "condition_id": "0x992c69173f73834cba0fbc29f857135ce9254d407ca20d4bd1f54fe9c4bd9c1a"
+      }
+    }
+  ],
+  "market_snapshots": [
+    {
+      "ts": "2026-06-07T16:06:02.836558+00:00",
+      "active": true,
+      "closed": true,
+      "end_date": "2026-04-30T12:00:00Z",
+      "liquidity": null,
+      "volume": 56297.725848,
+      "outcomes_count": 11,
+      "top_bucket": ">=66.0F",
+      "top_price": 1.0,
+      "event_title": "Highest temperature in San Francisco on April 30?"
+    }
+  ],
+  "settle_at": "2026-05-01T07:00:00+00:00",
+  "hours_to_settle": -897.1,
+  "raw_source": {
+    "event_slug": "highest-temperature-in-san-francisco-on-april-30-2026",
+    "event_id": "426260",
+    "markets_count": 11,
+    "game_start_time": "2026-04-30 07:00:00+00"
+  },
+  "status": "inactive",
+  "discovery_source": "gamma_history_sync",
+  "hours_at_discovery": 0.0,
+  "first_seen_at": "2026-06-07T16:06:02.836558+00:00",
+  "last_seen_at": "2026-06-07T16:06:02.836558+00:00",
+  "last_refreshed_at": "2026-06-07T16:06:02.836558+00:00",
+  "created_at": "2026-06-07T16:06:02.836558+00:00",
+  "updated_at": "2026-06-10T17:17:30.460194+00:00",
+  "forecast_snapshots": [],
+  "raw_payload_ref": "data\\raw\\gamma_events_raw.json",
+  "extensions": {
+    "winning_bucket": {
+      "winning_bucket": ">=66F",
+      "resolved_value": ">=66F",
+      "resolution_source": null,
+      "winning_market_id": "2102466",
+      "winning_question": "Will the highest temperature in San Francisco be 66°F or higher on April 30?"
+    },
+    "gamma_enriched_at": "2026-06-07T16:06:02.837581+00:00"
+  },
+  "legacy": null
+}
